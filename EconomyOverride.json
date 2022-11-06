@@ -1,0 +1,1484 @@
+{
+  "economy-override": {
+    "enable-economy": "1",
+    "economy-reset-time-hours": "-1.0",
+    "prices-randomization-time-hours": "-1.0",
+    "fully-restock-tradeable-hours": "2.0",
+    "trader-funds-change-rate-per-hour-multiplier": "100",
+    "traders-unlimited-funds": "1",
+    "traders-unlimited-stock": "0",
+    "economy-logging": "0",
+    "prices-subject-to-player-count": "0",
+    "limited-tradeables": [],
+    "traders": {
+      "A_0_Armory": [
+        {
+          "tradeable-code": "BP_C4_CircuitBoard",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BP_C4_Detonator",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BP_C4_Keypad",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BP_C4_Pack",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BP_C4",
+          "base-purchase-price": "5000000",
+          "base-sell-price": "100000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Claymore",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "FireworksTrap",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "FlareTrap",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Mine_01",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Mine_02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "PromTrap",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "SilentAlarm",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "2H_Katana",
+          "base-purchase-price": "20000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "2H_Katana1",
+          "base-purchase-price": "45000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Cal_40x46",
+          "base-purchase-price": "15000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BP_Frag_Grenade",
+          "base-purchase-price": "15000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_AP_Ammobox",
+          "base-purchase-price": "50000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_AP",
+          "base-purchase-price": "4000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_Ammobox",
+          "base-purchase-price": "48500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_50BMG",
+          "base-purchase-price": "3880",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_Ammobox_TR",
+          "base-purchase-price": "47500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_TR",
+          "base-purchase-price": "3800",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP_Ammobox",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP",
+          "base-purchase-price": "80",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_Ammobox",
+          "base-purchase-price": "2800",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm",
+          "base-purchase-price": "74",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_Ammobox_TR",
+          "base-purchase-price": "2700",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_TR",
+          "base-purchase-price": "72",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP_Ammobox",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP",
+          "base-purchase-price": "80",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_Ammobox",
+          "base-purchase-price": "2800",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm",
+          "base-purchase-price": "74",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_Ammobox_TR",
+          "base-purchase-price": "2700",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_TR",
+          "base-purchase-price": "72",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        }
+      ],
+      "A_0_BoatShop": [],
+      "A_0_Mechanic": [
+        {
+          "tradeable-code": "Car_Repair_Kit",
+          "base-purchase-price": "3500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_HellRiders",
+          "base-purchase-price": "90000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_A",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_B",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_C",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_D",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_E",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_F",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_G",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_D",
+          "base-purchase-price": "45000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_A",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_B",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_C",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_E",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        }
+      ],
+      "A_0_Trader": [
+        {
+          "tradeable-code": "Screwdriver",
+          "base-purchase-price": "15000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Lockpick_Advanced_Item",
+          "base-purchase-price": "6000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Candle_01",
+          "base-purchase-price": "200",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        } 
+      ],
+      "A_0_Saloon": [],
+      "A_0_Hospital": [],
+      "A_0_Barber": [],
+      "B_4_Armory": [
+        {
+          "tradeable-code": "BP_C4_CircuitBoard",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BP_C4_Detonator",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BP_C4_Keypad",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BP_C4_Pack",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BP_C4",
+          "base-purchase-price": "5000000",
+          "base-sell-price": "100000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Claymore",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "FireworksTrap",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "FlareTrap",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Mine_01",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Mine_02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "PromTrap",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "SilentAlarm",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "2H_Katana",
+          "base-purchase-price": "20000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "2H_Katana1",
+          "base-purchase-price": "45000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Cal_40x46",
+          "base-purchase-price": "15000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BP_Frag_Grenade",
+          "base-purchase-price": "15000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_AP_Ammobox",
+          "base-purchase-price": "50000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_AP",
+          "base-purchase-price": "4000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_Ammobox",
+          "base-purchase-price": "48500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_50BMG",
+          "base-purchase-price": "3880",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_Ammobox_TR",
+          "base-purchase-price": "47500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_TR",
+          "base-purchase-price": "3800",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP_Ammobox",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP",
+          "base-purchase-price": "80",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_Ammobox",
+          "base-purchase-price": "2800",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm",
+          "base-purchase-price": "74",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_Ammobox_TR",
+          "base-purchase-price": "2700",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_TR",
+          "base-purchase-price": "72",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP_Ammobox",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP",
+          "base-purchase-price": "80",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_Ammobox",
+          "base-purchase-price": "2800",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm",
+          "base-purchase-price": "74",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_Ammobox_TR",
+          "base-purchase-price": "2700",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_TR",
+          "base-purchase-price": "72",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        }
+      ],
+      "B_4_BoatShop": [],
+      "B_4_Mechanic": [
+        {
+          "tradeable-code": "Car_Repair_Kit",
+          "base-purchase-price": "3500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_HellRiders",
+          "base-purchase-price": "90000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_A",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_B",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_C",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_D",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_E",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_F",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_G",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_D",
+          "base-purchase-price": "45000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_A",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_B",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_C",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_E",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        }
+      ],
+      "B_4_Trader": [
+        {
+          "tradeable-code": "Screwdriver",
+          "base-purchase-price": "15000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Lockpick_Advanced_Item",
+          "base-purchase-price": "6000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Candle_01",
+          "base-purchase-price": "200",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        } 
+      ],
+      "B_4_Saloon": [],
+      "B_4_Hospital": [],
+      "B_4_Barber": [],
+      "C_2_Armory": [
+        {
+          "tradeable-code": "BP_C4_CircuitBoard",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BP_C4_Detonator",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BP_C4_Keypad",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BP_C4_Pack",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BP_C4",
+          "base-purchase-price": "5000000",
+          "base-sell-price": "100000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Claymore",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "FireworksTrap",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "FlareTrap",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Mine_01",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Mine_02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "PromTrap",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "SilentAlarm",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "2H_Katana",
+          "base-purchase-price": "20000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "2H_Katana1",
+          "base-purchase-price": "45000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Cal_40x46",
+          "base-purchase-price": "15000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BP_Frag_Grenade",
+          "base-purchase-price": "15000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_AP_Ammobox",
+          "base-purchase-price": "50000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_AP",
+          "base-purchase-price": "4000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_Ammobox",
+          "base-purchase-price": "48500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_50BMG",
+          "base-purchase-price": "3880",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_Ammobox_TR",
+          "base-purchase-price": "47500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_TR",
+          "base-purchase-price": "3800",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP_Ammobox",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP",
+          "base-purchase-price": "80",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_Ammobox",
+          "base-purchase-price": "2800",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm",
+          "base-purchase-price": "74",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_Ammobox_TR",
+          "base-purchase-price": "2700",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_TR",
+          "base-purchase-price": "72",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP_Ammobox",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP",
+          "base-purchase-price": "80",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_Ammobox",
+          "base-purchase-price": "2800",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm",
+          "base-purchase-price": "74",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_Ammobox_TR",
+          "base-purchase-price": "2700",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_TR",
+          "base-purchase-price": "72",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        }
+      ],
+      "C_2_BoatShop": [],
+      "C_2_Mechanic": [
+        {
+          "tradeable-code": "Car_Repair_Kit",
+          "base-purchase-price": "3500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_HellRiders",
+          "base-purchase-price": "90000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_A",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_B",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_C",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_D",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_E",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_F",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_G",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_D",
+          "base-purchase-price": "45000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_A",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_B",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_C",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_E",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        }
+      ],
+      "C_2_Trader": [
+        {
+          "tradeable-code": "Screwdriver",
+          "base-purchase-price": "15000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Lockpick_Advanced_Item",
+          "base-purchase-price": "6000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Candle_01",
+          "base-purchase-price": "200",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        } 
+      ],
+      "C_2_Saloon": [],
+      "C_2_Hospital": [],
+      "C_2_Barber": [],
+      "Z_3_Armory": [
+        {
+          "tradeable-code": "BP_C4_CircuitBoard",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BP_C4_Detonator",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BP_C4_Keypad",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BP_C4_Pack",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BP_C4",
+          "base-purchase-price": "5000000",
+          "base-sell-price": "100000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Claymore",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "FireworksTrap",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "FlareTrap",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Mine_01",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Mine_02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "PromTrap",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "SilentAlarm",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "2H_Katana",
+          "base-purchase-price": "20000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "2H_Katana1",
+          "base-purchase-price": "45000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Cal_40x46",
+          "base-purchase-price": "15000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BP_Frag_Grenade",
+          "base-purchase-price": "15000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_AP_Ammobox",
+          "base-purchase-price": "50000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_AP",
+          "base-purchase-price": "4000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_Ammobox",
+          "base-purchase-price": "48500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_50BMG",
+          "base-purchase-price": "3880",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_Ammobox_TR",
+          "base-purchase-price": "47500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_TR",
+          "base-purchase-price": "3800",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP_Ammobox",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP",
+          "base-purchase-price": "80",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_Ammobox",
+          "base-purchase-price": "2800",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm",
+          "base-purchase-price": "74",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_Ammobox_TR",
+          "base-purchase-price": "2700",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_TR",
+          "base-purchase-price": "72",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP_Ammobox",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP",
+          "base-purchase-price": "80",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_Ammobox",
+          "base-purchase-price": "2800",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm",
+          "base-purchase-price": "74",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_Ammobox_TR",
+          "base-purchase-price": "2700",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_TR",
+          "base-purchase-price": "72",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        }
+      ],
+      "Z_3_BoatShop": [],
+      "Z_3_Mechanic": [
+        {
+          "tradeable-code": "Car_Repair_Kit",
+          "base-purchase-price": "3500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_HellRiders",
+          "base-purchase-price": "90000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_A",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_B",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_C",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_D",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_E",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_F",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Pickup_01_G",
+          "base-purchase-price": "80000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_D",
+          "base-purchase-price": "45000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_A",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_B",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_C",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_SUV_01_E",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        }
+      ],
+      "Z_3_Trader": [
+        {
+          "tradeable-code": "Screwdriver",
+          "base-purchase-price": "15000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Lockpick_Advanced_Item",
+          "base-purchase-price": "6000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Candle_01",
+          "base-purchase-price": "200",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        } 
+      ],
+      "Z_3_Saloon": [],
+      "Z_3_Hospital": [],
+      "Z_3_Barber": []
+    }
+  }
+}
