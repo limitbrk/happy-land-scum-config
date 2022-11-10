@@ -665,8 +665,8 @@
         },
         {
           "tradeable-code": "Puppet_Eye",
-          "base-purchase-price": "100000",
-          "base-sell-price": "2000",
+          "base-purchase-price": "150000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "can-be-purchased": "default"
         }
@@ -1326,8 +1326,8 @@
         },
         {
           "tradeable-code": "Puppet_Eye",
-          "base-purchase-price": "100000",
-          "base-sell-price": "2000",
+          "base-purchase-price": "150000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "can-be-purchased": "default"
         }
@@ -1987,8 +1987,8 @@
         },
         {
           "tradeable-code": "Puppet_Eye",
-          "base-purchase-price": "100000",
-          "base-sell-price": "2000",
+          "base-purchase-price": "150000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "can-be-purchased": "default"
         }
@@ -2648,8 +2648,8 @@
         },
         {
           "tradeable-code": "Puppet_Eye",
-          "base-purchase-price": "100000",
-          "base-sell-price": "2000",
+          "base-purchase-price": "150000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "can-be-purchased": "default"
         }
