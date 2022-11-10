@@ -620,6 +620,55 @@
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_01",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_02",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_03",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_04",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_05",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_06",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Puppet_Eye",
+          "base-purchase-price": "100000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "A_0_Saloon": [],
@@ -1232,6 +1281,55 @@
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_01",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_02",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_03",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_04",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_05",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_06",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Puppet_Eye",
+          "base-purchase-price": "100000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "B_4_Saloon": [],
@@ -1844,6 +1942,55 @@
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_01",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_02",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_03",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_04",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_05",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_06",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Puppet_Eye",
+          "base-purchase-price": "100000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "C_2_Saloon": [],
@@ -2456,6 +2603,55 @@
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_01",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_02",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_03",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_04",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_05",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Ball_06",
+          "base-purchase-price": "250",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Puppet_Eye",
+          "base-purchase-price": "100000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "Z_3_Saloon": [],
