@@ -9,9 +9,18 @@
     "traders-unlimited-stock": "0",
     "economy-logging": "0",
     "prices-subject-to-player-count": "0",
-    "limited-tradeables": [],
+    "limited-tradeables": {
+      "limited-vehicles": []
+    },
     "traders": {
       "A_0_Armory": [
+        {
+          "tradeable-code": "BP_C4",
+          "base-purchase-price": "5000000",
+          "base-sell-price": "100000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
         {
           "tradeable-code": "BP_C4_CircuitBoard",
           "base-purchase-price": "1000000",
@@ -41,58 +50,51 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "BP_C4",
-          "base-purchase-price": "5000000",
-          "base-sell-price": "100000",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
           "tradeable-code": "Claymore",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "FireworksTrap",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "FlareTrap",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "Mine_01",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "Mine_02",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "PromTrap",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "SilentAlarm",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
@@ -115,140 +117,224 @@
           "base-purchase-price": "15000",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "BP_Frag_Grenade",
-          "base-purchase-price": "15000",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "true"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_50BMG_AP_Ammobox",
           "base-purchase-price": "50000",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_50BMG_AP",
-          "base-purchase-price": "4000",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_50BMG_Ammobox",
           "base-purchase-price": "48500",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_50BMG",
-          "base-purchase-price": "3880",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_50BMG_Ammobox_TR",
           "base-purchase-price": "47500",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_AP",
+          "base-purchase-price": "4000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_50BMG",
+          "base-purchase-price": "3880",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_50BMG_TR",
           "base-purchase-price": "3800",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_7_62x39mm_AP_Ammobox",
           "base-purchase-price": "3000",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_7_62x39mm_AP",
-          "base-purchase-price": "80",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_7_62x39mm_Ammobox",
           "base-purchase-price": "2800",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_7_62x39mm",
-          "base-purchase-price": "74",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_7_62x39mm_Ammobox_TR",
           "base-purchase-price": "2700",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP",
+          "base-purchase-price": "80",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm",
+          "base-purchase-price": "74",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_7_62x39mm_TR",
           "base-purchase-price": "72",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_5_56x45mm_AP_Ammobox",
           "base-purchase-price": "3000",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_5_56x45mm_AP",
-          "base-purchase-price": "80",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_5_56x45mm_Ammobox",
           "base-purchase-price": "2800",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_5_56x45mm",
-          "base-purchase-price": "74",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_5_56x45mm_Ammobox_TR",
           "base-purchase-price": "2700",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP",
+          "base-purchase-price": "80",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm",
+          "base-purchase-price": "74",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_5_56x45mm_TR",
           "base-purchase-price": "72",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_03",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_04",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_05",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_06",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_07",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_03",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_04",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_05",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_06",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_07",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_08",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Military_Backpack_01_01",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Police_Backpack_01",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "A_0_BoatShop": [],
@@ -368,17 +454,185 @@
           "can-be-purchased": "true"
         },
         {
+          "tradeable-code": "Lockpick_Item",
+          "base-purchase-price": "4000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
           "tradeable-code": "Candle_01",
           "base-purchase-price": "200",
           "base-sell-price": "-1",
           "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Backpack_02_01",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Backpack_02_02",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Backpack_02_03",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Backpack_02_04",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Backpack_02_05",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_02",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_03",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_04",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_05",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_06",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_07",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_08",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_TC_Backpack",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Police_Backpack_03",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Hiking_Backpack_01_02",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Hiking_Backpack_01_03",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Hiking_Backpack_01_04",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Hiking_Backpack_01_05",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_02",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Hiking_Backpack_01_01",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Military_Backpack_02_01",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Police_Backpack_02",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
           "can-be-purchased": "true"
-        } 
+        }
       ],
       "A_0_Saloon": [],
       "A_0_Hospital": [],
       "A_0_Barber": [],
       "B_4_Armory": [
+        {
+          "tradeable-code": "BP_C4",
+          "base-purchase-price": "5000000",
+          "base-sell-price": "100000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
         {
           "tradeable-code": "BP_C4_CircuitBoard",
           "base-purchase-price": "1000000",
@@ -408,58 +662,51 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "BP_C4",
-          "base-purchase-price": "5000000",
-          "base-sell-price": "100000",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
           "tradeable-code": "Claymore",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "FireworksTrap",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "FlareTrap",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "Mine_01",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "Mine_02",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "PromTrap",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "SilentAlarm",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
@@ -482,140 +729,224 @@
           "base-purchase-price": "15000",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "BP_Frag_Grenade",
-          "base-purchase-price": "15000",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "true"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_50BMG_AP_Ammobox",
           "base-purchase-price": "50000",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_50BMG_AP",
-          "base-purchase-price": "4000",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_50BMG_Ammobox",
           "base-purchase-price": "48500",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_50BMG",
-          "base-purchase-price": "3880",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_50BMG_Ammobox_TR",
           "base-purchase-price": "47500",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_AP",
+          "base-purchase-price": "4000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_50BMG",
+          "base-purchase-price": "3880",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_50BMG_TR",
           "base-purchase-price": "3800",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_7_62x39mm_AP_Ammobox",
           "base-purchase-price": "3000",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_7_62x39mm_AP",
-          "base-purchase-price": "80",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_7_62x39mm_Ammobox",
           "base-purchase-price": "2800",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_7_62x39mm",
-          "base-purchase-price": "74",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_7_62x39mm_Ammobox_TR",
           "base-purchase-price": "2700",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP",
+          "base-purchase-price": "80",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm",
+          "base-purchase-price": "74",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_7_62x39mm_TR",
           "base-purchase-price": "72",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_5_56x45mm_AP_Ammobox",
           "base-purchase-price": "3000",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_5_56x45mm_AP",
-          "base-purchase-price": "80",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_5_56x45mm_Ammobox",
           "base-purchase-price": "2800",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_5_56x45mm",
-          "base-purchase-price": "74",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_5_56x45mm_Ammobox_TR",
           "base-purchase-price": "2700",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP",
+          "base-purchase-price": "80",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm",
+          "base-purchase-price": "74",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_5_56x45mm_TR",
           "base-purchase-price": "72",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_03",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_04",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_05",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_06",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_07",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_03",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_04",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_05",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_06",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_07",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_08",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Military_Backpack_01_01",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Police_Backpack_01",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "B_4_BoatShop": [],
@@ -735,17 +1066,185 @@
           "can-be-purchased": "true"
         },
         {
+          "tradeable-code": "Lockpick_Item",
+          "base-purchase-price": "4000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
           "tradeable-code": "Candle_01",
           "base-purchase-price": "200",
           "base-sell-price": "-1",
           "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Backpack_02_01",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Backpack_02_02",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Backpack_02_03",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Backpack_02_04",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Backpack_02_05",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_02",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_03",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_04",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_05",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_06",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_07",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_08",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_TC_Backpack",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Police_Backpack_03",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Hiking_Backpack_01_02",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Hiking_Backpack_01_03",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Hiking_Backpack_01_04",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Hiking_Backpack_01_05",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_02",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Hiking_Backpack_01_01",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Military_Backpack_02_01",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Police_Backpack_02",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
           "can-be-purchased": "true"
-        } 
+        }
       ],
       "B_4_Saloon": [],
       "B_4_Hospital": [],
       "B_4_Barber": [],
       "C_2_Armory": [
+        {
+          "tradeable-code": "BP_C4",
+          "base-purchase-price": "5000000",
+          "base-sell-price": "100000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
         {
           "tradeable-code": "BP_C4_CircuitBoard",
           "base-purchase-price": "1000000",
@@ -775,58 +1274,51 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "BP_C4",
-          "base-purchase-price": "5000000",
-          "base-sell-price": "100000",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
           "tradeable-code": "Claymore",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "FireworksTrap",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "FlareTrap",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "Mine_01",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "Mine_02",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "PromTrap",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "SilentAlarm",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
@@ -849,140 +1341,224 @@
           "base-purchase-price": "15000",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "BP_Frag_Grenade",
-          "base-purchase-price": "15000",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "true"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_50BMG_AP_Ammobox",
           "base-purchase-price": "50000",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_50BMG_AP",
-          "base-purchase-price": "4000",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_50BMG_Ammobox",
           "base-purchase-price": "48500",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_50BMG",
-          "base-purchase-price": "3880",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_50BMG_Ammobox_TR",
           "base-purchase-price": "47500",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_AP",
+          "base-purchase-price": "4000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_50BMG",
+          "base-purchase-price": "3880",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_50BMG_TR",
           "base-purchase-price": "3800",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_7_62x39mm_AP_Ammobox",
           "base-purchase-price": "3000",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_7_62x39mm_AP",
-          "base-purchase-price": "80",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_7_62x39mm_Ammobox",
           "base-purchase-price": "2800",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_7_62x39mm",
-          "base-purchase-price": "74",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_7_62x39mm_Ammobox_TR",
           "base-purchase-price": "2700",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP",
+          "base-purchase-price": "80",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm",
+          "base-purchase-price": "74",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_7_62x39mm_TR",
           "base-purchase-price": "72",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_5_56x45mm_AP_Ammobox",
           "base-purchase-price": "3000",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_5_56x45mm_AP",
-          "base-purchase-price": "80",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_5_56x45mm_Ammobox",
           "base-purchase-price": "2800",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_5_56x45mm",
-          "base-purchase-price": "74",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_5_56x45mm_Ammobox_TR",
           "base-purchase-price": "2700",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP",
+          "base-purchase-price": "80",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm",
+          "base-purchase-price": "74",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_5_56x45mm_TR",
           "base-purchase-price": "72",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_03",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_04",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_05",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_06",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_07",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_03",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_04",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_05",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_06",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_07",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_08",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Military_Backpack_01_01",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Police_Backpack_01",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "C_2_BoatShop": [],
@@ -1102,17 +1678,185 @@
           "can-be-purchased": "true"
         },
         {
+          "tradeable-code": "Lockpick_Item",
+          "base-purchase-price": "4000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
           "tradeable-code": "Candle_01",
           "base-purchase-price": "200",
           "base-sell-price": "-1",
           "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Backpack_02_01",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Backpack_02_02",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Backpack_02_03",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Backpack_02_04",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Backpack_02_05",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_02",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_03",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_04",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_05",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_06",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_07",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_08",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_TC_Backpack",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Police_Backpack_03",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Hiking_Backpack_01_02",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Hiking_Backpack_01_03",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Hiking_Backpack_01_04",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Hiking_Backpack_01_05",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_02",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Hiking_Backpack_01_01",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Military_Backpack_02_01",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Police_Backpack_02",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
           "can-be-purchased": "true"
-        } 
+        }
       ],
       "C_2_Saloon": [],
       "C_2_Hospital": [],
       "C_2_Barber": [],
       "Z_3_Armory": [
+        {
+          "tradeable-code": "BP_C4",
+          "base-purchase-price": "5000000",
+          "base-sell-price": "100000",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
         {
           "tradeable-code": "BP_C4_CircuitBoard",
           "base-purchase-price": "1000000",
@@ -1142,58 +1886,51 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "BP_C4",
-          "base-purchase-price": "5000000",
-          "base-sell-price": "100000",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
           "tradeable-code": "Claymore",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "FireworksTrap",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "FlareTrap",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "Mine_01",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "Mine_02",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "PromTrap",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "SilentAlarm",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "1000000",
+          "base-sell-price": "0",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
@@ -1216,140 +1953,224 @@
           "base-purchase-price": "15000",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "BP_Frag_Grenade",
-          "base-purchase-price": "15000",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "true"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_50BMG_AP_Ammobox",
           "base-purchase-price": "50000",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_50BMG_AP",
-          "base-purchase-price": "4000",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_50BMG_Ammobox",
           "base-purchase-price": "48500",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_50BMG",
-          "base-purchase-price": "3880",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_50BMG_Ammobox_TR",
           "base-purchase-price": "47500",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_AP",
+          "base-purchase-price": "4000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_50BMG",
+          "base-purchase-price": "3880",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_50BMG_TR",
           "base-purchase-price": "3800",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_7_62x39mm_AP_Ammobox",
           "base-purchase-price": "3000",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_7_62x39mm_AP",
-          "base-purchase-price": "80",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_7_62x39mm_Ammobox",
           "base-purchase-price": "2800",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_7_62x39mm",
-          "base-purchase-price": "74",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_7_62x39mm_Ammobox_TR",
           "base-purchase-price": "2700",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP",
+          "base-purchase-price": "80",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm",
+          "base-purchase-price": "74",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_7_62x39mm_TR",
           "base-purchase-price": "72",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_5_56x45mm_AP_Ammobox",
           "base-purchase-price": "3000",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_5_56x45mm_AP",
-          "base-purchase-price": "80",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_5_56x45mm_Ammobox",
           "base-purchase-price": "2800",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
-        },
-        {
-          "tradeable-code": "Cal_5_56x45mm",
-          "base-purchase-price": "74",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_5_56x45mm_Ammobox_TR",
           "base-purchase-price": "2700",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "true"
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP",
+          "base-purchase-price": "80",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm",
+          "base-purchase-price": "74",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cal_5_56x45mm_TR",
           "base-purchase-price": "72",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_03",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_04",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_05",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_06",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_07",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_03",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_04",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_05",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_06",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_07",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_01_08",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Military_Backpack_01_01",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Police_Backpack_01",
+          "base-purchase-price": "2500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "Z_3_BoatShop": [],
@@ -1469,12 +2290,173 @@
           "can-be-purchased": "true"
         },
         {
+          "tradeable-code": "Lockpick_Item",
+          "base-purchase-price": "4000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
+        },
+        {
           "tradeable-code": "Candle_01",
           "base-purchase-price": "200",
           "base-sell-price": "-1",
           "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Backpack_02_01",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Backpack_02_02",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Backpack_02_03",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Backpack_02_04",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Backpack_02_05",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_02",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_03",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_04",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_05",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_06",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_07",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_03_08",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_TC_Backpack",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Police_Backpack_03",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Hiking_Backpack_01_02",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Hiking_Backpack_01_03",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Hiking_Backpack_01_04",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Hiking_Backpack_01_05",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Military_Backpack_02_02",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Hiking_Backpack_01_01",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Military_Backpack_02_01",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Police_Backpack_02",
+          "base-purchase-price": "5000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
           "can-be-purchased": "true"
-        } 
+        }
       ],
       "Z_3_Saloon": [],
       "Z_3_Hospital": [],
