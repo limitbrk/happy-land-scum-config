@@ -4,11 +4,11 @@
     "economy-reset-time-hours": "-1.0",
     "prices-randomization-time-hours": "-1.0",
     "fully-restock-tradeable-hours": "2.0",
-    "trader-funds-change-rate-per-hour-multiplier": "100",
+    "trader-funds-change-rate-per-hour-multiplier": "2.0",
     "traders-unlimited-funds": "1",
     "traders-unlimited-stock": "0",
-    "economy-logging": "0",
-    "prices-subject-to-player-count": "0",
+    "economy-logging": "1",
+    "prices-subject-to-player-count": "1",
     "limited-tradeables": {
       "limited-vehicles": []
     },
