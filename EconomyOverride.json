@@ -2,7 +2,7 @@
   "economy-override": {
     "economy-reset-time-hours": "-1.0",
     "prices-randomization-time-hours": "-1.0",
-    "fully-restock-tradeable-hours": "0.01",
+    "fully-restock-tradeable-hours": "0.1",
     "trader-funds-change-rate-per-hour-multiplier": "2.0",
     "traders-unlimited-funds": "0",
     "traders-unlimited-stock": "1",
@@ -823,7 +823,7 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Cal_9mm",
+          "tradeable-code": "Cal_9mm_AP_Ammobox",
           "base-purchase-price": "1500",
           "base-sell-price": "150",
           "delta-price": "1",
@@ -851,7 +851,7 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Cal_9mm_AP_Ammobox",
+          "tradeable-code": "Cal_9mm",
           "base-purchase-price": "33.333333333333336",
           "base-sell-price": "3.333333333333334",
           "delta-price": "1",
@@ -996,217 +996,217 @@
         {
           "tradeable-code": "BPC_WolfsWagen",
           "base-purchase-price": "120000",
-          "base-sell-price": "11520",
+          "base-sell-price": "24000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Wheel_155_R65_Item",
           "base-purchase-price": "10000",
-          "base-sell-price": "-1",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Wheel_ArmorLight_FrontLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Wheel_ArmorLight_FrontRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Engine_Alternator_Item",
           "base-purchase-price": "10000",
-          "base-sell-price": "-1",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Seat_FrontLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Seat_FrontRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Seat_BackLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Seat_BackRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_FrontLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_FrontLeft_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_FrontLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_FrontRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_FrontRight_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_FrontRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_BackLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_BackLeft_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_BackLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_BackRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_BackRight_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_BackRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Bumper_Front_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Bumper_Back_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Bumper_Armor_Back_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorHood_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Body_ArmorHeavy_Top_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_ArmorLight_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_ArmorHeavy_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Engine_Item",
           "base-purchase-price": "10000",
-          "base-sell-price": "-1",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Car_Repair_Kit",
           "base-purchase-price": "3500",
-          "base-sell-price": "-1",
+          "base-sell-price": "350",
           "delta-price": "1",
           "can-be-purchased": "default"
         }
@@ -2976,7 +2976,7 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Cal_9mm",
+          "tradeable-code": "Cal_9mm_AP_Ammobox",
           "base-purchase-price": "1500",
           "base-sell-price": "150",
           "delta-price": "1",
@@ -3004,7 +3004,7 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Cal_9mm_AP_Ammobox",
+          "tradeable-code": "Cal_9mm",
           "base-purchase-price": "33.333333333333336",
           "base-sell-price": "3.333333333333334",
           "delta-price": "1",
@@ -3149,217 +3149,217 @@
         {
           "tradeable-code": "BPC_WolfsWagen",
           "base-purchase-price": "120000",
-          "base-sell-price": "11520",
+          "base-sell-price": "24000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Wheel_155_R65_Item",
           "base-purchase-price": "10000",
-          "base-sell-price": "-1",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Wheel_ArmorLight_FrontLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Wheel_ArmorLight_FrontRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Engine_Alternator_Item",
           "base-purchase-price": "10000",
-          "base-sell-price": "-1",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Seat_FrontLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Seat_FrontRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Seat_BackLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Seat_BackRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_FrontLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_FrontLeft_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_FrontLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_FrontRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_FrontRight_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_FrontRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_BackLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_BackLeft_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_BackLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_BackRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_BackRight_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_BackRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Bumper_Front_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Bumper_Back_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Bumper_Armor_Back_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorHood_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Body_ArmorHeavy_Top_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_ArmorLight_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_ArmorHeavy_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Engine_Item",
           "base-purchase-price": "10000",
-          "base-sell-price": "-1",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Car_Repair_Kit",
           "base-purchase-price": "3500",
-          "base-sell-price": "-1",
+          "base-sell-price": "350",
           "delta-price": "1",
           "can-be-purchased": "default"
         }
@@ -5129,7 +5129,7 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Cal_9mm",
+          "tradeable-code": "Cal_9mm_AP_Ammobox",
           "base-purchase-price": "1500",
           "base-sell-price": "150",
           "delta-price": "1",
@@ -5157,7 +5157,7 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Cal_9mm_AP_Ammobox",
+          "tradeable-code": "Cal_9mm",
           "base-purchase-price": "33.333333333333336",
           "base-sell-price": "3.333333333333334",
           "delta-price": "1",
@@ -5302,217 +5302,217 @@
         {
           "tradeable-code": "BPC_WolfsWagen",
           "base-purchase-price": "120000",
-          "base-sell-price": "11520",
+          "base-sell-price": "24000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Wheel_155_R65_Item",
           "base-purchase-price": "10000",
-          "base-sell-price": "-1",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Wheel_ArmorLight_FrontLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Wheel_ArmorLight_FrontRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Engine_Alternator_Item",
           "base-purchase-price": "10000",
-          "base-sell-price": "-1",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Seat_FrontLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Seat_FrontRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Seat_BackLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Seat_BackRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_FrontLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_FrontLeft_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_FrontLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_FrontRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_FrontRight_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_FrontRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_BackLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_BackLeft_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_BackLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_BackRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_BackRight_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_BackRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Bumper_Front_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Bumper_Back_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Bumper_Armor_Back_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorHood_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Body_ArmorHeavy_Top_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_ArmorLight_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_ArmorHeavy_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Engine_Item",
           "base-purchase-price": "10000",
-          "base-sell-price": "-1",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Car_Repair_Kit",
           "base-purchase-price": "3500",
-          "base-sell-price": "-1",
+          "base-sell-price": "350",
           "delta-price": "1",
           "can-be-purchased": "default"
         }
@@ -7282,7 +7282,7 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Cal_9mm",
+          "tradeable-code": "Cal_9mm_AP_Ammobox",
           "base-purchase-price": "1500",
           "base-sell-price": "150",
           "delta-price": "1",
@@ -7310,7 +7310,7 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Cal_9mm_AP_Ammobox",
+          "tradeable-code": "Cal_9mm",
           "base-purchase-price": "33.333333333333336",
           "base-sell-price": "3.333333333333334",
           "delta-price": "1",
@@ -7455,217 +7455,217 @@
         {
           "tradeable-code": "BPC_WolfsWagen",
           "base-purchase-price": "120000",
-          "base-sell-price": "11520",
+          "base-sell-price": "24000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Wheel_155_R65_Item",
           "base-purchase-price": "10000",
-          "base-sell-price": "-1",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Wheel_ArmorLight_FrontLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Wheel_ArmorLight_FrontRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Engine_Alternator_Item",
           "base-purchase-price": "10000",
-          "base-sell-price": "-1",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Seat_FrontLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Seat_FrontRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Seat_BackLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Seat_BackRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_FrontLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_FrontLeft_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_FrontLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_FrontRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_FrontRight_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_FrontRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_BackLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_BackLeft_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_BackLeft_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_BackRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_BackRight_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_BackRight_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Bumper_Front_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Bumper_Back_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Bumper_Armor_Back_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorHood_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Body_ArmorHeavy_Top_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_ArmorLight_Item",
           "base-purchase-price": "2500",
-          "base-sell-price": "-1",
+          "base-sell-price": "250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_ArmorHeavy_Item",
           "base-purchase-price": "5000",
-          "base-sell-price": "-1",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Engine_Item",
           "base-purchase-price": "10000",
-          "base-sell-price": "-1",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Car_Repair_Kit",
           "base-purchase-price": "3500",
-          "base-sell-price": "-1",
+          "base-sell-price": "350",
           "delta-price": "1",
           "can-be-purchased": "default"
         }
