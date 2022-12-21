@@ -996,7 +996,7 @@
         {
           "tradeable-code": "BPC_WolfsWagen",
           "base-purchase-price": "120000",
-          "base-sell-price": "24000",
+          "base-sell-price": "100",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -1813,6 +1813,48 @@
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_03",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_05",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_02",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_04",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_06",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Raincoat_01",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "A_0_Saloon": [
@@ -3149,7 +3191,7 @@
         {
           "tradeable-code": "BPC_WolfsWagen",
           "base-purchase-price": "120000",
-          "base-sell-price": "24000",
+          "base-sell-price": "100",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -3966,6 +4008,48 @@
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_03",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_05",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_02",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_04",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_06",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Raincoat_01",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "B_4_Saloon": [
@@ -5302,7 +5386,7 @@
         {
           "tradeable-code": "BPC_WolfsWagen",
           "base-purchase-price": "120000",
-          "base-sell-price": "24000",
+          "base-sell-price": "100",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -6119,6 +6203,48 @@
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_03",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_05",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_02",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_04",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_06",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Raincoat_01",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "C_2_Saloon": [
@@ -7455,7 +7581,7 @@
         {
           "tradeable-code": "BPC_WolfsWagen",
           "base-purchase-price": "120000",
-          "base-sell-price": "24000",
+          "base-sell-price": "100",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -8272,6 +8398,48 @@
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_03",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_05",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_02",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_04",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Raincoat_06",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Raincoat_01",
+          "base-purchase-price": "10000",
+          "base-sell-price": "183",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "Z_3_Saloon": [
