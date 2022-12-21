@@ -1204,6 +1204,209 @@
           "can-be-purchased": "default"
         },
         {
+          "tradeable-code": "BPC_Laika",
+          "base-purchase-price": "150000",
+          "base-sell-price": "100",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Wheel_255_55_R16_Item",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Wheel_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Wheel_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Engine_Alternator_Item",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Seat_FrontLeft_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Seat_FrontRight_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Seat_BackLeft_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Seat_BackRight_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_Left_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_Right_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorLight_Left",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorHeavy_Left",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorLight_Right",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorHeavy_Right",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Bumper_Front_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Bumper_Back_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Bumper_Armor_Back_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_DoorHood_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorLight_Top",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Body_ArmorHeavy_Top_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_DoorTrunk_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_DoorTrunk_ArmorLight_Item",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_DoorTrunk_ArmorHeavy_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Engine_Item",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
           "tradeable-code": "Car_Repair_Kit",
           "base-purchase-price": "3500",
           "base-sell-price": "350",
@@ -3395,6 +3598,209 @@
           "tradeable-code": "BP_WW_Engine_Item",
           "base-purchase-price": "10000",
           "base-sell-price": "1000",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika",
+          "base-purchase-price": "150000",
+          "base-sell-price": "100",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Wheel_255_55_R16_Item",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Wheel_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Wheel_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Engine_Alternator_Item",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Seat_FrontLeft_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Seat_FrontRight_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Seat_BackLeft_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Seat_BackRight_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_Left_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_Right_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorLight_Left",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorHeavy_Left",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorLight_Right",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorHeavy_Right",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Bumper_Front_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Bumper_Back_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Bumper_Armor_Back_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_DoorHood_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorLight_Top",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Body_ArmorHeavy_Top_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_DoorTrunk_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_DoorTrunk_ArmorLight_Item",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_DoorTrunk_ArmorHeavy_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Engine_Item",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -5594,6 +6000,209 @@
           "can-be-purchased": "default"
         },
         {
+          "tradeable-code": "BPC_Laika",
+          "base-purchase-price": "150000",
+          "base-sell-price": "100",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Wheel_255_55_R16_Item",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Wheel_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Wheel_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Engine_Alternator_Item",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Seat_FrontLeft_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Seat_FrontRight_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Seat_BackLeft_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Seat_BackRight_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_Left_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_Right_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorLight_Left",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorHeavy_Left",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorLight_Right",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorHeavy_Right",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Bumper_Front_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Bumper_Back_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Bumper_Armor_Back_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_DoorHood_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorLight_Top",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Body_ArmorHeavy_Top_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_DoorTrunk_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_DoorTrunk_ArmorLight_Item",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_DoorTrunk_ArmorHeavy_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Engine_Item",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
           "tradeable-code": "Car_Repair_Kit",
           "base-purchase-price": "3500",
           "base-sell-price": "350",
@@ -7785,6 +8394,209 @@
           "tradeable-code": "BP_WW_Engine_Item",
           "base-purchase-price": "10000",
           "base-sell-price": "1000",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika",
+          "base-purchase-price": "150000",
+          "base-sell-price": "100",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Wheel_255_55_R16_Item",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Wheel_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Wheel_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Engine_Alternator_Item",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Seat_FrontLeft_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Seat_FrontRight_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Seat_BackLeft_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Seat_BackRight_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_Left_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_Right_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Door_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorLight_Left",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorHeavy_Left",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorLight_Right",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorHeavy_Right",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Bumper_Front_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Bumper_Back_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Bumper_Armor_Back_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_DoorHood_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Laika_Body_ArmorLight_Top",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Body_ArmorHeavy_Top_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_DoorTrunk_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_DoorTrunk_ArmorLight_Item",
+          "base-purchase-price": "3125",
+          "base-sell-price": "312.5",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_DoorTrunk_ArmorHeavy_Item",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Laika_Engine_Item",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
