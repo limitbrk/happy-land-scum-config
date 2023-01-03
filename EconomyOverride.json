@@ -6,7 +6,7 @@
     "trader-funds-change-rate-per-hour-multiplier": "2.0",
     "traders-unlimited-funds": "0",
     "traders-unlimited-stock": "0",
-    "economy-logging": "0",
+    "economy-logging": "1",
     "prices-subject-to-player-count": "0",
     "tradeable-rotation-enabled": "0",
     "tradeable-rotation-time-ingame-hours-min": "48.0",
@@ -989,6 +989,13 @@
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "CD_Player",
+          "base-purchase-price": "5000",
+          "base-sell-price": "412",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "A_0_BoatShop": [],
@@ -996,7 +1003,7 @@
         {
           "tradeable-code": "BPC_WolfsWagen",
           "base-purchase-price": "120000",
-          "base-sell-price": "100",
+          "base-sell-price": "12000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -1065,15 +1072,15 @@
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_FrontLeft_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_FrontLeft_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -1086,15 +1093,15 @@
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_FrontRight_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_FrontRight_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -1107,15 +1114,15 @@
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_BackLeft_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_BackLeft_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -1128,15 +1135,15 @@
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_BackRight_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_BackRight_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -1156,8 +1163,8 @@
         },
         {
           "tradeable-code": "BP_WW_Bumper_Armor_Back_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -1170,8 +1177,8 @@
         },
         {
           "tradeable-code": "BP_WW_Body_ArmorHeavy_Top_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -1184,15 +1191,15 @@
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_ArmorLight_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_ArmorHeavy_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -1206,7 +1213,7 @@
         {
           "tradeable-code": "BPC_Laika",
           "base-purchase-price": "150000",
-          "base-sell-price": "100",
+          "base-sell-price": "15000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -1275,15 +1282,15 @@
         },
         {
           "tradeable-code": "BP_Laika_Door_ArmorLight_FrontLeft_Item",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Laika_Door_ArmorHeavy_FrontLeft_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -1296,43 +1303,43 @@
         },
         {
           "tradeable-code": "BP_Laika_Door_ArmorLight_FrontRight_Item",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Laika_Door_ArmorHeavy_FrontRight_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorLight_Left",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorHeavy_Left",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorLight_Right",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorHeavy_Right",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -1352,8 +1359,8 @@
         },
         {
           "tradeable-code": "BP_Laika_Bumper_Armor_Back_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -1366,15 +1373,15 @@
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorLight_Top",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Laika_Body_ArmorHeavy_Top_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -1387,15 +1394,15 @@
         },
         {
           "tradeable-code": "BP_Laika_DoorTrunk_ArmorLight_Item",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Laika_DoorTrunk_ArmorHeavy_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -2016,48 +2023,6 @@
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_03",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_05",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_02",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_04",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_06",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BP_Raincoat_01",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
         }
       ],
       "A_0_Saloon": [
@@ -3387,6 +3352,13 @@
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "CD_Player",
+          "base-purchase-price": "5000",
+          "base-sell-price": "412",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "B_4_BoatShop": [],
@@ -3394,7 +3366,7 @@
         {
           "tradeable-code": "BPC_WolfsWagen",
           "base-purchase-price": "120000",
-          "base-sell-price": "100",
+          "base-sell-price": "12000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -3463,15 +3435,15 @@
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_FrontLeft_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_FrontLeft_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -3484,15 +3456,15 @@
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_FrontRight_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_FrontRight_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -3505,15 +3477,15 @@
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_BackLeft_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_BackLeft_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -3526,15 +3498,15 @@
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_BackRight_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_BackRight_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -3554,8 +3526,8 @@
         },
         {
           "tradeable-code": "BP_WW_Bumper_Armor_Back_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -3568,8 +3540,8 @@
         },
         {
           "tradeable-code": "BP_WW_Body_ArmorHeavy_Top_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -3582,15 +3554,15 @@
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_ArmorLight_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_ArmorHeavy_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -3604,7 +3576,7 @@
         {
           "tradeable-code": "BPC_Laika",
           "base-purchase-price": "150000",
-          "base-sell-price": "100",
+          "base-sell-price": "15000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -3673,15 +3645,15 @@
         },
         {
           "tradeable-code": "BP_Laika_Door_ArmorLight_FrontLeft_Item",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Laika_Door_ArmorHeavy_FrontLeft_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -3694,43 +3666,43 @@
         },
         {
           "tradeable-code": "BP_Laika_Door_ArmorLight_FrontRight_Item",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Laika_Door_ArmorHeavy_FrontRight_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorLight_Left",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorHeavy_Left",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorLight_Right",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorHeavy_Right",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -3750,8 +3722,8 @@
         },
         {
           "tradeable-code": "BP_Laika_Bumper_Armor_Back_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -3764,15 +3736,15 @@
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorLight_Top",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Laika_Body_ArmorHeavy_Top_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -3785,15 +3757,15 @@
         },
         {
           "tradeable-code": "BP_Laika_DoorTrunk_ArmorLight_Item",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Laika_DoorTrunk_ArmorHeavy_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -4414,48 +4386,6 @@
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_03",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_05",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_02",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_04",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_06",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BP_Raincoat_01",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
         }
       ],
       "B_4_Saloon": [
@@ -5785,6 +5715,13 @@
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "CD_Player",
+          "base-purchase-price": "5000",
+          "base-sell-price": "412",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "C_2_BoatShop": [],
@@ -5792,7 +5729,7 @@
         {
           "tradeable-code": "BPC_WolfsWagen",
           "base-purchase-price": "120000",
-          "base-sell-price": "100",
+          "base-sell-price": "12000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -5861,15 +5798,15 @@
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_FrontLeft_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_FrontLeft_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -5882,15 +5819,15 @@
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_FrontRight_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_FrontRight_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -5903,15 +5840,15 @@
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_BackLeft_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_BackLeft_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -5924,15 +5861,15 @@
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_BackRight_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_BackRight_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -5952,8 +5889,8 @@
         },
         {
           "tradeable-code": "BP_WW_Bumper_Armor_Back_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -5966,8 +5903,8 @@
         },
         {
           "tradeable-code": "BP_WW_Body_ArmorHeavy_Top_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -5980,15 +5917,15 @@
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_ArmorLight_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_ArmorHeavy_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -6002,7 +5939,7 @@
         {
           "tradeable-code": "BPC_Laika",
           "base-purchase-price": "150000",
-          "base-sell-price": "100",
+          "base-sell-price": "15000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -6071,15 +6008,15 @@
         },
         {
           "tradeable-code": "BP_Laika_Door_ArmorLight_FrontLeft_Item",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Laika_Door_ArmorHeavy_FrontLeft_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -6092,43 +6029,43 @@
         },
         {
           "tradeable-code": "BP_Laika_Door_ArmorLight_FrontRight_Item",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Laika_Door_ArmorHeavy_FrontRight_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorLight_Left",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorHeavy_Left",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorLight_Right",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorHeavy_Right",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -6148,8 +6085,8 @@
         },
         {
           "tradeable-code": "BP_Laika_Bumper_Armor_Back_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -6162,15 +6099,15 @@
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorLight_Top",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Laika_Body_ArmorHeavy_Top_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -6183,15 +6120,15 @@
         },
         {
           "tradeable-code": "BP_Laika_DoorTrunk_ArmorLight_Item",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Laika_DoorTrunk_ArmorHeavy_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -6812,48 +6749,6 @@
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_03",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_05",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_02",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_04",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_06",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BP_Raincoat_01",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
         }
       ],
       "C_2_Saloon": [
@@ -8183,6 +8078,13 @@
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "CD_Player",
+          "base-purchase-price": "5000",
+          "base-sell-price": "412",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "Z_3_BoatShop": [],
@@ -8190,7 +8092,7 @@
         {
           "tradeable-code": "BPC_WolfsWagen",
           "base-purchase-price": "120000",
-          "base-sell-price": "100",
+          "base-sell-price": "12000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -8259,15 +8161,15 @@
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_FrontLeft_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_FrontLeft_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -8280,15 +8182,15 @@
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_FrontRight_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_FrontRight_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -8301,15 +8203,15 @@
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_BackLeft_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_BackLeft_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -8322,15 +8224,15 @@
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorLight_BackRight_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_Door_ArmorHeavy_BackRight_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -8350,8 +8252,8 @@
         },
         {
           "tradeable-code": "BP_WW_Bumper_Armor_Back_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -8364,8 +8266,8 @@
         },
         {
           "tradeable-code": "BP_WW_Body_ArmorHeavy_Top_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -8378,15 +8280,15 @@
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_ArmorLight_Item",
-          "base-purchase-price": "2500",
-          "base-sell-price": "250",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_WW_DoorTrunk_ArmorHeavy_Item",
-          "base-purchase-price": "5000",
-          "base-sell-price": "500",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -8400,7 +8302,7 @@
         {
           "tradeable-code": "BPC_Laika",
           "base-purchase-price": "150000",
-          "base-sell-price": "100",
+          "base-sell-price": "15000",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -8469,15 +8371,15 @@
         },
         {
           "tradeable-code": "BP_Laika_Door_ArmorLight_FrontLeft_Item",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Laika_Door_ArmorHeavy_FrontLeft_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -8490,43 +8392,43 @@
         },
         {
           "tradeable-code": "BP_Laika_Door_ArmorLight_FrontRight_Item",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Laika_Door_ArmorHeavy_FrontRight_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorLight_Left",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorHeavy_Left",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorLight_Right",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorHeavy_Right",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -8546,8 +8448,8 @@
         },
         {
           "tradeable-code": "BP_Laika_Bumper_Armor_Back_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -8560,15 +8462,15 @@
         },
         {
           "tradeable-code": "BPC_Laika_Body_ArmorLight_Top",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Laika_Body_ArmorHeavy_Top_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -8581,15 +8483,15 @@
         },
         {
           "tradeable-code": "BP_Laika_DoorTrunk_ArmorLight_Item",
-          "base-purchase-price": "3125",
-          "base-sell-price": "312.5",
+          "base-purchase-price": "6250",
+          "base-sell-price": "625",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "BP_Laika_DoorTrunk_ArmorHeavy_Item",
-          "base-purchase-price": "6250",
-          "base-sell-price": "625",
+          "base-purchase-price": "12500",
+          "base-sell-price": "1250",
           "delta-price": "1",
           "can-be-purchased": "default"
         },
@@ -9210,48 +9112,6 @@
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_03",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_05",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_02",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_04",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BPC_Raincoat_06",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "BP_Raincoat_01",
-          "base-purchase-price": "10000",
-          "base-sell-price": "183",
-          "delta-price": "1",
-          "can-be-purchased": "default"
         }
       ],
       "Z_3_Saloon": [
