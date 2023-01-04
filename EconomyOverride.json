@@ -2093,7 +2093,7 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "ServiceBP_Repair_BPC_Laika_Body_ArmorLight_Left",
+          "tradeable-code": "ServiceBP_Repair_BCP_Laika_Body_ArmorLight_Left",
           "base-purchase-price": "1000",
           "base-sell-price": "60",
           "delta-price": "1",
@@ -5415,7 +5415,7 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "ServiceBP_Repair_BPC_Laika_Body_ArmorLight_Left",
+          "tradeable-code": "ServiceBP_Repair_BCP_Laika_Body_ArmorLight_Left",
           "base-purchase-price": "1000",
           "base-sell-price": "60",
           "delta-price": "1",
@@ -8737,7 +8737,7 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "ServiceBP_Repair_BPC_Laika_Body_ArmorLight_Left",
+          "tradeable-code": "ServiceBP_Repair_BCP_Laika_Body_ArmorLight_Left",
           "base-purchase-price": "1000",
           "base-sell-price": "60",
           "delta-price": "1",
@@ -12059,7 +12059,7 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "ServiceBP_Repair_BPC_Laika_Body_ArmorLight_Left",
+          "tradeable-code": "ServiceBP_Repair_BCP_Laika_Body_ArmorLight_Left",
           "base-purchase-price": "1000",
           "base-sell-price": "60",
           "delta-price": "1",
