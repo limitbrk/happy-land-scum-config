@@ -3,9 +3,9 @@
     "economy-reset-time-hours": "-1.0",
     "prices-randomization-time-hours": "-1.0",
     "fully-restock-tradeable-hours": "0.1",
-    "trader-funds-change-rate-per-hour-multiplier": "0.09",
+    "trader-funds-change-rate-per-hour-multiplier": "1.00",
     "traders-unlimited-funds": "0",
-    "traders-unlimited-stock": "0",
+    "traders-unlimited-stock": "1",
     "economy-logging": "1",
     "prices-subject-to-player-count": "0",
     "tradeable-rotation-enabled": "0",
@@ -123,25 +123,137 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "BP_Graphite",
+          "tradeable-code": "BP_Cal_40x46",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "default"
+          "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "BP_Depleted_Uranium",
+          "tradeable-code": "Cal_50BMG_AP_Ammobox",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "default"
+          "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "BP_Depleted_Uranium_Container",
+          "tradeable-code": "Cal_50BMG_Ammobox",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "default"
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_Ammobox_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_AP",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP_Ammobox",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_Ammobox",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_Ammobox_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP_Ammobox",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_Ammobox",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_Ammobox_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
         }
       ],
       "A_0_BoatShop": [],
@@ -1524,6 +1636,62 @@
           "base-sell-price": "60",
           "delta-price": "1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Dirtbike",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_BPC_Dirtbike",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Dirtbike_Wheel_110_80_R19_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_BP_Dirtbike_Wheel_110_80_R19_Item",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_BP_Dirtbike_Wheel_110_80_R19_Item",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Dirtbike_Wheel_90_90_R21_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_BP_Dirtbike_Wheel_90_90_R21_Item",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_BP_Dirtbike_Wheel_90_90_R21_Item",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "A_0_Trader": [
@@ -1577,63 +1745,14 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Nails_Package_Box",
+          "tradeable-code": "BaseExpansionKit_Lvl1",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Bolts_Package_Box",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tool_Box",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tool_Box_Small",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_01",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_02",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_03",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_04",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_05",
+          "tradeable-code": "BaseExpansionKit_Lvl2",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
@@ -1644,760 +1763,94 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Screwdriver_Small",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Lockpick_Advanced_Item",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Lockpick_Item",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Bundle_Of_Lockpicks",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "BP_Electrician_Glove_01_01",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "BPC_Electrician_Glove_01_02",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "BPC_Electrician_Glove_01_03",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Onion",
+          "tradeable-code": "Lock_Item_Advanced",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Bell_Pepper",
+          "tradeable-code": "Lock_Items_Medium",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Carrot",
+          "tradeable-code": "Lock_Item_Basic",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Zucchini",
+          "tradeable-code": "Padlock",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Chilipeper",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tomato",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Spinach",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lettuce",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cucumber",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Potato",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Corn",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Watermelon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cabbage",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "CantaloupeMelon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Broccoli",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Garlic",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Apple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Apple_2",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Crab_Apple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pear",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Wild_Cherry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Fig",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lemon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Orange",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tangerine",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pumpkin",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Currant",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Grapes_Raw",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "GrapeFruit",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Mulberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Wild_Strawberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Mango",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Salsify_roots",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Parsley",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Kiwi",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Olives",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lime",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Ramsons",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Dandelion",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Celery",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Beet",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "SugarBeet",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cauliflower",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pineapple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Banana",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Barberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Blackberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Peach",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Coconut",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Blueberries",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         }
       ],
-      "A_0_Saloon": [
-        {
-          "tradeable-code": "Onion",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Bell_Pepper",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Carrot",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Zucchini",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Chilipeper",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tomato",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Spinach",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lettuce",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cucumber",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Potato",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Corn",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Watermelon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cabbage",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "CantaloupeMelon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Broccoli",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Garlic",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Apple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Apple_2",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Crab_Apple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pear",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Wild_Cherry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Fig",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lemon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Orange",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tangerine",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pumpkin",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Currant",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Grapes_Raw",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "GrapeFruit",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Mulberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Wild_Strawberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Mango",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Salsify_roots",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Parsley",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Kiwi",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Olives",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lime",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Ramsons",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Dandelion",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Celery",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Beet",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "SugarBeet",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cauliflower",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pineapple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Banana",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Barberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Blackberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Peach",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Coconut",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Blueberries",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        }
-      ],
+      "A_0_Saloon": [],
       "A_0_Hospital": [
         {
           "tradeable-code": "BP_Medical_Glove_01",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         }
       ],
       "A_0_Barber": [],
@@ -2508,25 +1961,137 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "BP_Graphite",
+          "tradeable-code": "BP_Cal_40x46",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "default"
+          "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "BP_Depleted_Uranium",
+          "tradeable-code": "Cal_50BMG_AP_Ammobox",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "default"
+          "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "BP_Depleted_Uranium_Container",
+          "tradeable-code": "Cal_50BMG_Ammobox",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "default"
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_Ammobox_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_AP",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP_Ammobox",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_Ammobox",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_Ammobox_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP_Ammobox",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_Ammobox",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_Ammobox_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
         }
       ],
       "B_4_BoatShop": [],
@@ -3909,6 +3474,62 @@
           "base-sell-price": "60",
           "delta-price": "1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Dirtbike",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_BPC_Dirtbike",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Dirtbike_Wheel_110_80_R19_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_BP_Dirtbike_Wheel_110_80_R19_Item",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_BP_Dirtbike_Wheel_110_80_R19_Item",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Dirtbike_Wheel_90_90_R21_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_BP_Dirtbike_Wheel_90_90_R21_Item",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_BP_Dirtbike_Wheel_90_90_R21_Item",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "B_4_Trader": [
@@ -3962,63 +3583,14 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Nails_Package_Box",
+          "tradeable-code": "BaseExpansionKit_Lvl1",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Bolts_Package_Box",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tool_Box",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tool_Box_Small",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_01",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_02",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_03",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_04",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_05",
+          "tradeable-code": "BaseExpansionKit_Lvl2",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
@@ -4029,760 +3601,94 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Screwdriver_Small",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Lockpick_Advanced_Item",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Lockpick_Item",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Bundle_Of_Lockpicks",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "BP_Electrician_Glove_01_01",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "BPC_Electrician_Glove_01_02",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "BPC_Electrician_Glove_01_03",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Onion",
+          "tradeable-code": "Lock_Item_Advanced",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Bell_Pepper",
+          "tradeable-code": "Lock_Items_Medium",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Carrot",
+          "tradeable-code": "Lock_Item_Basic",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Zucchini",
+          "tradeable-code": "Padlock",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Chilipeper",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tomato",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Spinach",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lettuce",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cucumber",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Potato",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Corn",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Watermelon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cabbage",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "CantaloupeMelon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Broccoli",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Garlic",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Apple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Apple_2",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Crab_Apple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pear",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Wild_Cherry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Fig",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lemon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Orange",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tangerine",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pumpkin",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Currant",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Grapes_Raw",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "GrapeFruit",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Mulberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Wild_Strawberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Mango",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Salsify_roots",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Parsley",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Kiwi",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Olives",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lime",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Ramsons",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Dandelion",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Celery",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Beet",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "SugarBeet",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cauliflower",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pineapple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Banana",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Barberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Blackberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Peach",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Coconut",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Blueberries",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         }
       ],
-      "B_4_Saloon": [
-        {
-          "tradeable-code": "Onion",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Bell_Pepper",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Carrot",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Zucchini",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Chilipeper",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tomato",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Spinach",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lettuce",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cucumber",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Potato",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Corn",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Watermelon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cabbage",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "CantaloupeMelon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Broccoli",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Garlic",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Apple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Apple_2",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Crab_Apple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pear",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Wild_Cherry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Fig",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lemon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Orange",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tangerine",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pumpkin",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Currant",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Grapes_Raw",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "GrapeFruit",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Mulberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Wild_Strawberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Mango",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Salsify_roots",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Parsley",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Kiwi",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Olives",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lime",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Ramsons",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Dandelion",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Celery",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Beet",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "SugarBeet",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cauliflower",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pineapple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Banana",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Barberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Blackberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Peach",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Coconut",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Blueberries",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        }
-      ],
+      "B_4_Saloon": [],
       "B_4_Hospital": [
         {
           "tradeable-code": "BP_Medical_Glove_01",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         }
       ],
       "B_4_Barber": [],
@@ -4893,25 +3799,137 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "BP_Graphite",
+          "tradeable-code": "BP_Cal_40x46",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "default"
+          "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "BP_Depleted_Uranium",
+          "tradeable-code": "Cal_50BMG_AP_Ammobox",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "default"
+          "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "BP_Depleted_Uranium_Container",
+          "tradeable-code": "Cal_50BMG_Ammobox",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "default"
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_Ammobox_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_AP",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP_Ammobox",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_Ammobox",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_Ammobox_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP_Ammobox",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_Ammobox",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_Ammobox_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
         }
       ],
       "C_2_BoatShop": [],
@@ -6294,6 +5312,62 @@
           "base-sell-price": "60",
           "delta-price": "1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Dirtbike",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_BPC_Dirtbike",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Dirtbike_Wheel_110_80_R19_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_BP_Dirtbike_Wheel_110_80_R19_Item",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_BP_Dirtbike_Wheel_110_80_R19_Item",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Dirtbike_Wheel_90_90_R21_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_BP_Dirtbike_Wheel_90_90_R21_Item",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_BP_Dirtbike_Wheel_90_90_R21_Item",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "C_2_Trader": [
@@ -6347,63 +5421,14 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Nails_Package_Box",
+          "tradeable-code": "BaseExpansionKit_Lvl1",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Bolts_Package_Box",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tool_Box",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tool_Box_Small",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_01",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_02",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_03",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_04",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_05",
+          "tradeable-code": "BaseExpansionKit_Lvl2",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
@@ -6414,760 +5439,94 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Screwdriver_Small",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Lockpick_Advanced_Item",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Lockpick_Item",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Bundle_Of_Lockpicks",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "BP_Electrician_Glove_01_01",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "BPC_Electrician_Glove_01_02",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "BPC_Electrician_Glove_01_03",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Onion",
+          "tradeable-code": "Lock_Item_Advanced",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Bell_Pepper",
+          "tradeable-code": "Lock_Items_Medium",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Carrot",
+          "tradeable-code": "Lock_Item_Basic",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Zucchini",
+          "tradeable-code": "Padlock",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Chilipeper",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tomato",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Spinach",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lettuce",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cucumber",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Potato",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Corn",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Watermelon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cabbage",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "CantaloupeMelon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Broccoli",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Garlic",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Apple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Apple_2",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Crab_Apple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pear",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Wild_Cherry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Fig",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lemon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Orange",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tangerine",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pumpkin",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Currant",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Grapes_Raw",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "GrapeFruit",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Mulberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Wild_Strawberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Mango",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Salsify_roots",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Parsley",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Kiwi",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Olives",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lime",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Ramsons",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Dandelion",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Celery",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Beet",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "SugarBeet",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cauliflower",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pineapple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Banana",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Barberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Blackberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Peach",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Coconut",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Blueberries",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         }
       ],
-      "C_2_Saloon": [
-        {
-          "tradeable-code": "Onion",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Bell_Pepper",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Carrot",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Zucchini",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Chilipeper",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tomato",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Spinach",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lettuce",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cucumber",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Potato",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Corn",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Watermelon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cabbage",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "CantaloupeMelon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Broccoli",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Garlic",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Apple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Apple_2",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Crab_Apple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pear",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Wild_Cherry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Fig",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lemon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Orange",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tangerine",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pumpkin",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Currant",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Grapes_Raw",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "GrapeFruit",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Mulberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Wild_Strawberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Mango",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Salsify_roots",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Parsley",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Kiwi",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Olives",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lime",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Ramsons",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Dandelion",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Celery",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Beet",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "SugarBeet",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cauliflower",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pineapple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Banana",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Barberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Blackberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Peach",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Coconut",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Blueberries",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        }
-      ],
+      "C_2_Saloon": [],
       "C_2_Hospital": [
         {
           "tradeable-code": "BP_Medical_Glove_01",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         }
       ],
       "C_2_Barber": [],
@@ -7278,25 +5637,137 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "BP_Graphite",
+          "tradeable-code": "BP_Cal_40x46",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "default"
+          "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "BP_Depleted_Uranium",
+          "tradeable-code": "Cal_50BMG_AP_Ammobox",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "default"
+          "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "BP_Depleted_Uranium_Container",
+          "tradeable-code": "Cal_50BMG_Ammobox",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "default"
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_Ammobox_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_AP",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_50BMG_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP_Ammobox",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_Ammobox",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_Ammobox_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_AP",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_7_62x39mm_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP_Ammobox",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_Ammobox",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_Ammobox_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_AP",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cal_5_56x45mm_TR",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "false"
         }
       ],
       "Z_3_BoatShop": [],
@@ -8679,6 +7150,62 @@
           "base-sell-price": "60",
           "delta-price": "1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_Dirtbike",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_BPC_Dirtbike",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Dirtbike_Wheel_110_80_R19_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_BP_Dirtbike_Wheel_110_80_R19_Item",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_BP_Dirtbike_Wheel_110_80_R19_Item",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BP_Dirtbike_Wheel_90_90_R21_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_BP_Dirtbike_Wheel_90_90_R21_Item",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_BP_Dirtbike_Wheel_90_90_R21_Item",
+          "base-purchase-price": "1000",
+          "base-sell-price": "60",
+          "delta-price": "1",
+          "can-be-purchased": "default"
         }
       ],
       "Z_3_Trader": [
@@ -8732,63 +7259,14 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Nails_Package_Box",
+          "tradeable-code": "BaseExpansionKit_Lvl1",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Bolts_Package_Box",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tool_Box",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tool_Box_Small",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_01",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_02",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_03",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_04",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Metal_Scrap_05",
+          "tradeable-code": "BaseExpansionKit_Lvl2",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
@@ -8799,760 +7277,94 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Screwdriver_Small",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Lockpick_Advanced_Item",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Lockpick_Item",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Bundle_Of_Lockpicks",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "BP_Electrician_Glove_01_01",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "BPC_Electrician_Glove_01_02",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "BPC_Electrician_Glove_01_03",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Onion",
+          "tradeable-code": "Lock_Item_Advanced",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Bell_Pepper",
+          "tradeable-code": "Lock_Items_Medium",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Carrot",
+          "tradeable-code": "Lock_Item_Basic",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Zucchini",
+          "tradeable-code": "Padlock",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Chilipeper",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tomato",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Spinach",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lettuce",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cucumber",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Potato",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Corn",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Watermelon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cabbage",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "CantaloupeMelon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Broccoli",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Garlic",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Apple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Apple_2",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Crab_Apple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pear",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Wild_Cherry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Fig",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lemon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Orange",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tangerine",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pumpkin",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Currant",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Grapes_Raw",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "GrapeFruit",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Mulberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Wild_Strawberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Mango",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Salsify_roots",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Parsley",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Kiwi",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Olives",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lime",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Ramsons",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Dandelion",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Celery",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Beet",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "SugarBeet",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cauliflower",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pineapple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Banana",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Barberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Blackberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Peach",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Coconut",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Blueberries",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         }
       ],
-      "Z_3_Saloon": [
-        {
-          "tradeable-code": "Onion",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Bell_Pepper",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Carrot",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Zucchini",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Chilipeper",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tomato",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Spinach",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lettuce",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cucumber",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Potato",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Corn",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Watermelon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cabbage",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "CantaloupeMelon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Broccoli",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Garlic",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Apple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Apple_2",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Crab_Apple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pear",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Wild_Cherry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Fig",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lemon",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Orange",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Tangerine",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pumpkin",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Currant",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Grapes_Raw",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "GrapeFruit",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Mulberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Wild_Strawberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Mango",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Salsify_roots",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Parsley",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Kiwi",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Olives",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Lime",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Ramsons",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Dandelion",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Celery",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Beet",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "SugarBeet",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Cauliflower",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Pineapple",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Banana",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Barberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Blackberry",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Peach",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Coconut",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Blueberries",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "can-be-purchased": "false"
-        }
-      ],
+      "Z_3_Saloon": [],
       "Z_3_Hospital": [
         {
           "tradeable-code": "BP_Medical_Glove_01",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         }
       ],
       "Z_3_Barber": []
