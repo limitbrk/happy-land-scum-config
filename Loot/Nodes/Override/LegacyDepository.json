@@ -1,0 +1,23 @@
+{
+	"Name": "ItemLootTreeNodes",
+	"Rarity": "Uncommon",
+	"Children": [
+		{
+			"Name": "Depository",
+			"Rarity": "Rare",
+			"ChildrenMergeMode": "UpdateOrAdd",
+			"Children": [
+				{
+					"Name": "tools",
+					"Rarity": "Common",
+					"Children": [
+						{
+							"Name": "Screwdriver",
+							"Rarity": "VeryRare"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"Items": [
+		{
+			"Rarity": "Uncommon",
+			"Id": "Puppet_Eye"
+		}
+	],
+	"Probability": 12,
+	"QuantityMin": 0,
+	"QuantityMax": 0,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": false,
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}

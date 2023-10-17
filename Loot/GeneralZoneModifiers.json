@@ -1,0 +1,21 @@
+{
+	"Modifiers": [
+		{
+			"Zones": [
+				{
+					"Name": "SuperLoot_Z4_Island_Small",
+					"TopLeft": "X=597980 Y=-754329",
+					"BottomRight": "X=542036 Y=-798699"
+				},
+				{
+					"Name": "SuperLoot_Z4_Island",
+					"TopLeft": "X=597980 Y=-798699",
+					"BottomRight": "X=379990 Y=-891296"
+				}
+			],
+			"SpawnerProbabilityMultiplier": 100,
+			"ExamineSpawnerProbabilityMultiplier": 100,
+			"ExamineSpawnerQuantityMultiplier": 10
+		}
+	]
+}

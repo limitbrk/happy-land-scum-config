@@ -1,0 +1,16 @@
+{
+	"FixedItems": [
+		"Weapon_AWP",
+		"WeaponScope_Dragunov",
+		"WeaponGhillie_Woodland",
+		"Magazine_AWP",
+		"Magazine_AWP",
+		"Cal_308_Ammobox",
+		"Cal_308_Ammobox_AP",
+		"Cal_308_Ammobox_TR"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}
