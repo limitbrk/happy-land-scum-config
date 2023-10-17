@@ -2,6 +2,10 @@
 	"Zones": [
 		{
 			"TopLeft": "X=597980 Y=-754329",
+			"BottomRight": "X=542036 Y=-798699"
+		},
+		{
+			"TopLeft": "X=597980 Y=-790982",
 			"BottomRight": "X=376132 Y=-889367"
 		}
 	]
