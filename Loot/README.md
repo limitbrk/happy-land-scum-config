@@ -191,8 +191,15 @@ _X1,Y1 คือพิกัดมุมซ้ายบน X2,Y2 คือพิ
 > ลองชุดกันผีแล้ว ไม่ได้ (ของไม่ดรอปบนโลกคือไม่ได้)
 > ```
 
-
 > อัพขึ้น Server ยังไง
 > ``` 
-> FTP ไม่ก็ Host บางเจ้ามี FileManager
+> FTP ไม่ก็ Host บางเจ้ามี FileManager ก็อัพไปที่
+> Multi - <Server>\SCUM\Saved\Config\WindowsServer\Loot
+> Single- %LocalAppData%\SCUM\Saved\Config\WindowsNoEditor\Loot
+> ```
+
+> Apply ยังไง ต้อง Re-Server ไหม
+> ``` 
+> ไม่ต้องใช้คำสั่งนี้แทนได้ 
+> #ReloadLootCustomizationsAndResetSpawners
 > ```
