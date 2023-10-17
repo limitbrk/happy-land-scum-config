@@ -4,7 +4,7 @@
     "prices-randomization-time-hours": "-1.0",
     "fully-restock-tradeable-hours": "0.1",
     "trader-funds-change-rate-per-hour-multiplier": "1.00",
-    "traders-unlimited-funds": "0",
+    "traders-unlimited-funds": "1",
     "traders-unlimited-stock": "1",
     "economy-logging": "1",
     "prices-subject-to-player-count": "0",
@@ -244,7 +244,7 @@
         },
         {
           "tradeable-code": "Cal_7_62x39mm_AP_Ammobox",
-          "base-purchase-price": "20000",
+          "base-purchase-price": "5000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -252,7 +252,7 @@
         },
         {
           "tradeable-code": "Cal_7_62x39mm_Ammobox",
-          "base-purchase-price": "15000",
+          "base-purchase-price": "4000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -260,7 +260,7 @@
         },
         {
           "tradeable-code": "Cal_7_62x39mm_Ammobox_TR",
-          "base-purchase-price": "17000",
+          "base-purchase-price": "4500",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -292,7 +292,7 @@
         },
         {
           "tradeable-code": "Cal_5_56x45mm_AP_Ammobox",
-          "base-purchase-price": "20000",
+          "base-purchase-price": "5000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -300,7 +300,7 @@
         },
         {
           "tradeable-code": "Cal_5_56x45mm_Ammobox",
-          "base-purchase-price": "15000",
+          "base-purchase-price": "4000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -308,7 +308,7 @@
         },
         {
           "tradeable-code": "Cal_5_56x45mm_Ammobox_TR",
-          "base-purchase-price": "17000",
+          "base-purchase-price": "4500",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -353,6 +353,14 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Keycard",
+          "base-purchase-price": "15000",
+          "base-sell-price": "0",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
         }
       ],
       "A_0_BoatShop": [
@@ -1849,9 +1857,177 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "CoalBag",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "tradeable-code": "Halloween_Mask_Clown_03",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Anonymous_Mask_01",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_BabyDoll_02",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Greek",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Hockey_04",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Johndo_05",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Lecter_06",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Plague_07",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Scream",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Smiley_08",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Wooden_09",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Rabbit_Mask_01",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Tytone_Shoelacez_Mask",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_BBQ",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Cake",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Casseroles",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Drinks",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Pasta",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Pizza",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Rice",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Soup",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Stew",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
@@ -2390,7 +2566,7 @@
       "A_0_Hospital": [
         {
           "tradeable-code": "BP_BCUUpgradeService",
-          "base-purchase-price": "100000",
+          "base-purchase-price": "50000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -2649,7 +2825,7 @@
         },
         {
           "tradeable-code": "Cal_7_62x39mm_AP_Ammobox",
-          "base-purchase-price": "20000",
+          "base-purchase-price": "5000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -2657,7 +2833,7 @@
         },
         {
           "tradeable-code": "Cal_7_62x39mm_Ammobox",
-          "base-purchase-price": "15000",
+          "base-purchase-price": "4000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -2665,7 +2841,7 @@
         },
         {
           "tradeable-code": "Cal_7_62x39mm_Ammobox_TR",
-          "base-purchase-price": "17000",
+          "base-purchase-price": "4500",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -2697,7 +2873,7 @@
         },
         {
           "tradeable-code": "Cal_5_56x45mm_AP_Ammobox",
-          "base-purchase-price": "20000",
+          "base-purchase-price": "5000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -2705,7 +2881,7 @@
         },
         {
           "tradeable-code": "Cal_5_56x45mm_Ammobox",
-          "base-purchase-price": "15000",
+          "base-purchase-price": "4000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -2713,7 +2889,7 @@
         },
         {
           "tradeable-code": "Cal_5_56x45mm_Ammobox_TR",
-          "base-purchase-price": "17000",
+          "base-purchase-price": "4500",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -2758,6 +2934,14 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Keycard",
+          "base-purchase-price": "15000",
+          "base-sell-price": "0",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
         }
       ],
       "B_4_BoatShop": [
@@ -4254,9 +4438,177 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "CoalBag",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "tradeable-code": "Halloween_Mask_Clown_03",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Anonymous_Mask_01",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_BabyDoll_02",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Greek",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Hockey_04",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Johndo_05",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Lecter_06",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Plague_07",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Scream",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Smiley_08",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Wooden_09",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Rabbit_Mask_01",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Tytone_Shoelacez_Mask",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_BBQ",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Cake",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Casseroles",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Drinks",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Pasta",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Pizza",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Rice",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Soup",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Stew",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
@@ -4795,7 +5147,7 @@
       "B_4_Hospital": [
         {
           "tradeable-code": "BP_BCUUpgradeService",
-          "base-purchase-price": "100000",
+          "base-purchase-price": "50000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -5054,7 +5406,7 @@
         },
         {
           "tradeable-code": "Cal_7_62x39mm_AP_Ammobox",
-          "base-purchase-price": "20000",
+          "base-purchase-price": "5000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -5062,7 +5414,7 @@
         },
         {
           "tradeable-code": "Cal_7_62x39mm_Ammobox",
-          "base-purchase-price": "15000",
+          "base-purchase-price": "4000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -5070,7 +5422,7 @@
         },
         {
           "tradeable-code": "Cal_7_62x39mm_Ammobox_TR",
-          "base-purchase-price": "17000",
+          "base-purchase-price": "4500",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -5102,7 +5454,7 @@
         },
         {
           "tradeable-code": "Cal_5_56x45mm_AP_Ammobox",
-          "base-purchase-price": "20000",
+          "base-purchase-price": "5000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -5110,7 +5462,7 @@
         },
         {
           "tradeable-code": "Cal_5_56x45mm_Ammobox",
-          "base-purchase-price": "15000",
+          "base-purchase-price": "4000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -5118,7 +5470,7 @@
         },
         {
           "tradeable-code": "Cal_5_56x45mm_Ammobox_TR",
-          "base-purchase-price": "17000",
+          "base-purchase-price": "4500",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -5163,6 +5515,14 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Keycard",
+          "base-purchase-price": "15000",
+          "base-sell-price": "0",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
         }
       ],
       "C_2_BoatShop": [
@@ -6659,9 +7019,177 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "CoalBag",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "tradeable-code": "Halloween_Mask_Clown_03",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Anonymous_Mask_01",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_BabyDoll_02",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Greek",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Hockey_04",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Johndo_05",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Lecter_06",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Plague_07",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Scream",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Smiley_08",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Wooden_09",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Rabbit_Mask_01",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Tytone_Shoelacez_Mask",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_BBQ",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Cake",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Casseroles",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Drinks",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Pasta",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Pizza",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Rice",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Soup",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Stew",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
@@ -7200,7 +7728,7 @@
       "C_2_Hospital": [
         {
           "tradeable-code": "BP_BCUUpgradeService",
-          "base-purchase-price": "100000",
+          "base-purchase-price": "50000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -7459,7 +7987,7 @@
         },
         {
           "tradeable-code": "Cal_7_62x39mm_AP_Ammobox",
-          "base-purchase-price": "20000",
+          "base-purchase-price": "5000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -7467,7 +7995,7 @@
         },
         {
           "tradeable-code": "Cal_7_62x39mm_Ammobox",
-          "base-purchase-price": "15000",
+          "base-purchase-price": "4000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -7475,7 +8003,7 @@
         },
         {
           "tradeable-code": "Cal_7_62x39mm_Ammobox_TR",
-          "base-purchase-price": "17000",
+          "base-purchase-price": "4500",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -7507,7 +8035,7 @@
         },
         {
           "tradeable-code": "Cal_5_56x45mm_AP_Ammobox",
-          "base-purchase-price": "20000",
+          "base-purchase-price": "5000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -7515,7 +8043,7 @@
         },
         {
           "tradeable-code": "Cal_5_56x45mm_Ammobox",
-          "base-purchase-price": "15000",
+          "base-purchase-price": "4000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -7523,7 +8051,7 @@
         },
         {
           "tradeable-code": "Cal_5_56x45mm_Ammobox_TR",
-          "base-purchase-price": "17000",
+          "base-purchase-price": "4500",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
@@ -7568,6 +8096,14 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Keycard",
+          "base-purchase-price": "15000",
+          "base-sell-price": "0",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
         }
       ],
       "Z_3_BoatShop": [
@@ -9064,9 +9600,177 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "CoalBag",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "tradeable-code": "Halloween_Mask_Clown_03",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Anonymous_Mask_01",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_BabyDoll_02",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Greek",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Hockey_04",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Johndo_05",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Lecter_06",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Plague_07",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Scream",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Smiley_08",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Halloween_Mask_Wooden_09",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Rabbit_Mask_01",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Tytone_Shoelacez_Mask",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_BBQ",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Cake",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Casseroles",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Drinks",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Pasta",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Pizza",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Rice",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Soup",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Book_Cooking_Stew",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
@@ -9605,7 +10309,7 @@
       "Z_3_Hospital": [
         {
           "tradeable-code": "BP_BCUUpgradeService",
-          "base-purchase-price": "100000",
+          "base-purchase-price": "50000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
