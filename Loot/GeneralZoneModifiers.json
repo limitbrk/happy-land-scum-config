@@ -9,8 +9,8 @@
 				},
 				{
 					"Name": "SuperLoot_Z4_Island",
-					"TopLeft": "X=597980 Y=-798699",
-					"BottomRight": "X=379990 Y=-891296"
+					"TopLeft": "X=597980 Y=-790982",
+					"BottomRight": "X=376132 Y=-889367"
 				}
 			],
 			"SpawnerProbabilityMultiplier": 100,
