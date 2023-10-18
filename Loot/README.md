@@ -64,7 +64,7 @@ Loot/
 
 ### `Nodes/`
 
-เป็น Set [Spawner Preset](#items) ที่ไว้ใช้ Spawn เพื่อใช้ผ่าน [Spawner Preset](#spawners)
+เป็น Set [Items](#items) ที่ไว้ใช้ Spawn เพื่อใช้ผ่าน [Spawner Preset](#spawners)
 
 ดูผลลัพธ์ได้ผ่านคำสั่ง โดยจะลงใน `Loot/Nodes/Current/`
 ```
