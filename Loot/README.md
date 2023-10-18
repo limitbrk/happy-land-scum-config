@@ -2,7 +2,7 @@
 
 Fully Guide [Here](https://docs.google.com/document/d/1TIxj5OUnyrOvnXyEn3aigxLzTUQ-o-695luaaK2PTW0)
 
-สำหรับการตั้งค่า อาจจะใช้ถึง 4 Part ดังนี้ `Items / Nodes / Spawners / GeneralZoneModifiers`
+สำหรับการตั้งค่า อาจจะใช้ถึง 4 Part ดังนี้ [`Items`](#items) / [`Nodes`](#nodes) / [`Spawners`](#spawners) / [`GeneralZoneModifiers`](#generalzonemodifiersjson)
 ```js
 Loot/
 ├── Items/
@@ -20,7 +20,7 @@ Loot/
 │           └── ชื่อไฟล์ที่มีในPreset.json
 └── GeneralZoneModifiers.json
 ```
-### ข้อควรรู้ Rarity
+#### ข้อควรรู้ Rarity
 การตั้งค่า ความหายากของไอเทม
 ```
 32 x Abundant
@@ -64,7 +64,7 @@ Loot/
 
 ### `Nodes/`
 
-เป็น Set Item ที่ไว้ใช้ Spawn เพื่อใช้ผ่าน Spawners
+เป็น Set [Spawner Preset](#items) ที่ไว้ใช้ Spawn เพื่อใช้ผ่าน [Spawner Preset](#spawner)
 
 ดูผลลัพธ์ได้ผ่านคำสั่ง โดยจะลงใน `Loot/Nodes/Current/`
 ```
@@ -102,22 +102,24 @@ Loot/
 ```
 
 ### `Spawners/`
-เป็น ID ของ Object บนโลก โดย 1 Object สามารถมีหลาย ID
+เป็น ID ของ Object บนโลก โดย 1 Object สามารถมีหลาย [Spawner Preset](#spawner)
 
-Object ไหน ID อะไร สามารถดูได้ที่ (แล้วกดค้น)
+Object ไหนเวลาค้นหาใช้ [Spawner Preset](#spawner) อะไร สามารถดูได้ที่ (แล้วกดค้นหา)
 ```
 #SetShouldPrintExamineSpawnerPresets true 
 ```
-ถ้าตั้ง Global สามารถวางที่ Folder `Loot/Spawners/Presets/Override/` ได้เลย
+![Spawner Preset Show](https://imgur.com/hpuuy0I.png)
+โดยมีวิธีการใช้งาน 2 แบบ
+- _แบบ Global_ สามารถวางที่ Folder `Loot/Spawners/Presets/Override/`
+- _แบบ Zone_ ทำตามนี้ สร้างไฟล์อัตโนมัติ `Loot/Spawners/Presets/Override/ชื่อโซน/`
+  ```
+  #ExportItemSpawnerPresetsInZone A1
+  #ExportItemSpawnerPresetsInZone X1 Y1 X2 Y2 ตั้งชื่อโซน
+  ```
+  _X1,Y1 คือพิกัดมุมซ้ายบน X2,Y2 คือพิกัดมุมขวาล่าง_
 
-แต่ถ้าตั้ง ตาม Zone ทำตามนี้ได้ (เพิ่มลบไฟล์ที่ใช้ที่หลังได้)
-```
-#ExportItemSpawnerPresetsInZone A1
-#ExportItemSpawnerPresetsInZone X1 Y1 X2 Y2 ตั้งชื่อโซน
-```
-_X1,Y1 คือพิกัดมุมซ้ายบน X2,Y2 คือพิกัดมุมขวาล่าง_
-
-ในไฟล์ `ชื่อไฟล์ที่มีในPreset.json` จะเป็น Preset ที่มีอยู่แล้ว
+ในไฟล์ `ชื่อไฟล์ที่มีในPreset.json` จะเป็น Preset ที่มีอยู่แล้ว โดยสามารถใช้ [Items](#items) / [Nodes](#nodes)
+ส่วนใช้ [Spawners](#spawners) จะอธิบายใน [Subpreset](#subpreset)
 ```json
 {   
  	"Nodes": [ 				// ตั้งโอกาส Node ที่มี หรือเราสร้าง
@@ -148,7 +150,7 @@ _X1,Y1 คือพิกัดมุมซ้ายบน X2,Y2 คือพิ
 	"RandomUsage": 0 			// หัก ขาร์จไอเทม ค่าสุ่มจาก 0
 }
 ```
-ในไฟล์ `Zone.json` จะกำหนดพื้นที่ของ Preset
+ในไฟล์ `Zone.json` จะกำหนดพื้นที่ของ [Spawner Preset](#spawner) (เฉพาะแบบกำหนด Zone)
 ```json
 {
 	"Zones": [
@@ -159,7 +161,24 @@ _X1,Y1 คือพิกัดมุมซ้ายบน X2,Y2 คือพิ
 	]
 }
 ```
-ก็คือพิกัดมุมซ้ายบน มุมขวาล่าง เหมือนตอนใช้ Command นั่นแหละ
+ก็คือพิกัดมุมซ้ายบน มุมขวาล่าง เหมือนตอนใช้ Command
+
+#### Subpreset
+รวม [Spawners](#spawners) ย้อยๆมาใส่ไว้ใน [Spawners](#spawners) เดียว
+```json
+{
+	"Subpresets": [
+		{
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_AWP_Vault_Pack"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_AWP_Ammo_Vault_Pack"
+		}
+	]
+}
+```
 
 ### `GeneralZoneModifiers.json`
 
@@ -207,12 +226,12 @@ _X1,Y1 คือพิกัดมุมซ้ายบน X2,Y2 คือพิ
 > แก้ไปก็ไม่มีอะไรเกิดขึ้น ลองแล้ว และมันจะทำให้เรา Revert ที่เราทำได้ง่ายด้วย
 > ```
 
-> File Presets ต้องใช้ทุกไฟล์ ตาม ExportZone ไหม
+> [Spawner Preset](#spawner) ต้องใช้ทุกไฟล์ ตาม ExportZone ไหม
 > ``` 
 > ไม่ต้อง ลบที่ไม่ต้องการ Override ได้ เพื่อประหยัดที่ Disk
 > ```
 
-> File Presets Global ต้องทำยัง
+> [Spawner Preset](#spawner) Global ต้องทำยัง
 > ``` 
 > วางไว้ที่ Loot/Spawners/Presets/Override ได้เลย
 > ```
