@@ -20,7 +20,9 @@ Loot/
 │           └── ชื่อไฟล์ที่มีในPreset.json
 └── GeneralZoneModifiers.json
 ```
-#### ข้อควรรู้ Rarity
+#### ข้อควรรู้ 
+
+`Rarity`
 การตั้งค่า ความหายากของไอเทม
 ```
 32 x Abundant
@@ -30,6 +32,19 @@ Loot/
 2  x VeryRare
 1  x ExtremelyRare
 ```
+
+`PostSpawnActions`
+การตั้งค่าสภาพไอเทมเมื่อดรอป ใช้ใน [`Nodes`](#nodes) และ [`Spawners`](#spawners)
+- `AbandonedBunkerKeycard` - ตั้ง Keycard สำหรับพื้นที่ใกล้ที่สุด
+- `SetAmmoAmount_BigStash` - จำนวน Stack 50-100% กระสุนดรอป
+- `SetAmmoAmount_SmallStash` - จำนวน Stack 0-35% กระสุนดรอป
+- `SetCashAmount_BigStash` - เงินดรอป 200-500
+- `SetCashAmount_MediumStash` - เงินดรอป 50-200
+- `SetCashAmount_SmallStash` - เงินดรอป 1-100
+- `SetClothesDirtiness_DeadPuppets` -  ค่าสกปรก 93-96%
+- `SetClothesDirtiness_DirtyClothes` - ค่าสกปรก 60-85%
+- `SetClothesDirtiness_ResidentialClothes` - ค่าสกปรก 0-20%
+- `SetUsage_Max` - ดรอปชาร์จเต็ม
 
 ### `Items/`
 
