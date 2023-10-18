@@ -41,8 +41,8 @@ Loot/
 - `SetCashAmount_BigStash` - เงินดรอป 200-500
 - `SetCashAmount_MediumStash` - เงินดรอป 50-200
 - `SetCashAmount_SmallStash` - เงินดรอป 1-100
-- `SetClothesDirtiness_DeadPuppets` -  ค่าสกปรก 93-96%
-- `SetClothesDirtiness_DirtyClothes` - ค่าสกปรก 60-85%
+- `SetClothesDirtiness_DeadPuppets` -  ค่าชุดสกปรก 93-96%
+- `SetClothesDirtiness_DirtyClothes` - ค่าชุดสกปรก 60-85%
 - `SetClothesDirtiness_ResidentialClothes` - ค่าสกปรก 0-20%
 - `SetUsage_Max` - ดรอปชาร์จเต็ม
 
@@ -106,7 +106,8 @@ Loot/
 				 				"PETBottle02",
  								"PETBottle03",
  								"PETBottle04"
- 							]
+ 							],
+							"PostSpawnActions": []  // ตั้งค่าสภาพดรอป
 						}
 					]
 				}
@@ -163,6 +164,7 @@ Object ไหนเวลาค้นหาใช้ [Spawner Preset](#spawners)
 	"RandomDamage": 0, 			// หัก %ไอเทม ค่าสุ่มจาก 0
 	"InitialUsage": 0, 			// หัก ขาร์จไอเทม ค่าคงตัว
 	"RandomUsage": 0 			// หัก ขาร์จไอเทม ค่าสุ่มจาก 0
+	"PostSpawnActions": []  		// ตั้งค่าสภาพดรอป
 }
 ```
 ในไฟล์ `Zone.json` จะกำหนดพื้นที่ของ [Spawner Preset](#spawners) (เฉพาะแบบกำหนด Zone)
