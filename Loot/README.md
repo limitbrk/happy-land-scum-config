@@ -132,6 +132,7 @@ _X1,Y1 คือพิกัดมุมซ้ายบน X2,Y2 คือพิ
 	"FixedItems": [                         // ตั้ง Item ดรอป 100% ตามจำนวน (ซ้ำได้)
 		"Stone_Small"
 	],
+	"Probability": 20,                      // โอกาสดรอป%
 	"QuantityMin": 0,                       // จำนวนที่ดรอปสูง-ต่ำ (ไม่รวม Fixed)
 	"QuantityMax": 0,
 	"AllowDuplicates": true,                // ให้ไอเทมเกิดซ้ำได้
