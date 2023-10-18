@@ -1,0 +1,385 @@
+{
+	"Name": "ItemLootTreeNodes",
+	"Children": [
+        {
+            "Name": "Military",
+			"ChildrenMergeMode": "UpdateOrAdd",
+            "Children": [
+                {
+                    "Name": "AmmoBox",
+                    "Rarity": "Rare",
+                    "Children": [
+                        {
+                            "Name": "12Gauge",
+                            "Rarity": "Rare",
+                            "Children": [
+                                {
+                                    "Name": "Boxed",
+                                    "Rarity": "VeryRare",
+                                    "Children": [
+                                        {
+                                            "Name": "12_Gauge_Birdshot_Ammobox",
+                                            "Rarity": "ExtremelyRare"
+                                        },
+                                        {
+                                            "Name": "12_Gauge_Buckshot_Ammobox",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "12_Gauge_Slug_Ammobox",
+                                            "Rarity": "VeryRare"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "AP",
+                            "Rarity": "Rare",
+                            "Children": [
+                                {
+                                    "Name": "Boxed",
+                                    "Rarity": "Rare",
+                                    "Children": [
+                                        {
+                                            "Name": "Cal_30-06_Ammobox_AP",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_308_Ammobox_AP",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_338_Ammobox_AP",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_357_Ammobox_AP",
+                                            "Rarity": "Uncommon"
+                                        },
+                                        {
+                                            "Name": "Cal_38_Ammobox_AP",
+                                            "Rarity": "Common"
+                                        },
+                                        {
+                                            "Name": "Cal_44_Viper_Ammobox_AP",
+                                            "Rarity": "Common"
+                                        },
+                                        {
+                                            "Name": "Cal_45_AP_Ammobox",
+                                            "Rarity": "Abundant"
+                                        },
+                                        {
+                                            "Name": "Cal_50_AE_AP_Ammobox",
+                                            "Rarity": "Uncommon"
+                                        },
+                                        {
+                                            "Name": "Cal_50BMG_AP_Ammobox",
+                                            "Rarity": "ExtremelyRare"
+                                        },
+                                        {
+                                            "Name": "Cal_5_45x39mm_AP_Ammobox",
+                                            "Rarity": "Uncommon"
+                                        },
+                                        {
+                                            "Name": "Cal_5_56x45mm_AP_Ammobox",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_7_62x39mm_AP_Ammobox",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_7_62x54mmR_AP_Ammobox",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_7_92x57mm_AP_Ammobox",
+                                            "Rarity": "VeryRare"
+                                        },
+                                        {
+                                            "Name": "Cal_9mm_AP_Ammobox",
+                                            "Rarity": "Abundant"
+                                        },
+                                        {
+                                            "Name": "Cal_9x39mm_AP_Ammobox",
+                                            "Rarity": "Uncommon"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Arrows",
+                            "Rarity": "VeryRare",
+                            "Children": [
+                                {
+                                    "Name": "Bolts",
+                                    "Rarity": "Rare",
+                                    "Children": [
+                                        {
+                                            "Name": "Ammo_Crossbow_Bolt_Carbon",
+                                            "Rarity": "VeryRare"
+                                        },
+                                        {
+                                            "Name": "Ammo_Crossbow_Bolt_Metal",
+                                            "Rarity": "Rare"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Name": "Broadheads",
+                                    "Rarity": "VeryRare",
+                                    "Children": [
+                                        {
+                                            "Name": "Carbon",
+                                            "Rarity": "VeryRare",
+                                            "Children": [
+                                                {
+                                                    "Name": "BigStash",
+                                                    "Rarity": "VeryRare",
+                                                    "PostSpawnActions": [
+                                                        "SetAmmoAmount_BigStash"
+                                                    ],
+                                                    "Children": [
+                                                        {
+                                                            "Name": "Carbon_BroadHead_Arrow",
+                                                            "Rarity": "VeryRare"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Name": "Metal",
+                                            "Rarity": "VeryRare",
+                                            "Children": [
+                                                {
+                                                    "Name": "BigStash",
+                                                    "Rarity": "VeryRare",
+                                                    "PostSpawnActions": [
+                                                        "SetAmmoAmount_BigStash"
+                                                    ],
+                                                    "Children": [
+                                                        {
+                                                            "Name": "Metal_BroadHead_Arrow",
+                                                            "Rarity": "VeryRare"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Name": "Fieldtips",
+                                    "Rarity": "Rare",
+                                    "Children": [
+                                        {
+                                            "Name": "Carbon",
+                                            "Rarity": "Rare",
+                                            "Children": [
+                                                {
+                                                    "Name": "BigStash",
+                                                    "Rarity": "VeryRare",
+                                                    "PostSpawnActions": [
+                                                        "SetAmmoAmount_BigStash"
+                                                    ],
+                                                    "Children": [
+                                                        {
+                                                            "Name": "Carbon_Arrow",
+                                                            "Rarity": "VeryRare"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Name": "Metal",
+                                            "Rarity": "Rare",
+                                            "Children": [
+                                                {
+                                                    "Name": "BigStash",
+                                                    "Rarity": "VeryRare",
+                                                    "PostSpawnActions": [
+                                                        "SetAmmoAmount_BigStash"
+                                                    ],
+                                                    "Children": [
+                                                        {
+                                                            "Name": "Metal_Arrow",
+                                                            "Rarity": "VeryRare"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Regular",
+                            "Rarity": "Common",
+                            "Children": [
+                                {
+                                    "Name": "Boxed",
+                                    "Rarity": "Rare",
+                                    "Children": [
+                                        {
+                                            "Name": "Cal_22_Ammobox",
+                                            "Rarity": "Uncommon"
+                                        },
+                                        {
+                                            "Name": "Cal_30-06_Ammobox",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_308_Ammobox",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_338_Ammobox",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_357_Ammobox",
+                                            "Rarity": "Uncommon"
+                                        },
+                                        {
+                                            "Name": "Cal_38_Ammobox",
+                                            "Rarity": "Common"
+                                        },
+                                        {
+                                            "Name": "Cal_44_Viper_Ammobox",
+                                            "Rarity": "Uncommon"
+                                        },
+                                        {
+                                            "Name": "Cal_45_Ammobox",
+                                            "Rarity": "Abundant"
+                                        },
+                                        {
+                                            "Name": "Cal_50_AE_Ammobox",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_50BMG_Ammobox",
+                                            "Rarity": "ExtremelyRare"
+                                        },
+                                        {
+                                            "Name": "Cal_5_45x39mm_Ammobox",
+                                            "Rarity": "Uncommon"
+                                        },
+                                        {
+                                            "Name": "Cal_5_56x45mm_Ammobox",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_7_62x39mm_Ammobox",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_7_62x54mmR_Ammobox",
+                                            "Rarity": "VeryRare"
+                                        },
+                                        {
+                                            "Name": "Cal_7_92x57mm_Ammobox",
+                                            "Rarity": "VeryRare"
+                                        },
+                                        {
+                                            "Name": "Cal_9mm_Ammobox",
+                                            "Rarity": "Abundant"
+                                        },
+                                        {
+                                            "Name": "Cal_9x39mm_Ammobox",
+                                            "Rarity": "Uncommon"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Tracers",
+                            "Rarity": "Uncommon",
+                            "Children": [
+                                {
+                                    "Name": "Boxed",
+                                    "Rarity": "Rare",
+                                    "Children": [
+                                        {
+                                            "Name": "Cal_22_Ammobox_TR",
+                                            "Rarity": "Uncommon"
+                                        },
+                                        {
+                                            "Name": "Cal_30-06_Ammobox_TR",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_308_Ammobox_TR",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_338_Ammobox_TR",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_357_Ammobox_TR",
+                                            "Rarity": "Uncommon"
+                                        },
+                                        {
+                                            "Name": "Cal_38_Ammobox_TR",
+                                            "Rarity": "Common"
+                                        },
+                                        {
+                                            "Name": "Cal_44_Viper_Ammobox_TR",
+                                            "Rarity": "Uncommon"
+                                        },
+                                        {
+                                            "Name": "Cal_45_Ammobox_TR",
+                                            "Rarity": "Abundant"
+                                        },
+                                        {
+                                            "Name": "Cal_50_AE_Ammobox_TR",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_50BMG_Ammobox_TR",
+                                            "Rarity": "ExtremelyRare"
+                                        },
+                                        {
+                                            "Name": "Cal_5_45x39mm_Ammobox_TR",
+                                            "Rarity": "Uncommon"
+                                        },
+                                        {
+                                            "Name": "Cal_5_56x45mm_Ammobox_TR",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_7_62x39mm_Ammobox_TR",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_7_62x54mmR_Ammobox_TR",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_7_92x57mm_Ammobox_TR",
+                                            "Rarity": "Rare"
+                                        },
+                                        {
+                                            "Name": "Cal_9mm_Ammobox_TR",
+                                            "Rarity": "Abundant"
+                                        },
+                                        {
+                                            "Name": "Cal_9x39mm_Ammobox_TR",
+                                            "Rarity": "Uncommon"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]  
+}  
