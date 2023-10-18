@@ -64,7 +64,7 @@ Loot/
 
 ### `Nodes/`
 
-เป็น Set [Spawner Preset](#items) ที่ไว้ใช้ Spawn เพื่อใช้ผ่าน [Spawner Preset](#spawner)
+เป็น Set [Spawner Preset](#items) ที่ไว้ใช้ Spawn เพื่อใช้ผ่าน [Spawner Preset](#spawners)
 
 ดูผลลัพธ์ได้ผ่านคำสั่ง โดยจะลงใน `Loot/Nodes/Current/`
 ```
@@ -102,9 +102,9 @@ Loot/
 ```
 
 ### `Spawners/`
-เป็น ID ของ Object บนโลก โดย 1 Object สามารถมีหลาย [Spawner Preset](#spawner)
+เป็น ID ของ Object บนโลก โดย 1 Object สามารถมีหลาย [Spawner Preset](#spawners)
 
-Object ไหนเวลาค้นหาใช้ [Spawner Preset](#spawner) อะไร สามารถดูได้ที่ (แล้วกดค้นหา)
+Object ไหนเวลาค้นหาใช้ [Spawner Preset](#spawners) อะไร สามารถดูได้ที่ (แล้วกดค้นหา)
 ```
 #SetShouldPrintExamineSpawnerPresets true 
 ```
@@ -150,7 +150,7 @@ Object ไหนเวลาค้นหาใช้ [Spawner Preset](#spawner) 
 	"RandomUsage": 0 			// หัก ขาร์จไอเทม ค่าสุ่มจาก 0
 }
 ```
-ในไฟล์ `Zone.json` จะกำหนดพื้นที่ของ [Spawner Preset](#spawner) (เฉพาะแบบกำหนด Zone)
+ในไฟล์ `Zone.json` จะกำหนดพื้นที่ของ [Spawner Preset](#spawners) (เฉพาะแบบกำหนด Zone)
 ```json
 {
 	"Zones": [
@@ -226,12 +226,12 @@ Object ไหนเวลาค้นหาใช้ [Spawner Preset](#spawner) 
 > แก้ไปก็ไม่มีอะไรเกิดขึ้น ลองแล้ว และมันจะทำให้เรา Revert ที่เราทำได้ง่ายด้วย
 > ```
 
-> [Spawner Preset](#spawner) ต้องใช้ทุกไฟล์ ตาม ExportZone ไหม
+> [Spawner Preset](#spawners) ต้องใช้ทุกไฟล์ ตาม ExportZone ไหม
 > ``` 
 > ไม่ต้อง ลบที่ไม่ต้องการ Override ได้ เพื่อประหยัดที่ Disk
 > ```
 
-> [Spawner Preset](#spawner) Global ต้องทำยัง
+> [Spawner Preset](#spawners) Global ต้องทำยัง
 > ``` 
 > วางไว้ที่ Loot/Spawners/Presets/Override ได้เลย
 > ```
