@@ -41,22 +41,22 @@ Loot/
 	"Parameters": [
 		{
 			"Id": "Weapon_M82A1",
-			"IsDisabledForSpawning": false,                 // ปิดการ Spawn
+			"IsDisabledForSpawning": false,			// ปิดการ Spawn
 			"AllowedLocations": [                           // เลือกพื้นที่ที่ดรอป
-				"Coastal",                                  // - ชายหาด
-				"Continental",                              // - พื้นดิน
-				"Mountain"                                  // - ภูเขา
+				"Coastal", 				// - ชายหาด
+				"Continental", 				// - พื้นดิน
+				"Mountain" 				// - ภูเขา
 			],
-			"CooldownPerSquadMemberMin": 0,                 // 1Squad จะไม่เจอไอเทมนี้อีกเลย (Min~Max)*members ชั่วโมง
+			"CooldownPerSquadMemberMin": 0, 		// 1Squad จะไม่เจอไอเทมนี้อีกเลย (Min~Max)*members ชั่วโมง
 			"CooldownPerSquadMemberMax": 0,
-			"Variations": [                                 // สุ่ม Spawn ของตามนี้ด้วย
+			"Variations": [ 				// สุ่ม Spawn ของตามนี้ด้วย
 				"Weapon_M82A1_Black",
 				"Weapon_M82A1_Desert",
 				"Weapon_M82A1_Snow"
 			],
-			"ShouldOverrideInitialAndRandomUsage": false,   // เปิดการตั้งค่าด้านล่างทับ Presets
-			"InitialUsageOverride": 0,                      // หัก ขาร์จไอเทม ค่าคงตัว
-			"RandomUsageOverrideUsage": 0                   // หัก ขาร์จไอเทม ค่าสุ่มจาก 0
+			"ShouldOverrideInitialAndRandomUsage": false, 	// เปิดการตั้งค่าด้านล่างทับ Presets
+			"InitialUsageOverride": 0, 			// หัก ขาร์จไอเทม ค่าคงตัว
+			"RandomUsageOverrideUsage": 0 			// หัก ขาร์จไอเทม ค่าสุ่มจาก 0
 		}
     ]
 }
@@ -86,12 +86,12 @@ Loot/
 					"Children": [
 						{
 							"Name": "PETBottle01",
-							"Rarity": "Abundant",   // ระดับความหายาก
-							"Variations": [         // สุ่ม Spawn ของตามนี้ด้วย
-                                "PETBottle02",
-                                "PETBottle03",
-                                "PETBottle04",
-                            ],
+							"Rarity": "Abundant", 	// ระดับความหายาก
+							"Variations": [ 	// สุ่ม Spawn ของตามนี้ด้วย
+				 				"PETBottle02",
+ 								"PETBottle03",
+ 								"PETBottle04"
+ 							]
 						}
 					]
 				}
@@ -120,7 +120,7 @@ _X1,Y1 คือพิกัดมุมซ้ายบน X2,Y2 คือพิ
 ในไฟล์ `ชื่อไฟล์ที่มีในPreset.json` จะเป็น Preset ที่มีอยู่แล้ว
 ```json
 {   
-    "Nodes": [							// ตั้งโอกาส Node ที่มี หรือเราสร้าง
+ 	"Nodes": [ 				// ตั้งโอกาส Node ที่มี หรือเราสร้าง
 		{
 			"Rarity": "Uncommon",
 			"Ids": [
@@ -128,24 +128,24 @@ _X1,Y1 คือพิกัดมุมซ้ายบน X2,Y2 คือพิ
 			]
 		}
 	],
-	"Items": [							// ตั้งโอกาส Item ดรอป
+	"Items": [ 				// ตั้งโอกาส Item ดรอป
 		{
 			"Rarity": "Abundant",
 			"Id": "Stone_Small"             
 		}
 	],
-	"FixedItems": [						// ตั้ง Item ดรอป 100% ตามจำนวน (ซ้ำได้)
+	"FixedItems": [  			// ตั้ง Item ดรอป 100% ตามจำนวน (ซ้ำได้)
 		"Stone_Small"
 	],
-	"Probability": 20,					// โอกาสดรอป%
-	"QuantityMin": 0,      				// จำนวนที่ดรอปสูง-ต่ำ (ไม่รวม Fixed)
+	"Probability": 20, 			// โอกาสดรอป%
+	"QuantityMin": 0, 			// จำนวนที่ดรอปสูง-ต่ำ (ไม่รวม Fixed)
 	"QuantityMax": 0,
-	"AllowDuplicates": true,			// ให้ไอเทมเกิดซ้ำได้
-	"ShouldFilterItemsByZone": false,	// ใช้ค่าจาก Items>AllowedLocations
-	"InitialDamage": 0,       			// หัก %ไอเทม ค่าคงตัว
-	"RandomDamage": 0,                  // หัก %ไอเทม ค่าสุ่มจาก 0
-	"InitialUsage": 0,                  // หัก ขาร์จไอเทม ค่าคงตัว
-	"RandomUsage": 0                    // หัก ขาร์จไอเทม ค่าสุ่มจาก 0
+	"AllowDuplicates": true, 		// ให้ไอเทมเกิดซ้ำได้
+	"ShouldFilterItemsByZone": false, 	// ใช้ค่าจาก Items>AllowedLocations
+	"InitialDamage": 0, 			// หัก %ไอเทม ค่าคงตัว
+	"RandomDamage": 0, 			// หัก %ไอเทม ค่าสุ่มจาก 0
+	"InitialUsage": 0, 			// หัก ขาร์จไอเทม ค่าคงตัว
+	"RandomUsage": 0 			// หัก ขาร์จไอเทม ค่าสุ่มจาก 0
 }
 ```
 ในไฟล์ `Zone.json` จะกำหนดพื้นที่ของ Preset
@@ -168,19 +168,19 @@ _X1,Y1 คือพิกัดมุมซ้ายบน X2,Y2 คือพิ
 {
 	"Modifiers": [
 		{
-			"Zones": [                                      // Zone พิกัดซ้ายบน-ขวาล่าง
+			"Zones": [ 					// Zone พิกัดซ้ายบน-ขวาล่าง
 				{
-					"Name": "FishFactory",                  // ตั้งชื่ออะไรก็ได้
+					"Name": "FishFactory", 		// ตั้งชื่ออะไรก็ได้
 					"TopLeft": "X=-327211.8142 Y=-346843.5702",
 					"BottomRight": "X=-363868.8911 Y=-383500.647"
 				}
 			],
-			"SpawnerProbabilityMultiplier": 100,            // Rate Drop พื้น
-			"ExamineSpawnerProbabilityMultiplier": 100,     // Rate Drop ค้น
-			"ExamineSpawnerQuantityMultiplier": 5           // Rate จำนวน ค้น
+			"SpawnerProbabilityMultiplier": 100, 		// Rate Drop พื้น
+			"ExamineSpawnerProbabilityMultiplier": 100, 	// Rate Drop ค้น
+			"ExamineSpawnerQuantityMultiplier": 5 		// Rate จำนวน ค้น
 		},
 		{
-			"Zones": [                                      // Zone Sector
+			"Zones": [ 					// Zone Sector
 				{
 					"Sector": "A1"
 				}
@@ -195,6 +195,26 @@ _X1,Y1 คือพิกัดมุมซ้ายบน X2,Y2 คือพิ
 > ของที่ไม่ดรอป ปล่อยดรอปได้ไหม
 > ``` 
 > ลองชุดกันผีแล้ว ไม่ได้ (ของไม่ดรอปบนโลกคือไม่ได้)
+> ```
+
+> จำเป็นต้องใส่ ทุก Parameter ไหม
+> ``` 
+> บางอันไม่จำเป็น จะไปตั้งตามค่า Default
+> ```
+
+> ทำไมไม่แก้ `Default/` แทน
+> ``` 
+> แก้ไปก็ไม่มีอะไรเกิดขึ้น ลองแล้ว และมันจะทำให้เรา Revert ที่เราทำได้ง่ายด้วย
+> ```
+
+> File Presets ต้องใช้ทุกไฟล์ ตาม ExportZone ไหม
+> ``` 
+> ไม่ต้อง ลบที่ไม่ต้องการ Override ได้ เพื่อประหยัดที่ Disk
+> ```
+
+> File Presets Global ต้องทำยัง
+> ``` 
+> วางไว้ที่ Loot/Spawners/Presets/Override ได้เลย
 > ```
 
 > อัพขึ้น Server ยังไง
