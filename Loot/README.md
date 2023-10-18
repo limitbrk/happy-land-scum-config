@@ -20,8 +20,8 @@ Loot/
 │           └── ชื่อไฟล์ที่มีในPreset.json
 └── GeneralZoneModifiers.json
 ```
-### Rarity*
-ความหายากของไอเทม
+### ข้อควรรู้ Rarity
+การตั้งค่า ความหายากของไอเทม
 ```
 32 x Abundant
 16 x Common
@@ -31,7 +31,7 @@ Loot/
 1  x ExtremelyRare
 ```
 
-### Items
+### `Items/`
 
 เป็นการกำหนด Spawn Item
 
@@ -62,9 +62,14 @@ Loot/
 }
 ```
 
-### Nodes
+### `Nodes/`
 
 เป็น Set Item ที่ไว้ใช้ Spawn เพื่อใช้ผ่าน Spawners
+
+ดูผลลัพธ์ได้ผ่านคำสั่ง โดยจะลงใน `Loot/Nodes/Current/`
+```
+#ExportCurrentLootTree
+```
 
 สามารถตั้งชื่อไฟล์อะไรก็ได้เพื่อเพิ่มหรือแก้
 ```json
@@ -96,7 +101,7 @@ Loot/
 }
 ```
 
-### Spawners
+### `Spawners/`
 เป็น ID ของ Object บนโลก โดย 1 Object สามารถมีหลาย ID
 
 Object ไหน ID อะไร สามารถดูได้ที่ (แล้วกดค้น)
@@ -115,7 +120,7 @@ _X1,Y1 คือพิกัดมุมซ้ายบน X2,Y2 คือพิ
 ในไฟล์ `ชื่อไฟล์ที่มีในPreset.json` จะเป็น Preset ที่มีอยู่แล้ว
 ```json
 {   
-    "Nodes": [                              // ตั้งโอกาส Node ที่มี หรือเราสร้าง
+    "Nodes": [							// ตั้งโอกาส Node ที่มี หรือเราสร้าง
 		{
 			"Rarity": "Uncommon",
 			"Ids": [
@@ -123,24 +128,24 @@ _X1,Y1 คือพิกัดมุมซ้ายบน X2,Y2 คือพิ
 			]
 		}
 	],
-	"Items": [                              // ตั้งโอกาส Item ดรอป
+	"Items": [							// ตั้งโอกาส Item ดรอป
 		{
 			"Rarity": "Abundant",
 			"Id": "Stone_Small"             
 		}
 	],
-	"FixedItems": [                         // ตั้ง Item ดรอป 100% ตามจำนวน (ซ้ำได้)
+	"FixedItems": [						// ตั้ง Item ดรอป 100% ตามจำนวน (ซ้ำได้)
 		"Stone_Small"
 	],
-	"Probability": 20,                      // โอกาสดรอป%
-	"QuantityMin": 0,                       // จำนวนที่ดรอปสูง-ต่ำ (ไม่รวม Fixed)
+	"Probability": 20,					// โอกาสดรอป%
+	"QuantityMin": 0,      				// จำนวนที่ดรอปสูง-ต่ำ (ไม่รวม Fixed)
 	"QuantityMax": 0,
-	"AllowDuplicates": true,                // ให้ไอเทมเกิดซ้ำได้
-	"ShouldFilterItemsByZone": false,       // ใช้ค่าจาก Items>AllowedLocations
-	"InitialDamage": 0,                     // หัก %ไอเทม ค่าคงตัว
-	"RandomDamage": 0,                      // หัก %ไอเทม ค่าสุ่มจาก 0
-	"InitialUsage": 0,                      // หัก ขาร์จไอเทม ค่าคงตัว
-	"RandomUsage": 0                        // หัก ขาร์จไอเทม ค่าสุ่มจาก 0
+	"AllowDuplicates": true,			// ให้ไอเทมเกิดซ้ำได้
+	"ShouldFilterItemsByZone": false,	// ใช้ค่าจาก Items>AllowedLocations
+	"InitialDamage": 0,       			// หัก %ไอเทม ค่าคงตัว
+	"RandomDamage": 0,                  // หัก %ไอเทม ค่าสุ่มจาก 0
+	"InitialUsage": 0,                  // หัก ขาร์จไอเทม ค่าคงตัว
+	"RandomUsage": 0                    // หัก ขาร์จไอเทม ค่าสุ่มจาก 0
 }
 ```
 ในไฟล์ `Zone.json` จะกำหนดพื้นที่ของ Preset
@@ -156,7 +161,7 @@ _X1,Y1 คือพิกัดมุมซ้ายบน X2,Y2 คือพิ
 ```
 ก็คือพิกัดมุมซ้ายบน มุมขวาล่าง เหมือนตอนใช้ Command นั่นแหละ
 
-### GeneralZoneModifiers.json
+### `GeneralZoneModifiers.json`
 
 เป็นการตั้งพื้นที่เพื่อเพิ่ม Rate Drop (ต้องสร้างไฟล์เอง)
 ```json
@@ -201,6 +206,6 @@ _X1,Y1 คือพิกัดมุมซ้ายบน X2,Y2 คือพิ
 
 > Apply ยังไง ต้อง Re-Server ไหม
 > ``` 
-> ไม่ต้องใช้คำสั่งนี้แทนได้ 
+> ไม่ต้อง ใช้คำสั่งนี้แทนได้ 
 > #ReloadLootCustomizationsAndResetSpawners
 > ```
