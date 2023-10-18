@@ -7,10 +7,10 @@ Fully Guide [Here](https://docs.google.com/document/d/1TIxj5OUnyrOvnXyEn3aigxLzT
 Loot/
 ├── Items/
 │   └── Override/
-│       └── ชื้อไฟล์อะไรก็ได้.json
+│       └── ชื่อไฟล์อะไรก็ได้.json
 ├── Nodes/
 │   └── Override/
-│       └── ชื้อไฟล์อะไรก็ได้.json
+│       └── ชื่อไฟล์อะไรก็ได้.json
 ├── Spawners/
 │   └── Presets/
 │       └── Override/
