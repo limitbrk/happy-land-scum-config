@@ -125,9 +125,7 @@ Object ไหนเวลาค้นหาใช้ [Spawner Preset](#spawners)
 #SetShouldPrintExamineSpawnerPresets true 
 ```
 ![Spawner Preset Show](https://imgur.com/hpuuy0I.png)
-โดยมีวิธีการใช้งาน 2 แบบ
-- _แบบ Global_ สามารถวางที่ Folder `Loot/Spawners/Presets/Override/`
-- _แบบ Zone_ ทำตามนี้ สร้างไฟล์อัตโนมัติ `Loot/Spawners/Presets/Override/ชื่อโซน/`
+โดยมีวิธีการใช้งานตาม Path `Loot/Spawners/Presets/Override/ชื่อโซน/` สามารถสร้างไฟล์อัตโนมัติคำสั่ง
   ```
   #ExportItemSpawnerPresetsInZone A1
   #ExportItemSpawnerPresetsInZone X1 Y1 X2 Y2 ตั้งชื่อโซน
@@ -248,9 +246,9 @@ Object ไหนเวลาค้นหาใช้ [Spawner Preset](#spawners)
 > ไม่ต้อง ลบที่ไม่ต้องการ Override ได้ เพื่อประหยัดที่ Disk
 > ```
 
-> [Spawner Preset](#spawners) Global ต้องทำยัง
+> [Spawner Preset](#spawners) วางไว้ที่ Loot/Spawners/Presets/Override ได้เลยไหม
 > ``` 
-> วางไว้ที่ Loot/Spawners/Presets/Override ได้เลย
+> ตอนนี้เหมือนใช้ได้แค่ตอน Reload ตอน Re-server ใช้ไม่ได้
 > ```
 
 > อัพขึ้น Server ยังไง
