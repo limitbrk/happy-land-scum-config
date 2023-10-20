@@ -1,9 +1,16 @@
 {
 	"Nodes": [
 		{
-			"Rarity": "Rare",
+			"Rarity": "VeryRare",
 			"Ids": [
-				"ItemLootTreeNodes.Military.Weapons",
+				"ItemLootTreeNodes.Military.Weapons.AssaultRifles",
+				"ItemLootTreeNodes.Military.Weapons.GrenadeLaunchers",
+				"ItemLootTreeNodes.Military.Weapons.LMGs",
+				"ItemLootTreeNodes.Military.Weapons.Other",
+				"ItemLootTreeNodes.Military.Weapons.Rifles",
+				"ItemLootTreeNodes.Military.Weapons.Shotguns",
+				"ItemLootTreeNodes.Military.Weapons.SMGs",
+				"ItemLootTreeNodes.Military.Weapons.Snipers",
 				"ItemLootTreeNodes.Military.AmmoBox"
 			]
 		},
@@ -64,8 +71,8 @@
 		}
 	],
 	"Probability": 100,
-	"QuantityMin": 4,
-	"QuantityMax": 6,
+	"QuantityMin": 1,
+	"QuantityMax": 3,
 	"AllowDuplicates": false,
 	"ShouldFilterItemsByZone": true,
 	"InitialDamage": 20,

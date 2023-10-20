@@ -4,11 +4,6 @@
 			"Name": "NavalBase_A4",
 			"TopLeft": "X=540213.7211 Y=-504542.5603",
 			"BottomRight": "X=455215.4963 Y=-587118.6027"
-		},
-		{
-			"Name": "Airfield_B2",
-			"TopLeft": "X=-226478.016 Y=-17871.967",
-			"BottomRight": "X=-297450.781 Y=-59100.953"
 		}
 	]
 }

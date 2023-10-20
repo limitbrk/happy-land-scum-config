@@ -16,6 +16,16 @@
 			"SpawnerProbabilityMultiplier": 100,
 			"ExamineSpawnerProbabilityMultiplier": 100,
 			"ExamineSpawnerQuantityMultiplier": 10
+		},
+		{
+			"Zones": [
+				{
+					"Name": "Reactive_C0",
+					"TopLeft": "X=-675173.750 Y=257753.969",
+					"BottomRight": "X=-910000.000 Y=31976.191"
+				}
+			],
+			"ExamineSpawnerQuantityMultiplier": 4
 		}
 	]
 }

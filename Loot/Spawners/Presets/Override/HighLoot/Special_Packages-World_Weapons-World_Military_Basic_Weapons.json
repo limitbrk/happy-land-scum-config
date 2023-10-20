@@ -36,8 +36,8 @@
 		}
 	],
 	"Probability": 7,
-	"QuantityMin": 3,
-	"QuantityMax": 5,
+	"QuantityMin": 2,
+	"QuantityMax": 3,
 	"AllowDuplicates": false,
 	"ShouldFilterItemsByZone": true,
 	"InitialDamage": 40,
