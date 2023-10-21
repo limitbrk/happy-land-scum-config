@@ -17,8 +17,8 @@
 			"Id": "Boots_06_02"
 		}
 	],
-	"QuantityMin": 1,
-	"QuantityMax": 2,
+	"QuantityMin": 0,
+	"QuantityMax": 0,
 	"AllowDuplicates": false,
 	"ShouldFilterItemsByZone": false,
 	"InitialDamage": 93,

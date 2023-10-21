@@ -21,8 +21,8 @@
 			"Id": "Tactical_Jacket_01_09"
 		}
 	],
-	"QuantityMin": 1,
-	"QuantityMax": 2,
+	"QuantityMin": 0,
+	"QuantityMax": 0,
 	"AllowDuplicates": false,
 	"ShouldFilterItemsByZone": false,
 	"InitialDamage": 93,
