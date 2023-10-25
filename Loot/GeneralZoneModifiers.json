@@ -13,8 +13,8 @@
 					"BottomRight": "X=376132 Y=-889367"
 				}
 			],
-			"SpawnerProbabilityMultiplier": 100,
-			"ExamineSpawnerProbabilityMultiplier": 100,
+			"SpawnerProbabilityMultiplier": 8,
+			"ExamineSpawnerProbabilityMultiplier": 8,
 			"ExamineSpawnerQuantityMultiplier": 10
 		},
 		{
@@ -26,6 +26,21 @@
 				}
 			],
 			"ExamineSpawnerQuantityMultiplier": 4
+		},
+		{
+			"Zones": [
+				{
+					"Name": "MilitaryBase_D0",
+					"TopLeft": "X=-846118.7184 Y=558365.2984",
+					"BottomRight": "X=-885449.5387 Y=488282.0355"
+				},
+				{
+					"Name": "Airfield_D4",
+					"TopLeft": "X=562660.371 Y=618628.8926",
+					"BottomRight": "X=430163.4626 Y=520969.5334"
+				}
+			],
+			"ExamineSpawnerQuantityMultiplier": 3
 		}
 	]
 }
