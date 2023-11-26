@@ -1,31 +1,27 @@
 {
 	"Modifiers": [
 		{
+			"Preset": "SuperLoot",
 			"Zones": [
 				{
-					"Name": "SuperLoot_Z4_Island_Small",
+					"Name": "Z4_Island_Small",
 					"TopLeft": "X=597980 Y=-754329",
 					"BottomRight": "X=542036 Y=-798699"
 				},
 				{
-					"Name": "SuperLoot_Z4_Island",
+					"Name": "Z4_Island",
 					"TopLeft": "X=597980 Y=-790982",
 					"BottomRight": "X=376132 Y=-889367"
+				},
+				{
+					"Name": "C0_Radiation",
+					"TopLeft": "X=-681023 Y=248810",
+					"BottomRight": "X=-910000.000 Y=25033"
 				}
 			],
 			"SpawnerProbabilityMultiplier": 8,
 			"ExamineSpawnerProbabilityMultiplier": 8,
 			"ExamineSpawnerQuantityMultiplier": 10
-		},
-		{
-			"Zones": [
-				{
-					"Name": "Reactive_C0",
-					"TopLeft": "X=-675173.750 Y=257753.969",
-					"BottomRight": "X=-910000.000 Y=31976.191"
-				}
-			],
-			"ExamineSpawnerQuantityMultiplier": 4
 		},
 		{
 			"Zones": [
