@@ -1,0 +1,14 @@
+{
+    "Remark": "Replace Drop With RPG",
+	"FixedItems": [
+		"Weapon_RPG7",
+        "Cal_40_OG-7V",
+        "Cal_40_OG-7V",
+        "Cal_40_PG-7M",
+        "Cal_40_PG-7M"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}

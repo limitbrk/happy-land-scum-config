@@ -1,0 +1,12 @@
+{
+	"FixedItems": [
+		"Military_Helmet_01_03",
+		"Armor_Tactical_Vest_01_03",
+        "MilitaryBoots_JNA",
+		"Pan"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}

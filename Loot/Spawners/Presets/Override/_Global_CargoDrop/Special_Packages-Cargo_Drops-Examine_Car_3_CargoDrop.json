@@ -1,0 +1,18 @@
+{
+    "Remark": "Replace Drop With M82A1",
+	"FixedItems": [
+		"Weapon_M82A1",
+        "Cal_50BMG_Ammobox",
+        "Cal_50BMG_Ammobox",
+        "Cal_50BMG_Ammobox",
+        "Cal_50BMG_Ammobox",
+        "Magazine_M82A1",
+        "Magazine_M82A1",
+        "WeaponScope_M82A1_Black",
+        "WeaponSuppressor_M82A1_Black"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}

@@ -1,0 +1,12 @@
+{
+    "Remark": "Replace Drop With Dildo",
+	"FixedItems": [
+		"1H_Beam_Dildo",
+        "1H_Dildo",
+        "1H_Dildo"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}

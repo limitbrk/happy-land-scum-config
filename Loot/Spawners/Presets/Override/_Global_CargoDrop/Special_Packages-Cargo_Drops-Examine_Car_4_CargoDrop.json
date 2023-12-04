@@ -1,0 +1,10 @@
+{
+    "Remark": "Replace Drop With C4",
+	"FixedItems": [
+		"C4"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}

@@ -1,0 +1,13 @@
+{
+	"FixedItems": [
+		"Screwdriver",
+		"Screwdriver",
+		"Screwdriver",
+		"Screwdriver",
+		"Screwdriver"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}
