@@ -51,6 +51,10 @@
 		{
 			"Rarity": "Uncommon",
 			"Id": "Special_Packages-Vault-Examine_MP5SD_Vault_Pack"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_Scar-Dmr_Vault_Pack"
 		}
 	]
 }
