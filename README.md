@@ -6,8 +6,7 @@
 
 อ่านเพิ่มเติม [ที่นี่](https://github.com/limitbrk/happy-land-scum-config/tree/master/Loot/README.md)
 
-
-## SCUM Trader Configuarator
+## SCUM Trader Configurator
 File are in `EconomyOverride.json`
 ```json
 {

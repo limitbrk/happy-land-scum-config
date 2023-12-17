@@ -2,7 +2,8 @@
 !EconomyOverride.json
 !ServerSettings.ini
 !.ignore
-!*README.*
+!*.md
+!_Guide
 
 !Loot/
 Loot/*/Default/
