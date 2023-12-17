@@ -1,8 +1,6 @@
 # SCUM ServerSettings Puppets Guide
 File are in `ServerSettings.ini`
 
-หมายเหตุ ? คือทดสอบแล้วไม่ได้ผล
-
 ## การจำกัดจำนวน
 | ชื่อการตั้งค่า | คำอธิบาย | Value |
 |---|---|---|
