@@ -1,0 +1,79 @@
+{
+	"Zones": [
+		{
+			"Name": "Z0_Airfield",
+			"TopLeft": "X=-752645 Y=-646010",
+			"BottomRight": "X=-768169 Y=-689385"
+		},
+		{
+			"Name": "Z1_WeaponsFactory",
+			"TopLeft": "X=-415377 Y=-655608",
+			"BottomRight": "X=-460815 Y=-714064"
+		},
+		{
+			"Name": "Z1_TrainYard",
+			"TopLeft": "X=-258552 Y=-715421",
+			"BottomRight": "X=-376545 Y=-779407"
+		},
+		{
+			"Name": "Z3_SmallShipYard",
+			"TopLeft": "X=161699 Y=-751414",
+			"BottomRight": "X=135147 Y=-769959"
+		},
+		{
+			"Name": "Z3_MotorbikeTrack",
+			"TopLeft": "X=285666 Y=-738701",
+			"BottomRight": "X=242595 Y=-775379"
+		},
+		{
+			"Name": "A4_Airfield",
+			"TopLeft": "X=381461 Y=-514144",
+			"BottomRight": "X=344910 Y=-535555"
+		},
+		{
+			"Name": "A4_NavalBase",
+			"TopLeft": "X=540213 Y=-504542",
+			"BottomRight": "X=455215 Y=-587118"
+		},
+		{
+			"Name": "B1_Factory",
+			"TopLeft": "X=-393534 Y=8029",
+			"BottomRight": "X=-423082 Y=-20343"
+		},
+		{
+			"Name": "B3_TrainYard",
+			"TopLeft": "X=108348 Y=-150794",
+			"BottomRight": "X=81472 Y=-182557"
+		},
+		{
+			"Name": "B3_BootCamp",
+			"TopLeft": "X=265831 Y=-23076",
+			"BottomRight": "X=237288 Y=-44066"
+		},
+		{
+			"Name": "C2_Prison",
+			"TopLeft": "X=-51241 Y=163182",
+			"BottomRight": "X=-83038 Y=140997"
+		},
+		{
+			"Name": "C2_Dam",
+			"TopLeft": "X=12127 Y=280039",
+			"BottomRight": "X=-28678 Y=230182"
+		},
+		{
+			"Name": "D0_MilitaryBarracks",
+			"TopLeft": "X=-846118 Y=558365",
+			"BottomRight": "X=-885449 Y=488282"
+		},
+		{
+			"Name": "D1_CoalMine",
+			"TopLeft": "X=-439396 Y=451867",
+			"BottomRight": "X=-472070 Y=393044"
+		},
+		{
+			"Name": "D4_MilitaryAirfield",
+			"TopLeft": "X=562660 Y=618628",
+			"BottomRight": "X=430163 Y=520969"
+		}
+	]
+}

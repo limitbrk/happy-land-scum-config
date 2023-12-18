@@ -44,7 +44,7 @@ Loot/
 - `SetClothesDirtiness_DeadPuppets` -  ค่าชุดสกปรก 93-96%
 - `SetClothesDirtiness_DirtyClothes` - ค่าชุดสกปรก 60-85%
 - `SetClothesDirtiness_ResidentialClothes` - ค่าสกปรก 0-20%
-- `SetUsage_Max` - ดรอปชาร์จเต็ม
+- `SetUsage_Max` - ดรอปชาร์จ 0%
 
 ### `Items/`
 

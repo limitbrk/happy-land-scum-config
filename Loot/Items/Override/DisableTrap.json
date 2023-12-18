@@ -1,0 +1,39 @@
+{
+	"Parameters": [
+		{
+			"Id": "Mine_01",
+			"IsDisabledForSpawning": true,
+			"AllowedLocations": [],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"Variations": [
+				"Mine_02"
+			],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Claymore",
+			"IsDisabledForSpawning": true,
+			"AllowedLocations": [],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+        },
+		{
+			"Id": "PromTrap",
+			"IsDisabledForSpawning": true,
+			"AllowedLocations": [],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		}
+    ]
+}
