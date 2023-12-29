@@ -8,9 +8,19 @@
 		"Cal_50BMG",
 		"Cal_50BMG",
 		"Cal_50BMG",
-		"KeyCard",
-		"MemoryModule_Level1"
+		"KeyCard"
 	],
+	"Items": [
+		{
+			"Rarity": "Uncommon",
+			"Id": "MemoryModule_Level1"
+		}
+	],
+	"Probability": 5,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
+	"AllowDuplicates": true,
+	"ShouldFilterItemsByZone": true,
 	"InitialDamage": 20,
 	"RandomDamage": 10,
 	"InitialUsage": 0,

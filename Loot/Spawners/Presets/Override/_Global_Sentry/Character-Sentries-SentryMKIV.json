@@ -14,10 +14,19 @@
 		"Frag_Grenade",
 		"TearGasGrenade",
 		"TearGasGrenade",
-		"KeyCard",
-		"MemoryModule_Level4",
-		"MemoryModule_Level4"
+		"KeyCard"
 	],
+	"Items": [
+		{
+			"Rarity": "Uncommon",
+			"Id": "MemoryModule_Level4"
+		}
+	],
+	"Probability": 15,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
 	"InitialDamage": 20,
 	"RandomDamage": 10,
 	"InitialUsage": 0,
