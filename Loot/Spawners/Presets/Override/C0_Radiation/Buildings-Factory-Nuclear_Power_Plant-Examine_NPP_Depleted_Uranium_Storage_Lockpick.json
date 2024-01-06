@@ -1,4 +1,13 @@
 {
+	"Remark":"Fixed With SuperLoot",
+	"FixedItems": [
+		"Depleted_Uranium",
+		"Depleted_Uranium",
+		"Depleted_Uranium",
+		"Depleted_Uranium",
+		"Depleted_Uranium",
+		"Depleted_Uranium"
+	],
 	"Items": [
 		{
 			"Rarity": "Uncommon",
@@ -10,9 +19,9 @@
 		}
 	],
 	"Probability": 60,
-	"QuantityMin": 1,
-	"QuantityMax": 2,
-	"AllowDuplicates": true,
+	"QuantityMin": 0,
+	"QuantityMax": 1,
+	"AllowDuplicates": false,
 	"ShouldFilterItemsByZone": false,
 	"InitialDamage": 0,
 	"RandomDamage": 0,
