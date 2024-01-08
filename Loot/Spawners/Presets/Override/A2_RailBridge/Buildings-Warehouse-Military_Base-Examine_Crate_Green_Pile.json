@@ -1,0 +1,19 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Military.AmmoBox"
+			]
+		}
+	],
+	"Probability": 100,
+	"QuantityMin": 8,
+	"QuantityMax": 16,
+	"AllowDuplicates": true,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 0,
+	"RandomDamage": 20,
+	"InitialUsage": 0,
+	"RandomUsage": 20
+}
