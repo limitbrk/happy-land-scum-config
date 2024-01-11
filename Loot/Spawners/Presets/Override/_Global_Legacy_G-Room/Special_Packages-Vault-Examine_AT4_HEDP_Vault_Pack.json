@@ -1,6 +1,7 @@
 {
+	"Remark": "Replace with FlameThrower",
 	"FixedItems": [
-		"Weapon_AT4_HEDP"
+		"Weapon_Improvised_Flamethrower"
 	],
 	"InitialDamage": 0,
 	"RandomDamage": 0,
