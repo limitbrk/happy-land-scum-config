@@ -1,4 +1,5 @@
 # SCUM ServerSettings Puppets Guide
+Will update later after 01/2024 patch
 File are in `ServerSettings.ini`
 
 ## การจำกัดจำนวน

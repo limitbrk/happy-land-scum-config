@@ -30,6 +30,7 @@
 			"ExamineSpawnerQuantityMultiplier": 10
 		},
 		{
+			"Remark": "Zone will randomize via. HappyBot",
 			"Name": "HighLoot",
 			"Zones": [
 				{
