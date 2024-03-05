@@ -13,8 +13,8 @@
 		"Stone_Small"
 	],
 	"QuantityMin": 0,
-	"QuantityMax": 1,
-	"AllowDuplicates": false,
+	"QuantityMax": 0,
+	"AllowDuplicates": true,
 	"ShouldFilterItemsByZone": false,
 	"InitialDamage": 0,
 	"RandomDamage": 0,

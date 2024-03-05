@@ -9,7 +9,7 @@
 	],
 	"Probability": 30,
 	"QuantityMin": 0,
-	"QuantityMax": 1,
+	"QuantityMax": 0,
 	"AllowDuplicates": false,
 	"ShouldFilterItemsByZone": false,
 	"InitialDamage": 80,
