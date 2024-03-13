@@ -19,7 +19,7 @@
 	"Probability": 5,
 	"QuantityMin": 1,
 	"QuantityMax": 1,
-	"AllowDuplicates": true,
+	"AllowDuplicates": false,
 	"ShouldFilterItemsByZone": true,
 	"InitialDamage": 20,
 	"RandomDamage": 10,

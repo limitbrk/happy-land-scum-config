@@ -5,24 +5,18 @@
 			"Zones": [
 				{
 					"Name": "Z4_Island_Small",
-					"TopLeft": "X=597980 Y=-754329",
-					"BottomRight": "X=542036 Y=-798699",
-					"MapCenter":"570008 -778443",
-					"MapSize":"0.280 0.241" 
+					"TopLeft": "X=600000 Y=-750000",
+					"BottomRight": "X=540000 Y=-790000"
 				},
 				{
 					"Name": "Z4_Island",
-					"TopLeft": "X=597980 Y=-790982",
-					"BottomRight": "X=376132 Y=-889367",
-					"MapCenter":"487056 -840174",
-					"MapSize":"1.109 0.492" 
+					"TopLeft": "X=600000 Y=-790000",
+					"BottomRight": "X=380000 Y=-890000"
 				},
 				{
 					"Name": "C0_Radiation",
-					"TopLeft": "X=-681023 Y=248810",
-					"BottomRight": "X=-910000.000 Y=25033",
-					"MapCenter":"-791947 136922",
-					"MapSize":"1.109 1.119" 
+					"TopLeft": "X=-680000 Y=240000",
+					"BottomRight": "X=-910000 Y=20000"
 				}
 			],
 			"SpawnerProbabilityMultiplier": 8,
