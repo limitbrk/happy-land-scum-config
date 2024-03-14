@@ -323,7 +323,7 @@
           "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Frag_Grenade",
+          "tradeable-code": "Depleted_Uranium",
           "base-purchase-price": "20000",
           "base-sell-price": "9000",
           "delta-price": "1",
@@ -348,14 +348,6 @@
         },
         {
           "tradeable-code": "PracticeTrap",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Frag_Grenade",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
@@ -4177,47 +4169,87 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Chainsaw",
+          "tradeable-code": "Christmas_Present_01",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Present_02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Present_03",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "ElectricityGenerator_Small",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "ElectricityGenerator",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "40000",
+          "base-sell-price": "20000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "GasTank",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "60000",
+          "base-sell-price": "30000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "Portable_Electric_Stove",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Portable_Gas_Stove",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "Refrigerator_Portable_Small",
+          "base-purchase-price": "40000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "GrillGrid",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Chainsaw",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
@@ -5176,7 +5208,7 @@
           "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Frag_Grenade",
+          "tradeable-code": "Depleted_Uranium",
           "base-purchase-price": "20000",
           "base-sell-price": "9000",
           "delta-price": "1",
@@ -5201,14 +5233,6 @@
         },
         {
           "tradeable-code": "PracticeTrap",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Frag_Grenade",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
@@ -9030,47 +9054,87 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Chainsaw",
+          "tradeable-code": "Christmas_Present_01",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Present_02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Present_03",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "ElectricityGenerator_Small",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "ElectricityGenerator",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "40000",
+          "base-sell-price": "20000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "GasTank",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "60000",
+          "base-sell-price": "30000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "Portable_Electric_Stove",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Portable_Gas_Stove",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "Refrigerator_Portable_Small",
+          "base-purchase-price": "40000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "GrillGrid",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Chainsaw",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
@@ -10029,7 +10093,7 @@
           "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Frag_Grenade",
+          "tradeable-code": "Depleted_Uranium",
           "base-purchase-price": "20000",
           "base-sell-price": "9000",
           "delta-price": "1",
@@ -10054,14 +10118,6 @@
         },
         {
           "tradeable-code": "PracticeTrap",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Frag_Grenade",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
@@ -13883,47 +13939,87 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Chainsaw",
+          "tradeable-code": "Christmas_Present_01",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Present_02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Present_03",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "ElectricityGenerator_Small",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "ElectricityGenerator",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "40000",
+          "base-sell-price": "20000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "GasTank",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "60000",
+          "base-sell-price": "30000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "Portable_Electric_Stove",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Portable_Gas_Stove",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "Refrigerator_Portable_Small",
+          "base-purchase-price": "40000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "GrillGrid",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Chainsaw",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
@@ -14882,7 +14978,7 @@
           "can-be-purchased": "true"
         },
         {
-          "tradeable-code": "Frag_Grenade",
+          "tradeable-code": "Depleted_Uranium",
           "base-purchase-price": "20000",
           "base-sell-price": "9000",
           "delta-price": "1",
@@ -14907,14 +15003,6 @@
         },
         {
           "tradeable-code": "PracticeTrap",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "Frag_Grenade",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
@@ -18736,47 +18824,87 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Chainsaw",
+          "tradeable-code": "Christmas_Present_01",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Present_02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Christmas_Present_03",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "ElectricityGenerator_Small",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "ElectricityGenerator",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "40000",
+          "base-sell-price": "20000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "GasTank",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "60000",
+          "base-sell-price": "30000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "Portable_Electric_Stove",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Portable_Gas_Stove",
+          "base-purchase-price": "10000",
+          "base-sell-price": "5000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "Refrigerator_Portable_Small",
+          "base-purchase-price": "40000",
+          "base-sell-price": "20000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "GrillGrid",
+          "base-purchase-price": "4000",
+          "base-sell-price": "2000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Chainsaw",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
