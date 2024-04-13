@@ -2411,7 +2411,7 @@
           "base-purchase-price": "70000",
           "base-sell-price": "14000",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -2443,7 +2443,7 @@
           "base-purchase-price": "70000",
           "base-sell-price": "14000",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -2507,7 +2507,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2515,7 +2515,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "50",
           "can-be-purchased": "default"
         },
         {
@@ -2523,7 +2523,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "50",
           "can-be-purchased": "default"
         },
         {
@@ -2531,7 +2531,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "20",
           "can-be-purchased": "default"
         },
         {
@@ -2539,7 +2539,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "20",
           "can-be-purchased": "default"
         },
         {
@@ -2547,7 +2547,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "40",
           "can-be-purchased": "default"
         },
         {
@@ -2555,7 +2555,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "40",
           "can-be-purchased": "default"
         },
         {
@@ -2563,7 +2563,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2571,7 +2571,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2579,7 +2579,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -2587,15 +2587,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Bumper_Armor_Back_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2603,7 +2595,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2611,7 +2603,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2619,7 +2611,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2627,7 +2619,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2635,39 +2627,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Door_ArmorHeavy_FrontLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Door_ArmorHeavy_FrontRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Door_ArmorLight_FrontLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Door_ArmorLight_FrontRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2675,7 +2635,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2683,7 +2643,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2691,31 +2651,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorHeavy_Top_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorHeavy_Left",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorHeavy_Right",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2723,31 +2659,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorLight_Top",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorLight_Left",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorLight_Right",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2755,7 +2667,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2763,7 +2675,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2771,7 +2683,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2779,7 +2691,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2787,7 +2699,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2795,7 +2707,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2803,15 +2715,55 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Laika_DoorTrunk_ArmorHeavy_Item",
+          "tradeable-code": "Laika_Bumper_Armor_Back_Item",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Door_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Door_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorLight_Top",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorLight_Left",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorLight_Right",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -2819,7 +2771,55 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Door_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Door_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorHeavy_Top_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorHeavy_Left",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorHeavy_Right",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_DoorTrunk_ArmorHeavy_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
           "can-be-purchased": "default"
         },
         {
@@ -2827,15 +2827,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Bumper_Armor_Back_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2843,7 +2835,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2851,7 +2843,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2859,7 +2851,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2867,7 +2859,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2875,7 +2867,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2883,71 +2875,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorHeavy_BackLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorHeavy_BackRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorHeavy_FrontLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorHeavy_FrontRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorLight_BackLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorLight_BackRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorLight_FrontLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorLight_FrontRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2955,7 +2883,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2963,7 +2891,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2971,7 +2899,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2979,7 +2907,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -2987,15 +2915,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Body_ArmorHeavy_Top_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -3003,7 +2923,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -3011,7 +2931,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -3019,7 +2939,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -3027,7 +2947,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -3035,7 +2955,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -3043,7 +2963,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -3051,7 +2971,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -3059,7 +2979,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -3067,7 +2987,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -3075,15 +2995,47 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "WW_DoorTrunk_ArmorHeavy_Item",
+          "tradeable-code": "WW_Bumper_Armor_Back_Item",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorLight_BackLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorLight_BackRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -3091,7 +3043,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -3099,7 +3051,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -3107,7 +3059,55 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorHeavy_BackLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorHeavy_BackRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Body_ArmorHeavy_Top_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_DoorTrunk_ArmorHeavy_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
           "can-be-purchased": "default"
         },
         {
@@ -3115,7 +3115,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -3123,7 +3123,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -3131,7 +3131,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -3139,7 +3139,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -3147,7 +3147,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -3155,7 +3155,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -3163,7 +3163,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -3171,7 +3171,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -3179,7 +3179,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -3187,7 +3187,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -3195,7 +3195,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -3203,7 +3203,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -3211,7 +3211,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -3219,7 +3219,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -3227,7 +3227,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -3235,7 +3235,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -3243,7 +3243,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -3251,7 +3251,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -3259,7 +3259,183 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorLight_Back_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorLight_Left_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorLight_Right_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorLight_Top_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorLight_BackLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorLight_BackRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_DoorTrunk_ArmorLight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Wheel_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Wheel_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorHeavy_Back_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorHeavy_Left_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorHeavy_Right_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorHeavy_Top_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorHeavy_BackLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorHeavy_BackRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_DoorTrunk_ArmorHeavy_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Wheel_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Wheel_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
           "can-be-purchased": "default"
         }
       ],
@@ -4314,6 +4490,22 @@
         },
         {
           "tradeable-code": "Battery_Charger_Medium",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cigarettes",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cigarettes1",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
@@ -7296,7 +7488,7 @@
           "base-purchase-price": "70000",
           "base-sell-price": "14000",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -7328,7 +7520,7 @@
           "base-purchase-price": "70000",
           "base-sell-price": "14000",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -7392,7 +7584,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7400,7 +7592,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "50",
           "can-be-purchased": "default"
         },
         {
@@ -7408,7 +7600,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "50",
           "can-be-purchased": "default"
         },
         {
@@ -7416,7 +7608,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "20",
           "can-be-purchased": "default"
         },
         {
@@ -7424,7 +7616,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "20",
           "can-be-purchased": "default"
         },
         {
@@ -7432,7 +7624,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "40",
           "can-be-purchased": "default"
         },
         {
@@ -7440,7 +7632,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "40",
           "can-be-purchased": "default"
         },
         {
@@ -7448,7 +7640,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7456,7 +7648,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7464,7 +7656,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -7472,15 +7664,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Bumper_Armor_Back_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7488,7 +7672,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7496,7 +7680,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7504,7 +7688,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7512,7 +7696,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7520,39 +7704,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Door_ArmorHeavy_FrontLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Door_ArmorHeavy_FrontRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Door_ArmorLight_FrontLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Door_ArmorLight_FrontRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7560,7 +7712,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7568,7 +7720,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7576,31 +7728,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorHeavy_Top_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorHeavy_Left",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorHeavy_Right",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7608,31 +7736,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorLight_Top",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorLight_Left",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorLight_Right",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7640,7 +7744,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7648,7 +7752,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7656,7 +7760,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7664,7 +7768,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7672,7 +7776,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7680,7 +7784,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7688,15 +7792,55 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Laika_DoorTrunk_ArmorHeavy_Item",
+          "tradeable-code": "Laika_Bumper_Armor_Back_Item",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Door_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Door_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorLight_Top",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorLight_Left",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorLight_Right",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -7704,7 +7848,55 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Door_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Door_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorHeavy_Top_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorHeavy_Left",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorHeavy_Right",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_DoorTrunk_ArmorHeavy_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
           "can-be-purchased": "default"
         },
         {
@@ -7712,15 +7904,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Bumper_Armor_Back_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7728,7 +7912,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7736,7 +7920,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7744,7 +7928,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7752,7 +7936,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7760,7 +7944,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7768,71 +7952,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorHeavy_BackLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorHeavy_BackRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorHeavy_FrontLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorHeavy_FrontRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorLight_BackLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorLight_BackRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorLight_FrontLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorLight_FrontRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7840,7 +7960,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7848,7 +7968,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7856,7 +7976,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7864,7 +7984,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7872,15 +7992,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Body_ArmorHeavy_Top_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7888,7 +8000,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7896,7 +8008,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7904,7 +8016,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7912,7 +8024,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7920,7 +8032,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7928,7 +8040,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7936,7 +8048,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7944,7 +8056,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7952,7 +8064,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -7960,15 +8072,47 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "WW_DoorTrunk_ArmorHeavy_Item",
+          "tradeable-code": "WW_Bumper_Armor_Back_Item",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorLight_BackLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorLight_BackRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -7976,7 +8120,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -7984,7 +8128,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -7992,7 +8136,55 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorHeavy_BackLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorHeavy_BackRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Body_ArmorHeavy_Top_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_DoorTrunk_ArmorHeavy_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
           "can-be-purchased": "default"
         },
         {
@@ -8000,7 +8192,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -8008,7 +8200,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -8016,7 +8208,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -8024,7 +8216,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -8032,7 +8224,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -8040,7 +8232,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -8048,7 +8240,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -8056,7 +8248,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -8064,7 +8256,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -8072,7 +8264,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -8080,7 +8272,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -8088,7 +8280,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -8096,7 +8288,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -8104,7 +8296,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -8112,7 +8304,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -8120,7 +8312,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -8128,7 +8320,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -8136,7 +8328,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -8144,7 +8336,183 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorLight_Back_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorLight_Left_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorLight_Right_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorLight_Top_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorLight_BackLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorLight_BackRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_DoorTrunk_ArmorLight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Wheel_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Wheel_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorHeavy_Back_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorHeavy_Left_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorHeavy_Right_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorHeavy_Top_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorHeavy_BackLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorHeavy_BackRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_DoorTrunk_ArmorHeavy_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Wheel_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Wheel_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
           "can-be-purchased": "default"
         }
       ],
@@ -9199,6 +9567,22 @@
         },
         {
           "tradeable-code": "Battery_Charger_Medium",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cigarettes",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cigarettes1",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
@@ -12181,7 +12565,7 @@
           "base-purchase-price": "70000",
           "base-sell-price": "14000",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -12213,7 +12597,7 @@
           "base-purchase-price": "70000",
           "base-sell-price": "14000",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -12277,7 +12661,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12285,7 +12669,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "50",
           "can-be-purchased": "default"
         },
         {
@@ -12293,7 +12677,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "50",
           "can-be-purchased": "default"
         },
         {
@@ -12301,7 +12685,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "20",
           "can-be-purchased": "default"
         },
         {
@@ -12309,7 +12693,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "20",
           "can-be-purchased": "default"
         },
         {
@@ -12317,7 +12701,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "40",
           "can-be-purchased": "default"
         },
         {
@@ -12325,7 +12709,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "40",
           "can-be-purchased": "default"
         },
         {
@@ -12333,7 +12717,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12341,7 +12725,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12349,7 +12733,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -12357,15 +12741,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Bumper_Armor_Back_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12373,7 +12749,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12381,7 +12757,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12389,7 +12765,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12397,7 +12773,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12405,39 +12781,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Door_ArmorHeavy_FrontLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Door_ArmorHeavy_FrontRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Door_ArmorLight_FrontLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Door_ArmorLight_FrontRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12445,7 +12789,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12453,7 +12797,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12461,31 +12805,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorHeavy_Top_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorHeavy_Left",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorHeavy_Right",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12493,31 +12813,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorLight_Top",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorLight_Left",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorLight_Right",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12525,7 +12821,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12533,7 +12829,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12541,7 +12837,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12549,7 +12845,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12557,7 +12853,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12565,7 +12861,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12573,15 +12869,55 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Laika_DoorTrunk_ArmorHeavy_Item",
+          "tradeable-code": "Laika_Bumper_Armor_Back_Item",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Door_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Door_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorLight_Top",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorLight_Left",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorLight_Right",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -12589,7 +12925,55 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Door_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Door_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorHeavy_Top_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorHeavy_Left",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorHeavy_Right",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_DoorTrunk_ArmorHeavy_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
           "can-be-purchased": "default"
         },
         {
@@ -12597,15 +12981,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Bumper_Armor_Back_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12613,7 +12989,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12621,7 +12997,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12629,7 +13005,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12637,7 +13013,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12645,7 +13021,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12653,71 +13029,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorHeavy_BackLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorHeavy_BackRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorHeavy_FrontLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorHeavy_FrontRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorLight_BackLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorLight_BackRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorLight_FrontLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorLight_FrontRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12725,7 +13037,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12733,7 +13045,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12741,7 +13053,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12749,7 +13061,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12757,15 +13069,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Body_ArmorHeavy_Top_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12773,7 +13077,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12781,7 +13085,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12789,7 +13093,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12797,7 +13101,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12805,7 +13109,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12813,7 +13117,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12821,7 +13125,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12829,7 +13133,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12837,7 +13141,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -12845,15 +13149,47 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "WW_DoorTrunk_ArmorHeavy_Item",
+          "tradeable-code": "WW_Bumper_Armor_Back_Item",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorLight_BackLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorLight_BackRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -12861,7 +13197,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -12869,7 +13205,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -12877,7 +13213,55 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorHeavy_BackLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorHeavy_BackRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Body_ArmorHeavy_Top_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_DoorTrunk_ArmorHeavy_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
           "can-be-purchased": "default"
         },
         {
@@ -12885,7 +13269,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -12893,7 +13277,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -12901,7 +13285,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -12909,7 +13293,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -12917,7 +13301,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -12925,7 +13309,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -12933,7 +13317,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -12941,7 +13325,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -12949,7 +13333,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -12957,7 +13341,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -12965,7 +13349,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -12973,7 +13357,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -12981,7 +13365,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -12989,7 +13373,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -12997,7 +13381,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -13005,7 +13389,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -13013,7 +13397,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -13021,7 +13405,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -13029,7 +13413,183 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorLight_Back_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorLight_Left_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorLight_Right_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorLight_Top_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorLight_BackLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorLight_BackRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_DoorTrunk_ArmorLight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Wheel_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Wheel_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorHeavy_Back_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorHeavy_Left_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorHeavy_Right_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorHeavy_Top_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorHeavy_BackLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorHeavy_BackRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_DoorTrunk_ArmorHeavy_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Wheel_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Wheel_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
           "can-be-purchased": "default"
         }
       ],
@@ -14084,6 +14644,22 @@
         },
         {
           "tradeable-code": "Battery_Charger_Medium",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cigarettes",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cigarettes1",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
@@ -17066,7 +17642,7 @@
           "base-purchase-price": "70000",
           "base-sell-price": "14000",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -17098,7 +17674,7 @@
           "base-purchase-price": "70000",
           "base-sell-price": "14000",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -17162,7 +17738,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17170,7 +17746,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "50",
           "can-be-purchased": "default"
         },
         {
@@ -17178,7 +17754,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "50",
           "can-be-purchased": "default"
         },
         {
@@ -17186,7 +17762,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "20",
           "can-be-purchased": "default"
         },
         {
@@ -17194,7 +17770,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "20",
           "can-be-purchased": "default"
         },
         {
@@ -17202,7 +17778,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "40",
           "can-be-purchased": "default"
         },
         {
@@ -17210,7 +17786,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "40",
           "can-be-purchased": "default"
         },
         {
@@ -17218,7 +17794,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17226,7 +17802,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17234,7 +17810,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -17242,15 +17818,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Bumper_Armor_Back_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17258,7 +17826,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17266,7 +17834,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17274,7 +17842,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17282,7 +17850,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17290,39 +17858,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Door_ArmorHeavy_FrontLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Door_ArmorHeavy_FrontRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Door_ArmorLight_FrontLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Door_ArmorLight_FrontRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17330,7 +17866,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17338,7 +17874,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17346,31 +17882,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorHeavy_Top_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorHeavy_Left",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorHeavy_Right",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17378,31 +17890,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorLight_Top",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorLight_Left",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Laika_Body_ArmorLight_Right",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17410,7 +17898,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17418,7 +17906,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17426,7 +17914,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17434,7 +17922,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17442,7 +17930,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17450,7 +17938,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17458,15 +17946,55 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Laika_DoorTrunk_ArmorHeavy_Item",
+          "tradeable-code": "Laika_Bumper_Armor_Back_Item",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Door_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Door_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorLight_Top",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorLight_Left",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorLight_Right",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -17474,7 +18002,55 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Door_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Door_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorHeavy_Top_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorHeavy_Left",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_Body_ArmorHeavy_Right",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Laika_DoorTrunk_ArmorHeavy_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
           "can-be-purchased": "default"
         },
         {
@@ -17482,15 +18058,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Bumper_Armor_Back_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17498,7 +18066,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17506,7 +18074,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17514,7 +18082,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17522,7 +18090,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17530,7 +18098,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17538,71 +18106,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorHeavy_BackLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorHeavy_BackRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorHeavy_FrontLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorHeavy_FrontRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorLight_BackLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorLight_BackRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorLight_FrontLeft_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Door_ArmorLight_FrontRight_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17610,7 +18114,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17618,7 +18122,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17626,7 +18130,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17634,7 +18138,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17642,15 +18146,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "WW_Body_ArmorHeavy_Top_Item",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17658,7 +18154,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17666,7 +18162,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17674,7 +18170,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17682,7 +18178,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17690,7 +18186,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17698,7 +18194,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17706,7 +18202,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17714,7 +18210,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17722,7 +18218,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
@@ -17730,15 +18226,47 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "50",
+          "required-famepoints": "100",
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "WW_DoorTrunk_ArmorHeavy_Item",
+          "tradeable-code": "WW_Bumper_Armor_Back_Item",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorLight_BackLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorLight_BackRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -17746,7 +18274,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -17754,7 +18282,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
           "can-be-purchased": "default"
         },
         {
@@ -17762,7 +18290,55 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "170",
+          "required-famepoints": "250",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorHeavy_BackLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorHeavy_BackRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Door_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_Body_ArmorHeavy_Top_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "WW_DoorTrunk_ArmorHeavy_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
           "can-be-purchased": "default"
         },
         {
@@ -17770,7 +18346,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -17778,7 +18354,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -17786,7 +18362,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -17794,7 +18370,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -17802,7 +18378,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -17810,7 +18386,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -17818,7 +18394,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -17826,7 +18402,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -17834,7 +18410,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -17842,7 +18418,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -17850,7 +18426,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -17858,7 +18434,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -17866,7 +18442,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -17874,7 +18450,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -17882,7 +18458,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -17890,7 +18466,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -17898,7 +18474,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -17906,7 +18482,7 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
           "can-be-purchased": "default"
         },
         {
@@ -17914,7 +18490,183 @@
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
-          "required-famepoints": "-1",
+          "required-famepoints": "200",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorLight_Back_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorLight_Left_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorLight_Right_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorLight_Top_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorLight_BackLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorLight_BackRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_DoorTrunk_ArmorLight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Wheel_ArmorLight_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Wheel_ArmorLight_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "500",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorHeavy_Back_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorHeavy_Left_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorHeavy_Right_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Body_ArmorHeavy_Top_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorHeavy_BackLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorHeavy_BackRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Door_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_DoorTrunk_ArmorHeavy_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Wheel_ArmorHeavy_FrontLeft_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Rager_Wheel_ArmorHeavy_FrontRight_Item",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "1000",
           "can-be-purchased": "default"
         }
       ],
@@ -18969,6 +19721,22 @@
         },
         {
           "tradeable-code": "Battery_Charger_Medium",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cigarettes",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Cigarettes1",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",

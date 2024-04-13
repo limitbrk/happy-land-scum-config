@@ -18,7 +18,7 @@
 		"Copper_Coins",
 		"Copper_Coins"
 	],
-	"Probability": 10,
+	"Probability": 6,
 	"QuantityMin": 1,
 	"QuantityMax": 1,
 	"AllowDuplicates": false,
