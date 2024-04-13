@@ -1,6 +1,5 @@
 {
 	"Name": "ItemLootTreeNodes",
-	"Rarity": "Uncommon",
 	"Children": [
 		{
 			"Name": "Depository",
