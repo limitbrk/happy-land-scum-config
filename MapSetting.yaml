@@ -1,0 +1,151 @@
+map:
+  D4-Gas:
+    center: 590000 335000
+    radius: 0.250
+  D4-AirField:
+    center: 460000 580000
+    radius: 0.900
+  D3-Gas:
+    center: 280000 333333
+    radius: 0.250
+  D3-Bunker:
+    center: 130000 510000
+    radius: 0.700
+  D2-Bunker:
+    center: -240000 567000
+    radius: 0.250
+  D2-Bunker:
+    center: -240000 567000
+    radius: 0.250
+  D1-Ghost:
+    center: -430000 600000
+    radius: 0.600
+  D1-Coal:
+    center: -455000 421000
+    radius: 0.500
+  D0-BootCamp:
+    center: -876000 567000
+    radius: 0.900
+  C4-Hospital:
+    center: 410000 275000
+    radius: 0.600 0.400
+  C3-Gas:
+    center: 192000 152000
+    radius: 0.250
+  C3-Bunker:
+    center: 185000 285000
+    radius: 0.250
+  C2-Dam:
+    center: -12500 250000
+    radius: 0.500
+  C2-Prison:
+    center: -63000 149000
+    radius: 0.500
+  C2-Radio:
+    center: -200000 160000
+    radius: 0.400 0.500
+  C1-Observatory:
+    center: -360000 200000
+    radius: 0.600 0.350
+  C1-Gas:
+    center: -505000 305000
+    radius: 0.250
+  B4-Gas:
+    center: 504000 -167000
+    radius: 0.200
+  B4-Bunker:
+    center: 444000 -10000
+    radius: 0.250
+  B3-Gas:
+    center: 250000 -255000
+    radius: 0.250
+  B3-BootCamp:
+    center: 245000 -60000
+    radius: 0.400 0.600
+  B3-TrainYard:
+    center: 100000 -165000
+    radius: 0.500
+  B2-Bunker:
+    center: -40000 -200000
+    radius: 0.250
+  B2-Gas:
+    center: -111000 -66600
+    radius: 0.250
+  B2-AirField:
+    center: -260000 -23400
+    radius: 0.900
+  B1-Factory:
+    center: -408000 -5000
+    radius: 0.400
+  B1-Gas:
+    center: -408000 -108000
+    radius: 0.250
+  B1-Bunker:
+    center: -585000 -258000
+    radius: 0.250
+  B0-Hospital:
+    center: -630000 -160000
+    radius: 0.500
+  B0-Bunker:
+    center: -810000 -90000
+    radius: 0.300
+  B0-Junkyard:
+    center: -870000 -190000
+    radius: 0.500
+  A4-Naval:
+    center: 510000 -540000
+    radius: 0.600
+  A4-Bunker:
+    center: 450000 -400000
+    radius: 0.250
+  A4-AirStrip:
+    center: 360000 -525000
+    radius: 0.400
+  A3-Bunker:
+    center: 235000 -450000
+    radius: 0.250
+  A3-Quarry:
+    center: 139000 -321000
+    radius: 0.600
+  A2-Gas:
+    center: -20000 -480000
+    radius: 0.600 0.200
+  A2-DairyFactory:
+    center: -80000 -340000
+    radius: 0.600 0.300
+  A1-FishFactory:
+    center: -350000 -410000
+    radius: 0.500
+  A0-Bunker:
+    center: -765000 -315000
+    radius: 0.400 0.600
+  Z4-Bunker:
+    center: 522000 -830000
+    radius: 0.250
+  Z3-MotorbikeTrack:
+    center: 265000 -756000
+    radius: 0.400
+  Z3-SmallShipYard:
+    center: 130000 -760000
+    radius: 0.500 0.300
+  Z3-Bunker:
+    center: 34000 -810000
+    radius: 0.250
+  Z2-Bunker:
+    center: -175000 -666000
+    radius: 0.500 0.400
+  Z1-TrainYard:
+    center: -315000 -725000
+    radius: 0.700 0.650
+  Z1-TorpedoFactory:
+    center: -440000 -690000
+    radius: 0.400
+  Z1-Bunker:
+    center: -600000 -700000
+    radius: 0.500 0.400
+  Z0-Bunker:
+    center: -700000 -790000
+    radius: 0.250
+  Z0-AirStrip:
+    center: -756000 -660000
+    radius: 0.400
