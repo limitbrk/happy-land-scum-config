@@ -14,21 +14,27 @@ map:
   D2-Bunker:
     center: -240000 567000
     radius: 0.250
-  D2-Bunker:
-    center: -240000 567000
-    radius: 0.250
   D1-Ghost:
     center: -430000 600000
     radius: 0.600
   D1-Coal:
-    center: -455000 421000
+    center: -460000 421000
     radius: 0.500
+  D1-Bunker:
+    center: -535000 540000
+    radius: 0.250
   D0-BootCamp:
     center: -876000 567000
     radius: 0.900
   C4-Hospital:
     center: 410000 275000
     radius: 0.600 0.400
+  C3-Trenches:
+    center: 234000 99000
+    radius: 0.150
+  C3-Military:
+    center: 218000 45000
+    radius: 0.125
   C3-Gas:
     center: 192000 152000
     radius: 0.250
@@ -50,9 +56,15 @@ map:
   C1-Gas:
     center: -505000 305000
     radius: 0.250
+  C0-Bunker:
+    center: -900000 230000
+    radius: 0.250
   B4-Gas:
     center: 504000 -167000
     radius: 0.200
+  B4-Military:
+    center: 455000 -185000
+    radius: 0.100
   B4-Bunker:
     center: 444000 -10000
     radius: 0.250
@@ -61,19 +73,22 @@ map:
     radius: 0.250
   B3-BootCamp:
     center: 245000 -60000
-    radius: 0.400 0.600
+    radius: 0.400 0.500
   B3-TrainYard:
     center: 100000 -165000
-    radius: 0.500
+    radius: 0.400
   B2-Bunker:
     center: -40000 -200000
     radius: 0.250
   B2-Gas:
     center: -111000 -66600
     radius: 0.250
+  B2-Miltitary:
+    center: -193000 -181000
+    radius: 0.150
   B2-AirField:
     center: -260000 -23400
-    radius: 0.900
+    radius: 0.900 0.400
   B1-Factory:
     center: -408000 -5000
     radius: 0.400
@@ -107,9 +122,12 @@ map:
   A3-Quarry:
     center: 139000 -321000
     radius: 0.600
-  A2-Gas:
-    center: -20000 -480000
-    radius: 0.600 0.200
+  A3-Gas:
+    center: 20000 -480000
+    radius: 0.200
+  A2-Naval:
+    center: -66000 -490000
+    radius: 0.250
   A2-DairyFactory:
     center: -80000 -340000
     radius: 0.600 0.300
@@ -131,9 +149,12 @@ map:
   Z3-Bunker:
     center: 34000 -810000
     radius: 0.250
+  Z2-Gas:
+    center: -146000 -685000
+    radius: 0.125
   Z2-Bunker:
-    center: -175000 -666000
-    radius: 0.500 0.400
+    center: -200000 -650000
+    radius: 0.250
   Z1-TrainYard:
     center: -315000 -725000
     radius: 0.700 0.650

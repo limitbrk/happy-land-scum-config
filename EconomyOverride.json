@@ -4519,6 +4519,22 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "1H_Dildo",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "1H_Beam_Dildo",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
         }
       ],
       "A_0_Saloon": [
@@ -9591,6 +9607,22 @@
         },
         {
           "tradeable-code": "Bobby_Pin_Pacage",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "1H_Dildo",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "1H_Beam_Dildo",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
@@ -14673,6 +14705,22 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "1H_Dildo",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "1H_Beam_Dildo",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
         }
       ],
       "C_2_Saloon": [
@@ -19745,6 +19793,22 @@
         },
         {
           "tradeable-code": "Bobby_Pin_Pacage",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "1H_Dildo",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "1H_Beam_Dildo",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
