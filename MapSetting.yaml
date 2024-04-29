@@ -1,3 +1,17 @@
+outpost:
+  C2-Outpost(NoParking):
+    center: -150000 290000
+    radius: 0.300
+  B4-Outpost(NoParking):
+    center: 575000 -222000
+    radius: 0.300
+  A0-Outpost(NoParking):
+    center: -620000 -567000
+    radius: 0.300
+  Z3-Outpost(NoParking):
+    center: 22000 -670000
+    radius: 0.300
+
 map:
   D4-Gas:
     center: 590000 335000
@@ -23,12 +37,15 @@ map:
   D1-Bunker:
     center: -535000 540000
     radius: 0.250
+  D0-Radar:
+    center: -860000 330000
+    radius: 0.300
   D0-BootCamp:
     center: -876000 567000
     radius: 0.900
   C4-Hospital:
     center: 410000 275000
-    radius: 0.600 0.400
+    radius: 0.600 0.300
   C3-Trenches:
     center: 234000 99000
     radius: 0.150
@@ -46,7 +63,7 @@ map:
     radius: 0.500
   C2-Prison:
     center: -63000 149000
-    radius: 0.500
+    radius: 0.400
   C2-Radio:
     center: -200000 160000
     radius: 0.400 0.500
@@ -87,11 +104,11 @@ map:
     center: -193000 -181000
     radius: 0.150
   B2-AirField:
-    center: -260000 -23400
+    center: -260000 -29000
     radius: 0.900 0.400
   B1-Factory:
     center: -408000 -5000
-    radius: 0.400
+    radius: 0.300
   B1-Gas:
     center: -408000 -108000
     radius: 0.250
@@ -106,10 +123,10 @@ map:
     radius: 0.300
   B0-Junkyard:
     center: -870000 -190000
-    radius: 0.500
+    radius: 0.400
   A4-Naval:
     center: 510000 -540000
-    radius: 0.600
+    radius: 0.500
   A4-Bunker:
     center: 450000 -400000
     radius: 0.250
@@ -133,7 +150,7 @@ map:
     radius: 0.600 0.300
   A1-FishFactory:
     center: -350000 -410000
-    radius: 0.500
+    radius: 0.200 0.650
   A0-Bunker:
     center: -765000 -315000
     radius: 0.400 0.600
