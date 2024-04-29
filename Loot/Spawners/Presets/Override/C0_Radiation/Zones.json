@@ -1,9 +1,0 @@
-{
-	"Zones": [
-		{
-			"Name": "C0_Radiation",
-			"TopLeft": "X=-681023 Y=248810",
-			"BottomRight": "X=-910000.000 Y=25033"
-		}
-	]
-}
