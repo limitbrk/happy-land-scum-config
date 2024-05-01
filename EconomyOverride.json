@@ -3,7 +3,7 @@
     "economy-reset-time-hours": "-1.0",
     "prices-randomization-time-hours": "-1.0",
     "fully-restock-tradeable-hours": "-1.0",
-    "trader-funds-change-rate-per-hour-multiplier": "2.00",
+    "trader-funds-change-rate-per-hour-multiplier": "3.00",
     "traders-unlimited-funds": "0",
     "traders-unlimited-stock": "1",
     "economy-logging": "1",
@@ -139,7 +139,24 @@
           "can-be-purchased": "true"
         }
       ],
-      "A_0_BoatShop": [],
+      "A_0_BoatShop": [
+        {
+          "tradeable-code": "Fish_Catfish",
+          "base-purchase-price": "1500",
+          "base-sell-price": "1000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Fish_Tuna",
+          "base-purchase-price": "300",
+          "base-sell-price": "200",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        }
+      ],
       "A_0_Mechanic": [
         {
           "tradeable-code": "Car_Repair_Kit",
@@ -264,14 +281,6 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Bobby_Pin_Pacage",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "false"
-        },
-        {
           "tradeable-code": "1H_Dildo",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
@@ -288,7 +297,40 @@
           "can-be-purchased": "false"
         }
       ],
-      "A_0_Saloon": [],
+      "A_0_Saloon": [
+        {
+          "tradeable-code": "Fish_Catfish",
+          "base-purchase-price": "1500",
+          "base-sell-price": "1000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Fish_Tuna",
+          "base-purchase-price": "300",
+          "base-sell-price": "200",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "1000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Ramsons",
+          "base-purchase-price": "500",
+          "base-sell-price": "300",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        }
+      ],
       "A_0_Hospital": [
         {
           "tradeable-code": "BP_BCUUpgradeService",
@@ -422,7 +464,24 @@
           "can-be-purchased": "true"
         }
       ],
-      "B_4_BoatShop": [],
+      "B_4_BoatShop": [
+        {
+          "tradeable-code": "Fish_Catfish",
+          "base-purchase-price": "1500",
+          "base-sell-price": "1000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Fish_Tuna",
+          "base-purchase-price": "300",
+          "base-sell-price": "200",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        }
+      ],
       "B_4_Mechanic": [
         {
           "tradeable-code": "Car_Repair_Kit",
@@ -547,14 +606,6 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Bobby_Pin_Pacage",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "false"
-        },
-        {
           "tradeable-code": "1H_Dildo",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
@@ -571,7 +622,40 @@
           "can-be-purchased": "false"
         }
       ],
-      "B_4_Saloon": [],
+      "B_4_Saloon": [
+        {
+          "tradeable-code": "Fish_Catfish",
+          "base-purchase-price": "1500",
+          "base-sell-price": "1000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Fish_Tuna",
+          "base-purchase-price": "300",
+          "base-sell-price": "200",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "1000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Ramsons",
+          "base-purchase-price": "500",
+          "base-sell-price": "300",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        }
+      ],
       "B_4_Hospital": [
         {
           "tradeable-code": "BP_BCUUpgradeService",
@@ -705,7 +789,24 @@
           "can-be-purchased": "true"
         }
       ],
-      "C_2_BoatShop": [],
+      "C_2_BoatShop": [
+        {
+          "tradeable-code": "Fish_Catfish",
+          "base-purchase-price": "1500",
+          "base-sell-price": "1000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Fish_Tuna",
+          "base-purchase-price": "300",
+          "base-sell-price": "200",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        }
+      ],
       "C_2_Mechanic": [
         {
           "tradeable-code": "Car_Repair_Kit",
@@ -830,14 +931,6 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Bobby_Pin_Pacage",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "false"
-        },
-        {
           "tradeable-code": "1H_Dildo",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
@@ -854,7 +947,40 @@
           "can-be-purchased": "false"
         }
       ],
-      "C_2_Saloon": [],
+      "C_2_Saloon": [
+        {
+          "tradeable-code": "Fish_Catfish",
+          "base-purchase-price": "1500",
+          "base-sell-price": "1000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Fish_Tuna",
+          "base-purchase-price": "300",
+          "base-sell-price": "200",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "1000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Ramsons",
+          "base-purchase-price": "500",
+          "base-sell-price": "300",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        }
+      ],
       "C_2_Hospital": [
         {
           "tradeable-code": "BP_BCUUpgradeService",
@@ -988,7 +1114,24 @@
           "can-be-purchased": "true"
         }
       ],
-      "Z_3_BoatShop": [],
+      "Z_3_BoatShop": [
+        {
+          "tradeable-code": "Fish_Catfish",
+          "base-purchase-price": "1500",
+          "base-sell-price": "1000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Fish_Tuna",
+          "base-purchase-price": "300",
+          "base-sell-price": "200",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        }
+      ],
       "Z_3_Mechanic": [
         {
           "tradeable-code": "Car_Repair_Kit",
@@ -1113,14 +1256,6 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Bobby_Pin_Pacage",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "false"
-        },
-        {
           "tradeable-code": "1H_Dildo",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
@@ -1137,7 +1272,40 @@
           "can-be-purchased": "false"
         }
       ],
-      "Z_3_Saloon": [],
+      "Z_3_Saloon": [
+        {
+          "tradeable-code": "Fish_Catfish",
+          "base-purchase-price": "1500",
+          "base-sell-price": "1000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Fish_Tuna",
+          "base-purchase-price": "300",
+          "base-sell-price": "200",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "1000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Ramsons",
+          "base-purchase-price": "500",
+          "base-sell-price": "300",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        }
+      ],
       "Z_3_Hospital": [
         {
           "tradeable-code": "BP_BCUUpgradeService",
