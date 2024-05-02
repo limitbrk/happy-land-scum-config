@@ -3,7 +3,7 @@
     "economy-reset-time-hours": "-1.0",
     "prices-randomization-time-hours": "-1.0",
     "fully-restock-tradeable-hours": "-1.0",
-    "trader-funds-change-rate-per-hour-multiplier": "3.00",
+    "trader-funds-change-rate-per-hour-multiplier": "6.00",
     "traders-unlimited-funds": "0",
     "traders-unlimited-stock": "1",
     "economy-logging": "1",
@@ -20,40 +20,40 @@
       "A_0_Armory": [
         {
           "tradeable-code": "C4",
-          "base-purchase-price": "5000000",
-          "base-sell-price": "50000",
+          "base-purchase-price": "3000000",
+          "base-sell-price": "30000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "C4_CircuitBoard",
-          "base-purchase-price": "1000000",
-          "base-sell-price": "5000",
+          "base-purchase-price": "300000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "C4_Detonator",
-          "base-purchase-price": "1000000",
-          "base-sell-price": "5000",
+          "base-purchase-price": "300000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "C4_Keypad",
-          "base-purchase-price": "1000000",
-          "base-sell-price": "5000",
+          "base-purchase-price": "300000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "C4_Pack",
-          "base-purchase-price": "1000000",
-          "base-sell-price": "5000",
+          "base-purchase-price": "300000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
@@ -345,40 +345,40 @@
       "B_4_Armory": [
         {
           "tradeable-code": "C4",
-          "base-purchase-price": "5000000",
-          "base-sell-price": "50000",
+          "base-purchase-price": "3000000",
+          "base-sell-price": "30000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "C4_CircuitBoard",
-          "base-purchase-price": "1000000",
-          "base-sell-price": "5000",
+          "base-purchase-price": "300000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "C4_Detonator",
-          "base-purchase-price": "1000000",
-          "base-sell-price": "5000",
+          "base-purchase-price": "300000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "C4_Keypad",
-          "base-purchase-price": "1000000",
-          "base-sell-price": "5000",
+          "base-purchase-price": "300000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "C4_Pack",
-          "base-purchase-price": "1000000",
-          "base-sell-price": "5000",
+          "base-purchase-price": "300000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
@@ -670,40 +670,40 @@
       "C_2_Armory": [
         {
           "tradeable-code": "C4",
-          "base-purchase-price": "5000000",
-          "base-sell-price": "50000",
+          "base-purchase-price": "3000000",
+          "base-sell-price": "30000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "C4_CircuitBoard",
-          "base-purchase-price": "1000000",
-          "base-sell-price": "5000",
+          "base-purchase-price": "300000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "C4_Detonator",
-          "base-purchase-price": "1000000",
-          "base-sell-price": "5000",
+          "base-purchase-price": "300000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "C4_Keypad",
-          "base-purchase-price": "1000000",
-          "base-sell-price": "5000",
+          "base-purchase-price": "300000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "C4_Pack",
-          "base-purchase-price": "1000000",
-          "base-sell-price": "5000",
+          "base-purchase-price": "300000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
@@ -995,40 +995,40 @@
       "Z_3_Armory": [
         {
           "tradeable-code": "C4",
-          "base-purchase-price": "5000000",
-          "base-sell-price": "50000",
+          "base-purchase-price": "3000000",
+          "base-sell-price": "30000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "C4_CircuitBoard",
-          "base-purchase-price": "1000000",
-          "base-sell-price": "5000",
+          "base-purchase-price": "300000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "C4_Detonator",
-          "base-purchase-price": "1000000",
-          "base-sell-price": "5000",
+          "base-purchase-price": "300000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "C4_Keypad",
-          "base-purchase-price": "1000000",
-          "base-sell-price": "5000",
+          "base-purchase-price": "300000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
         },
         {
           "tradeable-code": "C4_Pack",
-          "base-purchase-price": "1000000",
-          "base-sell-price": "5000",
+          "base-purchase-price": "300000",
+          "base-sell-price": "3000",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"

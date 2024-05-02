@@ -1,7 +1,13 @@
 {
-    "Remark": "Replace Drop With C4",
+    "Remark": "Replace Drop With Yellow Chinese Spearman",
 	"FixedItems": [
-		"C4"
+		"Bamboo_Hat_02",
+		"Tang_shirt_04",
+		"Tang_pants_04",
+		"Beijing_Shoes_04",
+		"Hand_Fan_01",
+		"Wushu_Spear_Metal",
+		"Grinding_Stone_02"
 	],
 	"InitialDamage": 0,
 	"RandomDamage": 0,
