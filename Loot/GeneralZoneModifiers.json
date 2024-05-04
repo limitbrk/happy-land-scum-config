@@ -1,0 +1,17 @@
+{
+	"Modifiers": [
+		{
+			"Name": "SuperLoot",
+			"Zones": [
+				{
+					"Name": "CoalMine",
+					"TopLeft": "X=-433501.6118 Y=460721.111",
+					"BottomRight": "X=-473713.0809 Y=381472.2304"
+				}
+			],
+			"SpawnerProbabilityMultiplier": 8,
+			"ExamineSpawnerProbabilityMultiplier": 8,
+			"ExamineSpawnerQuantityMultiplier": 10
+		}
+	]
+}
