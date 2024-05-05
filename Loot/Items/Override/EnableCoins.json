@@ -1,0 +1,19 @@
+{
+	"Parameters": [
+		{
+			"Id": "Copper_Coins",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		}
+    ]
+}

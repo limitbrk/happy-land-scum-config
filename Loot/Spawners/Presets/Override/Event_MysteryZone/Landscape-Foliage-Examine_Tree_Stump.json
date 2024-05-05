@@ -2,18 +2,17 @@
 	"Items": [
 		{
 			"Rarity": "Uncommon",
-			"Id": "C4_Keypad"
+			"Id": "Copper_Coins"
 		}
 	],
 	"FixedItems": [
-		"Copper_Coins",
-		"Copper_Coins",
 		"Copper_Coins"
 	],
+	"Probability": 25,
 	"QuantityMin": 1,
-	"QuantityMax": 1,
-	"AllowDuplicates": false,
-	"ShouldFilterItemsByZone": true,
+	"QuantityMax": 2,
+	"AllowDuplicates": true,
+	"ShouldFilterItemsByZone": false,
 	"InitialDamage": 0,
 	"RandomDamage": 0,
 	"InitialUsage": 0,

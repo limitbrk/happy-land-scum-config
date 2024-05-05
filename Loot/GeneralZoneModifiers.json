@@ -4,9 +4,9 @@
 			"Name": "SuperLoot",
 			"Zones": [
 				{
-					"Name": "CoalMine",
-					"TopLeft": "X=-433501.6118 Y=460721.111",
-					"BottomRight": "X=-473713.0809 Y=381472.2304"
+					"Name": "TZ0",
+					"TopLeft": "X=-855440.6664 Y=-829527.9443",
+					"BottomRight": "X=-902207.2897 Y=-868467.5177"
 				}
 			],
 			"SpawnerProbabilityMultiplier": 8,
