@@ -265,6 +265,22 @@
           "can-be-purchased": "false"
         },
         {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "1000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Ramsons",
+          "base-purchase-price": "500",
+          "base-sell-price": "300",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
           "tradeable-code": "Cigarettes",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
@@ -588,6 +604,22 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "1000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Ramsons",
+          "base-purchase-price": "500",
+          "base-sell-price": "300",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cigarettes",
@@ -915,6 +947,22 @@
           "can-be-purchased": "false"
         },
         {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "1000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Ramsons",
+          "base-purchase-price": "500",
+          "base-sell-price": "300",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
           "tradeable-code": "Cigarettes",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
@@ -1238,6 +1286,22 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "1000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Ramsons",
+          "base-purchase-price": "500",
+          "base-sell-price": "300",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cigarettes",
