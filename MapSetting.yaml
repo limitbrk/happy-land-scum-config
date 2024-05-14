@@ -1,15 +1,15 @@
 outpost:
   C2-Outpost(NoParking):
-    center: -150000 290000
+    center: -147082 278432
     radius: 0.300
   B4-Outpost(NoParking):
-    center: 575000 -222000
+    center: 570708 -226174
     radius: 0.300
   A0-Outpost(NoParking):
-    center: -620000 -567000
+    center: -610818 -556433
     radius: 0.300
   Z3-Outpost(NoParking):
-    center: 22000 -670000
+    center: 12820 -678344
     radius: 0.300
 
 map:
