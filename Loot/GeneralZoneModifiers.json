@@ -5,8 +5,8 @@
 			"Zones": [
 				{
 					"Name": "RDD0",
-					"TopLeft": "X=-841010 Y=6344835",
-					"BottomRight": "X=-885091 Y=310094"
+					"TopLeft": "X=-840090 Y=344670",
+					"BottomRight": "X=-884210 Y=309850"
 				}
 			],
 			"SpawnerProbabilityMultiplier": 8,
