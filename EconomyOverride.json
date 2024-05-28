@@ -137,6 +137,158 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_100",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_90",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_50",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Improvised_Bow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_25",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_30",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_35",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_60",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_80",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_70",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Snow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Desert",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Digital",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_US_Scorpion",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Woodland",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Weapon_BlackHawk_Crossbow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Weapon_Improvised_Crossbow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
         }
       ],
       "A_0_BoatShop": [
@@ -478,6 +630,158 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_100",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_90",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_50",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Improvised_Bow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_25",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_30",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_35",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_60",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_80",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_70",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Snow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Desert",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Digital",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_US_Scorpion",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Woodland",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Weapon_BlackHawk_Crossbow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Weapon_Improvised_Crossbow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
         }
       ],
       "B_4_BoatShop": [
@@ -819,6 +1123,158 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_100",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_90",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_50",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Improvised_Bow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_25",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_30",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_35",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_60",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_80",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_70",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Snow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Desert",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Digital",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_US_Scorpion",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Woodland",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Weapon_BlackHawk_Crossbow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Weapon_Improvised_Crossbow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
         }
       ],
       "C_2_BoatShop": [
@@ -1160,6 +1616,158 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_100",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_90",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_50",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Improvised_Bow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_25",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_30",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_35",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_60",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_80",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_70",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Recurve_Bow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Snow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Desert",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Digital",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_US_Scorpion",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Woodland",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Weapon_BlackHawk_Crossbow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Weapon_Improvised_Crossbow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
         }
       ],
       "Z_3_BoatShop": [

@@ -4,9 +4,9 @@
 			"Name": "SuperLoot",
 			"Zones": [
 				{
-					"Name": "RDD0",
-					"TopLeft": "X=-840090 Y=344670",
-					"BottomRight": "X=-884210 Y=309850"
+					"Name": "Null area",
+					"TopLeft": "X=0 Y=0",
+					"BottomRight": "X=0 Y=0"
 				}
 			],
 			"SpawnerProbabilityMultiplier": 8,
