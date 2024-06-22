@@ -1047,6 +1047,22 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Organic_Fertilizer",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Industrial_Fertilizer",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
         }
       ],
       "A_0_Saloon": [
@@ -1494,16 +1510,16 @@
         },
         {
           "tradeable-code": "Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple_2",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -2540,6 +2556,22 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Organic_Fertilizer",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Industrial_Fertilizer",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
         }
       ],
       "B_4_Saloon": [
@@ -2987,16 +3019,16 @@
         },
         {
           "tradeable-code": "Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple_2",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -4033,6 +4065,22 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Organic_Fertilizer",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Industrial_Fertilizer",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
         }
       ],
       "C_2_Saloon": [
@@ -4480,16 +4528,16 @@
         },
         {
           "tradeable-code": "Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple_2",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -5526,6 +5574,22 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Organic_Fertilizer",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Industrial_Fertilizer",
+          "base-purchase-price": "10000",
+          "base-sell-price": "1000",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
         }
       ],
       "Z_3_Saloon": [
@@ -5973,16 +6037,16 @@
         },
         {
           "tradeable-code": "Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple_2",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
