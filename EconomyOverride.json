@@ -417,22 +417,6 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Wild_Strawberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "800",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Ramsons",
-          "base-purchase-price": "500",
-          "base-sell-price": "300",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "default"
-        },
-        {
           "tradeable-code": "Cigarettes",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
@@ -466,208 +450,208 @@
         },
         {
           "tradeable-code": "Onion",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Bell_Pepper",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Carrot",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Zucchini",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Chilipeper",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tomato",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Spinach",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lettuce",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cucumber",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Potato",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Corn",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Watermelon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cabbage",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "CantaloupeMelon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Broccoli",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Garlic",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple_2",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Crab_Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pear",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Wild_Cherry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Fig",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lemon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Orange",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tangerine",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pumpkin",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -675,7 +659,7 @@
         {
           "tradeable-code": "Tobacco",
           "base-purchase-price": "2000",
-          "base-sell-price": "500",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -683,367 +667,383 @@
         {
           "tradeable-code": "Cannabis_Bud",
           "base-purchase-price": "2000",
-          "base-sell-price": "500",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Currant",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Grapes_Raw",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "GrapeFruit",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Mulberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Mango",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Salsify_roots",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Parsley",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Kiwi",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Olives",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lime",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Ramsons",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Dandelion",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Celery",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Beet",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "SugarBeet",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cauliflower",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pineapple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Banana",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Barberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Blackberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Peach",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Coconut",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Blueberries",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Broccoli_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cabbage_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Carrot_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cherry_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Chillipepper_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Corn_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cucumber_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Fig_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Garlic_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lemon_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lettuce_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pear_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Peppers_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Potato_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pumpkin_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "RedOnion_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Spinach_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "SweetMelon_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tobacco_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tomato_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Watermelon_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Zucchini_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -1067,225 +1067,209 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Wild_Strawberry",
-          "base-purchase-price": "1000",
+          "tradeable-code": "Onion",
+          "base-purchase-price": "2000",
           "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Ramsons",
-          "base-purchase-price": "500",
-          "base-sell-price": "300",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Onion",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "default"
-        },
-        {
           "tradeable-code": "Bell_Pepper",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Carrot",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Zucchini",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Chilipeper",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tomato",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Spinach",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lettuce",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cucumber",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Potato",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Corn",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Watermelon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cabbage",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "CantaloupeMelon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Broccoli",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Garlic",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple_2",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Crab_Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pear",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Wild_Cherry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Fig",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lemon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Orange",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tangerine",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pumpkin",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -1293,7 +1277,7 @@
         {
           "tradeable-code": "Tobacco",
           "base-purchase-price": "2000",
-          "base-sell-price": "500",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -1301,183 +1285,199 @@
         {
           "tradeable-code": "Cannabis_Bud",
           "base-purchase-price": "2000",
-          "base-sell-price": "500",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Currant",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Grapes_Raw",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "GrapeFruit",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Mulberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Mango",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Salsify_roots",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Parsley",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Kiwi",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Olives",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lime",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Ramsons",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Dandelion",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Celery",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Beet",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "SugarBeet",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cauliflower",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pineapple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Banana",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Barberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Blackberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Peach",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Coconut",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Blueberries",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -1910,22 +1910,6 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Wild_Strawberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "800",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Ramsons",
-          "base-purchase-price": "500",
-          "base-sell-price": "300",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "default"
-        },
-        {
           "tradeable-code": "Cigarettes",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
@@ -1959,208 +1943,208 @@
         },
         {
           "tradeable-code": "Onion",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Bell_Pepper",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Carrot",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Zucchini",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Chilipeper",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tomato",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Spinach",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lettuce",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cucumber",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Potato",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Corn",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Watermelon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cabbage",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "CantaloupeMelon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Broccoli",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Garlic",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple_2",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Crab_Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pear",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Wild_Cherry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Fig",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lemon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Orange",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tangerine",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pumpkin",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -2168,7 +2152,7 @@
         {
           "tradeable-code": "Tobacco",
           "base-purchase-price": "2000",
-          "base-sell-price": "500",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -2176,367 +2160,383 @@
         {
           "tradeable-code": "Cannabis_Bud",
           "base-purchase-price": "2000",
-          "base-sell-price": "500",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Currant",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Grapes_Raw",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "GrapeFruit",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Mulberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Mango",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Salsify_roots",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Parsley",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Kiwi",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Olives",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lime",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Ramsons",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Dandelion",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Celery",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Beet",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "SugarBeet",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cauliflower",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pineapple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Banana",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Barberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Blackberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Peach",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Coconut",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Blueberries",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Broccoli_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cabbage_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Carrot_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cherry_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Chillipepper_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Corn_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cucumber_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Fig_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Garlic_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lemon_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lettuce_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pear_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Peppers_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Potato_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pumpkin_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "RedOnion_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Spinach_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "SweetMelon_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tobacco_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tomato_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Watermelon_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Zucchini_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -2560,225 +2560,209 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Wild_Strawberry",
-          "base-purchase-price": "1000",
+          "tradeable-code": "Onion",
+          "base-purchase-price": "2000",
           "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Ramsons",
-          "base-purchase-price": "500",
-          "base-sell-price": "300",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Onion",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "default"
-        },
-        {
           "tradeable-code": "Bell_Pepper",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Carrot",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Zucchini",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Chilipeper",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tomato",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Spinach",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lettuce",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cucumber",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Potato",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Corn",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Watermelon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cabbage",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "CantaloupeMelon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Broccoli",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Garlic",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple_2",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Crab_Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pear",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Wild_Cherry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Fig",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lemon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Orange",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tangerine",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pumpkin",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -2786,7 +2770,7 @@
         {
           "tradeable-code": "Tobacco",
           "base-purchase-price": "2000",
-          "base-sell-price": "500",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -2794,183 +2778,199 @@
         {
           "tradeable-code": "Cannabis_Bud",
           "base-purchase-price": "2000",
-          "base-sell-price": "500",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Currant",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Grapes_Raw",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "GrapeFruit",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Mulberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Mango",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Salsify_roots",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Parsley",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Kiwi",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Olives",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lime",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Ramsons",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Dandelion",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Celery",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Beet",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "SugarBeet",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cauliflower",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pineapple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Banana",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Barberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Blackberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Peach",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Coconut",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Blueberries",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -3403,22 +3403,6 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Wild_Strawberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "800",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Ramsons",
-          "base-purchase-price": "500",
-          "base-sell-price": "300",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "default"
-        },
-        {
           "tradeable-code": "Cigarettes",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
@@ -3452,208 +3436,208 @@
         },
         {
           "tradeable-code": "Onion",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Bell_Pepper",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Carrot",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Zucchini",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Chilipeper",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tomato",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Spinach",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lettuce",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cucumber",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Potato",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Corn",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Watermelon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cabbage",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "CantaloupeMelon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Broccoli",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Garlic",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple_2",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Crab_Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pear",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Wild_Cherry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Fig",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lemon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Orange",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tangerine",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pumpkin",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -3661,7 +3645,7 @@
         {
           "tradeable-code": "Tobacco",
           "base-purchase-price": "2000",
-          "base-sell-price": "500",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -3669,367 +3653,383 @@
         {
           "tradeable-code": "Cannabis_Bud",
           "base-purchase-price": "2000",
-          "base-sell-price": "500",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Currant",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Grapes_Raw",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "GrapeFruit",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Mulberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Mango",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Salsify_roots",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Parsley",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Kiwi",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Olives",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lime",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Ramsons",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Dandelion",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Celery",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Beet",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "SugarBeet",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cauliflower",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pineapple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Banana",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Barberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Blackberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Peach",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Coconut",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Blueberries",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Broccoli_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cabbage_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Carrot_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cherry_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Chillipepper_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Corn_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cucumber_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Fig_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Garlic_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lemon_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lettuce_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pear_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Peppers_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Potato_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pumpkin_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "RedOnion_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Spinach_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "SweetMelon_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tobacco_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tomato_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Watermelon_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Zucchini_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -4053,225 +4053,209 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Wild_Strawberry",
-          "base-purchase-price": "1000",
+          "tradeable-code": "Onion",
+          "base-purchase-price": "2000",
           "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Ramsons",
-          "base-purchase-price": "500",
-          "base-sell-price": "300",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Onion",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "default"
-        },
-        {
           "tradeable-code": "Bell_Pepper",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Carrot",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Zucchini",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Chilipeper",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tomato",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Spinach",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lettuce",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cucumber",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Potato",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Corn",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Watermelon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cabbage",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "CantaloupeMelon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Broccoli",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Garlic",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple_2",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Crab_Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pear",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Wild_Cherry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Fig",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lemon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Orange",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tangerine",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pumpkin",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -4279,7 +4263,7 @@
         {
           "tradeable-code": "Tobacco",
           "base-purchase-price": "2000",
-          "base-sell-price": "500",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -4287,183 +4271,199 @@
         {
           "tradeable-code": "Cannabis_Bud",
           "base-purchase-price": "2000",
-          "base-sell-price": "500",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Currant",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Grapes_Raw",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "GrapeFruit",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Mulberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Mango",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Salsify_roots",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Parsley",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Kiwi",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Olives",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lime",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Ramsons",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Dandelion",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Celery",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Beet",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "SugarBeet",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cauliflower",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pineapple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Banana",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Barberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Blackberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Peach",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Coconut",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Blueberries",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -4896,22 +4896,6 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "Wild_Strawberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "800",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Ramsons",
-          "base-purchase-price": "500",
-          "base-sell-price": "300",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "default"
-        },
-        {
           "tradeable-code": "Cigarettes",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
@@ -4945,208 +4929,208 @@
         },
         {
           "tradeable-code": "Onion",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Bell_Pepper",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Carrot",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Zucchini",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Chilipeper",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tomato",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Spinach",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lettuce",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cucumber",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Potato",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Corn",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Watermelon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cabbage",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "CantaloupeMelon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Broccoli",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Garlic",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple_2",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Crab_Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pear",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Wild_Cherry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Fig",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lemon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Orange",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tangerine",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pumpkin",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -5154,7 +5138,7 @@
         {
           "tradeable-code": "Tobacco",
           "base-purchase-price": "2000",
-          "base-sell-price": "500",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -5162,367 +5146,383 @@
         {
           "tradeable-code": "Cannabis_Bud",
           "base-purchase-price": "2000",
-          "base-sell-price": "500",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Currant",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Grapes_Raw",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "GrapeFruit",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Mulberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Mango",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Salsify_roots",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Parsley",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Kiwi",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Olives",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lime",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Ramsons",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Dandelion",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Celery",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Beet",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "SugarBeet",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cauliflower",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pineapple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Banana",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Barberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Blackberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Peach",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Coconut",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Blueberries",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Broccoli_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cabbage_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Carrot_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cherry_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Chillipepper_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Corn_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cucumber_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Fig_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Garlic_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lemon_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lettuce_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pear_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Peppers_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Potato_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pumpkin_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "RedOnion_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Spinach_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "SweetMelon_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tobacco_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tomato_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Watermelon_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Zucchini_Seed_Bag",
-          "base-purchase-price": "2000",
-          "base-sell-price": "200",
+          "base-purchase-price": "5000",
+          "base-sell-price": "500",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -5546,225 +5546,209 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Wild_Strawberry",
-          "base-purchase-price": "1000",
+          "tradeable-code": "Onion",
+          "base-purchase-price": "2000",
           "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Ramsons",
-          "base-purchase-price": "500",
-          "base-sell-price": "300",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "default"
-        },
-        {
-          "tradeable-code": "Onion",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "default"
-        },
-        {
           "tradeable-code": "Bell_Pepper",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Carrot",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Zucchini",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Chilipeper",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tomato",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Spinach",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lettuce",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cucumber",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Potato",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Corn",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Watermelon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cabbage",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "CantaloupeMelon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Broccoli",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Garlic",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Apple_2",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Crab_Apple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pear",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Wild_Cherry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Fig",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lemon",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Orange",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Tangerine",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pumpkin",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -5772,7 +5756,7 @@
         {
           "tradeable-code": "Tobacco",
           "base-purchase-price": "2000",
-          "base-sell-price": "500",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
@@ -5780,183 +5764,199 @@
         {
           "tradeable-code": "Cannabis_Bud",
           "base-purchase-price": "2000",
-          "base-sell-price": "500",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Currant",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Grapes_Raw",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "GrapeFruit",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Mulberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Mango",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Salsify_roots",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Parsley",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Kiwi",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Olives",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Lime",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Ramsons",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Dandelion",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Celery",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Beet",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "SugarBeet",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Cauliflower",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Pineapple",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Banana",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Barberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Blackberry",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Peach",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Coconut",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Blueberries",
-          "base-purchase-price": "1000",
-          "base-sell-price": "100",
+          "base-purchase-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
