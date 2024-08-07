@@ -474,11 +474,11 @@
         },
         {
           "tradeable-code": "Fig",
-          "base-purchase-price": "-1",
+          "base-purchase-price": "2000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Opuntia_Fig",
@@ -530,11 +530,11 @@
         },
         {
           "tradeable-code": "Fig_Seed_Bag",
-          "base-purchase-price": "-1",
+          "base-purchase-price": "1000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Peach_Seeds",
@@ -604,11 +604,11 @@
         },
         {
           "tradeable-code": "Fig",
-          "base-purchase-price": "-1",
+          "base-purchase-price": "2000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Opuntia_Fig",
@@ -1135,11 +1135,11 @@
         },
         {
           "tradeable-code": "Fig",
-          "base-purchase-price": "-1",
+          "base-purchase-price": "2000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Opuntia_Fig",
@@ -1191,11 +1191,11 @@
         },
         {
           "tradeable-code": "Fig_Seed_Bag",
-          "base-purchase-price": "-1",
+          "base-purchase-price": "1000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Peach_Seeds",
@@ -1265,11 +1265,11 @@
         },
         {
           "tradeable-code": "Fig",
-          "base-purchase-price": "-1",
+          "base-purchase-price": "2000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Opuntia_Fig",
@@ -1796,11 +1796,11 @@
         },
         {
           "tradeable-code": "Fig",
-          "base-purchase-price": "-1",
+          "base-purchase-price": "2000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Opuntia_Fig",
@@ -1852,11 +1852,11 @@
         },
         {
           "tradeable-code": "Fig_Seed_Bag",
-          "base-purchase-price": "-1",
+          "base-purchase-price": "1000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Peach_Seeds",
@@ -1926,11 +1926,11 @@
         },
         {
           "tradeable-code": "Fig",
-          "base-purchase-price": "-1",
+          "base-purchase-price": "2000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Opuntia_Fig",
@@ -2457,11 +2457,11 @@
         },
         {
           "tradeable-code": "Fig",
-          "base-purchase-price": "-1",
+          "base-purchase-price": "2000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Opuntia_Fig",
@@ -2513,11 +2513,11 @@
         },
         {
           "tradeable-code": "Fig_Seed_Bag",
-          "base-purchase-price": "-1",
+          "base-purchase-price": "1000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "true"
         },
         {
           "tradeable-code": "Peach_Seeds",
@@ -2587,11 +2587,11 @@
         },
         {
           "tradeable-code": "Fig",
-          "base-purchase-price": "-1",
+          "base-purchase-price": "2000",
           "base-sell-price": "-1",
           "delta-price": "1",
           "required-famepoints": "-1",
-          "can-be-purchased": "false"
+          "can-be-purchased": "default"
         },
         {
           "tradeable-code": "Opuntia_Fig",
