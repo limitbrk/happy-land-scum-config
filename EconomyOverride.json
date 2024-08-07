@@ -417,6 +417,134 @@
           "can-be-purchased": "false"
         },
         {
+          "tradeable-code": "Fungicide",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Herbicide",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Pesticide",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Industrial_Fertilizer",
+          "base-purchase-price": "4000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Organic_Fertilizer",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "2H_Industrial_Gardening_Hoe",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Watering_Can",
+          "base-purchase-price": "1000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Fig",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Opuntia_Fig",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Grapes_Raw",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Date",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Olives",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Peach",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Fig_Seed_Bag",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Peach_Seeds",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
           "tradeable-code": "Cigarettes",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
@@ -473,6 +601,62 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Fig",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Opuntia_Fig",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Grapes_Raw",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Date",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Olives",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Peach",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
         },
         {
           "tradeable-code": "CannedDogFood",
@@ -894,6 +1078,134 @@
           "can-be-purchased": "false"
         },
         {
+          "tradeable-code": "Fungicide",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Herbicide",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Pesticide",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Industrial_Fertilizer",
+          "base-purchase-price": "4000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Organic_Fertilizer",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "2H_Industrial_Gardening_Hoe",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Watering_Can",
+          "base-purchase-price": "1000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Fig",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Opuntia_Fig",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Grapes_Raw",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Date",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Olives",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Peach",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Fig_Seed_Bag",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Peach_Seeds",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
           "tradeable-code": "Cigarettes",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
@@ -950,6 +1262,62 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Fig",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Opuntia_Fig",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Grapes_Raw",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Date",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Olives",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Peach",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
         },
         {
           "tradeable-code": "CannedDogFood",
@@ -1371,6 +1739,134 @@
           "can-be-purchased": "false"
         },
         {
+          "tradeable-code": "Fungicide",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Herbicide",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Pesticide",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Industrial_Fertilizer",
+          "base-purchase-price": "4000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Organic_Fertilizer",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "2H_Industrial_Gardening_Hoe",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Watering_Can",
+          "base-purchase-price": "1000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Fig",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Opuntia_Fig",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Grapes_Raw",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Date",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Olives",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Peach",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Fig_Seed_Bag",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Peach_Seeds",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
           "tradeable-code": "Cigarettes",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
@@ -1427,6 +1923,62 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Fig",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Opuntia_Fig",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Grapes_Raw",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Date",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Olives",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Peach",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
         },
         {
           "tradeable-code": "CannedDogFood",
@@ -1848,6 +2400,134 @@
           "can-be-purchased": "false"
         },
         {
+          "tradeable-code": "Fungicide",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Herbicide",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Pesticide",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Industrial_Fertilizer",
+          "base-purchase-price": "4000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Organic_Fertilizer",
+          "base-purchase-price": "3000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "2H_Industrial_Gardening_Hoe",
+          "base-purchase-price": "1500",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Watering_Can",
+          "base-purchase-price": "1000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Fig",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Opuntia_Fig",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Grapes_Raw",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Date",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Olives",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Peach",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Fig_Seed_Bag",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Peach_Seeds",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
           "tradeable-code": "Cigarettes",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
@@ -1904,6 +2584,62 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "Fig",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Opuntia_Fig",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Grapes_Raw",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Date",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Olives",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Peach",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "Wild_Strawberry",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
         },
         {
           "tradeable-code": "CannedDogFood",
