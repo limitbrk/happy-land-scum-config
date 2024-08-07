@@ -447,6 +447,14 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "CannedDogFood",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
         }
       ],
       "A_0_Saloon": [
@@ -465,6 +473,14 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "CannedDogFood",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
         }
       ],
       "A_0_Hospital": [
@@ -908,6 +924,14 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "CannedDogFood",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
         }
       ],
       "B_4_Saloon": [
@@ -926,6 +950,14 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "CannedDogFood",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
         }
       ],
       "B_4_Hospital": [
@@ -1369,6 +1401,14 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "CannedDogFood",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
         }
       ],
       "C_2_Saloon": [
@@ -1387,6 +1427,14 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "CannedDogFood",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
         }
       ],
       "C_2_Hospital": [
@@ -1830,6 +1878,14 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "CannedDogFood",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
         }
       ],
       "Z_3_Saloon": [
@@ -1848,6 +1904,14 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "CannedDogFood",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "false"
         }
       ],
       "Z_3_Hospital": [
