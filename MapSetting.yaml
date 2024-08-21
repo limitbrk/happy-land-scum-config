@@ -19,12 +19,15 @@ map:
   D4-AirField:
     center: 460000 580000
     radius: 0.900
-  D3-Gas:
-    center: 280000 333333
-    radius: 0.250
+  D3-City:
+    center: 320000 360000
+    radius: 0.500 0.500
   D3-Bunker:
     center: 130000 510000
     radius: 0.700
+  D2-WoodFac:
+    center: -89000 494000
+    radius: 0.250
   D2-Bunker:
     center: -240000 567000
     radius: 0.250
@@ -35,8 +38,8 @@ map:
     center: -460000 421000
     radius: 0.500
   D1-Bunker:
-    center: -535000 540000
-    radius: 0.250
+    center: -535000 500000
+    radius: 0.200 0.500
   D0-Radar:
     center: -860000 330000
     radius: 0.300
@@ -68,16 +71,22 @@ map:
     center: -200000 160000
     radius: 0.400 0.500
   C1-Observatory:
-    center: -360000 200000
-    radius: 0.600 0.350
+    center: -320000 220000
+    radius: 0.250 0.500
+  C1-Bunker:
+    center: -395000 218000
+    radius: 0.150
   C1-Gas:
     center: -505000 305000
     radius: 0.250
+  C1-Town:
+    center: -497000 189000
+    radius: 0.200
   C0-Bunker:
     center: -900000 230000
     radius: 0.250
-  B4-Gas:
-    center: 504000 -167000
+  B4-Town:
+    center: 490000 -185000
     radius: 0.200
   B4-Military:
     center: 455000 -185000
@@ -85,6 +94,9 @@ map:
   B4-Bunker:
     center: 444000 -10000
     radius: 0.250
+  B3-Town:
+    center: 285000 -180000
+    radius: 0.150 0.200
   B3-Gas:
     center: 250000 -255000
     radius: 0.250
@@ -94,6 +106,9 @@ map:
   B3-TrainYard:
     center: 100000 -165000
     radius: 0.400
+  B3-Primal:
+    center: 70000 -50000
+    radius: 0.200
   B2-Bunker:
     center: -40000 -200000
     radius: 0.250
@@ -106,12 +121,12 @@ map:
   B2-AirField:
     center: -260000 -29000
     radius: 0.900 0.400
+  B1-Town:
+    center: -439000 -108000
+    radius: 0.400 0.200
   B1-Factory:
     center: -408000 -5000
     radius: 0.300
-  B1-Gas:
-    center: -408000 -108000
-    radius: 0.250
   B1-Bunker:
     center: -585000 -258000
     radius: 0.250
@@ -142,9 +157,9 @@ map:
   A3-Gas:
     center: 20000 -480000
     radius: 0.200
-  A2-Naval:
-    center: -66000 -490000
-    radius: 0.250
+  A2-Town:
+    center: -53000 -490000  
+    radius: 0.350
   A2-DairyFactory:
     center: -80000 -340000
     radius: 0.600 0.300
