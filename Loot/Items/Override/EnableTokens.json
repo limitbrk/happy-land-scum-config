@@ -1,15 +1,16 @@
 {
 	"Parameters": [
 		{
-			"Id": "Copper_Coins",
+			"Id": "Super_Glue",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
 				"Continental",
 				"Mountain"
 			],
-			"CooldownPerSquadMemberMin": 0,
-			"CooldownPerSquadMemberMax": 0,
+			"CooldownPerSquadMemberMin": 1,
+			"CooldownPerSquadMemberMax": 1,
+			"CooldownGroup": "Event.Tokens",
 			"Variations": [],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,

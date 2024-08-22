@@ -6,6 +6,7 @@
 			"AllowedLocations": [],
 			"CooldownPerSquadMemberMin": 0,
 			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
 			"Variations": [
 				"Mine_02"
 			],
@@ -19,6 +20,7 @@
 			"AllowedLocations": [],
 			"CooldownPerSquadMemberMin": 0,
 			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
 			"Variations": [],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
@@ -30,6 +32,7 @@
 			"AllowedLocations": [],
 			"CooldownPerSquadMemberMin": 0,
 			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
 			"Variations": [],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
