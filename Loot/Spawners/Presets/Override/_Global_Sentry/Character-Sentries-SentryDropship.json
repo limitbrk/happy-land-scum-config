@@ -1,0 +1,37 @@
+{
+	"FixedItems": [
+		"C4_Keypad",
+		"C4_CircuitBoard",
+		"BCULock_Item",
+		"Cal_50BMG",
+		"Cal_50BMG",
+		"Cal_50BMG",
+		"Cal_50BMG",
+		"Cal_50BMG",
+		"Cal_50BMG",
+		"Frag_Grenade",
+		"Frag_Grenade",
+		"Frag_Grenade",
+		"TearGasGrenade",
+		"TearGasGrenade",
+		"KeyCard"
+	],
+	"Items": [
+		{
+			"Rarity": "Uncommon",
+			"Id": "MemoryModule_Level4"
+		}
+	],
+	"Probability": 15,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 20,
+	"RandomDamage": 10,
+	"InitialUsage": 0,
+	"RandomUsage": 0,
+	"PostSpawnActions": [
+		"KillboxKeycard_Sentry"
+	]
+}
