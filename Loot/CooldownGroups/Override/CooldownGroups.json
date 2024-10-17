@@ -1,0 +1,12 @@
+{
+	"DeleteAllDefaultCooldownGroups": false,
+	"DefaultCooldownGroupsToDelete": [],
+	"CooldownGroups": [
+		{
+			"Name": "Event.Tokens",
+			"CooldownMin": 0,
+			"CooldownMax": 0,
+			"IsAffectedByLowerGroups": false
+		}
+	]
+}
