@@ -569,14 +569,6 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "1H_Dildo",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "false"
-        },
-        {
           "tradeable-code": "1H_Beam_Dildo",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
@@ -1231,14 +1223,6 @@
         },
         {
           "tradeable-code": "Cigarettes1",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "1H_Dildo",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
@@ -1907,14 +1891,6 @@
           "can-be-purchased": "false"
         },
         {
-          "tradeable-code": "1H_Dildo",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "false"
-        },
-        {
           "tradeable-code": "1H_Beam_Dildo",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
@@ -2569,14 +2545,6 @@
         },
         {
           "tradeable-code": "Cigarettes1",
-          "base-purchase-price": "-1",
-          "base-sell-price": "-1",
-          "delta-price": "1",
-          "required-famepoints": "-1",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "1H_Dildo",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1",
