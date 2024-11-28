@@ -317,6 +317,54 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_WolfsWagen",
+          "base-purchase-price": "60000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_Laika",
+          "base-purchase-price": "60000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_Rager",
+          "base-purchase-price": "120000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_RIS",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_Dirtbike",
+          "base-purchase-price": "25000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_Cruiser",
+          "base-purchase-price": "30000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
         }
       ],
       "A_0_Trader": [
@@ -978,6 +1026,54 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_WolfsWagen",
+          "base-purchase-price": "60000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_Laika",
+          "base-purchase-price": "60000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_Rager",
+          "base-purchase-price": "120000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_RIS",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_Dirtbike",
+          "base-purchase-price": "25000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_Cruiser",
+          "base-purchase-price": "30000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
         }
       ],
       "B_4_Trader": [
@@ -1639,6 +1735,54 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_WolfsWagen",
+          "base-purchase-price": "60000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_Laika",
+          "base-purchase-price": "60000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_Rager",
+          "base-purchase-price": "120000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_RIS",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_Dirtbike",
+          "base-purchase-price": "25000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_Cruiser",
+          "base-purchase-price": "30000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
         }
       ],
       "C_2_Trader": [
@@ -2300,6 +2444,54 @@
           "delta-price": "1",
           "required-famepoints": "-1",
           "can-be-purchased": "default"
+        },
+        {
+          "tradeable-code": "BPC_WolfsWagen",
+          "base-purchase-price": "60000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_Laika",
+          "base-purchase-price": "60000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_Rager",
+          "base-purchase-price": "120000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_RIS",
+          "base-purchase-price": "40000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_Dirtbike",
+          "base-purchase-price": "25000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
+        },
+        {
+          "tradeable-code": "BPC_Cruiser",
+          "base-purchase-price": "30000",
+          "base-sell-price": "-1",
+          "delta-price": "1",
+          "required-famepoints": "-1",
+          "can-be-purchased": "true"
         }
       ],
       "Z_3_Trader": [

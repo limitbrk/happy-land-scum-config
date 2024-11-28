@@ -3,10 +3,11 @@
 	"DefaultCooldownGroupsToDelete": [],
 	"CooldownGroups": [
 		{
-			"Name": "Event.Tokens",
+			"Name": "EventTokens",
+			"_comment": "Still confused how to work",
 			"CooldownMin": 0,
 			"CooldownMax": 0,
-			"IsAffectedByLowerGroups": false
+			"IsAffectedByLowerGroups": true
 		}
 	]
 }
