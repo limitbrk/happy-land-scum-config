@@ -8,8 +8,8 @@
 				"Continental",
 				"Mountain"
 			],
-			"CooldownPerSquadMemberMin": 15,
-			"CooldownPerSquadMemberMax": 15,
+			"CooldownPerSquadMemberMin": 0.25,
+			"CooldownPerSquadMemberMax": 0.25,
 			"CooldownGroup": "EventTokens",
 			"Variations": [],
 			"ShouldOverrideInitialAndRandomUsage": true,
