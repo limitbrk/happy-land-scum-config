@@ -1,15 +1,22 @@
 {
+	"FixedItems": [
+		"Super_Glue"
+	],
 	"Items": [
 		{
 			"Rarity": "Common",
-			"Id": "Super_Glue"
+			"Id": "KeyCardBunker_Level01"
+		},
+		{
+			"Rarity": "Common",
+			"Id": "KeyCardBunker_Level02"
 		},
 		{
 			"Rarity": "VeryRare",
 			"Id": "Cash"
 		}
 	],
-	"Probability": 12,
+	"Probability": 25,
 	"QuantityMin": 1,
 	"QuantityMax": 1,
 	"AllowDuplicates": false,
@@ -19,6 +26,7 @@
 	"InitialUsage": 0,
 	"RandomUsage": 0,
 	"PostSpawnActions": [
+		"AbandonedBunkerKeycard",
 		"SetCashAmount_SmallStash"
 	]
 }
