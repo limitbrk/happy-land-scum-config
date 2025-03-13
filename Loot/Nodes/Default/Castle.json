@@ -183,6 +183,10 @@
 							"Rarity": "Uncommon",
 							"Children": [
 								{
+									"Name": "Manchu_Bow_50",
+									"Rarity": "Uncommon"
+								},
+								{
 									"Name": "Recurve_Bow",
 									"Rarity": "Common"
 								},

@@ -15,5 +15,8 @@
 	"InitialDamage": 0,
 	"RandomDamage": 0,
 	"InitialUsage": 0,
-	"RandomUsage": 0
+	"RandomUsage": 0,
+	"PostSpawnActions": [
+		"SetAmmoAmount_Arrows_Full"
+	]
 }

@@ -7912,6 +7912,38 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
+			"Id": "Improvised_Ghillie_Jacket",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Improvised_Ghillie_Pants",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
 			"Id": "Industrial_Fertilizer",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
@@ -9515,6 +9547,22 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
+			"Id": "Manchu_Bow_50",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
 			"Id": "Mango",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
@@ -9558,7 +9606,8 @@
 			"CooldownPerSquadMemberMax": 0,
 			"CooldownGroup": "",
 			"Variations": [
-				"Marine_Cap_06"
+				"Marine_Cap_06",
+				"Marine_Cap_08"
 			],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
@@ -9820,7 +9869,8 @@
 			"CooldownPerSquadMemberMax": 0,
 			"CooldownGroup": "",
 			"Variations": [
-				"Military_Backpack_01_06"
+				"Military_Backpack_01_06",
+				"Military_Backpack_01_09"
 			],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
@@ -9870,7 +9920,8 @@
 			"CooldownPerSquadMemberMax": 0,
 			"CooldownGroup": "",
 			"Variations": [
-				"Military_Backpack_02_06"
+				"Military_Backpack_02_06",
+				"Military_Backpack_02_08"
 			],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
@@ -10201,7 +10252,8 @@
 				"Military_Quiver_04",
 				"Military_Quiver_05",
 				"Military_Quiver_06",
-				"Military_Quiver_07"
+				"Military_Quiver_07",
+				"Military_Quiver_08"
 			],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
@@ -10234,7 +10286,8 @@
 			"CooldownPerSquadMemberMax": 0,
 			"CooldownGroup": "",
 			"Variations": [
-				"Military_Shirt_06"
+				"Military_Shirt_06",
+				"Military_Shirt_08"
 			],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
@@ -10315,7 +10368,8 @@
 			"CooldownPerSquadMemberMax": 0,
 			"CooldownGroup": "",
 			"Variations": [
-				"MilitaryPants_06"
+				"MilitaryPants_06",
+				"MilitaryPants_10"
 			],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
@@ -13371,7 +13425,8 @@
 				"Sleeveless_Camo_Shirt_02",
 				"Sleeveless_Camo_Shirt_03",
 				"Sleeveless_Camo_Shirt_04",
-				"Sleeveless_Camo_Shirt_05"
+				"Sleeveless_Camo_Shirt_05",
+				"Sleeveless_Camo_Shirt_06"
 			],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
@@ -13439,7 +13494,8 @@
 				"Slouch_Camo_Hat_02",
 				"Slouch_Camo_Hat_03",
 				"Slouch_Camo_Hat_04",
-				"Slouch_Camo_Hat_05"
+				"Slouch_Camo_Hat_05",
+				"Slouch_Camo_Hat_06"
 			],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,

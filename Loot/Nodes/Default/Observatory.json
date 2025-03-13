@@ -1585,6 +1585,18 @@
 										{
 											"Name": "Military_Backpack_01_05",
 											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Military_Backpack_03_01",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Military_Backpack_03_04",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Military_Backpack_03_05",
+											"Rarity": "VeryRare"
 										}
 									]
 								},
@@ -1741,6 +1753,10 @@
 									"Name": "Recurves",
 									"Rarity": "Rare",
 									"Children": [
+										{
+											"Name": "Manchu_Bow_50",
+											"Rarity": "Uncommon"
+										},
 										{
 											"Name": "Recurve_Bow",
 											"Rarity": "Common"

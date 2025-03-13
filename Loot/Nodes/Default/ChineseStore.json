@@ -79,6 +79,16 @@
 					"Rarity": "Rare",
 					"Children": [
 						{
+							"Name": "Ranged",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Manchu_Bow_50",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
 							"Name": "Spears",
 							"Rarity": "Uncommon",
 							"Children": [

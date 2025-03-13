@@ -983,6 +983,10 @@
 									"Rarity": "Rare"
 								},
 								{
+									"Name": "Christmas_Ball_01",
+									"Rarity": "Uncommon"
+								},
+								{
 									"Name": "Cigarettes",
 									"Rarity": "Rare",
 									"Children": [

@@ -2075,6 +2075,18 @@
 										{
 											"Name": "Military_Backpack_01_05",
 											"Rarity": "Rare"
+										},
+										{
+											"Name": "Military_Backpack_03_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Military_Backpack_03_04",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Military_Backpack_03_05",
+											"Rarity": "Rare"
 										}
 									]
 								},
@@ -2665,7 +2677,7 @@
 							"Children": [
 								{
 									"Name": "Weapon_M249",
-									"Rarity": "Rare"
+									"Rarity": "VeryRare"
 								},
 								{
 									"Name": "Weapon_RPK-74",
