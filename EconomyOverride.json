@@ -323,6 +323,14 @@
 					"can-be-purchased": "default"
 				},
 				{
+					"tradeable-code": "Tire_Repair_Kit",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
 					"tradeable-code": "BPC_WolfsWagen",
 					"base-purchase-price": "60000",
 					"base-sell-price": "-1",
@@ -1022,6 +1030,14 @@
 					"delta-price": "1",
 					"required-famepoints": "-1",
 					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Tire_Repair_Kit",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
 				},
 				{
 					"tradeable-code": "BPC_WolfsWagen",
@@ -1725,6 +1741,14 @@
 					"can-be-purchased": "default"
 				},
 				{
+					"tradeable-code": "Tire_Repair_Kit",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
 					"tradeable-code": "BPC_WolfsWagen",
 					"base-purchase-price": "60000",
 					"base-sell-price": "-1",
@@ -2424,6 +2448,14 @@
 					"delta-price": "1",
 					"required-famepoints": "-1",
 					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Tire_Repair_Kit",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
 				},
 				{
 					"tradeable-code": "BPC_WolfsWagen",
