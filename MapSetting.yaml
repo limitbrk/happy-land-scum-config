@@ -45,7 +45,7 @@ map:
     radius: 0.300
   D0-BootCamp:
     center: -876000 567000
-    radius: 0.900
+    radius: 0.400 0.800
   C4-Hospital:
     center: 410000 275000
     radius: 0.600 0.300
@@ -132,7 +132,7 @@ map:
     radius: 0.250
   B0-Hospital:
     center: -630000 -160000
-    radius: 0.500
+    radius: 0.330 0.500
   B0-Bunker:
     center: -810000 -90000
     radius: 0.300
