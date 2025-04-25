@@ -2,6 +2,10 @@
 	"Nodes": [],
 	"Items": [
 		{
+			"Rarity": "Common",
+			"Id": "Sentry_Aiming_Kit"
+		},
+		{
 			"Rarity": "Uncommon",
 			"Id": "Sentry_50cal_Rifle"
 		},
@@ -10,7 +14,6 @@
 			"Id": "Sentry_Minigun"
 		}
 	],
-	"Probability": 15,
 	"QuantityMin": 1,
 	"QuantityMax": 1,
 	"AllowDuplicates": false,
