@@ -292,6 +292,38 @@
 					"delta-price": "1",
 					"required-famepoints": "-1",
 					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_DEagle_50Gold",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1911_Gold",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_Krueger",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_AK47_Engraved",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
 				}
 			],
 			"A_0_BoatShop": [
@@ -1028,6 +1060,38 @@
 				},
 				{
 					"tradeable-code": "Weapon_Improvised_Crossbow",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_DEagle_50Gold",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1911_Gold",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_Krueger",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_AK47_Engraved",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
@@ -1774,6 +1838,38 @@
 					"delta-price": "1",
 					"required-famepoints": "-1",
 					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_DEagle_50Gold",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1911_Gold",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_Krueger",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_AK47_Engraved",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
 				}
 			],
 			"C_2_BoatShop": [
@@ -2510,6 +2606,38 @@
 				},
 				{
 					"tradeable-code": "Weapon_Improvised_Crossbow",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_DEagle_50Gold",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1911_Gold",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_Krueger",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_AK47_Engraved",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
