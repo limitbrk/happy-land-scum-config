@@ -2,23 +2,22 @@
 	"economy-override": {
 		"economy-reset-time-hours": "-1.0",
 		"prices-randomization-time-hours": "-1.0",
-		"fully-restock-tradeable-hours": "-1.0",
-		"trader-funds-change-rate-per-hour-multiplier": "6.00",
-		"traders-unlimited-funds": "0",
-		"traders-unlimited-stock": "1",
-		"economy-logging": "1",
-		"prices-subject-to-player-count": "0",
-		"tradeable-rotation-enabled": "0",
 		"tradeable-rotation-time-ingame-hours-min": "48.0",
 		"tradeable-rotation-time-ingame-hours-max": "96.0",
-		"tradeable-rotation-time-of-day-min": "5.0",
-		"tradeable-rotation-time-of-day-max": "8.0",
-		"gold-price-subject-to-global-multiplier": "10.0",
+		"tradeable-rotation-time-of-day-min": "8.0",
+		"tradeable-rotation-time-of-day-max": "16.0",
+		"fully-restock-tradeable-hours": "2.0",
+		"trader-funds-change-rate-per-hour-multiplier": "6.00",
+		"prices-subject-to-player-count" : "0",
+		"gold-price-subject-to-global-multiplier": "10",
 		"gold-base-price": "10000",
 		"gold-sale-price-modifier": "0.5",
 		"gold-price-change-percentage-step": "20",
 		"gold-price-change-per-step": "1000",
-		"only-after-player-sale-tradeable-availability-enabled": "0",
+		"economy-logging" : "1",
+		"traders-unlimited-funds" : "0",
+		"traders-unlimited-stock" : "1",
+		"tradeable-rotation-enabled": "1",
 		"enable-fame-point-requirement": "1",
 		"traders": {
 			"A_0_Armory": [
@@ -288,6 +287,38 @@
 				},
 				{
 					"tradeable-code": "Weapon_Improvised_Crossbow",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_DEagle_50Gold",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1911_Gold",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_Krueger",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_AK47_Engraved",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
@@ -1034,6 +1065,38 @@
 					"delta-price": "1",
 					"required-famepoints": "-1",
 					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_DEagle_50Gold",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1911_Gold",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_Krueger",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_AK47_Engraved",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
 				}
 			],
 			"B_4_BoatShop": [
@@ -1775,6 +1838,38 @@
 					"delta-price": "1",
 					"required-famepoints": "-1",
 					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_DEagle_50Gold",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1911_Gold",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_Krueger",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_AK47_Engraved",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
 				}
 			],
 			"C_2_BoatShop": [
@@ -2511,6 +2606,38 @@
 				},
 				{
 					"tradeable-code": "Weapon_Improvised_Crossbow",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_DEagle_50Gold",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1911_Gold",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_Krueger",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_AK47_Engraved",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
