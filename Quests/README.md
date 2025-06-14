@@ -113,6 +113,9 @@ Loot/
   - `LocationsShownOnMap`: พิกัดวงกลมที่จะแสดงบนแผนที่เมื่อทำเงื่อนไขนี้ คล้ายกับ `MapSetting`
   - `Type`: ประเภทเงื่อนไขที่ต้องทำให้สำเร็จ มี 3 ประเภทคือ
     - `Elimination`: จัดการสิ่งต่างๆ เช่น NPC, สัตว์, ผี, คน
+      - `TargetCharacters`: ชื่อของสิ่งที่ต้องจัดการ
+      - `Amount`: จำนวนที่ต้องจัดการ
+      - `AllowedWeapons`: อาวุธที่ใช้จัดการได้ (ถ้าไม่ใส่จะใช้ได้ทุกอาวุธ)
     ```json
     {
         "Type": "Elimination",
@@ -133,10 +136,20 @@ Loot/
         ]
     }
     ```
-      - `TargetCharacters`: ชื่อของสิ่งที่ต้องจัดการ
-      - `Amount`: จำนวนที่ต้องจัดการ
-      - `AllowedWeapons`: อาวุธที่ใช้จัดการได้ (ถ้าไม่ใส่จะใช้ได้ทุกอาวุธ)
     - `fetch`: เก็บไอเท็มที่กำหนด
+      - `DisablePurchaseOfRequiredItems`: ถ้าเป็น `true` จะไม่สามารถซื้อไอเท็มที่ต้องการในสถานที่ต่างๆได้ ยกเว้น Set `QuestRequirementsBlockTradeableItems=0` ใน `ServerSettings`
+      - `PlayerKeepsItems`: ถ้าเป็น `true` ผู้เล่นจะเก็บไอเท็มที่เก็บได้ไว้ได้
+      - `RequiredItems`: รายการไอเท็มที่ต้องเก็บ
+        - `AcceptedItems`: รายชื่อไอเท็มที่ต้องเก็บ
+        - `RequiredNum`: จำนวนไอเท็มที่ต้องเก็บ
+        - `RandomAdditionalRequiredNum`: จำนวนที่ต้องหาเพิ่มเติม แบบสุ่ม
+        - `MinAcceptedItemUses`: จำนวนการใช้งานขั้นต่ำของไอเท็ม
+        - `MinAcceptedCookLevel`/`MaxAcceptedCookLevel`: ระดับการปรุงอาหาร เช่น `Raw`, `Undercooked`, `Cooked`, `Overcooked`, `Burned`.
+        - `MinAcceptedCookQuality`: คุณภาพการปรุงอาหาร เช่น `Ruined`, `Bad`, `Poor`, `Good`, `Excellent`, `Perfect`.
+        - `MinAcceptedItemMass`: มวลขั้นต่ำของไอเท็ม (กรัม)
+        - `MinAcceptedItemHealth`: สภาพของไอเท็มขั้นต่ำ %
+        - `MinAcceptedItemResourceRatio`: ปริมาตรของเหลวขั้นต่ำ %
+        - `MinAcceptedItemResourceAmount`: ปริมาตรของเหลวขั้นต่ำ (ml)
     ```json
     {
         "Type": "Fetch",
@@ -159,20 +172,17 @@ Loot/
         ]
     }
     ```
-      - `DisablePurchaseOfRequiredItems`: ถ้าเป็น `true` จะไม่สามารถซื้อไอเท็มที่ต้องการในสถานที่ต่างๆได้ ยกเว้น Set `QuestRequirementsBlockTradeableItems=0` ใน `ServerSettings`
-      - `PlayerKeepsItems`: ถ้าเป็น `true` ผู้เล่นจะเก็บไอเท็มที่เก็บได้ไว้ได้
-      - `RequiredItems`: รายการไอเท็มที่ต้องเก็บ
-        - `AcceptedItems`: รายชื่อไอเท็มที่ต้องเก็บ
-        - `RequiredNum`: จำนวนไอเท็มที่ต้องเก็บ
-        - `RandomAdditionalRequiredNum`: จำนวนที่ต้องหาเพิ่มเติม แบบสุ่ม
-        - `MinAcceptedItemUses`: จำนวนการใช้งานขั้นต่ำของไอเท็ม
-        - `MinAcceptedCookLevel`/`MaxAcceptedCookLevel`: ระดับการปรุงอาหาร เช่น `Raw`, `Undercooked`, `Cooked`, `Overcooked`, `Burned`.
-        - `MinAcceptedCookQuality`: คุณภาพการปรุงอาหาร เช่น `Ruined`, `Bad`, `Poor`, `Good`, `Excellent`, `Perfect`.
-        - `MinAcceptedItemMass`: มวลขั้นต่ำของไอเท็ม (กรัม)
-        - `MinAcceptedItemHealth`: สภาพของไอเท็มขั้นต่ำ %
-        - `MinAcceptedItemResourceRatio`: ปริมาตรของเหลวขั้นต่ำ %
-        - `MinAcceptedItemResourceAmount`: ปริมาตรของเหลวขั้นต่ำ (ml)
     - `Interaction`: โต้ตอบกับวัตถุในเกม โดยสามารถใช้ `#GetMeshInfo` เพื่อดูวัตถุที่ใช้โต้ตอบที่มองอยู่ได้ จะได้ Json มาใส่ใน `Locations` ดังนี้
+      - `Locations`: รายการวัตถุที่ต้องโต้ตอบ
+          - `AnchorMesh`: Mesh ของวัตถุที่ต้องโต้ตอบ (อันนี้จำเป็น)
+          - `Instance`: ใช้เมื่อตำแหน่งนั้นมีวัตถุชนิดเดียวกันหลายอันอยู่ใกล้กัน เพื่อระบุ ชิ้นที่ต้องการเฉพาะเจาะจง
+          - `FallbackTransform`: ข้อมูลของ `AnchorMesh` ที่จะใช้เมื่อไม่สามารถหาตำแหน่งได้ (เช่น Mesh ไม่อยู่ในมุมมอง) โดยระบุพิกัดและการหมุน
+          - `VisibleMesh`: Mesh ที่จะแสดงเมื่อโต้ตอบ (ไม่จำเป็น)
+      - `MinNeeded`/`MaxNeeded`: จำนวนขั้นต่ำ/สูงสุดของวัตถุ แบบสุ่มที่ต้องโต้ตอบ
+      - `SpawnOnlyNeeded`: 
+        - หากตั้งค่าเป็น `true`: → เกมจะสุ่มจำนวนของวัตถุที่ต้องใช้จริง และ จะเกิดขึ้นเฉพาะวัตถุตามจำนวนนั้นเท่านั้น บนแผนที่
+        - หากตั้งค่าเป็น `false`: → วัตถุทั้งหมดในรายการจะถูกสร้างขึ้นมา แต่ผู้เล่นไม่จำเป็นต้องโต้ตอบกับทั้งหมด—แค่ครบจำนวนที่กำหนดไว้ก็เพียงพอ
+      - `WorldMarkerShowDistance`: ระยะทางที่จะแสดง Marker ใน UI
     ```json
     {
         "Type": "Interaction",
@@ -194,13 +204,3 @@ Loot/
         "WorldMarkerShowDistance": 50
     }
     ```
-      - `Locations`: รายการวัตถุที่ต้องโต้ตอบ
-          - `AnchorMesh`: Mesh ของวัตถุที่ต้องโต้ตอบ (อันนี้จำเป็น)
-          - `Instance`: ใช้เมื่อตำแหน่งนั้นมีวัตถุชนิดเดียวกันหลายอันอยู่ใกล้กัน เพื่อระบุ ชิ้นที่ต้องการเฉพาะเจาะจง
-          - `FallbackTransform`: ข้อมูลของ `AnchorMesh` ที่จะใช้เมื่อไม่สามารถหาตำแหน่งได้ (เช่น Mesh ไม่อยู่ในมุมมอง) โดยระบุพิกัดและการหมุน
-          - `VisibleMesh`: Mesh ที่จะแสดงเมื่อโต้ตอบ (ไม่จำเป็น)
-      - `MinNeeded`/`MaxNeeded`: จำนวนขั้นต่ำ/สูงสุดของวัตถุ แบบสุ่มที่ต้องโต้ตอบ
-      - `SpawnOnlyNeeded`: 
-        - หากตั้งค่าเป็น `true`: → เกมจะสุ่มจำนวนของวัตถุที่ต้องใช้จริง และ จะเกิดขึ้นเฉพาะวัตถุตามจำนวนนั้นเท่านั้น บนแผนที่
-        - หากตั้งค่าเป็น `false`: → วัตถุทั้งหมดในรายการจะถูกสร้างขึ้นมา แต่ผู้เล่นไม่จำเป็นต้องโต้ตอบกับทั้งหมด—แค่ครบจำนวนที่กำหนดไว้ก็เพียงพอ
-      - `WorldMarkerShowDistance`: ระยะทางที่จะแสดง Marker ใน UI
