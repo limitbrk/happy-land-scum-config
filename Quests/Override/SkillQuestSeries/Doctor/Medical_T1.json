@@ -1,0 +1,70 @@
+{
+  "AssociatedNpc": "Doctor",
+  "Tier": 1,
+  "Title": "[สกิล]เรียนหมอกันเถอะ 1",
+  "Description": "ทุกวันนี้ พวกนักโทษพวกนี้เจ็บป่วยอะไรก็เอะอะมาหาหมอ ซึ่งทุกวันนี้เยอะมาก แล้วมาบ่นหมอรอนาน อยากจะให้พวกมันรู้จังว่า ทำเองได้ไหม",
+  "TimeLimitHours": 48.0,
+  "RewardPool": [
+    {
+      "CurrencyNormal": 100,
+      "Fame": 10,
+      "Skills": [
+        {
+          "Skill": "Medical",
+          "Experience": 1000
+        },
+        {
+          "Skill": "Survival",
+          "Experience": 250
+        }
+      ]
+    }
+  ],
+  "Conditions": [
+    {
+      "TrackingCaption": "สะสมของรักษาเบื้องต้น",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "Emergency_bandage"
+          ],
+          "RequiredNum": 30,
+          "RandomAdditionalRequiredNum": 10
+        },
+        {
+          "AcceptedItems": [
+            "Isopropyl_alcohol"
+          ],
+          "RequiredNum": 5
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "Collect items",
+      "SequenceIndex": 10,
+      "CanBeAutoCompleted": true,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "Diary"
+          ],
+          "RequiredNum": 10
+        },
+        {
+          "AcceptedItems": [
+            "Pen"
+          ],
+          "RequiredNum": 5
+        }
+      ]
+    }
+  ]
+}
