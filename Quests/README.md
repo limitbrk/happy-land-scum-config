@@ -78,8 +78,14 @@ Loot/
     |               |           |           |Engineering
     |               |           |           |Farming
     |               |           |           |Tactics*
-    
+
     *Tactics เป็น Skill ใหม่ที่เพิ่มเข้ามาในแพตซ์ 1.0
+    
+    **Tips**: skill มี 4 ระดับ ต้องการ XP ดังนี้
+    - `Basic`: 10,000 XP
+    - `Medium`: 100,000 XP
+    - `Advanced`: 1,000,000 XP
+    - `Above Advance`: 10,000,000 XP
   - `TradeDeals`: เปิดขาย / ลดราคาไอเทมที่ NPC ขาย นับ Slot ตาม Amount
     ```json
     "TradeDeals": [
