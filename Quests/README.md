@@ -58,8 +58,13 @@ Loot/
 - `Title`: ชื่อเควส
 - `Description`: คำอธิบายเควส
 - `RewardPool`: รายการรางวัลที่ได้รับเมื่อทำเควสสำเร็จ มีได้สูงสุด Reward 5 Slots
-  - `CurrencyNormal`,`CurrencyGold`,`Fame`: นับ Reward 1 Slot กรอกเป็นเลข
-  - `Skills`: นับ Reward 1 Slot ต่ออัน กรอกเป็นชื่อ Skill และจำนวนที่ต้องการเพิ่ม เช่น
+  - `CurrencyNormal`,`CurrencyGold`,`Fame`: นับรวม Reward 1 Slot กรอกเป็นเลข
+    ```json
+        "CurrencyNormal": 1000, 
+        "CurrencyGold": 500,
+        "Fame": 50
+    ```
+  - `Skills`: นับ Reward 1 Slot ต่อ Skill กรอกเป็นชื่อ Skill และจำนวนที่ต้องการเพิ่ม เช่น
     ```json
     "Skills": [
         { "Skill": "Survival", "Value": 50 },
@@ -86,16 +91,16 @@ Loot/
     - `Medium`: 100,000 XP
     - `Advanced`: 1,000,000 XP
     - `Above Advance`: 10,000,000 XP
-  - `TradeDeals`: เปิดขาย / ลดราคาไอเทมที่ NPC ขาย นับ Slot ตาม Amount
+  - `TradeDeals`: เปิดขาย / ลดราคาไอเทมที่ NPC ขาย นับ 2 Slot ตาม Deal 1 อัน
     ```json
     "TradeDeals": [
         {
             "Item": "C4",
             "Price": 100,
             "Fame": 10,
-            "Amount": 2, // ขายให้ 2 ชิ้น นับ 2 Slot มั้ง
-            "AllowExcluded": true, // ขายได้แม้จะปิดใน EconomyOverride.json
-        }
+            "Amount": 2, 
+            "AllowExcluded": true, 
+        }// นับ 2 Slot
     ]
     ```
 - `Conditions`: เงื่อนไขที่ต้องทำให้สำเร็จเพื่อเคลียร์เควส(สามารถใส่พร้อมกันได้) โดยตั้งค่าเงื่อนไขพื้นฐาน มีดังนี้

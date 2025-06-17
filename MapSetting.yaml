@@ -86,11 +86,8 @@ map:
     center: -900000 230000
     radius: 0.250
   B4-Town:
-    center: 490000 -185000
-    radius: 0.200
-  B4-Military:
-    center: 455000 -185000
-    radius: 0.100
+    center: 480000 -185000
+    radius: 0.300 0.150
   B4-Bunker:
     center: 444000 -10000
     radius: 0.250
