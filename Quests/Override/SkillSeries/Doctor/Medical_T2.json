@@ -1,6 +1,6 @@
 {
   "AssociatedNpc": "Doctor",
-  "Tier": 1,
+  "Tier": 2,
   "Title": "[SKILL] เรียนหมอกันเถอะ Let's become a Doctor - 2",
   "Description": "อย่างน้อยก็รู้จักรักษาตัวเองบ้างแล้ว ลองหาของพวกนี้มาศึกษาวิธีการใช้ยา เพราะยาพวกนี้มีคุณสมบัติในการรักษาที่แตกต่างกัน อย่าลืมเรียนรู้ให้ดีเสียล่ะ\n\nAt least you able to treat yourself. Go out and find these supplies to learn how to use them. Each of these medicines has different healing properties, so don’t forget to study them well!",
   "TimeLimitHours": 48.0,
@@ -22,7 +22,7 @@
   ],
   "Conditions": [
     {
-      "TrackingCaption": "สะสมยาสรรพคุณต่างๆ\n3x ขวดโหลแคปซูลผงถ่าน\n\t3x ขวดโหลยาปฏิชีวนะ\n\t3x ขวดโหลโพแทสเซียมไอโอไดด์\n\t3x ขวดโหลยาแก้ปวด\n\t3x ขวดโหลเม็ดวิตามิน\nCollect various medicines\n\t3x Activated Charcoal Jar\n\t3x Antibiotics Jar\n\t3x Potassium Iodide Pills Jar\n\t3x Pain Killers Jar\n\t3x Vitamins Pills Jar",
+      "TrackingCaption": "สะสมยาสรรพคุณต่างๆ\n\tx3 ขวดโหลแคปซูลผงถ่าน\n\tx3 ขวดโหลยาปฏิชีวนะ\n\tx3 ขวดโหลโพแทสเซียมไอโอไดด์\n\tx3 ขวดโหลยาแก้ปวด\n\tx3 ขวดโหลเม็ดวิตามิน\nCollect various medicines\n\tx3 Activated Charcoal Jar\n\tx3 Antibiotics Jar\n\tx3 Potassium Iodide Pills Jar\n\tx3 Pain Killers Jar\n\tx3 Vitamins Pills Jar",
       "SequenceIndex": 0,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "TrackingCaption": "สะสมอุปกรณ์รักษา\n\t3x เจลทาแผลไฟไหม้\n\t3x แพ็กผ้าพันแผลฉุกเฉิน\n\t3x สายรัดห้ามเลือด\nCollect medical supplies\n\t3x Antiburn Gel\n\t3x Emergency Bandage Pack\n\t3x Tourniquet",
+      "TrackingCaption": "สะสมอุปกรณ์รักษา\n\tx3 เจลทาแผลไฟไหม้\n\tx3 แพ็กผ้าพันแผลฉุกเฉิน\n\tx3 สายรัดห้ามเลือด\nCollect medical supplies\n\tx3 Antiburn Gel\n\tx3 Emergency Bandage Pack\n\tx3 Tourniquet",
       "SequenceIndex": 0,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx20 ไดอารี่\n\tx10 ปากกา\nCollect skill learning items\n\t20x Diaries\n\t10x Pens",
+      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx20 ไดอารี่\n\tx10 ปากกา\nCollect skill learning items\n\tx20 Diaries\n\tx10 Pens",
       "SequenceIndex": 1,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",

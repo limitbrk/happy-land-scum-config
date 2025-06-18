@@ -1,0 +1,83 @@
+{
+  "AssociatedNpc": "Mechanic",
+  "Tier": 3,
+  "Title": "[SKILL] ประดิษฐ์ประดอย Pieces Maker - 3",
+  "Description": "เหอะ… ยังไม่หนีไปซะก่อนเรอะ แบบนี้ก็พอมีแววอยู่ มาถึงจุดนี้แล้ว จะบอกเลยนะว่า… ช่างจริงๆ มันไม่ใช่แค่ประกอบของ แต่คือ “เข้าใจของ” รอบนี้ถ้าประกอบมันถูก จะยอมรับว่า “พอเป็นช่างได้” แล้วกัน\n\nYou’re now at the final stage. To become a true professional doctor, these are the ultimate medicines that prisoner like you must have to stay strong.",
+  "TimeLimitHours": 48.0,
+  "RewardPool": [
+    {
+      "CurrencyNormal": 10000,
+      "Fame": 1000,
+      "Skills": [
+        {
+          "Skill": "Engineering",
+          "Experience": 100000
+        },
+        {
+          "Skill": "Survival",
+          "Experience": 25000
+        }
+      ]
+    }
+  ],
+  "Conditions": [
+    {
+      "TrackingCaption": "คราฟเข็มทิศโบราณ\nCraft Primitive Compasses",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "Compass_Primitive"
+          ],
+          "RequiredNum": 40
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "คราฟปลอกเก็บเสียงแบบประดิษฐ์\nCraft Improvised Weapon Suppressors",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "WeaponSuppressor_ImprovisedBottle_Grey",
+            "WeaponSuppressor_ImprovisedBottle_White",
+            "WeaponSuppressor_ImprovisedCan_Grey",
+            "WeaponSuppressor_ImprovisedCan_Red",
+            "WeaponSuppressor_ImprovisedOilCan_01"
+          ],
+          "RequiredNum": 20
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx40 ไดอารี่\n\tx20 ปากกา\nCollect skill learning items\n\tx40 Diaries\n\tx20 Pens",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "Diary"
+          ],
+          "RequiredNum": 40
+        },
+        {
+          "AcceptedItems": [
+            "Pen"
+          ],
+          "RequiredNum": 20
+        }
+      ]
+    }
+  ]
+}

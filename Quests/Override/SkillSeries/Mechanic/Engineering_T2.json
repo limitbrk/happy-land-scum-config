@@ -1,0 +1,79 @@
+{
+  "AssociatedNpc": "Mechanic",
+  "Tier": 2,
+  "Title": "[SKILL] ประดิษฐ์ประดอย Pieces Maker - 2",
+  "Description": "โอ๊ะๆ! ระวังหน่อย อย่าพึ่งถอดออกทั้งที่ยังไม่รู้จะใส่กลับยังไง... ตอนนี้ถ้ายังอยากเรียนรู้งานซ่อมของจริง ก็หาของพวกนี้มาให้ดู มันใช้แก้ปัญหาแบบที่ มีแค่แรงอย่างเดียวไม่พอ ช่างมันต้องใช้สมองด้วย จำไว้ซะ\n\nWhoa there! Don’t tear it apart if you don’t know how to put it back. If you’re serious about learning real repair work, go get me these materials. Fixing things isn’t just about brute force — you need brains too. Remember that.",
+  "TimeLimitHours": 48.0,
+  "RewardPool": [
+    {
+      "CurrencyNormal": 1000,
+      "Fame": 100,
+      "Skills": [
+        {
+          "Skill": "Engineering",
+          "Experience": 10000
+        },
+        {
+          "Skill": "Survival",
+          "Experience": 2500
+        }
+      ]
+    }
+  ],
+  "Conditions": [
+    {
+      "TrackingCaption": "คราฟกล่องเครื่องมือแบบประดิษฐ์\nCraft Improvised Tool Boxes",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "Improvised_Tool_Box"
+          ],
+          "RequiredNum": 8
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "คราฟชุดเย็บปักถักร้อยแบบประดิษฐ์\nCraft Improvised Sewing Kits",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "Improvised_Sewing_kit"
+          ],
+          "RequiredNum": 20
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx20 ไดอารี่\n\tx10 ปากกา\nCollect skill learning items\n\tx20 Diaries\n\tx10 Pens",
+      "SequenceIndex": 2,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "Diary"
+          ],
+          "RequiredNum": 20
+        },
+        {
+          "AcceptedItems": [
+            "Pen"
+          ],
+          "RequiredNum": 10
+        }
+      ]
+    }
+  ]
+}

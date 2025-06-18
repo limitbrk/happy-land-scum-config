@@ -1,0 +1,85 @@
+{
+  "AssociatedNpc": "Bartender",
+  "Tier": 1,
+  "Title": "[SKILL] กินได้ก็กิน ไม่ได้ก็ทิ้งไป No matter you can eat it or not - 1",
+  "Description": "ชั้นล่ะเบื่อจริง ๆ พวกนักโทษพวกนี้มันเป็นอะไรนักหนา กินไปได้แป๊บเดียวก็หิวอีกแล้ว! ยังไม่ทันได้ทำอะไรเลย ท้องก็ร้องซะแล้ว — นายน่ะ พอจะช่วยฉันตุนเสบียงไว้หน่อยได้ไหม?ว่างเมื่อไหร่ เดี๋ยวฉันจะสอนเคล็ดลับทำอาหารให้เธอเอง\n\nUgh, I’m so fed up! What’s wrong with these prisoners? Eat one thing and hungry again in five minutes! Hey, could you stock up some food for me? When I’ve got time, I’ll teach you some cooking tricks in return.",
+  "TimeLimitHours": 48.0,
+  "RewardPool": [
+    {
+      "CurrencyNormal": 100,
+      "Fame": 10,
+      "Skills": [
+        {
+          "Skill": "Cooking",
+          "Experience": 1000
+        },
+        {
+          "Skill": "Survival",
+          "Experience": 250
+        }
+      ]
+    }
+  ],
+  "Conditions": [
+    {
+      "TrackingCaption": "ทำเมนูปลาย่างหรือเสียบไม้\nCook grilled fish or fish skewers",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "Dish_Grilled_Fish",
+            "Dish_Skewer_Fish"
+          ],
+          "RequiredNum": 10,
+          "MinAcceptedCookLevel": "Undercooked",
+          "MaxAcceptedCookLevel": "Undercooked"
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "ทำเมนูเนื้อย่างหรือเสียบไม้\nCook grilled fish or fish skewers",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "Dish_Skewer_Meat",
+            "Dish_Grilled_RedMeat"
+          ],
+          "RequiredNum": 10,
+          "MinAcceptedCookLevel": "Undercooked",
+          "MaxAcceptedCookLevel": "Undercooked"
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx10 ไดอารี่\n\tx5 ปากกา\nCollect skill learning items\n\tx10 Diaries\n\tx5 Pens",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "Diary"
+          ],
+          "RequiredNum": 10
+        },
+        {
+          "AcceptedItems": [
+            "Pen"
+          ],
+          "RequiredNum": 5
+        }
+      ]
+    }
+  ]
+}

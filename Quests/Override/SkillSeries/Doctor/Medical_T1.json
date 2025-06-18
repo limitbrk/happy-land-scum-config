@@ -22,7 +22,7 @@
   ],
   "Conditions": [
     {
-      "TrackingCaption": "สะสมของใช้ในการปฐมพยาบาล\n\t5x แอลกอฮอล์ไอโซโพรพิล\n\tx30 ผ้าพันแผลฉุกเฉิน\nCollect first aid supplies\n\t5x bottles of Isopropyl Alcohol\n\t30x Emergency Bandages",
+      "TrackingCaption": "สะสมของใช้ในการปฐมพยาบาล\n\tx5 แอลกอฮอล์ไอโซโพรพิล\n\tx30 ผ้าพันแผลฉุกเฉิน\nCollect first aid supplies\n\tx5 bottles of Isopropyl Alcohol\n\tx30 Emergency Bandages",
       "SequenceIndex": 0,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx10 ไดอารี่\n\tx5 ปากกา\nCollect skill learning items\n\t10x Diaries\n\t5x Pens",
+      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx10 ไดอารี่\n\tx5 ปากกา\nCollect skill learning items\n\tx10 Diaries\n\tx5 Pens",
       "SequenceIndex": 1,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",

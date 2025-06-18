@@ -1,0 +1,87 @@
+{
+  "AssociatedNpc": "Mechanic",
+  "Tier": 1,
+  "Title": "[SKILL] ประดิษฐ์ประดอย Pieces Maker - 1",
+  "Description": "เฮอะ... เดี๋ยวนี้ใคร ๆ ก็อยากจะซ่อมเอง ทำเอง แต่ไม่มีใครรู้ด้วยซ้ำว่า... ประแจต้องหมุนทางไหน ไหนลองไปหาพวกอะไหล่พื้นๆ พวกนี้มาให้ดูหน่อยสิ เดี๋ยวจะดูให้ว่ายังมีหวังจะเป็น “ช่าง” ได้รึเปล่า\n\nHmph… Everyone wants to fix things themselves these days, but most don’t even know which way to turn a wrench. Go fetch me these basic parts and let’s see if you’ve even got a shot at being called a “mechanic”.",
+  "TimeLimitHours": 48.0,
+  "RewardPool": [
+    {
+      "CurrencyNormal": 100,
+      "Fame": 10,
+      "Skills": [
+        {
+          "Skill": "Engineering",
+          "Experience": 1000
+        },
+        {
+          "Skill": "Survival",
+          "Experience": 250
+        }
+      ]
+    }
+  ],
+  "Conditions": [
+    {
+      "TrackingCaption": "เก็บเศษเหล็ก\nCollect metal scrap",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "Metal_Scrap_01",
+            "Metal_Scrap_02",
+            "Metal_Scrap_03",
+            "Metal_Scrap_04",
+            "Metal_Scrap_05"
+          ],
+          "RequiredNum": 50
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "เก็บเศษเหล็กเพิ่ม\nCollect more metal scrap",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "Metal_Scrap_01",
+            "Metal_Scrap_02",
+            "Metal_Scrap_03",
+            "Metal_Scrap_04",
+            "Metal_Scrap_05"
+          ],
+          "RequiredNum": 50
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx10 ไดอารี่\n\tx5 ปากกา\nCollect skill learning items\n\tx10 Diaries\n\tx5 Pens",
+      "SequenceIndex": 2,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "Diary"
+          ],
+          "RequiredNum": 10
+        },
+        {
+          "AcceptedItems": [
+            "Pen"
+          ],
+          "RequiredNum": 5
+        }
+      ]
+    }
+  ]
+}

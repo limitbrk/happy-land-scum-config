@@ -1,0 +1,84 @@
+{
+  "AssociatedNpc": "Bartender",
+  "Tier": 3,
+  "Title": "[SKILL] กินได้ก็กิน ไม่ได้ก็ทิ้งไป No matter you can eat it or not - 3",
+  "Description": "ล่าสุดมีนักโทษจากไหนไม่รู้ มาขอให้ฉันทำ เค้ก ให้น่ะสิ!ถามจริง บนเกาะกันดารแบบนี้ นายคิดว่ามันจะหาของทำเค้กง่ายมั้ยล่ะ?เอาเถอะ… ถ้าเธอหามาได้ ฉันสัญญาเลยว่าจะตบรางวัลงาม ๆ.\n\nOh, and get this — some new guy just showed up and asked me to bake a cake.Seriously? On this godforsaken island? You think ingredients grow on trees? Fine, fine… If you can get me what I need, I’ll make sure you’re handsomely rewarded.",
+  "TimeLimitHours": 48.0,
+  "RewardPool": [
+    {
+      "CurrencyNormal": 10000,
+      "Fame": 1000,
+      "Skills": [
+        {
+          "Skill": "Cooking",
+          "Experience": 100000
+        },
+        {
+          "Skill": "Survival",
+          "Experience": 25000
+        }
+      ]
+    }
+  ],
+  "Conditions": [
+    {
+      "TrackingCaption": "ทำเค้กช็อกโกแลต\nCook chocolate cake",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "Dish_Cake_Chocolate"
+          ],
+          "RequiredNum": 3,
+          "MinAcceptedCookLevel": "Undercooked",
+          "MaxAcceptedCookLevel": "Undercooked"
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "ทำเมนูชา\nCook tea",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "Dish_Drink_Tea",
+            "Dish_Drink_EnglishTea"
+          ],
+          "RequiredNum": 6,
+          "MinAcceptedCookLevel": "Undercooked",
+          "MaxAcceptedCookLevel": "Undercooked"
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx40 ไดอารี่\n\tx20 ปากกา\nCollect skill learning items\n\tx40 Diaries\n\tx20 Pens",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "Diary"
+          ],
+          "RequiredNum": 40
+        },
+        {
+          "AcceptedItems": [
+            "Pen"
+          ],
+          "RequiredNum": 20
+        }
+      ]
+    }
+  ]
+}
