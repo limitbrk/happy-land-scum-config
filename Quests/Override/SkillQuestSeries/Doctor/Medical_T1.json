@@ -1,8 +1,8 @@
 {
   "AssociatedNpc": "Doctor",
   "Tier": 1,
-  "Title": "[สกิล]เรียนหมอกันเถอะ 1",
-  "Description": "ทุกวันนี้ พวกนักโทษพวกนี้เจ็บป่วยอะไรก็เอะอะมาหาหมอ ซึ่งทุกวันนี้เยอะมาก แล้วมาบ่นหมอรอนาน อยากจะให้พวกมันรู้จังว่า ทำเองได้ไหม",
+  "Title": "[SKILL] เรียนหมอกันเถอะ Let's become a Doctor - 1",
+  "Description": "ทุกวันนี้พวกนักโทษเวลาเป็นอะไรนิดหน่อยก็วิ่งมาหาหมอ เจ็บคอนิด ปวดขาหน่อย ก็พุ่งมาทันที บางวันหมอไม่มีเวลาจะพักเลย แล้วก็ชอบบ่นว่ารอนานอีกต่างหากเราเลยอยากสอนให้พวกมันรู้ซะบ้าง ว่าการเป็นหมอไม่ใช่เรื่องง่าย — จะได้รู้จักดูแลตัวเองมากขึ้น!\n\nThese days, prisoner rush to me for every little thing — a sore throat, a stubbed toe. Some days, I barely have time to breathe. And of course, they always complain about the long wait.It’s time they learn what it really takes to be a doctor — maybe then they’ll take better care of themselves.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {
@@ -22,7 +22,7 @@
   ],
   "Conditions": [
     {
-      "TrackingCaption": "สะสมของรักษาเบื้องต้น",
+      "TrackingCaption": "สะสมของใช้ในการปฐมพยาบาล\n\t5x แอลกอฮอล์ไอโซโพรพิล\n\tx30 ผ้าพันแผลฉุกเฉิน\nCollect first aid supplies\n\t5x bottles of Isopropyl Alcohol\n\t30x Emergency Bandages",
       "SequenceIndex": 0,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -33,8 +33,7 @@
           "AcceptedItems": [
             "Emergency_bandage"
           ],
-          "RequiredNum": 30,
-          "RandomAdditionalRequiredNum": 10
+          "RequiredNum": 30
         },
         {
           "AcceptedItems": [
@@ -45,9 +44,9 @@
       ]
     },
     {
-      "TrackingCaption": "Collect items",
-      "SequenceIndex": 10,
-      "CanBeAutoCompleted": true,
+      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx10 ไดอารี่\n\tx5 ปากกา\nCollect skill learning items\n\t10x Diaries\n\t5x Pens",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": false,
       "Type": "Fetch",
       "DisablePurchaseOfRequiredItems": true,
       "PlayerKeepsItems": false,

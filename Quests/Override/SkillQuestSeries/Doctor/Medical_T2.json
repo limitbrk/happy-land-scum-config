@@ -1,0 +1,115 @@
+{
+  "AssociatedNpc": "Doctor",
+  "Tier": 1,
+  "Title": "[SKILL] เรียนหมอกันเถอะ Let's become a Doctor - 2",
+  "Description": "อย่างน้อยก็รู้จักรักษาตัวเองบ้างแล้ว ลองหาของพวกนี้มาศึกษาวิธีการใช้ยา เพราะยาพวกนี้มีคุณสมบัติในการรักษาที่แตกต่างกัน อย่าลืมเรียนรู้ให้ดีเสียล่ะ\n\nAt least you able to treat yourself. Go out and find these supplies to learn how to use them. Each of these medicines has different healing properties, so don’t forget to study them well!",
+  "TimeLimitHours": 48.0,
+  "RewardPool": [
+    {
+      "CurrencyNormal": 1000,
+      "Fame": 100,
+      "Skills": [
+        {
+          "Skill": "Medical",
+          "Experience": 10000
+        },
+        {
+          "Skill": "Survival",
+          "Experience": 2500
+        }
+      ]
+    }
+  ],
+  "Conditions": [
+    {
+      "TrackingCaption": "สะสมยาสรรพคุณต่างๆ\n3x ขวดโหลแคปซูลผงถ่าน\n\t3x ขวดโหลยาปฏิชีวนะ\n\t3x ขวดโหลโพแทสเซียมไอโอไดด์\n\t3x ขวดโหลยาแก้ปวด\n\t3x ขวดโหลเม็ดวิตามิน\nCollect various medicines\n\t3x Activated Charcoal Jar\n\t3x Antibiotics Jar\n\t3x Potassium Iodide Pills Jar\n\t3x Pain Killers Jar\n\t3x Vitamins Pills Jar",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "ActivatedCharcoal_03"
+          ],
+          "RequiredNum": 3
+        },
+        {
+          "AcceptedItems": [
+            "Antibiotics_03"
+          ],
+          "RequiredNum": 3
+        },
+        {
+          "AcceptedItems": [
+            "PotassiumIodide_Pills_03"
+          ],
+          "RequiredNum": 3
+        },
+        {
+          "AcceptedItems": [
+            "PainKillers_03"
+          ],
+          "RequiredNum": 3
+        },
+        {
+          "AcceptedItems": [
+            "Vitamins_03"
+          ],
+          "RequiredNum": 3
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "สะสมอุปกรณ์รักษา\n\t3x เจลทาแผลไฟไหม้\n\t3x แพ็กผ้าพันแผลฉุกเฉิน\n\t3x สายรัดห้ามเลือด\nCollect medical supplies\n\t3x Antiburn Gel\n\t3x Emergency Bandage Pack\n\t3x Tourniquet",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "AntiburnGel"
+          ],
+          "RequiredNum": 3
+        },
+        {
+          "AcceptedItems": [
+            "Emergency_Bandage_Big"
+          ],
+          "RequiredNum": 3
+        },
+        {
+          "AcceptedItems": [
+            "Tourniquet"
+          ],
+          "RequiredNum": 3
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx20 ไดอารี่\n\tx10 ปากกา\nCollect skill learning items\n\t20x Diaries\n\t10x Pens",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "Diary"
+          ],
+          "RequiredNum": 20
+        },
+        {
+          "AcceptedItems": [
+            "Pen"
+          ],
+          "RequiredNum": 10
+        }
+      ]
+    }
+  ]
+}

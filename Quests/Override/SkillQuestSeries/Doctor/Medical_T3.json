@@ -1,0 +1,81 @@
+{
+  "AssociatedNpc": "Doctor",
+  "Tier": 1,
+  "Title": "[SKILL] เรียนหมอกันเถอะ Let's become a Doctor - 3",
+  "Description": "มาถึงขั้นสุดท้ายแล้ว ตอนนี้คุณจะต้องเป็นหมอมืออาชีพจริงๆ ยาพวกนี้คือสุดยอดที่นักโทษแบบคุณต้องมีไว้ เพื่อความแข็งแกร่ง\n\nYou’re now at the final stage. To become a true professional doctor, these are the ultimate medicines that prisoner like you must have to stay strong.",
+  "TimeLimitHours": 48.0,
+  "RewardPool": [
+    {
+      "CurrencyNormal": 10000,
+      "Fame": 1000,
+      "Skills": [
+        {
+          "Skill": "Medical",
+          "Experience": 100000
+        },
+        {
+          "Skill": "Survival",
+          "Experience": 25000
+        }
+      ]
+    }
+  ],
+  "Conditions": [
+    {
+      "TrackingCaption": "สะสมของสุดยอดเอาตัวรอด\n\tx5 ซีรั่มเร่งการฟื้นฟูเล็ก\n\tx3 ซีรั่มเร่งการฟื้นฟู\n\tx1 หลอดเสริมความฉลาดLv3\n\tx1 โมดูลหน่วยความจำสีทอง\nCollect ultimate survival items\n\t5x Phoenix Tears Small\n\t3x Phoenix Tears\n\t1x Intelligence Enhancement Ampule Lv3\n\t1x Gold Memory Module",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "Phoenix_Tears_Small"
+          ],
+          "RequiredNum": 5
+        },
+        {
+          "AcceptedItems": [
+            "Phoenix_Tears"
+          ],
+          "RequiredNum": 3
+        },
+        {
+          "AcceptedItems": [
+            "IntEA_Level3"
+          ],
+          "RequiredNum": 1
+        },
+        {
+          "AcceptedItems": [
+            "MemoryModule_Level4"
+          ],
+          "RequiredNum": 1
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx40 ไดอารี่\n\tx20 ปากกา\nCollect skill learning items\n\t40x Diaries\n\t20x Pens",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": [
+            "Diary"
+          ],
+          "RequiredNum": 40
+        },
+        {
+          "AcceptedItems": [
+            "Pen"
+          ],
+          "RequiredNum": 20
+        }
+      ]
+    }
+  ]
+}
