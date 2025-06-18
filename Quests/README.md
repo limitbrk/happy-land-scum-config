@@ -5,8 +5,9 @@ Fully Guide [here](https://docs.google.com/document/d/1B1qooypdebE2xvJ33cb-BIH5M
 SCUM official tool สำหรับปรับแต่งเควสในเกม SCUM [here](https://drive.google.com/drive/folders/1tITA6KE81awb0G5LYzubK-ZQRAbIKncT)
 
 **โครงสร้างไฟล์มีดังนี้**
+สามารถใช้คำสั่ง `#exportQuests` เพื่อสร้างโครงสร้างไฟล์เควสพื้นฐานได้
 ```js
-Loot/
+Quests/
 ├── Blocked/
 │   └── BlockedQuests.json
 ├── Override/
@@ -14,9 +15,9 @@ Loot/
 │   │   └── QuestSeriesOneEP1.json // กำลังลอง Test แบบ Sub folder
 │   ├── Questแรก.json
 │   └── Questสอง.json
-├── QuestList/ // ระบบ Generate ไม่ต้องสนใจ
-│   ├── CustomQuestList.json
-│   └── DefaultQuestList.json
+└── QuestList/ // ระบบ Generate ไม่ต้องสนใจ
+    ├── CustomQuestList.json
+    └── DefaultQuestList.json
 ```
 - `Blocked`: บล็อกเควสเริ่มต้น และเควสอื่นๆ
     ตัวอย่างไฟล์ `BlockedQuests.json`:
