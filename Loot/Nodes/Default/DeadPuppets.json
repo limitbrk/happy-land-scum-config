@@ -64,7 +64,7 @@
 									"Rarity": "Uncommon",
 									"Children": [
 										{
-											"Name": "Bobby_Pin_Pacage",
+											"Name": "Bobby_Pin_Package",
 											"Rarity": "Abundant"
 										},
 										{
@@ -112,10 +112,6 @@
 								{
 									"Name": "Needle",
 									"Rarity": "Uncommon"
-								},
-								{
-									"Name": "Padlock",
-									"Rarity": "Rare"
 								},
 								{
 									"Name": "Paper",
@@ -246,7 +242,7 @@
 									"Rarity": "Uncommon",
 									"Children": [
 										{
-											"Name": "Bobby_Pin_Pacage",
+											"Name": "Bobby_Pin_Package",
 											"Rarity": "Common"
 										},
 										{
@@ -278,10 +274,6 @@
 								{
 									"Name": "Needle",
 									"Rarity": "Uncommon"
-								},
-								{
-									"Name": "Padlock",
-									"Rarity": "Rare"
 								},
 								{
 									"Name": "Paper",
@@ -637,7 +629,7 @@
 									"Rarity": "Uncommon",
 									"Children": [
 										{
-											"Name": "Bobby_Pin_Pacage",
+											"Name": "Bobby_Pin_Package",
 											"Rarity": "Common"
 										},
 										{
@@ -669,10 +661,6 @@
 								{
 									"Name": "Needle",
 									"Rarity": "Uncommon"
-								},
-								{
-									"Name": "Padlock",
-									"Rarity": "Rare"
 								},
 								{
 									"Name": "Paper",
@@ -959,10 +947,6 @@
 								{
 									"Name": "Needle",
 									"Rarity": "Uncommon"
-								},
-								{
-									"Name": "Padlock",
-									"Rarity": "Rare"
 								},
 								{
 									"Name": "Paper",

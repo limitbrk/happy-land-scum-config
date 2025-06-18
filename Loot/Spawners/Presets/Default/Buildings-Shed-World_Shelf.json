@@ -3,7 +3,13 @@
 		{
 			"Rarity": "Uncommon",
 			"Ids": [
-				"ItemLootTreeNodes.Barn"
+				"ItemLootTreeNodes.Barn.Crafting",
+				"ItemLootTreeNodes.Barn.LightsFire",
+				"ItemLootTreeNodes.Barn.Other",
+				"ItemLootTreeNodes.Barn.Repair",
+				"ItemLootTreeNodes.Barn.Tools",
+				"ItemLootTreeNodes.Barn.WorkClothes",
+				"ItemLootTreeNodes.Barn.VehicleAccesories"
 			]
 		},
 		{
@@ -18,6 +24,8 @@
 	"QuantityMax": 1,
 	"AllowDuplicates": false,
 	"ShouldFilterItemsByZone": true,
+	"ShouldApplyLocationSpecificDamageModifier": true,
+	"ShouldApplyLocationSpecificProbabilityModifier": true,
 	"InitialDamage": 0,
 	"RandomDamage": 50,
 	"InitialUsage": 0,

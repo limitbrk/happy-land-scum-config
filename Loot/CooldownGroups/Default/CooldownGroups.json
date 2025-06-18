@@ -141,6 +141,12 @@
 			"IsAffectedByLowerGroups": true
 		},
 		{
+			"Name": "Weapons.Explosives.Tier.VeryHigh",
+			"CooldownMin": 48,
+			"CooldownMax": 96,
+			"IsAffectedByLowerGroups": true
+		},
+		{
 			"Name": "Weapons.DMRSnipers.Tier.High",
 			"CooldownMin": 90,
 			"CooldownMax": 100,

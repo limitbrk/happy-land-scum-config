@@ -461,10 +461,6 @@
 									]
 								},
 								{
-									"Name": "Christmas_Ball_01",
-									"Rarity": "Uncommon"
-								},
-								{
 									"Name": "Cigarettes",
 									"Rarity": "Rare",
 									"Children": [
@@ -541,7 +537,7 @@
 									"Rarity": "Common",
 									"Children": [
 										{
-											"Name": "Bobby_Pin_Pacage",
+											"Name": "Bobby_Pin_Package",
 											"Rarity": "Abundant"
 										},
 										{
@@ -571,7 +567,7 @@
 											"Rarity": "Rare"
 										},
 										{
-											"Name": "Lock_Items_Medium",
+											"Name": "Lock_Item_Medium",
 											"Rarity": "VeryRare"
 										},
 										{
@@ -773,6 +769,10 @@
 									"Name": "Handguns",
 									"Rarity": "VeryRare",
 									"Children": [
+										{
+											"Name": "Weapon_BayRifferBlock21",
+											"Rarity": "VeryRare"
+										},
 										{
 											"Name": "Weapon_Block21",
 											"Rarity": "Rare"

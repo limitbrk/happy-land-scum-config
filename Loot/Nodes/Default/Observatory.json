@@ -1489,7 +1489,7 @@
 									"Rarity": "Uncommon",
 									"Children": [
 										{
-											"Name": "Bobby_Pin_Pacage",
+											"Name": "Bobby_Pin_Package",
 											"Rarity": "Uncommon"
 										},
 										{
@@ -1519,7 +1519,7 @@
 											"Rarity": "Rare"
 										},
 										{
-											"Name": "Lock_Items_Medium",
+											"Name": "Lock_Item_Medium",
 											"Rarity": "VeryRare"
 										},
 										{
@@ -1798,6 +1798,10 @@
 							"Rarity": "Rare",
 							"Children": [
 								{
+									"Name": "Weapon_BayRifferBlock21",
+									"Rarity": "ExtremelyRare"
+								},
+								{
 									"Name": "Weapon_Block21",
 									"Rarity": "VeryRare"
 								},
@@ -1915,6 +1919,10 @@
 											"Children": [
 												{
 													"Name": "WeaponScope_HuntingScope",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "WeaponScope_PU",
 													"Rarity": "Rare"
 												},
 												{
@@ -2090,7 +2098,7 @@
 											"Rarity": "Rare"
 										},
 										{
-											"Name": "Night_Vision_Googles_01",
+											"Name": "Night_Vision_Goggles_01",
 											"Rarity": "ExtremelyRare"
 										}
 									]

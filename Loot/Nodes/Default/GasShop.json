@@ -37,7 +37,7 @@
 							"Rarity": "VeryRare",
 							"Children": [
 								{
-									"Name": "Break_Oil",
+									"Name": "Brake_Oil",
 									"Rarity": "Rare"
 								}
 							]
@@ -664,6 +664,10 @@
 									"Rarity": "Rare",
 									"Children": [
 										{
+											"Name": "Weapon_BayRifferBlock21",
+											"Rarity": "ExtremelyRare"
+										},
+										{
 											"Name": "Weapon_Block21",
 											"Rarity": "VeryRare"
 										},
@@ -734,10 +738,6 @@
 								{
 									"Name": "Gasoline_Canister_Small",
 									"Rarity": "Rare"
-								},
-								{
-									"Name": "Tire_Repair_Kit",
-									"Rarity": "VeryRare"
 								}
 							]
 						},
@@ -852,7 +852,7 @@
 									"Rarity": "VeryRare"
 								},
 								{
-									"Name": "1H_Wrench_Pipe",
+									"Name": "1H_Pipe_Wrench",
 									"Rarity": "Uncommon"
 								},
 								{

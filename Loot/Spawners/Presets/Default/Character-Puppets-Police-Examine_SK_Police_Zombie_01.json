@@ -2,11 +2,11 @@
 	"Items": [
 		{
 			"Rarity": "Uncommon",
-			"Id": "MilitaryPants_07"
+			"Id": "MilitaryPants_09"
 		},
 		{
 			"Rarity": "Uncommon",
-			"Id": "Marine_Cap_03"
+			"Id": "Marine_Cap_02"
 		},
 		{
 			"Rarity": "Uncommon",
@@ -21,6 +21,8 @@
 	"QuantityMax": 2,
 	"AllowDuplicates": false,
 	"ShouldFilterItemsByZone": false,
+	"ShouldApplyLocationSpecificDamageModifier": true,
+	"ShouldApplyLocationSpecificProbabilityModifier": true,
 	"InitialDamage": 93,
 	"RandomDamage": 3,
 	"InitialUsage": 93,

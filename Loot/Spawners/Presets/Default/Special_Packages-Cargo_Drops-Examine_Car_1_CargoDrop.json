@@ -1,7 +1,6 @@
 {
 	"FixedItems": [
 		"Car_Repair_Kit",
-		"Tire_Repair_Kit",
 		"Car_Jack"
 	],
 	"InitialDamage": 0,

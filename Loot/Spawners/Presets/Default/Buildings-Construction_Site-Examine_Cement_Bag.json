@@ -10,6 +10,8 @@
 	"QuantityMax": 1,
 	"AllowDuplicates": false,
 	"ShouldFilterItemsByZone": true,
+	"ShouldApplyLocationSpecificDamageModifier": true,
+	"ShouldApplyLocationSpecificProbabilityModifier": true,
 	"InitialDamage": 5,
 	"RandomDamage": 20,
 	"InitialUsage": 10,

@@ -551,6 +551,20 @@
 							]
 						},
 						{
+							"Name": "Instruments",
+							"Rarity": "ExtremelyRare",
+							"Children": [
+								{
+									"Name": "Banjo",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Guitar",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
 							"Name": "Money",
 							"Rarity": "ExtremelyRare",
 							"PostSpawnActions": [
@@ -712,7 +726,7 @@
 									"Rarity": "VeryRare"
 								},
 								{
-									"Name": "1H_Wrench_Pipe",
+									"Name": "1H_Pipe_Wrench",
 									"Rarity": "Uncommon"
 								},
 								{
@@ -806,6 +820,96 @@
 								{
 									"Name": "Sledgehammer",
 									"Rarity": "VeryRare"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "VehicleAccesories",
+					"Rarity": "VeryRare",
+					"Children": [
+						{
+							"Name": "Parts",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Tractor_Body_Left_Brakelight_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Tractor_Body_Right_Brakelight_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Tractor_Door_Hood_Headlight_Left_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Tractor_Door_Hood_Headlight_Right_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Tractor_Engine_Alternator_Item",
+									"Rarity": "Uncommon"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "VehicleAttachments",
+					"Rarity": "VeryRare",
+					"Children": [
+						{
+							"Name": "Body",
+							"Rarity": "Common",
+							"Children": [
+								{
+									"Name": "Tractor_Body_Left_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Tractor_Body_Right_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Tractor_Door_Hood_Item",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "Doors",
+							"Rarity": "Common",
+							"Children": [
+								{
+									"Name": "Tractor_Body_Top_Door_Left_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Tractor_Body_Top_Door_Right_Item",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "Pneumatics",
+							"Rarity": "Common",
+							"Children": [
+								{
+									"Name": "Wheel_6x16_Item",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "Seats",
+							"Rarity": "ExtremelyRare",
+							"Children": [
+								{
+									"Name": "Tractor_Seat_Driver_Item",
+									"Rarity": "Uncommon"
 								}
 							]
 						}

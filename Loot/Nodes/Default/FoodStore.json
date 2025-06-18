@@ -175,7 +175,7 @@
 									"Rarity": "Rare"
 								},
 								{
-									"Name": "CannedFruitCoctail",
+									"Name": "CannedFruitCocktail",
 									"Rarity": "VeryRare"
 								},
 								{
@@ -227,7 +227,7 @@
 									"Rarity": "Rare"
 								},
 								{
-									"Name": "TomatoSouce",
+									"Name": "TomatoSauce",
 									"Rarity": "Rare"
 								}
 							]
@@ -583,7 +583,7 @@
 									"Rarity": "Rare"
 								},
 								{
-									"Name": "Chilipeper",
+									"Name": "Chili_Pepper",
 									"Rarity": "Rare"
 								},
 								{
@@ -687,7 +687,7 @@
 							"Rarity": "Rare",
 							"Children": [
 								{
-									"Name": "Bobby_Pin_Pacage",
+									"Name": "Bobby_Pin_Package",
 									"Rarity": "Rare"
 								},
 								{

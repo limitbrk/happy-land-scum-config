@@ -31,14 +31,14 @@
 				"ItemLootTreeNodes.Workshop.Tools.Electrical",
 				"ItemLootTreeNodes.Workshop.Tools.Hand.1H_Crowbar",
 				"ItemLootTreeNodes.Workshop.Tools.Hand.1H_Metal_Pipe",
-				"ItemLootTreeNodes.Workshop.Tools.Hand.1H_Wrench_Pipe",
 				"ItemLootTreeNodes.Workshop.Tools.Hand.Thermometer",
 				"ItemLootTreeNodes.Workshop.Tools.Hand.CanOpener",
 				"ItemLootTreeNodes.Workshop.Tools.Hand.Saw",
 				"ItemLootTreeNodes.Workshop.Tools.Hand.Screwdriver_Small",
 				"ItemLootTreeNodes.Workshop.Tools.Hand.Wire_Cutters_01",
 				"ItemLootTreeNodes.Workshop.Tools.Heavy",
-				"ItemLootTreeNodes.Workshop.Tools.Power"
+				"ItemLootTreeNodes.Workshop.Tools.Power",
+				"ItemLootTreeNodes.Workshop.Tools.Hand.1H_Pipe_Wrench"
 			]
 		},
 		{
@@ -53,6 +53,8 @@
 	"QuantityMax": 1,
 	"AllowDuplicates": false,
 	"ShouldFilterItemsByZone": true,
+	"ShouldApplyLocationSpecificDamageModifier": true,
+	"ShouldApplyLocationSpecificProbabilityModifier": true,
 	"InitialDamage": 0,
 	"RandomDamage": 50,
 	"InitialUsage": 0,

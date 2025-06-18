@@ -19,7 +19,7 @@
 							"Rarity": "Rare"
 						},
 						{
-							"Name": "Bobby_Pin_Pacage",
+							"Name": "Bobby_Pin_Package",
 							"Rarity": "Rare"
 						},
 						{
@@ -69,7 +69,7 @@
 							"Rarity": "Uncommon",
 							"Children": [
 								{
-									"Name": "Break_Oil",
+									"Name": "Brake_Oil",
 									"Rarity": "Uncommon"
 								},
 								{
@@ -111,7 +111,7 @@
 									"Rarity": "Rare"
 								},
 								{
-									"Name": "Lock_Items_Medium",
+									"Name": "Lock_Item_Medium",
 									"Rarity": "VeryRare"
 								},
 								{
@@ -844,6 +844,20 @@
 							"Rarity": "Uncommon"
 						},
 						{
+							"Name": "Instruments",
+							"Rarity": "ExtremelyRare",
+							"Children": [
+								{
+									"Name": "Banjo",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Guitar",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
 							"Name": "Money",
 							"Rarity": "ExtremelyRare",
 							"PostSpawnActions": [
@@ -922,6 +936,10 @@
 									"Name": "Handguns",
 									"Rarity": "Common",
 									"Children": [
+										{
+											"Name": "Weapon_BayRifferBlock21",
+											"Rarity": "VeryRare"
+										},
 										{
 											"Name": "Weapon_Block21",
 											"Rarity": "Rare"
@@ -1003,7 +1021,7 @@
 													"Rarity": "Rare"
 												},
 												{
-													"Name": "Night_Vision_Googles_01",
+													"Name": "Night_Vision_Goggles_01",
 													"Rarity": "ExtremelyRare"
 												}
 											]
@@ -1079,10 +1097,6 @@
 								{
 									"Name": "Gasoline_Canister_Small",
 									"Rarity": "Rare"
-								},
-								{
-									"Name": "Tire_Repair_Kit",
-									"Rarity": "Uncommon"
 								}
 							]
 						},
@@ -1177,7 +1191,7 @@
 									"Rarity": "Rare"
 								},
 								{
-									"Name": "1H_Wrench_Pipe",
+									"Name": "1H_Pipe_Wrench",
 									"Rarity": "Rare"
 								},
 								{
@@ -1242,7 +1256,7 @@
 						},
 						{
 							"Name": "Parts",
-							"Rarity": "Rare",
+							"Rarity": "Uncommon",
 							"Children": [
 								{
 									"Name": "Car_Battery",
@@ -1274,7 +1288,7 @@
 								},
 								{
 									"Name": "Laika_Engine_Alternator_Item",
-									"Rarity": "Rare"
+									"Rarity": "Uncommon"
 								},
 								{
 									"Name": "Laika_Lights_FrontLeft",
@@ -1341,8 +1355,28 @@
 									"Rarity": "Rare"
 								},
 								{
-									"Name": "WW_Engine_Alternator_Item",
+									"Name": "Tractor_Body_Left_Brakelight_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Tractor_Body_Right_Brakelight_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Tractor_Door_Hood_Headlight_Left_Item",
 									"Rarity": "Rare"
+								},
+								{
+									"Name": "Tractor_Door_Hood_Headlight_Right_Item",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Tractor_Engine_Alternator_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "WW_Engine_Alternator_Item",
+									"Rarity": "Uncommon"
 								},
 								{
 									"Name": "WW_Lights_FrontLeft",
@@ -1447,6 +1481,14 @@
 									"Rarity": "Rare"
 								},
 								{
+									"Name": "RIS_Plow_Civilian",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "RIS_Spikes_Military",
+									"Rarity": "Rare"
+								},
+								{
 									"Name": "WW_Bumper_Back_Item",
 									"Rarity": "Rare"
 								},
@@ -1490,6 +1532,14 @@
 								},
 								{
 									"Name": "Rager_DoorTrunk_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Tractor_Body_Top_Door_Left_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Tractor_Body_Top_Door_Right_Item",
 									"Rarity": "Uncommon"
 								},
 								{
@@ -1649,6 +1699,10 @@
 								{
 									"Name": "Rager_Seat_FrontRight_Item",
 									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Tractor_Seat_Driver_Item",
+									"Rarity": "ExtremelyRare"
 								},
 								{
 									"Name": "WW_Seat_BackLeft_Item",

@@ -79,14 +79,8 @@
 					"Rarity": "Rare",
 					"Children": [
 						{
-							"Name": "Ranged",
-							"Rarity": "Uncommon",
-							"Children": [
-								{
-									"Name": "Manchu_Bow_50",
-									"Rarity": "Uncommon"
-								}
-							]
+							"Name": "Manchu_Bow_50",
+							"Rarity": "Uncommon"
 						},
 						{
 							"Name": "Spears",
@@ -108,7 +102,15 @@
 							"Children": [
 								{
 									"Name": "2H_Tang_Dao",
-									"Rarity": "Rare"
+									"Rarity": "Common"
+								},
+								{
+									"Name": "2H_Tang_Dao_Black_Dragon",
+									"Rarity": "Common"
+								},
+								{
+									"Name": "2H_Tang_Dao_Damascus",
+									"Rarity": "Common"
 								}
 							]
 						}

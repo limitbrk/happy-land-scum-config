@@ -243,7 +243,7 @@
 							"Rarity": "VeryRare"
 						},
 						{
-							"Name": "Bobby_Pin_Pacage",
+							"Name": "Bobby_Pin_Package",
 							"Rarity": "Uncommon"
 						},
 						{
@@ -289,7 +289,7 @@
 							"Rarity": "Rare",
 							"Children": [
 								{
-									"Name": "Break_Oil",
+									"Name": "Brake_Oil",
 									"Rarity": "Common"
 								},
 								{
@@ -319,22 +319,14 @@
 							"Rarity": "ExtremelyRare",
 							"Children": [
 								{
-									"Name": "Lock_Item_Advanced",
-									"Rarity": "ExtremelyRare"
-								},
-								{
 									"Name": "Lock_Item_Basic",
 									"Rarity": "Rare"
 								},
 								{
-									"Name": "Lock_Items_Medium",
+									"Name": "Lock_Item_Medium",
 									"Rarity": "VeryRare"
 								}
 							]
-						},
-						{
-							"Name": "Magnifying_Glass",
-							"Rarity": "VeryRare"
 						},
 						{
 							"Name": "Matches",
@@ -354,10 +346,6 @@
 						},
 						{
 							"Name": "Oil_Filter",
-							"Rarity": "Uncommon"
-						},
-						{
-							"Name": "Padlock",
 							"Rarity": "Uncommon"
 						},
 						{
@@ -1471,7 +1459,7 @@
 											"Rarity": "Uncommon"
 										},
 										{
-											"Name": "CannedFruitCoctail",
+											"Name": "CannedFruitCocktail",
 											"Rarity": "VeryRare"
 										},
 										{
@@ -1626,8 +1614,12 @@
 									"Rarity": "Uncommon",
 									"Children": [
 										{
+											"Name": "Weapon_BayRifferBlock21",
+											"Rarity": "Uncommon"
+										},
+										{
 											"Name": "Weapon_Block21",
-											"Rarity": "VeryRare"
+											"Rarity": "ExtremelyRare"
 										},
 										{
 											"Name": "Weapon_Krueger",
@@ -1730,6 +1722,10 @@
 														{
 															"Name": "WeaponScope_HuntingScope",
 															"Rarity": "Rare"
+														},
+														{
+															"Name": "WeaponScope_PU",
+															"Rarity": "Uncommon"
 														},
 														{
 															"Name": "WW2s",
@@ -1908,7 +1904,7 @@
 													"Rarity": "Rare"
 												},
 												{
-													"Name": "Night_Vision_Googles_01",
+													"Name": "Night_Vision_Goggles_01",
 													"Rarity": "ExtremelyRare"
 												}
 											]
@@ -2000,10 +1996,6 @@
 								{
 									"Name": "Gasoline_Canister_Small",
 									"Rarity": "Rare"
-								},
-								{
-									"Name": "Tire_Repair_Kit",
-									"Rarity": "Uncommon"
 								}
 							]
 						},
@@ -2134,7 +2126,7 @@
 									"Rarity": "VeryRare"
 								},
 								{
-									"Name": "1H_Wrench_Pipe",
+									"Name": "1H_Pipe_Wrench",
 									"Rarity": "Uncommon"
 								},
 								{

@@ -41,7 +41,7 @@
 							"Rarity": "VeryRare",
 							"Children": [
 								{
-									"Name": "Break_Oil",
+									"Name": "Brake_Oil",
 									"Rarity": "Rare"
 								},
 								{
@@ -63,7 +63,7 @@
 									"Rarity": "Rare"
 								},
 								{
-									"Name": "Lock_Items_Medium",
+									"Name": "Lock_Item_Medium",
 									"Rarity": "VeryRare"
 								},
 								{
@@ -216,10 +216,6 @@
 								{
 									"Name": "Car_Repair_Kit",
 									"Rarity": "Rare"
-								},
-								{
-									"Name": "Tire_Repair_Kit",
-									"Rarity": "VeryRare"
 								}
 							]
 						},
@@ -302,7 +298,7 @@
 									"Rarity": "VeryRare"
 								},
 								{
-									"Name": "1H_Wrench_Pipe",
+									"Name": "1H_Pipe_Wrench",
 									"Rarity": "Uncommon"
 								},
 								{

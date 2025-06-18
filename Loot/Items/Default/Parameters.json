@@ -391,6 +391,22 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
+			"Id": "1H_Pipe_Wrench",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
 			"Id": "1H_Police_Baton",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
@@ -474,22 +490,6 @@
 		},
 		{
 			"Id": "1H_Traynors_Axe",
-			"IsDisabledForSpawning": false,
-			"AllowedLocations": [
-				"Coastal",
-				"Continental",
-				"Mountain"
-			],
-			"CooldownPerSquadMemberMin": 0,
-			"CooldownPerSquadMemberMax": 0,
-			"CooldownGroup": "",
-			"Variations": [],
-			"ShouldOverrideInitialAndRandomUsage": false,
-			"InitialUsageOverride": 0,
-			"RandomUsageOverrideUsage": 0
-		},
-		{
-			"Id": "1H_Wrench_Pipe",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -1086,7 +1086,7 @@
 				"Pumpkin_Seed_Bag",
 				"RedOnion_Seed_Bag",
 				"Spinach_Seed_Bag",
-				"SweetMelon_Seed_Bag",
+				"CantaloupeMelon_Seed_Bag",
 				"Tomato_Seed_Bag",
 				"Watermelon_Seed_Bag",
 				"Zucchini_Seed_Bag",
@@ -1126,8 +1126,8 @@
 				"Potatoes_Seeds",
 				"Pumpkin_Seeds",
 				"Spinach_Seeds",
-				"SweetMelons_Seeds",
-				"Tomatoes_Seeds",
+				"CantaloupeMelon_Seeds",
+				"Tomato_Seeds",
 				"Watermelon_Seeds",
 				"Zucchini_Seeds",
 				"Cannabis_Seeds",
@@ -1484,6 +1484,22 @@
 		},
 		{
 			"Id": "Batteries",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "BCU_Chip",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -1858,7 +1874,7 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
-			"Id": "Bobby_Pin_Pacage",
+			"Id": "Bobby_Pin_Package",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -2114,7 +2130,7 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
-			"Id": "Break_Oil",
+			"Id": "Brake_Oil",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -4204,7 +4220,7 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
-			"Id": "CannedFruitCoctail",
+			"Id": "CannedFruitCocktail",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -4215,7 +4231,7 @@
 			"CooldownPerSquadMemberMax": 0,
 			"CooldownGroup": "",
 			"Variations": [],
-			"ShouldOverrideInitialAndRandomUsage": true,
+			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
 			"RandomUsageOverrideUsage": 0
 		},
@@ -4676,7 +4692,7 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
-			"Id": "Chilipeper",
+			"Id": "Chili_Pepper",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -5326,7 +5342,7 @@
 			"CooldownGroup": "",
 			"Variations": [
 				"Construction_Pants_02",
-				"Construction_Pants_03_Child1"
+				"Construction_Pants_03"
 			],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
@@ -7912,6 +7928,54 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
+			"Id": "Improvised_Bag_Small_01",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Improvised_Bag_Small_02",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Improvised_Bulletproof_Armor",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
 			"Id": "Improvised_Ghillie_Jacket",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
@@ -7929,6 +7993,70 @@
 		},
 		{
 			"Id": "Improvised_Ghillie_Pants",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Improvised_Gloves",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Improvised_Quiver_01",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Improvised_Shoes_02",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Improvised_Stabproof",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -8910,7 +9038,7 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
-			"Id": "Lock_Items_Medium",
+			"Id": "Lock_Item_Medium",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -9529,7 +9657,7 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
-			"Id": "Magnifying_Glass",
+			"Id": "Magnifying_Glass1",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -9539,9 +9667,7 @@
 			"CooldownPerSquadMemberMin": 0,
 			"CooldownPerSquadMemberMax": 0,
 			"CooldownGroup": "",
-			"Variations": [
-				"Magnifying_Glass1"
-			],
+			"Variations": [],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
 			"RandomUsageOverrideUsage": 0
@@ -10726,7 +10852,7 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
-			"Id": "Night_Vision_Googles_01",
+			"Id": "Night_Vision_Goggles_01",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -11371,6 +11497,22 @@
 		},
 		{
 			"Id": "Pirate_Hat_Sparrow_02",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Plum",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -12729,6 +12871,38 @@
 		},
 		{
 			"Id": "RIS_Light_Shades_Civilian_Item",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "RIS_Plow_Civilian",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "RIS_Spikes_Military",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -14325,22 +14499,6 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
-			"Id": "Tire_Repair_Kit",
-			"IsDisabledForSpawning": false,
-			"AllowedLocations": [
-				"Coastal",
-				"Continental",
-				"Mountain"
-			],
-			"CooldownPerSquadMemberMin": 0,
-			"CooldownPerSquadMemberMax": 0,
-			"CooldownGroup": "",
-			"Variations": [],
-			"ShouldOverrideInitialAndRandomUsage": false,
-			"InitialUsageOverride": 0,
-			"RandomUsageOverrideUsage": 0
-		},
-		{
 			"Id": "TNT",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
@@ -14350,7 +14508,7 @@
 			],
 			"CooldownPerSquadMemberMin": 0,
 			"CooldownPerSquadMemberMax": 0,
-			"CooldownGroup": "Weapons.Explosives.Tier.High",
+			"CooldownGroup": "Weapons.Explosives.Tier.VeryHigh",
 			"Variations": [],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
@@ -14423,7 +14581,7 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
-			"Id": "TomatoSouce",
+			"Id": "TomatoSauce",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -14434,7 +14592,7 @@
 			"CooldownPerSquadMemberMax": 0,
 			"CooldownGroup": "",
 			"Variations": [],
-			"ShouldOverrideInitialAndRandomUsage": true,
+			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
 			"RandomUsageOverrideUsage": 0
 		},
@@ -14527,6 +14685,182 @@
 				"Tracksuit_Top_04",
 				"Tracksuit_Top_05"
 			],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Tractor_Body_Left_Brakelight_Item",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Tractor_Body_Left_Item",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Tractor_Body_Right_Brakelight_Item",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Tractor_Body_Right_Item",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Tractor_Body_Top_Door_Left_Item",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Tractor_Body_Top_Door_Right_Item",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Tractor_Door_Hood_Headlight_Left_Item",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Tractor_Door_Hood_Headlight_Right_Item",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Tractor_Door_Hood_Item",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Tractor_Engine_Alternator_Item",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Tractor_Seat_Driver_Item",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
 			"RandomUsageOverrideUsage": 0
@@ -15000,6 +15334,22 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
+			"Id": "Weapon_BayRifferBlock21",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
 			"Id": "Weapon_BlackHawk_Crossbow",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
@@ -15064,7 +15414,7 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
-			"Id": "Weapon_Deagle_50",
+			"Id": "Weapon_DEagle_50",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -15080,7 +15430,7 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
-			"Id": "Weapon_Deagle_357",
+			"Id": "Weapon_DEagle_357",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -16675,6 +17025,22 @@
 		},
 		{
 			"Id": "Wheel_265_60_R18_Item",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Wheel_6x16_Item",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",

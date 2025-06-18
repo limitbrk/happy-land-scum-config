@@ -89,7 +89,7 @@
 									"Rarity": "Uncommon"
 								},
 								{
-									"Name": "CannedFruitCoctail",
+									"Name": "CannedFruitCocktail",
 									"Rarity": "VeryRare"
 								},
 								{
@@ -545,6 +545,10 @@
 							"Rarity": "Uncommon",
 							"Children": [
 								{
+									"Name": "Banjo",
+									"Rarity": "ExtremelyRare"
+								},
+								{
 									"Name": "Battery",
 									"Rarity": "Rare",
 									"Children": [
@@ -641,6 +645,10 @@
 									]
 								},
 								{
+									"Name": "Guitar",
+									"Rarity": "ExtremelyRare"
+								},
+								{
 									"Name": "Lighter",
 									"Rarity": "Rare"
 								},
@@ -649,7 +657,7 @@
 									"Rarity": "Uncommon",
 									"Children": [
 										{
-											"Name": "Bobby_Pin_Pacage",
+											"Name": "Bobby_Pin_Package",
 											"Rarity": "Uncommon"
 										},
 										{
@@ -679,7 +687,7 @@
 											"Rarity": "Rare"
 										},
 										{
-											"Name": "Lock_Items_Medium",
+											"Name": "Lock_Item_Medium",
 											"Rarity": "VeryRare"
 										},
 										{
@@ -957,6 +965,10 @@
 									"Name": "Handguns",
 									"Rarity": "Rare",
 									"Children": [
+										{
+											"Name": "Weapon_BayRifferBlock21",
+											"Rarity": "ExtremelyRare"
+										},
 										{
 											"Name": "Weapon_Block21",
 											"Rarity": "VeryRare"

@@ -155,6 +155,20 @@
 					]
 				},
 				{
+					"Name": "Instruments",
+					"Rarity": "ExtremelyRare",
+					"Children": [
+						{
+							"Name": "Banjo",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Guitar",
+							"Rarity": "Uncommon"
+						}
+					]
+				},
+				{
 					"Name": "tools",
 					"Rarity": "Uncommon",
 					"Children": [
@@ -163,7 +177,7 @@
 							"Rarity": "VeryRare"
 						},
 						{
-							"Name": "1H_Wrench_Pipe",
+							"Name": "1H_Pipe_Wrench",
 							"Rarity": "Rare"
 						},
 						{

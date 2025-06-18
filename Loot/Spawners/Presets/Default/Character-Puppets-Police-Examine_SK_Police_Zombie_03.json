@@ -2,15 +2,15 @@
 	"Items": [
 		{
 			"Rarity": "Uncommon",
-			"Id": "Military_Beanie_03"
+			"Id": "Police_Beanie_01"
 		},
 		{
 			"Rarity": "Uncommon",
-			"Id": "Tactical_Sweater_01"
+			"Id": "pOLICE_Sweater_01"
 		},
 		{
 			"Rarity": "Uncommon",
-			"Id": "MilitaryPants_07"
+			"Id": "MilitaryPants_09"
 		},
 		{
 			"Rarity": "Uncommon",
@@ -21,6 +21,8 @@
 	"QuantityMax": 2,
 	"AllowDuplicates": false,
 	"ShouldFilterItemsByZone": false,
+	"ShouldApplyLocationSpecificDamageModifier": true,
+	"ShouldApplyLocationSpecificProbabilityModifier": true,
 	"InitialDamage": 93,
 	"RandomDamage": 3,
 	"InitialUsage": 93,

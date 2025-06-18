@@ -9,7 +9,7 @@
 				"ItemLootTreeNodes.Office.Other.Backpacks",
 				"ItemLootTreeNodes.Office.Items.Misc.Duct_Tape",
 				"ItemLootTreeNodes.Office.Items.Misc.Battery.Batteries",
-				"ItemLootTreeNodes.Office.Items.Misc.Lockpicks.Bobby_Pin_Pacage"
+				"ItemLootTreeNodes.Office.Items.Misc.Lockpicks.Bobby_Pin_Package"
 			]
 		},
 		{
@@ -26,6 +26,8 @@
 	"QuantityMax": 1,
 	"AllowDuplicates": false,
 	"ShouldFilterItemsByZone": true,
+	"ShouldApplyLocationSpecificDamageModifier": true,
+	"ShouldApplyLocationSpecificProbabilityModifier": true,
 	"InitialDamage": 0,
 	"RandomDamage": 35,
 	"InitialUsage": 0,

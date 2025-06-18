@@ -75,7 +75,7 @@
 							"Rarity": "Rare",
 							"Children": [
 								{
-									"Name": "Break_Oil",
+									"Name": "Brake_Oil",
 									"Rarity": "Uncommon"
 								},
 								{
@@ -113,7 +113,7 @@
 									"Rarity": "Rare"
 								},
 								{
-									"Name": "Lock_Items_Medium",
+									"Name": "Lock_Item_Medium",
 									"Rarity": "VeryRare"
 								},
 								{
@@ -1191,6 +1191,20 @@
 							]
 						},
 						{
+							"Name": "Instruments",
+							"Rarity": "ExtremelyRare",
+							"Children": [
+								{
+									"Name": "Banjo",
+									"Rarity": "Common"
+								},
+								{
+									"Name": "Guitar",
+									"Rarity": "Common"
+								}
+							]
+						},
+						{
 							"Name": "Money",
 							"Rarity": "ExtremelyRare",
 							"PostSpawnActions": [
@@ -1287,6 +1301,10 @@
 									"Name": "Handguns",
 									"Rarity": "Common",
 									"Children": [
+										{
+											"Name": "Weapon_BayRifferBlock21",
+											"Rarity": "VeryRare"
+										},
 										{
 											"Name": "Weapon_Block21",
 											"Rarity": "Rare"
@@ -1418,6 +1436,10 @@
 														{
 															"Name": "WeaponScope_HuntingScope",
 															"Rarity": "Rare"
+														},
+														{
+															"Name": "WeaponScope_PU",
+															"Rarity": "Uncommon"
 														},
 														{
 															"Name": "WW2s",
@@ -1596,7 +1618,7 @@
 													"Rarity": "Rare"
 												},
 												{
-													"Name": "Night_Vision_Googles_01",
+													"Name": "Night_Vision_Goggles_01",
 													"Rarity": "ExtremelyRare"
 												}
 											]
@@ -1680,10 +1702,6 @@
 								{
 									"Name": "Gasoline_Canister_Small",
 									"Rarity": "Rare"
-								},
-								{
-									"Name": "Tire_Repair_Kit",
-									"Rarity": "VeryRare"
 								}
 							]
 						},
@@ -1818,7 +1836,7 @@
 									"Rarity": "Uncommon"
 								},
 								{
-									"Name": "1H_Wrench_Pipe",
+									"Name": "1H_Pipe_Wrench",
 									"Rarity": "Uncommon"
 								},
 								{

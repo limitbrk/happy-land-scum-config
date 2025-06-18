@@ -1463,7 +1463,7 @@
 											"Rarity": "Uncommon"
 										},
 										{
-											"Name": "CannedFruitCoctail",
+											"Name": "CannedFruitCocktail",
 											"Rarity": "VeryRare"
 										},
 										{
@@ -1511,7 +1511,7 @@
 											"Rarity": "Rare"
 										},
 										{
-											"Name": "TomatoSouce",
+											"Name": "TomatoSauce",
 											"Rarity": "Rare"
 										}
 									]
@@ -1836,11 +1836,11 @@
 										},
 										{
 											"Name": "WeaponScope_POSP",
-											"Rarity": "Rare"
+											"Rarity": "Common"
 										},
 										{
 											"Name": "WeaponScope_PU",
-											"Rarity": "Rare"
+											"Rarity": "Common"
 										},
 										{
 											"Name": "WeaponScope_Spektral_DR",
@@ -2394,7 +2394,7 @@
 									"Rarity": "Uncommon"
 								},
 								{
-									"Name": "Night_Vision_Googles_01",
+									"Name": "Night_Vision_Goggles_01",
 									"Rarity": "VeryRare"
 								}
 							]
@@ -2582,11 +2582,11 @@
 									"Rarity": "Rare",
 									"Children": [
 										{
-											"Name": "Weapon_Deagle_50",
+											"Name": "Weapon_DEagle_50",
 											"Rarity": "Abundant"
 										},
 										{
-											"Name": "Weapon_Deagle_357",
+											"Name": "Weapon_DEagle_357",
 											"Rarity": "Abundant"
 										},
 										{
@@ -2652,6 +2652,10 @@
 											"Rarity": "Rare"
 										}
 									]
+								},
+								{
+									"Name": "Weapon_BayRifferBlock21",
+									"Rarity": "Rare"
 								},
 								{
 									"Name": "Weapon_Block21",

@@ -11,7 +11,7 @@
 					"Rarity": "Uncommon",
 					"Children": [
 						{
-							"Name": "Bobby_Pin_Pacage",
+							"Name": "Bobby_Pin_Package",
 							"Rarity": "Rare"
 						},
 						{
@@ -57,20 +57,12 @@
 							"Rarity": "Rare",
 							"Children": [
 								{
-									"Name": "Lock_Item_Advanced",
-									"Rarity": "ExtremelyRare"
-								},
-								{
 									"Name": "Lock_Item_Basic",
 									"Rarity": "Rare"
 								},
 								{
-									"Name": "Lock_Items_Medium",
+									"Name": "Lock_Item_Medium",
 									"Rarity": "VeryRare"
-								},
-								{
-									"Name": "Padlock",
-									"Rarity": "Common"
 								}
 							]
 						},
@@ -125,10 +117,6 @@
 						{
 							"Name": "CD_Player",
 							"Rarity": "Rare"
-						},
-						{
-							"Name": "Christmas_Ball_01",
-							"Rarity": "Uncommon"
 						},
 						{
 							"Name": "Flares",
@@ -279,7 +267,7 @@
 													"Rarity": "Uncommon"
 												},
 												{
-													"Name": "CannedFruitCoctail",
+													"Name": "CannedFruitCocktail",
 													"Rarity": "VeryRare"
 												},
 												{
@@ -327,7 +315,7 @@
 													"Rarity": "Rare"
 												},
 												{
-													"Name": "TomatoSouce",
+													"Name": "TomatoSauce",
 													"Rarity": "Rare"
 												}
 											]
@@ -637,7 +625,7 @@
 													"Rarity": "Rare"
 												},
 												{
-													"Name": "Chilipeper",
+													"Name": "Chili_Pepper",
 													"Rarity": "Rare"
 												},
 												{

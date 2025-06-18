@@ -367,7 +367,7 @@
 							"Rarity": "Rare",
 							"Children": [
 								{
-									"Name": "Bobby_Pin_Pacage",
+									"Name": "Bobby_Pin_Package",
 									"Rarity": "Rare"
 								},
 								{
@@ -695,6 +695,10 @@
 							"Name": "Handguns",
 							"Rarity": "VeryRare",
 							"Children": [
+								{
+									"Name": "Weapon_BayRifferBlock21",
+									"Rarity": "ExtremelyRare"
+								},
 								{
 									"Name": "Weapon_Block21",
 									"Rarity": "VeryRare"

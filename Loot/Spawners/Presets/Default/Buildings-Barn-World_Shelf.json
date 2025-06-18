@@ -14,7 +14,8 @@
 				"ItemLootTreeNodes.Barn.Other.Ammo",
 				"ItemLootTreeNodes.Barn.Other.Weapons.Bows.Recurves",
 				"ItemLootTreeNodes.Barn.Other.Weapons.Rifles.Weapon_CarbonHunter",
-				"ItemLootTreeNodes.Barn.Other.Weapons.Rifles.Weapon_Hunter85_V2"
+				"ItemLootTreeNodes.Barn.Other.Weapons.Rifles.Weapon_Hunter85_V2",
+				"ItemLootTreeNodes.Barn.VehicleAccesories"
 			]
 		},
 		{
@@ -29,6 +30,8 @@
 	"QuantityMax": 1,
 	"AllowDuplicates": false,
 	"ShouldFilterItemsByZone": true,
+	"ShouldApplyLocationSpecificDamageModifier": true,
+	"ShouldApplyLocationSpecificProbabilityModifier": true,
 	"InitialDamage": 0,
 	"RandomDamage": 50,
 	"InitialUsage": 0,
