@@ -4,20 +4,20 @@
 		"prices-randomization-time-hours": "-1.0",
 		"tradeable-rotation-time-ingame-hours-min": "48.0",
 		"tradeable-rotation-time-ingame-hours-max": "96.0",
-		"tradeable-rotation-time-of-day-min": "8.0",
-		"tradeable-rotation-time-of-day-max": "16.0",
-		"fully-restock-tradeable-hours": "2.0",
+		"tradeable-rotation-time-of-day-min": "5.0",
+		"tradeable-rotation-time-of-day-max": "8.0",
+		"fully-restock-tradeable-hours": "-1.0",
 		"trader-funds-change-rate-per-hour-multiplier": "6.00",
-		"prices-subject-to-player-count" : "0",
+		"prices-subject-to-player-count": "0",
 		"gold-price-subject-to-global-multiplier": "10",
 		"gold-base-price": "10000",
 		"gold-sale-price-modifier": "0.5",
 		"gold-price-change-percentage-step": "20",
 		"gold-price-change-per-step": "1000",
-		"economy-logging" : "1",
-		"traders-unlimited-funds" : "0",
-		"traders-unlimited-stock" : "1",
-		"tradeable-rotation-enabled": "1",
+		"economy-logging": "1",
+		"traders-unlimited-funds": "0",
+		"traders-unlimited-stock": "1",
+		"tradeable-rotation-enabled": "0",
 		"enable-fame-point-requirement": "1",
 		"traders": {
 			"A_0_Armory": [
@@ -477,6 +477,14 @@
 				},
 				{
 					"tradeable-code": "Christmas_Present_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "true"
+				},
+				{
+					"tradeable-code": "Lead_Plate",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
@@ -1257,6 +1265,14 @@
 					"can-be-purchased": "true"
 				},
 				{
+					"tradeable-code": "Lead_Plate",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "true"
+				},
+				{
 					"tradeable-code": "Puppet_Eye",
 					"base-purchase-price": "100000",
 					"base-sell-price": "500",
@@ -2030,6 +2046,14 @@
 					"can-be-purchased": "true"
 				},
 				{
+					"tradeable-code": "Lead_Plate",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "true"
+				},
+				{
 					"tradeable-code": "Puppet_Eye",
 					"base-purchase-price": "100000",
 					"base-sell-price": "500",
@@ -2796,6 +2820,14 @@
 				},
 				{
 					"tradeable-code": "Christmas_Present_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "true"
+				},
+				{
+					"tradeable-code": "Lead_Plate",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
