@@ -189,7 +189,7 @@ Quests/
           - `AnchorMesh`: Mesh ของวัตถุจริงที่ต้องโต้ตอบ
           - `Instance`: ใช้เมื่อตำแหน่งนั้นมีวัตถุชนิดเดียวกันหลายอันอยู่ใกล้กัน เพื่อระบุ ชิ้นที่ต้องการเฉพาะเจาะจง
           - `FallbackTransform`: ข้อมูลของ `AnchorMesh` ที่จะใช้เมื่อไม่สามารถหาตำแหน่งได้ (เช่น Mesh ไม่อยู่ในมุมมอง) โดยระบุพิกัดและการหมุน
-          - `VisibleMesh`: Mesh สีฟ้าๆ ที่จะแสดงเมื่อโต้ตอบ (ไม่จำเป็น)
+          - `VisibleMesh`: Mesh สีฟ้าๆ ที่จะแสดงเมื่อโต้ตอบ
       - `MinNeeded`/`MaxNeeded`: จำนวนขั้นต่ำ/สูงสุดของวัตถุ แบบสุ่มที่ต้องโต้ตอบ
       - `SpawnOnlyNeeded`: 
         - หากตั้งค่าเป็น `true`: → วัตถุเป้าหมายจะถูกสร้าง ตามจำนวนที่ Quest กำหนดไว้เท่านั้น แบบสุ่ม
@@ -235,4 +235,4 @@ Quests/
     | ลูกบาศก์ | `/Engine/BasicShapes/Cube.Cube` |
     | ทรงกระบอก | `/Engine/BasicShapes/Cylinder.Cylinder` |
     | ทรงกรวย | `/Engine/BasicShapes/Cone.Cone` |
-    | แผ่นสี่เหลี่ยม | `/Engine/BasicShapes/Plane.Plane` |
+    | แผ่นสี่เหลี่ยม (มีแค่ 1 หน้า) | `/Engine/BasicShapes/Plane.Plane` |

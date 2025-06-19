@@ -1,0 +1,133 @@
+{
+  "AssociatedNpc": "Armorer",
+  "Tier": 1,
+  "Title": "[SKILL] เร็วกว่าเงา Faster than Shadow - 1",
+  "Description": "โลกแบบนี้... ถ้าไม่วิ่ง ก็รอดยาก เริ่มจากง่ายๆ ก่อน วิ่งให้ครบระยะ อย่าหยุด อย่าหันกลับไปมอง ที่ไล่อยู่น่ะ...ไม่ใช่แค่เวลา แต่คือความตาย\n\nIn this world... if you don’t run, you don’t survive. Start simple. Hit the distance. Don’t stop. Don’t look back. What’s chasing you isn’t time — it’s death.",
+  "TimeLimitHours": 48.0,
+  "RewardPool": [
+    {
+      "CurrencyNormal": 100,
+      "Fame": 10,
+      "Skills": [
+        {
+          "Skill": "Running",
+          "Experience": 500
+        },
+        {
+          "Skill": "Endurance",
+          "Experience": 500
+        },
+        {
+          "Skill": "Survival",
+          "Experience": 250
+        }
+      ]
+    }
+  ],
+  "Conditions": [
+    {
+      "TrackingCaption": "ไปที่จุดเริ่มต้นในแผนที่\nGo to starting point in the map",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": true,
+      "Type": "Interaction",
+      "Locations": [
+        {
+          "_Note": "Starting point Arrow Head",
+          "FallbackTransform": "-220370.000,-111354,36540|0,90,90|0.5,0.5,1",
+          "VisibleMesh": "/Engine/BasicShapes/Cone.Cone"
+        },
+        {
+          "_Note": "Starting point Arrow tails",
+          "FallbackTransform": "-220268.000,-111354,36540|0,90,90|0.2,0.2,1",
+          "VisibleMesh": "/Engine/BasicShapes/Cylinder.Cylinder"
+        }
+      ],
+      "MinNeeded": 1,
+      "MaxNeeded": 1,
+      "SpawnOnlyNeeded": false,
+      "WorldMarkerShowDistance": 10.0,
+      "LocationsShownOnMap": [
+        {
+          "Location": {
+            "X": -220370,
+            "Y": -111354,
+            "Z": 0
+          },
+          "SizeFactor": 1.0
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "วื่งตามทาง 200m (ขาไป)\nRun along the path 200m (outbound)",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": true,
+      "Type": "Interaction",
+      "Locations": [
+        {
+          "_Note": "distance 50m",
+          "FallbackTransform": "-225406.281250,-111354,36531.117|0,0,0|0.01,50,4.0",
+          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+        },
+        {
+          "_Note": "distance 100m",
+          "FallbackTransform": "-230316.218750,-111350,36452.238|0,0,0|0.01,50,4.4",
+          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+        },
+        {
+          "_Note": "distance 200m",
+          "FallbackTransform": "-240374.031250,-111350,36295.383|0,0,0|0.01,50,5.2",
+          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+        }
+      ],
+      "MinNeeded": 3,
+      "MaxNeeded": 3,
+      "SpawnOnlyNeeded": true,
+      "WorldMarkerShowDistance": 110.0
+    },
+    {
+      "TrackingCaption": "วื่งตามทาง 200m (ขากลับ)\nRun along the path 200m (inbound)",
+      "SequenceIndex": 2,
+      "CanBeAutoCompleted": true,
+      "Type": "Interaction",
+      "Locations": [
+        {
+          "_Note": "Finishing point",
+          "FallbackTransform": "-220268.000,-111354,36540|0,0,0|1,1,1",
+          "VisibleMesh": "/Engine/BasicShapes/Sphere.Sphere"
+        },
+        {
+          "_Note": "distance 50m",
+          "FallbackTransform": "-225406.281250,-111354,36531.117|0,0,0|0.01,50,4.0",
+          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+        },
+        {
+          "_Note": "distance 100m",
+          "FallbackTransform": "-230316.218750,-111350,36452.238|0,0,0|0.01,50,4.4",
+          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+        }
+      ],
+      "MinNeeded": 3,
+      "MaxNeeded": 3,
+      "SpawnOnlyNeeded": true,
+      "WorldMarkerShowDistance": 110.0
+    },
+    {
+      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx10 ไดอารี่\n\tx5 ปากกา\nCollect skill learning items\n\tx10 Diaries\n\tx5 Pens",
+      "SequenceIndex": 3,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 10
+        },
+        {
+          "AcceptedItems": ["Pen"],
+          "RequiredNum": 5
+        }
+      ]
+    }
+  ]
+}
