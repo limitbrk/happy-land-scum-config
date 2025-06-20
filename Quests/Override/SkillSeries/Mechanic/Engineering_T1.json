@@ -22,7 +22,7 @@
   ],
   "Conditions": [
     {
-      "TrackingCaption": "เก็บเศษเหล็ก\nCollect metal scrap",
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx10 ไดอารี่\n\tx5 ปากกา\nPrepare skill learning items\n\tx10 Diaries\n\tx5 Pens",
       "SequenceIndex": 0,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -30,19 +30,17 @@
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
-          "AcceptedItems": [
-            "Metal_Scrap_01",
-            "Metal_Scrap_02",
-            "Metal_Scrap_03",
-            "Metal_Scrap_04",
-            "Metal_Scrap_05"
-          ],
-          "RequiredNum": 50
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 10
+        },
+        {
+          "AcceptedItems": ["Pen"],
+          "RequiredNum": 5
         }
       ]
     },
     {
-      "TrackingCaption": "เก็บเศษเหล็กเพิ่ม\nCollect more metal scrap",
+      "TrackingCaption": "เก็บเศษเหล็ก\nCollect metal scrap",
       "SequenceIndex": 1,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -62,7 +60,7 @@
       ]
     },
     {
-      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx10 ไดอารี่\n\tx5 ปากกา\nCollect skill learning items\n\tx10 Diaries\n\tx5 Pens",
+      "TrackingCaption": "เก็บเศษเหล็กเพิ่ม\nCollect more metal scrap",
       "SequenceIndex": 2,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -71,15 +69,13 @@
       "RequiredItems": [
         {
           "AcceptedItems": [
-            "Diary"
+            "Metal_Scrap_01",
+            "Metal_Scrap_02",
+            "Metal_Scrap_03",
+            "Metal_Scrap_04",
+            "Metal_Scrap_05"
           ],
-          "RequiredNum": 10
-        },
-        {
-          "AcceptedItems": [
-            "Pen"
-          ],
-          "RequiredNum": 5
+          "RequiredNum": 50
         }
       ]
     }

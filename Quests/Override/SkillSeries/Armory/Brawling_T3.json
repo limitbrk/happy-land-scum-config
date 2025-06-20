@@ -1,0 +1,52 @@
+{
+  "AssociatedNPC": "Armorer",
+  "Tier": 3,
+  "Title": "[SKILL] หนทางสู่สังเวียน \"We not talk about Fight club\" - 3",
+  "Description": "ในสังเวียนชีวิตจริง ไม่มีกรรมการ ไม่มีเสียงนับสิบ มีแค่เธอ...กับคนที่อยากให้ล้มนาย ถ้ายังยืนอยู่ได้ตอนจบ – นั่นแหละคือ \"ชนะ\"\n\nIn a real fight, there’s no ref, no count to ten. Just you… and someone trying to put you down. If you’re still standing at the end — you’ve won.",
+  "TimeLimitHours": 48.0,
+  "RewardPool": [
+    {
+      "CurrencyNormal": 10000,
+      "Fame": 1000,
+      "Skills": [
+        {
+          "Skill": "Boxing",
+          "Experience": 100000
+        },
+        {
+          "Skill": "Survival",
+          "Experience": 25000
+        }
+      ]
+    }
+  ],
+  "Conditions": [
+    {
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx40 ไดอารี่\n\tx20 ปากกา\nPrepare skill learning items\n\tx40 Diaries\n\tx20 Pens",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 40
+        },
+        {
+          "AcceptedItems": ["Pen"],
+          "RequiredNum": 20
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "ต่อยผีเรเซอร์ด้วยสนับมือ\nPunch Razor with brass knuckle",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": true,
+      "Type": "Elimination",
+      "Amount": 20,
+      "TargetCharacters": ["Razor"],
+      "AllowedWeapons": ["1H_Brass_knuckles"]
+    }
+  ]
+}

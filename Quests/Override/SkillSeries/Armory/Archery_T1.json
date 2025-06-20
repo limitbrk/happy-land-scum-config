@@ -1,0 +1,73 @@
+{
+  "AssociatedNPC": "Armorer",
+  "Tier": 1,
+  "Title": "[SKILL] โรบินฮู้ด ผู้เดียวดาย Lone Ranger - 1",
+  "Description": "ธนูไม่ช่วยอะไร ถ้ามือไม่นิ่ง ใจไม่นิ่ง ฝึกให้เงียบก่อนยิง ฝึกให้แม่นก่อนกลัว\n\nA bow’s useless if your hands shake — or your mind does. Learn to be still before you shoot. Be sharp before you fear.",
+  "TimeLimitHours": 48.0,
+  "RewardPool": [
+    {
+      "CurrencyNormal": 100,
+      "Fame": 10,
+      "Skills": [
+        {
+          "Skill": "Archery",
+          "Experience": 1000
+        },
+        {
+          "Skill": "Survival",
+          "Experience": 250
+        }
+      ]
+    }
+  ],
+  "Conditions": [
+    {
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx10 ไดอารี่\n\tx5 ปากกา\nPrepare skill learning items\n\tx10 Diaries\n\tx5 Pens",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 10
+        },
+        {
+          "AcceptedItems": ["Pen"],
+          "RequiredNum": 5
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "ฆ่าผีด้วยธนู\nKill zombies with a bow",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": true,
+      "Type": "Elimination",
+      "Amount": 50,
+      "TargetCharacters": ["Puppet", "Razor"],
+      "AllowedWeapons": [
+        "Compound_Bow",
+        "Compound_Bow_Desert",
+        "Compound_Bow_Snow",
+        "Compound_Bow_Digital",
+        "Compound_Bow_US_Scorpion",
+        "Compound_Bow_Woodland",
+        "Improvised_Bow",
+        "Improvised_Bow_25",
+        "Improvised_Bow_30",
+        "Improvised_Bow_35",
+        "Manchu_Bow_50",
+        "Recurve_Bow",
+        "Recurve_Bow_100",
+        "Recurve_Bow_50",
+        "Recurve_Bow_60",
+        "Recurve_Bow_70",
+        "Recurve_Bow_80",
+        "Recurve_Bow_90",
+        "Weapon_BlackHawk_Crossbow",
+        "Weapon_Improvised_Crossbow"
+      ]
+    }
+  ]
+}

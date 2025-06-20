@@ -22,7 +22,7 @@
   ],
   "Conditions": [
     {
-      "TrackingCaption": "คราฟกล่องเครื่องมือแบบประดิษฐ์\nCraft Improvised Tool Boxes",
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx20 ไดอารี่\n\tx10 ปากกา\nPrepare skill learning items\n\tx20 Diaries\n\tx10 Pens",
       "SequenceIndex": 0,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -30,15 +30,17 @@
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
-          "AcceptedItems": [
-            "Improvised_Tool_Box"
-          ],
-          "RequiredNum": 8
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 20
+        },
+        {
+          "AcceptedItems": ["Pen"],
+          "RequiredNum": 10
         }
       ]
     },
     {
-      "TrackingCaption": "คราฟชุดเย็บปักถักร้อยแบบประดิษฐ์\nCraft Improvised Sewing Kits",
+      "TrackingCaption": "คราฟกล่องเครื่องมือแบบประดิษฐ์\nCraft Improvised Tool Boxes",
       "SequenceIndex": 1,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -46,15 +48,13 @@
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
-          "AcceptedItems": [
-            "Improvised_Sewing_kit"
-          ],
-          "RequiredNum": 20
+          "AcceptedItems": ["Improvised_Tool_Box"],
+          "RequiredNum": 8
         }
       ]
     },
     {
-      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx20 ไดอารี่\n\tx10 ปากกา\nCollect skill learning items\n\tx20 Diaries\n\tx10 Pens",
+      "TrackingCaption": "คราฟชุดเย็บปักถักร้อยแบบประดิษฐ์\nCraft Improvised Sewing Kits",
       "SequenceIndex": 2,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -62,16 +62,8 @@
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
-          "AcceptedItems": [
-            "Diary"
-          ],
+          "AcceptedItems": ["Improvised_Sewing_kit"],
           "RequiredNum": 20
-        },
-        {
-          "AcceptedItems": [
-            "Pen"
-          ],
-          "RequiredNum": 10
         }
       ]
     }

@@ -1,0 +1,73 @@
+{
+  "AssociatedNPC": "Armorer",
+  "Tier": 2,
+  "Title": "[SKILL] โรบินฮู้ด ผู้เดียวดาย Lone Ranger - 2",
+  "Description": "อยู่คนเดียว...ไม่มีใครช่วยเล็งให้ ยิงพลาด ก็พลาดเลย ฝึกยิงให้ได้ แม้เสียงหัวใจยังดังเกินไป\n\nAlone… no one’s lining up your shot. You miss, you miss for real. Train to hit — even when your heartbeat’s too loud.",
+  "TimeLimitHours": 48.0,
+  "RewardPool": [
+    {
+      "CurrencyNormal": 1000,
+      "Fame": 100,
+      "Skills": [
+        {
+          "Skill": "Archery",
+          "Experience": 10000
+        },
+        {
+          "Skill": "Survival",
+          "Experience": 2500
+        }
+      ]
+    }
+  ],
+  "Conditions": [
+    {
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx20 ไดอารี่\n\tx10 ปากกา\nPrepare skill learning items\n\tx20 Diaries\n\tx10 Pens",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 20
+        },
+        {
+          "AcceptedItems": ["Pen"],
+          "RequiredNum": 10
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "ฆ่าผีด้วยธนู\nKill zombies with a bow",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": true,
+      "Type": "Elimination",
+      "Amount": 100,
+      "TargetCharacters": ["Puppet", "Razor"],
+      "AllowedWeapons": [
+        "Compound_Bow",
+        "Compound_Bow_Desert",
+        "Compound_Bow_Snow",
+        "Compound_Bow_Digital",
+        "Compound_Bow_US_Scorpion",
+        "Compound_Bow_Woodland",
+        "Improvised_Bow",
+        "Improvised_Bow_25",
+        "Improvised_Bow_30",
+        "Improvised_Bow_35",
+        "Manchu_Bow_50",
+        "Recurve_Bow",
+        "Recurve_Bow_100",
+        "Recurve_Bow_50",
+        "Recurve_Bow_60",
+        "Recurve_Bow_70",
+        "Recurve_Bow_80",
+        "Recurve_Bow_90",
+        "Weapon_BlackHawk_Crossbow",
+        "Weapon_Improvised_Crossbow"
+      ]
+    }
+  ]
+}

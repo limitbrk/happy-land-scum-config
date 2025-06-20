@@ -22,75 +22,25 @@
   ],
   "Conditions": [
     {
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx20 ไดอารี่\n\tx10 ปากกา\nPrepare skill learning items\n\tx20 Diaries\n\tx10 Pens",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 20
+        },
+        {
+          "AcceptedItems": ["Pen"],
+          "RequiredNum": 10
+        }
+      ]
+    },
+    {
       "TrackingCaption": "สะสมยาสรรพคุณต่างๆ\n\tx3 ขวดโหลแคปซูลผงถ่าน\n\tx3 ขวดโหลยาปฏิชีวนะ\n\tx3 ขวดโหลโพแทสเซียมไอโอไดด์\n\tx3 ขวดโหลยาแก้ปวด\n\tx3 ขวดโหลเม็ดวิตามิน\nCollect various medicines\n\tx3 Activated Charcoal Jar\n\tx3 Antibiotics Jar\n\tx3 Potassium Iodide Pills Jar\n\tx3 Pain Killers Jar\n\tx3 Vitamins Pills Jar",
-      "SequenceIndex": 0,
-      "CanBeAutoCompleted": false,
-      "Type": "Fetch",
-      "DisablePurchaseOfRequiredItems": true,
-      "PlayerKeepsItems": false,
-      "RequiredItems": [
-        {
-          "AcceptedItems": [
-            "ActivatedCharcoal_03"
-          ],
-          "RequiredNum": 3
-        },
-        {
-          "AcceptedItems": [
-            "Antibiotics_03"
-          ],
-          "RequiredNum": 3
-        },
-        {
-          "AcceptedItems": [
-            "PotassiumIodide_Pills_03"
-          ],
-          "RequiredNum": 3
-        },
-        {
-          "AcceptedItems": [
-            "PainKillers_03"
-          ],
-          "RequiredNum": 3
-        },
-        {
-          "AcceptedItems": [
-            "Vitamins_03"
-          ],
-          "RequiredNum": 3
-        }
-      ]
-    },
-    {
-      "TrackingCaption": "สะสมอุปกรณ์รักษา\n\tx3 เจลทาแผลไฟไหม้\n\tx3 แพ็กผ้าพันแผลฉุกเฉิน\n\tx3 สายรัดห้ามเลือด\nCollect medical supplies\n\tx3 Antiburn Gel\n\tx3 Emergency Bandage Pack\n\tx3 Tourniquet",
-      "SequenceIndex": 0,
-      "CanBeAutoCompleted": false,
-      "Type": "Fetch",
-      "DisablePurchaseOfRequiredItems": true,
-      "PlayerKeepsItems": false,
-      "RequiredItems": [
-        {
-          "AcceptedItems": [
-            "AntiburnGel"
-          ],
-          "RequiredNum": 3
-        },
-        {
-          "AcceptedItems": [
-            "Emergency_Bandage_Big"
-          ],
-          "RequiredNum": 3
-        },
-        {
-          "AcceptedItems": [
-            "Tourniquet"
-          ],
-          "RequiredNum": 3
-        }
-      ]
-    },
-    {
-      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx20 ไดอารี่\n\tx10 ปากกา\nCollect skill learning items\n\tx20 Diaries\n\tx10 Pens",
       "SequenceIndex": 1,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -98,16 +48,46 @@
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
-          "AcceptedItems": [
-            "Diary"
-          ],
-          "RequiredNum": 20
+          "AcceptedItems": ["ActivatedCharcoal_03"],
+          "RequiredNum": 3
         },
         {
-          "AcceptedItems": [
-            "Pen"
-          ],
-          "RequiredNum": 10
+          "AcceptedItems": ["Antibiotics_03"],
+          "RequiredNum": 3
+        },
+        {
+          "AcceptedItems": ["PotassiumIodide_Pills_03"],
+          "RequiredNum": 3
+        },
+        {
+          "AcceptedItems": ["PainKillers_03"],
+          "RequiredNum": 3
+        },
+        {
+          "AcceptedItems": ["Vitamins_03"],
+          "RequiredNum": 3
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "สะสมอุปกรณ์รักษา\n\tx3 เจลทาแผลไฟไหม้\n\tx3 แพ็กผ้าพันแผลฉุกเฉิน\n\tx3 สายรัดห้ามเลือด\nCollect medical supplies\n\tx3 Antiburn Gel\n\tx3 Emergency Bandage Pack\n\tx3 Tourniquet",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["AntiburnGel"],
+          "RequiredNum": 3
+        },
+        {
+          "AcceptedItems": ["Emergency_Bandage_Big"],
+          "RequiredNum": 3
+        },
+        {
+          "AcceptedItems": ["Tourniquet"],
+          "RequiredNum": 3
         }
       ]
     }

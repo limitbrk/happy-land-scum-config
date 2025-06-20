@@ -1,0 +1,55 @@
+{
+  "AssociatedNPC": "Armorer",
+  "Tier": 2,
+  "Title": "[SKILL] หนทางสู่สังเวียน \"We not talk about Fight club\" - 2",
+  "Description": "คนที่โดนซัดล้มแล้วลุกได้เร็วกว่า... มักรอด เธอต้องฝึกให้ร่างกายรับเจ็บให้เป็น และไม่กลัวมัน\n\nThe one who gets up faster, lives longer. Train your body to take pain — and not fear it.",
+  "TimeLimitHours": 48.0,
+  "RewardPool": [
+    {
+      "CurrencyNormal": 1000,
+      "Fame": 100,
+      "Skills": [
+        {
+          "Skill": "Boxing",
+          "Experience": 10000
+        },
+        {
+          "Skill": "Survival",
+          "Experience": 2500
+        }
+      ]
+    }
+  ],
+  "Conditions": [
+    {
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx20 ไดอารี่\n\tx10 ปากกา\nPrepare skill learning items\n\tx20 Diaries\n\tx10 Pens",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 20
+        },
+        {
+          "AcceptedItems": ["Pen"],
+          "RequiredNum": 10
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "ต่อยผีเกราะหนักด้วยสนับมือ\nPunch armored zombies with brass knuckle",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": true,
+      "Type": "Elimination",
+      "Amount": 30,
+      "TargetCharacters": [
+        "BP_Zombie_Military_Armored",
+        "BP_Zombie_Police_Armored"
+      ],
+      "AllowedWeapons": ["1H_Brass_knuckles"]
+    }
+  ]
+}

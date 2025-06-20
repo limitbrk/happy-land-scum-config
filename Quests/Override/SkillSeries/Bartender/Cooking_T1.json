@@ -22,7 +22,7 @@
   ],
   "Conditions": [
     {
-      "TrackingCaption": "ทำเมนูปลาย่างหรือเสียบไม้\nCook grilled fish or fish skewers",
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx10 ไดอารี่\n\tx5 ปากกา\nPrepare skill learning items\n\tx10 Diaries\n\tx5 Pens",
       "SequenceIndex": 0,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -30,10 +30,25 @@
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
-          "AcceptedItems": [
-            "Dish_Grilled_Fish",
-            "Dish_Skewer_Fish"
-          ],
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 10
+        },
+        {
+          "AcceptedItems": ["Pen"],
+          "RequiredNum": 5
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "ทำเมนูปลาย่างหรือเสียบไม้\nCook grilled fish or fish skewers",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Dish_Grilled_Fish", "Dish_Skewer_Fish"],
           "RequiredNum": 10,
           "MinAcceptedCookLevel": "Undercooked",
           "MaxAcceptedCookLevel": "Undercooked"
@@ -42,25 +57,6 @@
     },
     {
       "TrackingCaption": "ทำเมนูเนื้อย่างหรือเสียบไม้\nCook grilled fish or fish skewers",
-      "SequenceIndex": 0,
-      "CanBeAutoCompleted": false,
-      "Type": "Fetch",
-      "DisablePurchaseOfRequiredItems": true,
-      "PlayerKeepsItems": false,
-      "RequiredItems": [
-        {
-          "AcceptedItems": [
-            "Dish_Skewer_Meat",
-            "Dish_Grilled_RedMeat"
-          ],
-          "RequiredNum": 10,
-          "MinAcceptedCookLevel": "Undercooked",
-          "MaxAcceptedCookLevel": "Undercooked"
-        }
-      ]
-    },
-    {
-      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx10 ไดอารี่\n\tx5 ปากกา\nCollect skill learning items\n\tx10 Diaries\n\tx5 Pens",
       "SequenceIndex": 1,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -68,16 +64,10 @@
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
-          "AcceptedItems": [
-            "Diary"
-          ],
-          "RequiredNum": 10
-        },
-        {
-          "AcceptedItems": [
-            "Pen"
-          ],
-          "RequiredNum": 5
+          "AcceptedItems": ["Dish_Skewer_Meat", "Dish_Grilled_RedMeat"],
+          "RequiredNum": 10,
+          "MinAcceptedCookLevel": "Undercooked",
+          "MaxAcceptedCookLevel": "Undercooked"
         }
       ]
     }

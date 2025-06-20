@@ -1,0 +1,52 @@
+{
+  "AssociatedNPC": "Armorer",
+  "Tier": 1,
+  "Title": "[SKILL] หนทางสู่สังเวียน \"We not talk about Fight club\" - 1",
+  "Description": "หมัดไม่ใช่อาวุธ แต่มันคือสัญญาณว่า \"เธอยังไม่ยอมแพ้\" ไปฝึกมาก่อน ไม่ต้องชนะ... แค่ “ยืนให้ได้” ก็พอ\n\nYour fists aren’t weapons. They’re proof you haven’t given up. Go train. Winning’s not the point. Standing is.",
+  "TimeLimitHours": 48.0,
+  "RewardPool": [
+    {
+      "CurrencyNormal": 100,
+      "Fame": 10,
+      "Skills": [
+        {
+          "Skill": "Boxing",
+          "Experience": 1000
+        },
+        {
+          "Skill": "Survival",
+          "Experience": 250
+        }
+      ]
+    }
+  ],
+  "Conditions": [
+    {
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx10 ไดอารี่\n\tx5 ปากกา\nPrepare skill learning items\n\tx10 Diaries\n\tx5 Pens",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 10
+        },
+        {
+          "AcceptedItems": ["Pen"],
+          "RequiredNum": 5
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "ต่อยผีด้วยสนับมือ\nPunch zombies with brass knuckle",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": true,
+      "Type": "Elimination",
+      "Amount": 50,
+      "TargetCharacters": ["Puppet"],
+      "AllowedWeapons": ["1H_Brass_knuckles"]
+    }
+  ]
+}

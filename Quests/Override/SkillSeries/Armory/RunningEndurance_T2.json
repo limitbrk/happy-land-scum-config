@@ -1,6 +1,6 @@
 {
   "AssociatedNpc": "Armorer",
-  "Tier": 1,
+  "Tier": 2,
   "Title": "[SKILL] เร็วกว่าเงา Faster than Shadow - 2",
   "Description": "เงาเริ่มไล่ทันแล้ว ระยะมันยาวขึ้น แรงมันจะหมดไวขึ้น แต่เธอต้อง “เร็วขึ้น” และ “นิ่งขึ้น” จังหวะหายใจ...สำคัญพอๆ กับจังหวะก้าวเท้า\n\nThe path is longer. Your stamina won’t last. But you must be faster — and calmer. Every breath matters just as much as every step.",
   "TimeLimitHours": 48.0,
@@ -26,8 +26,26 @@
   ],
   "Conditions": [
     {
-      "TrackingCaption": "ไปที่จุดเริ่มต้นในแผนที่\nGo to starting point in the map",
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx20 ไดอารี่\n\tx10 ปากกา\nPrepare skill learning items\n\tx20 Diaries\n\tx10 Pens",
       "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 20
+        },
+        {
+          "AcceptedItems": ["Pen"],
+          "RequiredNum": 10
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "ไปที่จุดเริ่มต้นในแผนที่\nGo to starting point in the map",
+      "SequenceIndex": 1,
       "CanBeAutoCompleted": true,
       "Type": "Interaction",
       "Locations": [
@@ -59,7 +77,7 @@
     },
     {
       "TrackingCaption": "วื่งตามทาง 500m (ขาไป)\nRun along the path 500m (outbound)",
-      "SequenceIndex": 1,
+      "SequenceIndex": 2,
       "CanBeAutoCompleted": true,
       "Type": "Interaction",
       "Locations": [
@@ -101,7 +119,7 @@
     },
     {
       "TrackingCaption": "วื่งตามทาง 500m (ขากลับ)\nRun along the path 500m (inbound)",
-      "SequenceIndex": 2,
+      "SequenceIndex": 3,
       "CanBeAutoCompleted": true,
       "Type": "Interaction",
       "Locations": [
@@ -140,24 +158,6 @@
       "MaxNeeded": 6,
       "SpawnOnlyNeeded": true,
       "WorldMarkerShowDistance": 110.0
-    },
-    {
-      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx20 ไดอารี่\n\tx10 ปากกา\nCollect skill learning items\n\tx20 Diaries\n\tx10 Pens",
-      "SequenceIndex": 3,
-      "CanBeAutoCompleted": false,
-      "Type": "Fetch",
-      "DisablePurchaseOfRequiredItems": true,
-      "PlayerKeepsItems": false,
-      "RequiredItems": [
-        {
-          "AcceptedItems": ["Diary"],
-          "RequiredNum": 20
-        },
-        {
-          "AcceptedItems": ["Pen"],
-          "RequiredNum": 10
-        }
-      ]
     }
   ]
 }

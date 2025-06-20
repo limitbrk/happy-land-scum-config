@@ -22,7 +22,7 @@
   ],
   "Conditions": [
     {
-      "TrackingCaption": "สะสมของใช้ในการปฐมพยาบาล\n\tx5 แอลกอฮอล์ไอโซโพรพิล\n\tx30 ผ้าพันแผลฉุกเฉิน\nCollect first aid supplies\n\tx5 bottles of Isopropyl Alcohol\n\tx30 Emergency Bandages",
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx10 ไดอารี่\n\tx5 ปากกา\nPrepare skill learning items\n\tx10 Diaries\n\tx5 Pens",
       "SequenceIndex": 0,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -30,21 +30,17 @@
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
-          "AcceptedItems": [
-            "Emergency_bandage"
-          ],
-          "RequiredNum": 30
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 10
         },
         {
-          "AcceptedItems": [
-            "Isopropyl_alcohol"
-          ],
+          "AcceptedItems": ["Pen"],
           "RequiredNum": 5
         }
       ]
     },
     {
-      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx10 ไดอารี่\n\tx5 ปากกา\nCollect skill learning items\n\tx10 Diaries\n\tx5 Pens",
+      "TrackingCaption": "สะสมของใช้ในการปฐมพยาบาล\n\tx5 แอลกอฮอล์ไอโซโพรพิล\n\tx30 ผ้าพันแผลฉุกเฉิน\nCollect first aid supplies\n\tx5 bottles of Isopropyl Alcohol\n\tx30 Emergency Bandages",
       "SequenceIndex": 1,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -52,15 +48,11 @@
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
-          "AcceptedItems": [
-            "Diary"
-          ],
-          "RequiredNum": 10
+          "AcceptedItems": ["Emergency_bandage"],
+          "RequiredNum": 30
         },
         {
-          "AcceptedItems": [
-            "Pen"
-          ],
+          "AcceptedItems": ["Isopropyl_alcohol"],
           "RequiredNum": 5
         }
       ]

@@ -22,7 +22,7 @@
   ],
   "Conditions": [
     {
-      "TrackingCaption": "สะสมของสุดยอดเอาตัวรอด\n\tx5 ซีรั่มเร่งการฟื้นฟูเล็ก\n\tx3 ซีรั่มเร่งการฟื้นฟู\n\tx1 หลอดเสริมความฉลาดLv3\n\tx1 โมดูลหน่วยความจำสีทอง\nCollect ultimate survival items\n\tx5 Phoenix Tears Small\n\tx3 Phoenix Tears\n\tx1 Intelligence Enhancement Ampule Lv3\n\tx1 Gold Memory Module",
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx40 ไดอารี่\n\tx20 ปากกา\nPrepare skill learning items\n\tx40 Diaries\n\tx20 Pens",
       "SequenceIndex": 0,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -30,33 +30,17 @@
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
-          "AcceptedItems": [
-            "Phoenix_Tears_Small"
-          ],
-          "RequiredNum": 5
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 40
         },
         {
-          "AcceptedItems": [
-            "Phoenix_Tears"
-          ],
-          "RequiredNum": 3
-        },
-        {
-          "AcceptedItems": [
-            "IntEA_Level3"
-          ],
-          "RequiredNum": 1
-        },
-        {
-          "AcceptedItems": [
-            "MemoryModule_Level4"
-          ],
-          "RequiredNum": 1
+          "AcceptedItems": ["Pen"],
+          "RequiredNum": 20
         }
       ]
     },
     {
-      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx40 ไดอารี่\n\tx20 ปากกา\nCollect skill learning items\n\tx40 Diaries\n\tx20 Pens",
+      "TrackingCaption": "สะสมของสุดยอดเอาตัวรอด\n\tx5 ซีรั่มเร่งการฟื้นฟูเล็ก\n\tx3 ซีรั่มเร่งการฟื้นฟู\n\tx1 หลอดเสริมความฉลาดLv3\n\tx1 โมดูลหน่วยความจำสีทอง\nCollect ultimate survival items\n\tx5 Phoenix Tears Small\n\tx3 Phoenix Tears\n\tx1 Intelligence Enhancement Ampule Lv3\n\tx1 Gold Memory Module",
       "SequenceIndex": 1,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -64,16 +48,20 @@
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
-          "AcceptedItems": [
-            "Diary"
-          ],
-          "RequiredNum": 40
+          "AcceptedItems": ["Phoenix_Tears_Small"],
+          "RequiredNum": 5
         },
         {
-          "AcceptedItems": [
-            "Pen"
-          ],
-          "RequiredNum": 20
+          "AcceptedItems": ["Phoenix_Tears"],
+          "RequiredNum": 3
+        },
+        {
+          "AcceptedItems": ["IntEA_Level3"],
+          "RequiredNum": 1
+        },
+        {
+          "AcceptedItems": ["MemoryModule_Level4"],
+          "RequiredNum": 1
         }
       ]
     }

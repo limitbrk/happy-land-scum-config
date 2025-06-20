@@ -22,7 +22,7 @@
   ],
   "Conditions": [
     {
-      "TrackingCaption": "คราฟเข็มทิศโบราณ\nCraft Primitive Compasses",
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx40 ไดอารี่\n\tx20 ปากกา\nPrepare skill learning items\n\tx40 Diaries\n\tx20 Pens",
       "SequenceIndex": 0,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -30,16 +30,32 @@
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
-          "AcceptedItems": [
-            "Compass_Primitive"
-          ],
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 40
+        },
+        {
+          "AcceptedItems": ["Pen"],
+          "RequiredNum": 20
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "คราฟเข็มทิศโบราณ\nCraft Primitive Compasses",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Compass_Primitive"],
           "RequiredNum": 40
         }
       ]
     },
     {
       "TrackingCaption": "คราฟปลอกเก็บเสียงแบบประดิษฐ์\nCraft Improvised Weapon Suppressors",
-      "SequenceIndex": 1,
+      "SequenceIndex": 2,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
       "DisablePurchaseOfRequiredItems": true,
@@ -52,28 +68,6 @@
             "WeaponSuppressor_ImprovisedCan_Grey",
             "WeaponSuppressor_ImprovisedCan_Red",
             "WeaponSuppressor_ImprovisedOilCan_01"
-          ],
-          "RequiredNum": 20
-        }
-      ]
-    },
-    {
-      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx40 ไดอารี่\n\tx20 ปากกา\nCollect skill learning items\n\tx40 Diaries\n\tx20 Pens",
-      "SequenceIndex": 1,
-      "CanBeAutoCompleted": false,
-      "Type": "Fetch",
-      "DisablePurchaseOfRequiredItems": true,
-      "PlayerKeepsItems": false,
-      "RequiredItems": [
-        {
-          "AcceptedItems": [
-            "Diary"
-          ],
-          "RequiredNum": 40
-        },
-        {
-          "AcceptedItems": [
-            "Pen"
           ],
           "RequiredNum": 20
         }

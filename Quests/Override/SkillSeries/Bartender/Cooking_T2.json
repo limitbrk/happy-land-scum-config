@@ -22,7 +22,7 @@
   ],
   "Conditions": [
     {
-      "TrackingCaption": "ทำเมนูเบอร์เกอร์\nCook burgers",
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx20 ไดอารี่\n\tx10 ปากกา\nPrepare skill learning items\n\tx20 Diaries\n\tx10 Pens",
       "SequenceIndex": 0,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -30,18 +30,17 @@
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
-          "AcceptedItems": [
-            "Dish_Grilled_Burger",
-            "Dish_Grilled_CheeseBurger"
-          ],
-          "RequiredNum": 10,
-          "MinAcceptedCookLevel": "Undercooked",
-          "MaxAcceptedCookLevel": "Undercooked"
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 20
+        },
+        {
+          "AcceptedItems": ["Pen"],
+          "RequiredNum": 10
         }
       ]
     },
     {
-      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx20 ไดอารี่\n\tx10 ปากกา\nCollect skill learning items\n\tx20 Diaries\n\tx10 Pens",
+      "TrackingCaption": "ทำเมนูเบอร์เกอร์\nCook burgers",
       "SequenceIndex": 1,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -49,16 +48,10 @@
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
-          "AcceptedItems": [
-            "Diary"
-          ],
-          "RequiredNum": 20
-        },
-        {
-          "AcceptedItems": [
-            "Pen"
-          ],
-          "RequiredNum": 10
+          "AcceptedItems": ["Dish_Grilled_Burger", "Dish_Grilled_CheeseBurger"],
+          "RequiredNum": 10,
+          "MinAcceptedCookLevel": "Undercooked",
+          "MaxAcceptedCookLevel": "Undercooked"
         }
       ]
     }

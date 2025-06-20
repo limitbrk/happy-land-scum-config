@@ -1,0 +1,73 @@
+{
+  "AssociatedNPC": "Armorer",
+  "Tier": 3,
+  "Title": "[SKILL] โรบินฮู้ด ผู้เดียวดาย Lone Ranger - 3",
+  "Description": "หนึ่งลูกศร หนึ่งชีวิต นายไม่มีเวลายิงซ้ำ ฝึกให้ยิงแค่ครั้งเดียว แล้วจบ\n\nOne arrow. One life. You won’t get a second shot. Train to end it in one",
+  "TimeLimitHours": 48.0,
+  "RewardPool": [
+    {
+      "CurrencyNormal": 10000,
+      "Fame": 1000,
+      "Skills": [
+        {
+          "Skill": "Archery",
+          "Experience": 100000
+        },
+        {
+          "Skill": "Survival",
+          "Experience": 25000
+        }
+      ]
+    }
+  ],
+  "Conditions": [
+    {
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx40 ไดอารี่\n\tx20 ปากกา\nPrepare skill learning items\n\tx40 Diaries\n\tx20 Pens",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 40
+        },
+        {
+          "AcceptedItems": ["Pen"],
+          "RequiredNum": 20
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "ฆ่าผีด้วยธนู\nKill zombies with a bow",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": true,
+      "Type": "Elimination",
+      "Amount": 150,
+      "TargetCharacters": ["Puppet", "Razor"],
+      "AllowedWeapons": [
+        "Compound_Bow",
+        "Compound_Bow_Desert",
+        "Compound_Bow_Snow",
+        "Compound_Bow_Digital",
+        "Compound_Bow_US_Scorpion",
+        "Compound_Bow_Woodland",
+        "Improvised_Bow",
+        "Improvised_Bow_25",
+        "Improvised_Bow_30",
+        "Improvised_Bow_35",
+        "Manchu_Bow_50",
+        "Recurve_Bow",
+        "Recurve_Bow_100",
+        "Recurve_Bow_50",
+        "Recurve_Bow_60",
+        "Recurve_Bow_70",
+        "Recurve_Bow_80",
+        "Recurve_Bow_90",
+        "Weapon_BlackHawk_Crossbow",
+        "Weapon_Improvised_Crossbow"
+      ]
+    }
+  ]
+}

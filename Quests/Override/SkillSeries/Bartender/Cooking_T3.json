@@ -22,7 +22,7 @@
   ],
   "Conditions": [
     {
-      "TrackingCaption": "ทำเค้กช็อกโกแลต\nCook chocolate cake",
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx40 ไดอารี่\n\tx20 ปากกา\nPrepare skill learning items\n\tx40 Diaries\n\tx20 Pens",
       "SequenceIndex": 0,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -30,9 +30,25 @@
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
-          "AcceptedItems": [
-            "Dish_Cake_Chocolate"
-          ],
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 40
+        },
+        {
+          "AcceptedItems": ["Pen"],
+          "RequiredNum": 20
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "ทำเค้กช็อกโกแลต\nCook chocolate cake",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Dish_Cake_Chocolate"],
           "RequiredNum": 3,
           "MinAcceptedCookLevel": "Undercooked",
           "MaxAcceptedCookLevel": "Undercooked"
@@ -41,25 +57,6 @@
     },
     {
       "TrackingCaption": "ทำเมนูชา\nCook tea",
-      "SequenceIndex": 0,
-      "CanBeAutoCompleted": false,
-      "Type": "Fetch",
-      "DisablePurchaseOfRequiredItems": true,
-      "PlayerKeepsItems": false,
-      "RequiredItems": [
-        {
-          "AcceptedItems": [
-            "Dish_Drink_Tea",
-            "Dish_Drink_EnglishTea"
-          ],
-          "RequiredNum": 6,
-          "MinAcceptedCookLevel": "Undercooked",
-          "MaxAcceptedCookLevel": "Undercooked"
-        }
-      ]
-    },
-    {
-      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx40 ไดอารี่\n\tx20 ปากกา\nCollect skill learning items\n\tx40 Diaries\n\tx20 Pens",
       "SequenceIndex": 1,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -67,16 +64,10 @@
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
-          "AcceptedItems": [
-            "Diary"
-          ],
-          "RequiredNum": 40
-        },
-        {
-          "AcceptedItems": [
-            "Pen"
-          ],
-          "RequiredNum": 20
+          "AcceptedItems": ["Dish_Drink_Tea", "Dish_Drink_EnglishTea"],
+          "RequiredNum": 6,
+          "MinAcceptedCookLevel": "Undercooked",
+          "MaxAcceptedCookLevel": "Undercooked"
         }
       ]
     }

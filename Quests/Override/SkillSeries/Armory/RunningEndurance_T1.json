@@ -26,8 +26,26 @@
   ],
   "Conditions": [
     {
-      "TrackingCaption": "ไปที่จุดเริ่มต้นในแผนที่\nGo to starting point in the map",
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx10 ไดอารี่\n\tx5 ปากกา\nPrepare skill learning items\n\tx10 Diaries\n\tx5 Pens",
       "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 10
+        },
+        {
+          "AcceptedItems": ["Pen"],
+          "RequiredNum": 5
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "ไปที่จุดเริ่มต้นในแผนที่\nGo to starting point in the map",
+      "SequenceIndex": 1,
       "CanBeAutoCompleted": true,
       "Type": "Interaction",
       "Locations": [
@@ -59,7 +77,7 @@
     },
     {
       "TrackingCaption": "วื่งตามทาง 200m (ขาไป)\nRun along the path 200m (outbound)",
-      "SequenceIndex": 1,
+      "SequenceIndex": 2,
       "CanBeAutoCompleted": true,
       "Type": "Interaction",
       "Locations": [
@@ -86,7 +104,7 @@
     },
     {
       "TrackingCaption": "วื่งตามทาง 200m (ขากลับ)\nRun along the path 200m (inbound)",
-      "SequenceIndex": 2,
+      "SequenceIndex": 3,
       "CanBeAutoCompleted": true,
       "Type": "Interaction",
       "Locations": [
@@ -110,24 +128,6 @@
       "MaxNeeded": 3,
       "SpawnOnlyNeeded": true,
       "WorldMarkerShowDistance": 110.0
-    },
-    {
-      "TrackingCaption": "สะสมอุปกรณ์เรียนทักษะ\n\tx10 ไดอารี่\n\tx5 ปากกา\nCollect skill learning items\n\tx10 Diaries\n\tx5 Pens",
-      "SequenceIndex": 3,
-      "CanBeAutoCompleted": false,
-      "Type": "Fetch",
-      "DisablePurchaseOfRequiredItems": true,
-      "PlayerKeepsItems": false,
-      "RequiredItems": [
-        {
-          "AcceptedItems": ["Diary"],
-          "RequiredNum": 10
-        },
-        {
-          "AcceptedItems": ["Pen"],
-          "RequiredNum": 5
-        }
-      ]
     }
   ]
 }
