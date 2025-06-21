@@ -223,16 +223,16 @@ Quests/
         "Locations": [
             {
             "FallbackTransform": "-619856.438,-555408.250,2452.286|0,0,0|1,1,1",
-            "VisibleMesh": "/Engine/BasicShapes/Sphere.Sphere",
+            "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/Chapel/Chapel_02/SM_CityStatue_05.SM_CityStatue_05",
             }
         ]
     }
     ```
-    Basic Shape ที่ใช้ได้
-    | ชื่อทรง | Visible Mesh |
+    Visible Mesh ที่น่าสนใจ
+    | รูปร่าง | Visible Mesh |
     |-|-|
-    | ทรงกลม | `/Engine/BasicShapes/Sphere.Sphere` |
-    | ลูกบาศก์ | `/Engine/BasicShapes/Cube.Cube` |
-    | ทรงกระบอก | `/Engine/BasicShapes/Cylinder.Cylinder` |
-    | ทรงกรวย | `/Engine/BasicShapes/Cone.Cone` |
-    | แผ่นสี่เหลี่ยม (มีแค่ 1 หน้า) | `/Engine/BasicShapes/Plane.Plane` |
+    | รูปปั้นนางฟ้า | `/Game/ConZ_Files/Models/Objects/Outdoor/Chapel/Chapel_02/SM_CityStatue_05.SM_CityStatue_05` |
+    | ป้ายผ้าพร้อมเสา | `/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3` |
+    | ธง | `/Game/ConZ_Files/Models/Objects/Indoor/Office/Flag_pole/SM_flagpole_01.SM_flagpole_01` |
+    | ทรงกลม | `/Game/ConZ_Files/Models/Buildings/City/DanceClub/Materials/SM_Disco_Ball_Demo.SM_Disco_Ball_Demo` |
+    | แผ่นสี่เหลี่ยม | `/Game/ConZ_Files/Models/Objects/Outdoor/Stone_Floor/SM_StoneFloor_03.SM_StoneFloor_03` |

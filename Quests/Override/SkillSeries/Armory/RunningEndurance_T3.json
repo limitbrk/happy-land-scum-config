@@ -26,7 +26,7 @@
   ],
   "Conditions": [
     {
-      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx20 ไดอารี่\n\tx10 ปากกา\nPrepare skill learning items\n\tx20 Diaries\n\tx10 Pens",
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx40 ไดอารี่\n\tx20 ปากกา\nPrepare skill learning items\n\tx40 Diaries\n\tx20 Pens",
       "SequenceIndex": 0,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
@@ -50,21 +50,14 @@
       "Type": "Interaction",
       "Locations": [
         {
-          "_Note": "Starting point Arrow Head",
-          "FallbackTransform": "-220370.000,-111354,36540|0,90,90|0.5,0.5,1",
-          "VisibleMesh": "/Engine/BasicShapes/Cone.Cone",
-          "Instance": 1
-        },
-        {
-          "_Note": "Starting point Arrow tails",
-          "FallbackTransform": "-220268.000,-111354,36540|0,90,90|0.2,0.2,1",
-          "VisibleMesh": "/Engine/BasicShapes/Cylinder.Cylinder",
-          "Instance": 1
+          "_Note": "Start Sign",
+          "FallbackTransform": "-220389.766,-111325.953,36454|0,0,0|1,1,1",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Indoor/Office/Flag_pole/SM_flagpole_01.SM_flagpole_01"
         }
       ],
       "MinNeeded": 1,
       "MaxNeeded": 1,
-      "SpawnOnlyNeeded": false,
+      "SpawnOnlyNeeded": true,
       "WorldMarkerShowDistance": 50.0,
       "LocationsShownOnMap": [
         {
@@ -85,58 +78,58 @@
       "Locations": [
         {
           "_Note": "distance 50m",
-          "FallbackTransform": "-225406.281250,-111354,36531.117|0,0,0|0.01,50,4.0",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-225406.281250,-111354,36431.117|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         },
         {
           "_Note": "distance 100m",
-          "FallbackTransform": "-230316.218750,-111350,36452.238|0,0,0|0.01,50,4.4",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-230316.218750,-111350,36352.238|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         },
         {
           "_Note": "distance 200m",
-          "FallbackTransform": "-240374.031250,-111350,36295.383|0,0,0|0.01,50,5.2",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-240374.031250,-111350,36195.383|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         },
         {
           "_Note": "distance 300m",
-          "FallbackTransform": "-250398.281250,-111350,36150.629|0,0,0|0.01,50,6.0",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-250398.281250,-111350,36050.629|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         },
         {
           "_Note": "distance 400m",
-          "FallbackTransform": "-260315.343750,-111350,36010.629|0,0,0|0.01,50,6.8",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-260315.343750,-111350,35910.629|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         },
         {
           "_Note": "distance 500m",
-          "FallbackTransform": "-270366.218750,-111350,35874.453|0,0,0|0.01,50,7.6",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-270366.218750,-111350,35774.453|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         },
         {
           "_Note": "distance 600m",
-          "FallbackTransform": "-280390.468750,-111350,35740.582|0,0,0|0.01,50,8.4",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-280390.468750,-111350,35640.582|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         },
         {
           "_Note": "distance 700m",
-          "FallbackTransform": "-290306.781250,-111350,35608.074|0,0,0|0.01,50,9.2",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-290306.781250,-111350,35508.074|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         },
         {
           "_Note": "distance 800m",
-          "FallbackTransform": "-300362.187500,-111350,35474.445|0,0,0|0.01,50,10.0",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-300362.187500,-111350,35374.445|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         },
         {
           "_Note": "distance 900m",
-          "FallbackTransform": "-310386.437500,-111350,35340.750|0,0,0|0.01,50,10.8",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-310386.437500,-111350,35240|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         },
         {
           "_Note": "distance 1000m",
-          "FallbackTransform": "-320359.250000,-111350,35209.227|0,0,0|0.01,50,11.6",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-320359.250000,-111350,35103|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         }
       ],
       "MinNeeded": 11,
@@ -151,59 +144,59 @@
       "Type": "Interaction",
       "Locations": [
         {
-          "_Note": "Finishing point",
-          "FallbackTransform": "-220268.000,-111354,36540|0,0,0|1,1,1",
-          "VisibleMesh": "/Engine/BasicShapes/Sphere.Sphere"
+          "_Note": "Finish Sign",
+          "FallbackTransform": "-220389.766,-111325.953,36454|0,0,0|1,1,1",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Indoor/Office/Flag_pole/SM_flagpole_01.SM_flagpole_01"
         },
         {
           "_Note": "distance 50m",
-          "FallbackTransform": "-225406.281250,-111354,36531.117|0,0,0|0.01,50,4.0",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-225406.281250,-111354,36431.117|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         },
         {
           "_Note": "distance 100m",
-          "FallbackTransform": "-230316.218750,-111350,36452.238|0,0,0|0.01,50,4.4",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-230316.218750,-111350,36352.238|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         },
         {
           "_Note": "distance 200m",
-          "FallbackTransform": "-240374.031250,-111350,36295.383|0,0,0|0.01,50,5.2",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-240374.031250,-111350,36195.383|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         },
         {
           "_Note": "distance 300m",
-          "FallbackTransform": "-250398.281250,-111350,36150.629|0,0,0|0.01,50,6.0",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-250398.281250,-111350,36050.629|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         },
         {
           "_Note": "distance 400m",
-          "FallbackTransform": "-260315.343750,-111350,36010.629|0,0,0|0.01,50,6.8",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-260315.343750,-111350,35910.629|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         },
         {
           "_Note": "distance 500m",
-          "FallbackTransform": "-270366.218750,-111350,35874.453|0,0,0|0.01,50,7.6",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-270366.218750,-111350,35774.453|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         },
         {
           "_Note": "distance 600m",
-          "FallbackTransform": "-280390.468750,-111350,35740.582|0,0,0|0.01,50,8.4",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-280390.468750,-111350,35640.582|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         },
         {
           "_Note": "distance 700m",
-          "FallbackTransform": "-290306.781250,-111350,35608.074|0,0,0|0.01,50,9.2",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-290306.781250,-111350,35508.074|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         },
         {
           "_Note": "distance 800m",
-          "FallbackTransform": "-300362.187500,-111350,35474.445|0,0,0|0.01,50,10.0",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-300362.187500,-111350,35374.445|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         },
         {
           "_Note": "distance 900m",
-          "FallbackTransform": "-310386.437500,-111350,35340.750|0,0,0|0.01,50,10.8",
-          "VisibleMesh": "/Engine/BasicShapes/Cube.Cube"
+          "FallbackTransform": "-310386.437500,-111350,35240|0,90,0|13,1,0.7",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Objects/Outdoor/MotocrossTrack/Banner/Motocross_Banner_1_3.Motocross_Banner_1_3"
         }
       ],
       "MinNeeded": 11,
