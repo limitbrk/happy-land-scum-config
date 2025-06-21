@@ -28,7 +28,7 @@
     {
       "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx20 ไดอารี่\n\tx10 ปากกา\nPrepare skill learning items\n\tx20 Diaries\n\tx10 Pens",
       "SequenceIndex": 0,
-      "CanBeAutoCompleted": false,
+      "CanBeAutoCompleted": true,
       "Type": "Fetch",
       "DisablePurchaseOfRequiredItems": true,
       "PlayerKeepsItems": false,
