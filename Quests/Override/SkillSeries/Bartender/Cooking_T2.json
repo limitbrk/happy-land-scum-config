@@ -50,8 +50,7 @@
         {
           "AcceptedItems": ["Dish_Grilled_Burger", "Dish_Grilled_CheeseBurger"],
           "RequiredNum": 10,
-          "MinAcceptedCookLevel": "Undercooked",
-          "MaxAcceptedCookLevel": "Undercooked"
+          "MinAcceptedCookLevel": "Undercooked"
         }
       ]
     }

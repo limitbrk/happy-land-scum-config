@@ -50,8 +50,7 @@
         {
           "AcceptedItems": ["Dish_Grilled_Fish", "Dish_Skewer_Fish"],
           "RequiredNum": 10,
-          "MinAcceptedCookLevel": "Undercooked",
-          "MaxAcceptedCookLevel": "Undercooked"
+          "MinAcceptedCookLevel": "Undercooked"
         }
       ]
     },
@@ -66,8 +65,7 @@
         {
           "AcceptedItems": ["Dish_Skewer_Meat", "Dish_Grilled_RedMeat"],
           "RequiredNum": 10,
-          "MinAcceptedCookLevel": "Undercooked",
-          "MaxAcceptedCookLevel": "Undercooked"
+          "MinAcceptedCookLevel": "Undercooked"
         }
       ]
     }

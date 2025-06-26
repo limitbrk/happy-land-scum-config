@@ -50,8 +50,7 @@
         {
           "AcceptedItems": ["Dish_Cake_Chocolate"],
           "RequiredNum": 3,
-          "MinAcceptedCookLevel": "Undercooked",
-          "MaxAcceptedCookLevel": "Undercooked"
+          "MinAcceptedCookLevel": "Undercooked"
         }
       ]
     },
@@ -66,8 +65,7 @@
         {
           "AcceptedItems": ["Dish_Drink_Tea", "Dish_Drink_EnglishTea"],
           "RequiredNum": 6,
-          "MinAcceptedCookLevel": "Undercooked",
-          "MaxAcceptedCookLevel": "Undercooked"
+          "MinAcceptedCookLevel": "Undercooked"
         }
       ]
     }
