@@ -44,28 +44,28 @@
       "SequenceIndex": 1,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
-      "DisablePurchaseOfRequiredItems": true,
+      "DisablePurchaseOfRequiredItems": false,
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
           "AcceptedItems": ["ActivatedCharcoal_03"],
-          "RequiredNum": 3
+          "RequiredNum": 10
         },
         {
           "AcceptedItems": ["Antibiotics_03"],
-          "RequiredNum": 3
+          "RequiredNum": 10
         },
         {
           "AcceptedItems": ["PotassiumIodide_Pills_03"],
-          "RequiredNum": 3
+          "RequiredNum": 10
         },
         {
           "AcceptedItems": ["PainKillers_03"],
-          "RequiredNum": 3
+          "RequiredNum": 10
         },
         {
           "AcceptedItems": ["Vitamins_03"],
-          "RequiredNum": 3
+          "RequiredNum": 10
         }
       ]
     },
@@ -74,20 +74,20 @@
       "SequenceIndex": 1,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
-      "DisablePurchaseOfRequiredItems": true,
+      "DisablePurchaseOfRequiredItems": false,
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
           "AcceptedItems": ["AntiburnGel"],
-          "RequiredNum": 3
+          "RequiredNum": 10
         },
         {
           "AcceptedItems": ["Emergency_Bandage_Big"],
-          "RequiredNum": 3
+          "RequiredNum": 10
         },
         {
           "AcceptedItems": ["Tourniquet"],
-          "RequiredNum": 3
+          "RequiredNum": 10
         }
       ]
     }

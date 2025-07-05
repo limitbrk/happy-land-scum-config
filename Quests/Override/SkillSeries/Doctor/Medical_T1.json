@@ -44,7 +44,7 @@
       "SequenceIndex": 1,
       "CanBeAutoCompleted": false,
       "Type": "Fetch",
-      "DisablePurchaseOfRequiredItems": true,
+      "DisablePurchaseOfRequiredItems": false,
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
