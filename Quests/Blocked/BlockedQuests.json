@@ -57,6 +57,7 @@
     "T3_GG_Fetch_Crowbar",
     "T3_GG_Fetch_ElectricGenerator",
     "T3_GG_Fetch_HikingBackpack",
+	  "T3_GG_Fetch_MetalDetector",
     "T3_GG_Fetch_PortableFridge",
     "T3_GG_Interact_AirportCommunications",
 	  "T3_GG_Interact_DisableAntennaDrums",
