@@ -1,0 +1,35 @@
+{
+  "AssociatedNPC": "GeneralGoods",
+  "Tier": 3,
+  "Title": "[Promotion] Silent Sicario Set",
+  "Description": "เขาไม่พูด ไม่แม้แต่จะกระพริบตา แค่เดินเข้ามา คนทั้งห้องก็กลืนน้ำลายไม่ลง ไม่มีใครรู้ว่าเขามาจากไหน แต่ถ้าเขาอยู่ใกล้ — คุณจะรู้แน่ ชุด ‘นักฆ่าเงียบ’ นี้ ไม่ต้องยิง ก็ทำให้ทั้งแผนที่เงียบได้\n\nHe doesn't talk. He doesn't blink. When he enters the room, everyone else stops breathing. No one knows where he comes from — but when he’s there, you’ll know. Wear the Silent Sicario Set, and silence speaks louder than bullets",
+  "TimeLimitHours": 2.0,
+  "RewardPool": [
+    {
+      "TradeDeals": [
+        {
+          "Item": "LuisMoncada_Boots",
+          "Price": 1000,
+          "Amount": 1,
+          "Fame": 100,
+          "AllowExcluded": true
+        },
+        {
+          "Item": "LuisMoncada_Jacket",
+          "Price": 1000,
+          "Amount": 1,
+          "Fame": 100,
+          "AllowExcluded": true
+        },
+        {
+          "Item": "LuisMoncada_Pants",
+          "Price": 1000,
+          "Amount": 1,
+          "Fame": 100,
+          "AllowExcluded": true
+        }
+      ]
+    }
+  ],
+  "Conditions": []
+}

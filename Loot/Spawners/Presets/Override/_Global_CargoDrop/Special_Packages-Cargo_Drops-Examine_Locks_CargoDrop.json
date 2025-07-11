@@ -1,7 +1,7 @@
 {
 	"FixedItems": [
 		"Lock_Item_Basic",
-		"Lock_Items_Medium",
+		"Lock_Item_Medium",
 		"Lock_Item_Advanced",
 		"DialLock_Item"
 	],

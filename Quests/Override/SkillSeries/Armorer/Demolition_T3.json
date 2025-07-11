@@ -1,0 +1,67 @@
+{
+  "AssociatedNpc": "Armorer",
+  "Tier": 3,
+  "Title": "[SKILL] นักรบใต้เส้นตาย Clock is ticking - 3",
+  "Description": "ถึงจุดนี้... เธอไม่ใช่แค่นักเรียนแล้ว เธอคือระเบิดที่ยังไม่ลั่น ภารกิจนี้ไม่มีฝึก ไม่มีคำอธิบาย ไม่มีเวลาคิด — มีแค่นาย กับเสียง ติ๊ก...ติ๊ก...ติ๊ก... เท่านั้น\n\nYou’re no longer a student. You’re a live bomb — just not triggered. This mission has no training, no instructions, no time to think. Just you… and the ticking.",
+  "TimeLimitHours": 48.0,
+  "RewardPool": [
+    {
+      "CurrencyNormal": 10000,
+      "Fame": 1000,
+      "Skills": [
+        {
+          "Skill": "Demolition",
+          "Experience": 100000
+        },
+        {
+          "Skill": "Survival",
+          "Experience": 25000
+        }
+      ]
+    }
+  ],
+  "Conditions": [
+    {
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx40 ไดอารี่\n\tx20 ปากกา\nPrepare skill learning items\n\tx40 Diaries\n\tx20 Pens",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 40
+        },
+        {
+          "AcceptedItems": ["Pen"],
+          "RequiredNum": 20
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "ฆ่าซอมบี้ระเบิด(แนะนำยิงหัวเท่านั้น)\nKill Suicide Zombies (recommended headshots only)",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": false,
+      "Type": "Elimination",
+      "Amount": 50,
+      "TargetCharacters": [
+        "BP_Zombie_SuicideVest"
+      ]
+    },
+    {
+      "TrackingCaption": "เก็บกู้ชิ้นส่วนซอมบี้ระเบิด\nRetrive Suicide Zombie Parts",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["C4_Detonator", "C4_Keypad"],
+          "RequiredNum": 50
+        }
+      ]
+    }
+  ]
+}

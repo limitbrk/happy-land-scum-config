@@ -1,0 +1,21 @@
+{
+    "AssociatedNPC": "Armorer",
+    "Tier": 3,
+    "Title": "[Promotion] Tuco’s Weapon",
+    "Description": "TIGHT, TIGHT, TIGHT!!! อาวุธของ ‘คนบ้า’ มันก็มีข้อดี!",
+    "TimeLimitHours": 2.0,
+    "RewardPool": [
+        {
+            "TradeDeals": [
+                {
+                    "Item": "1H_RaymondCruz_Knife",
+                    "Price": 2500,
+                    "Amount": 1,
+                    "Fame": 100,
+                    "AllowExcluded": true
+                }
+            ]
+        }
+    ],
+    "Conditions": []
+}

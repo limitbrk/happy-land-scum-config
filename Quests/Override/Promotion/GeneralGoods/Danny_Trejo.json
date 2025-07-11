@@ -1,0 +1,42 @@
+{
+  "AssociatedNPC": "GeneralGoods",
+  "Tier": 3,
+  "Title": "[Promotion] Machete's Legacy Set",
+  "Description": "มันไม่ใช่แค่ชุด แต่มันคือตำนานของชายที่ถูกสร้างมาเพื่อลุยเดี่ยว เขาเคยถูกหักหลังโดยรัฐบาล เคยเป็นนักฆ่าที่ไม่มีใครล้มได้ เขาไม่ได้พูดมาก... เพราะ ‘Machete don’t text.’ ชุดนี้คือเกียรติแห่งชายผู้เป็นทั้งนักโทษ นักฆ่า และนักปฏิวัติผู้มีมีดเป็นเพื่อนแท้\n\nThis isn’t just a set of clothes — it’s the legacy of a man who never backed down. He’s an ex-con, a one-man army, betrayed by his own government. There’s only one thing he trusts: his machete. No one know where is he... because Machete don’t text. Wear this, and carry the spirit of a fighter who walks alone in a ruthless world.",
+  "TimeLimitHours": 2.0,
+  "RewardPool": [
+    {
+      "TradeDeals": [
+        {
+          "Item": "Danny_Trejo_Boots_01",
+          "Price": 1000,
+          "Amount": 1,
+          "Fame": 100,
+          "AllowExcluded": true
+        },
+        {
+          "Item": "Danny_Trejo_Glove_01",
+          "Price": 1000,
+          "Amount": 1,
+          "Fame": 100,
+          "AllowExcluded": true
+        },
+        {
+          "Item": "Danny_Trejo_Pants",
+          "Price": 1000,
+          "Amount": 1,
+          "Fame": 100,
+          "AllowExcluded": true
+        },
+        {
+          "Item": "Danny_Trejo_Vest",
+          "Price": 1000,
+          "Amount": 1,
+          "Fame": 100,
+          "AllowExcluded": true
+        }
+      ]
+    }
+  ],
+  "Conditions": []
+}

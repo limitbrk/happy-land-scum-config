@@ -1,0 +1,85 @@
+{
+  "AssociatedNpc": "Armorer",
+  "Tier": 1,
+  "Title": "[SKILL] นักรบใต้เส้นตาย Clock is ticking - 1",
+  "Description": "อยากเล่นของแรง… ก็ต้องเริ่มจากความเข้าใจ นี่ไม่ใช่เกม — เธอมีแค่โอกาสเดียว ถ้าพลาด ระเบิดมันจะไม่ให้เธอเริ่มใหม่ ไปศึกษาชิ้นส่วนเหล่านี้ แล้วกลับมาหาข้า\n\nWanna play with fire? Start with understanding. This isn’t a game — you only get one chance. Mess up, and the bomb won’t let you retry. Learn the components. Then come back to me.",
+  "TimeLimitHours": 48.0,
+  "RewardPool": [
+    {
+      "CurrencyNormal": 100,
+      "Fame": 10,
+      "Skills": [
+        {
+          "Skill": "Demolition",
+          "Experience": 1000
+        },
+        {
+          "Skill": "Survival",
+          "Experience": 250
+        }
+      ]
+    }
+  ],
+  "Conditions": [
+    {
+      "TrackingCaption": "เตรียมอุปกรณ์เรียนทักษะ\n\tx10 ไดอารี่\n\tx5 ปากกา\nPrepare skill learning items\n\tx10 Diaries\n\tx5 Pens",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Diary"],
+          "RequiredNum": 10
+        },
+        {
+          "AcceptedItems": ["Pen"],
+          "RequiredNum": 5
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "สะสมแบตเตอรี่รถ\nCollect Car batteries",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": true,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": false,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Car_Battery"],
+          "RequiredNum": 10
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "สะสมสายไฟ\nCollect wires",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": true,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": false,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Wire"],
+          "RequiredNum": 20
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "สะสมชุดเครื่องช่างไฟ\nCollect Electrician's Tool Kits",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": true,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": false,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Electrician_Tools", "Electrical_Repair_Kit"],
+          "RequiredNum": 5
+        }
+      ]
+    }
+  ]
+}

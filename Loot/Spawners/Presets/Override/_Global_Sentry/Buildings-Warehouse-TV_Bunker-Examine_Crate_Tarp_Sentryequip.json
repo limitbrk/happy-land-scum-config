@@ -38,10 +38,6 @@
 		{
 			"Rarity": "Rare",
 			"Id": "Electrical_Repair_Kit"
-		},
-		{
-			"Rarity": "Rare",
-			"Id": "Tire_Repair_Kit"
 		}
 	],
 	"Probability": 35,

@@ -3,18 +3,20 @@
 		"C4_Keypad",
 		"C4_CircuitBoard",
 		"BCULock_Item",
-		"Cal_50BMG",
-		"Cal_50BMG",
-		"Cal_50BMG",
-		"Cal_50BMG",
-		"Cal_50BMG",
-		"Cal_50BMG",
 		"Frag_Grenade",
 		"Frag_Grenade",
 		"Frag_Grenade",
 		"TearGasGrenade",
 		"TearGasGrenade",
-		"KeyCard"
+		"KeyCard",
+		"Sentry_Aiming_Kit",
+		"Cal_50BMG",
+		"Cal_50BMG",
+		"Cal_50BMG",
+		"Cal_50BMG",
+		"Cal_50BMG",
+		"Cal_50BMG",
+		"Spring"
 	],
 	"Items": [
 		{

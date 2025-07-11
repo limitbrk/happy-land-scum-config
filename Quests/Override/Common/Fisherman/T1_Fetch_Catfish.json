@@ -1,0 +1,29 @@
+{
+  "AssociatedNPC": "Fisherman",
+  "Tier": 1,
+  "Title": "ปลาดุกเทพเจ้าแห่งน้ำจืด Catcha! Catfish",
+  "Description": "นี่เจ้าหนู รู้จักปลาดุกไหม? รู้ไหมว่าปลาดุกที่นี่มีขนาดใหญ่มาก อาจจะหนักถึง 60 กิโลกรัมเลยนะ! แต่ไม่มีใครตกได้เลยสักตัว ถ้าตกได้ส่งมาให้ฉันดูหน่อยสิ\n\nHey kid, do you know about catfish? Do you know that catfish here can grow up to 60 kilograms? But no one has ever caught one. If you catch one, bring it to me.",
+  "TimeLimitHours": 24.0,
+  "RewardPool": [
+    {
+      "CurrencyNormal": 5000,
+      "Fame": 100
+    }
+  ],
+  "Conditions": [
+    {
+      "TrackingCaption": "ตกปลาดุก Catch Catfish",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Fish_Catfish"],
+          "RequiredNum": 1
+        }
+      ]
+    }
+  ]
+}

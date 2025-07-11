@@ -1,0 +1,21 @@
+{
+  "AssociatedNPC": "Armorer",
+  "Tier": 3,
+  "Title": "[Promotion] Silent Salamanca Weapon",
+  "Description": "อาวุธของฝาแฝด Salamanca ที่ “ไม่พูดสักคำ” แต่โคตรน่ากลัว เพียงแค่มีอาวุธนี้ ทั้งเกาะก็กลัวจนไม่กล้าขยับปาก\n\nThe weapon of the Salamanca twins who “don’t say a word” but are terrifying. Just having this weapon makes the whole island afraid to even open their mouths.",
+  "TimeLimitHours": 2.0,
+  "RewardPool": [
+    {
+      "TradeDeals": [
+        {
+          "Item": "2H_La_Hacha_Axe",
+          "Price": 2500,
+          "Amount": 1,
+          "Fame": 100,
+          "AllowExcluded": true
+        }
+      ]
+    }
+  ],
+  "Conditions": []
+}

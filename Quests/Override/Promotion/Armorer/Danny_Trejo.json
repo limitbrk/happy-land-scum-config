@@ -1,0 +1,21 @@
+{
+  "AssociatedNPC": "Armorer",
+  "Tier": 3,
+  "Title": "[Promotion] Machete's Weapon",
+  "Description": "Machete's weapon is machete. เพราะเขาไม่ใช่สายลับ... เขาคือ Machete",
+  "TimeLimitHours": 2.0,
+  "RewardPool": [
+    {
+      "TradeDeals": [
+        {
+          "Item": "1H_DannyMachete",
+          "Price": 2500,
+          "Amount": 1,
+          "Fame": 100,
+          "AllowExcluded": true
+        }
+      ]
+    }
+  ],
+  "Conditions": []
+}

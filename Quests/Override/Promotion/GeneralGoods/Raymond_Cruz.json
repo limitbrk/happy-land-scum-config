@@ -1,0 +1,42 @@
+{
+    "AssociatedNPC": "GeneralGoods",
+    "Tier": 3,
+    "Title": "[Promotion] Tuco’s Psycho Set",
+    "Description": "เขาเสียงดัง บ้า และพร้อมต่อยคุณจนกระดูกหักแค่เพราะเสียงมันสะใจ Tuco ไม่คิดก่อนทำ — เขาระเบิดก่อน แล้วค่อยถาม ชุดนี้มีไว้ให้แก่ ‘ความวุ่นวาย’ เพื่อให้รู้ว่าใครเป็นเจ้าของ\n\nHe’s loud, crazy, and will punch you in the face just because it feels good. Tuco doesn’t think before he acts — he explodes first, then asks questions. This set is for those who embrace chaos, to show the world who’s in charge.",
+    "TimeLimitHours": 2.0,
+    "RewardPool": [
+        {
+            "TradeDeals": [
+                {
+                    "Item": "Raymond_Cruz_Boots",
+                    "Price": 1000,
+                    "Amount": 1,
+                    "Fame": 100,
+                    "AllowExcluded": true
+                },
+                {
+                    "Item": "Raymond_Cruz_Hat",
+                    "Price": 1000,
+                    "Amount": 1,
+                    "Fame": 100,
+                    "AllowExcluded": true
+                },
+                {
+                    "Item": "Raymond_Cruz_Pants",
+                    "Price": 1000,
+                    "Amount": 1,
+                    "Fame": 100,
+                    "AllowExcluded": true
+                },
+                {
+                    "Item": "Raymond_Cruz_Shirt",
+                    "Price": 1000,
+                    "Amount": 1,
+                    "Fame": 100,
+                    "AllowExcluded": true
+                }
+            ]
+        }
+    ],
+    "Conditions": []
+}

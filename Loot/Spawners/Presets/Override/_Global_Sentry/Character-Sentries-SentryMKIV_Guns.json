@@ -2,10 +2,6 @@
 	"Nodes": [],
 	"Items": [
 		{
-			"Rarity": "Common",
-			"Id": "Sentry_Aiming_Kit"
-		},
-		{
 			"Rarity": "Uncommon",
 			"Id": "Sentry_50cal_Rifle"
 		},
