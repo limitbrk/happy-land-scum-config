@@ -5,6 +5,7 @@
 		"MP5_Rail_Short",
 		"WeaponSights_RedDot_CA401B"
 	],
+	"ShouldApplyLocationSpecificDamageModifier": true,
 	"InitialDamage": 0,
 	"RandomDamage": 0,
 	"InitialUsage": 0,

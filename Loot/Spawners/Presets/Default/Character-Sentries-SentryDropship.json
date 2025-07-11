@@ -10,6 +10,7 @@
 		"TearGasGrenade",
 		"KeyCard"
 	],
+	"ShouldApplyLocationSpecificDamageModifier": true,
 	"InitialDamage": 20,
 	"RandomDamage": 10,
 	"InitialUsage": 0,

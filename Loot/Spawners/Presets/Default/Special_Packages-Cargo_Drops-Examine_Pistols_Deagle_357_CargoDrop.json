@@ -1,6 +1,6 @@
 {
 	"FixedItems": [
-		"Weapon_DEagle_357",
+		"Weapon_Deagle_357",
 		"Magazine_DEagle_357",
 		"Magazine_DEagle_357",
 		"Magazine_DEagle_357",
@@ -10,6 +10,7 @@
 		"WeaponSights_Deagle_RedDot",
 		"Tactical_Handgun_Holster_03"
 	],
+	"ShouldApplyLocationSpecificDamageModifier": true,
 	"InitialDamage": 0,
 	"RandomDamage": 0,
 	"InitialUsage": 0,

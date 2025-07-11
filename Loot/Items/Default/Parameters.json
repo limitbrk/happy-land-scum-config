@@ -15414,7 +15414,7 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
-			"Id": "Weapon_DEagle_50",
+			"Id": "Weapon_Deagle_50",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -15430,7 +15430,7 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
-			"Id": "Weapon_DEagle_357",
+			"Id": "Weapon_Deagle_357",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",

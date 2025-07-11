@@ -7,6 +7,7 @@
 		"Cal_38_Ammobox_TR",
 		"Belt_Pistol_Holster"
 	],
+	"ShouldApplyLocationSpecificDamageModifier": true,
 	"InitialDamage": 0,
 	"RandomDamage": 0,
 	"InitialUsage": 0,

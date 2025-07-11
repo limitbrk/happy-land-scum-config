@@ -8,6 +8,7 @@
 		"1H_Crowbar",
 		"1H_Crowbar"
 	],
+	"ShouldApplyLocationSpecificDamageModifier": true,
 	"InitialDamage": 0,
 	"RandomDamage": 0,
 	"InitialUsage": 0,

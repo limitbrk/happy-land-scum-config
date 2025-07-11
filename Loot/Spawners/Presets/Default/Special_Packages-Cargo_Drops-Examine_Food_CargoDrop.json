@@ -9,6 +9,7 @@
 		"ChocolateCandy_01",
 		"ChocolateCandy_03"
 	],
+	"ShouldApplyLocationSpecificDamageModifier": true,
 	"InitialDamage": 0,
 	"RandomDamage": 0,
 	"InitialUsage": 0,

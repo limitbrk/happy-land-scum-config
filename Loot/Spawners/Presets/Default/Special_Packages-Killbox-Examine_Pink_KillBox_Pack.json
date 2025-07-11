@@ -10,6 +10,7 @@
 		"Lighter",
 		"Duct_Tape"
 	],
+	"ShouldApplyLocationSpecificDamageModifier": true,
 	"InitialDamage": 0,
 	"RandomDamage": 0,
 	"InitialUsage": 0,

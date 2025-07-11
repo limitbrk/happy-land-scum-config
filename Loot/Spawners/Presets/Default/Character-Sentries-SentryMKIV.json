@@ -13,6 +13,7 @@
 		"Cal_50BMG_Ammobox",
 		"Cal_50BMG_Ammobox"
 	],
+	"ShouldApplyLocationSpecificDamageModifier": true,
 	"InitialDamage": 20,
 	"RandomDamage": 10,
 	"InitialUsage": 0,

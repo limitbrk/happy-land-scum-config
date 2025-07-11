@@ -11,6 +11,7 @@
 		"Military_Helmet_01_05",
 		"Night_Vision_Goggles_01"
 	],
+	"ShouldApplyLocationSpecificDamageModifier": true,
 	"InitialDamage": 0,
 	"RandomDamage": 0,
 	"InitialUsage": 0,

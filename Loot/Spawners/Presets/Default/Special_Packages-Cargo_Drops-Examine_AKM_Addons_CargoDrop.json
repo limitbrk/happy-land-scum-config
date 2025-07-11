@@ -9,6 +9,7 @@
 		"Cal_7_62x39mm_Ammobox",
 		"ScopeRail_AK47"
 	],
+	"ShouldApplyLocationSpecificDamageModifier": true,
 	"InitialDamage": 0,
 	"RandomDamage": 0,
 	"InitialUsage": 0,

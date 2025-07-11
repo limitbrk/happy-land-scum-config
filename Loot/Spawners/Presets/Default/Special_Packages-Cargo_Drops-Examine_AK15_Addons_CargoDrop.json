@@ -10,6 +10,7 @@
 		"ScopeRail_AK47",
 		"WeaponScope_Spektral_DR"
 	],
+	"ShouldApplyLocationSpecificDamageModifier": true,
 	"InitialDamage": 0,
 	"RandomDamage": 0,
 	"InitialUsage": 0,

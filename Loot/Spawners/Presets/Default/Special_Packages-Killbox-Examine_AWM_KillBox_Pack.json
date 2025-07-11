@@ -7,6 +7,7 @@
 		"Magazine_AWM",
 		"WeaponScope_Dragunov"
 	],
+	"ShouldApplyLocationSpecificDamageModifier": true,
 	"InitialDamage": 0,
 	"RandomDamage": 0,
 	"InitialUsage": 0,

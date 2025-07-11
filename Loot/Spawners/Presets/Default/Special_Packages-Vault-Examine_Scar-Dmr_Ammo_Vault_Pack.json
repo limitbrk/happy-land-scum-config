@@ -7,6 +7,7 @@
 		"Cal_308_Ammobox",
 		"Cal_308_Ammobox"
 	],
+	"ShouldApplyLocationSpecificDamageModifier": true,
 	"InitialDamage": 0,
 	"RandomDamage": 0,
 	"InitialUsage": 0,
