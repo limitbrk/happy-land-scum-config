@@ -38,5 +38,68 @@
       ]
     }
   ],
-  "Conditions": []
+  "Conditions": [
+    {
+      "TrackingCaption": "อ่านนิตยสารแฟชั่น\nRead Fashion Magazines",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Interaction",
+      "Locations": [
+        {
+          "FallbackTransform": "-153292.422,293272.219,69755.875|0,0,0|1,1,0.15",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Buildings/City/DanceClub/Materials/SM_Disco_Ball_Demo.SM_Disco_Ball_Demo"
+        },
+        {
+          "FallbackTransform": "569359.125,-222037.688,438.887|0,0,0|1,1,0.15",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Buildings/City/DanceClub/Materials/SM_Disco_Ball_Demo.SM_Disco_Ball_Demo"
+        },
+        {
+          "FallbackTransform": "-623873.062,-556596.625,2524.582|0,0,0|1,1,0.15",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Buildings/City/DanceClub/Materials/SM_Disco_Ball_Demo.SM_Disco_Ball_Demo"
+        },
+        {
+          "FallbackTransform": "23893.576,-677517.125,399.531|0,0,0|1,1,0.15",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Buildings/City/DanceClub/Materials/SM_Disco_Ball_Demo.SM_Disco_Ball_Demo"
+        }
+      ],
+      "MinNeeded": 1,
+      "MaxNeeded": 1,
+      "SpawnOnlyNeeded": false,
+      "WorldMarkerShowDistance": 100,
+      "LocationsShownOnMap": [
+        {
+          "Location": {
+            "X": -610818,
+            "Y": -556433,
+            "Z": 0
+          },
+          "SizeFactor": 3
+        },
+        {
+          "Location": {
+            "X": 570708,
+            "Y": -226174,
+            "Z": 0
+          },
+          "SizeFactor": 1.5
+        },
+        {
+          "Location": {
+            "X": -147082,
+            "Y": 278432,
+            "Z": 0
+          },
+          "SizeFactor": 3
+        },
+        {
+          "Location": {
+            "X": 12820,
+            "Y": -678344,
+            "Z": 0
+          },
+          "SizeFactor": 3
+        }
+      ]
+    }
+  ]
 }

@@ -17,5 +17,72 @@
             ]
         }
     ],
-    "Conditions": []
+    "Conditions": [
+    {
+      "TrackingCaption": "ตรวจสอบตู้คลังอาวุธพิเศษ\nCheck Special Weapons Locker",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Interaction",
+      "Locations": [
+        {
+          "AnchorMesh": "/Game/ConZ_Files/Maps/The_Island/C_2_Outpost_Armory.C_2_Outpost_Armory:PersistentLevel.BP_OutpostArmory_IndoorMeshes_2.StaticMesh150",
+          "FallbackTransform": "-147990.203125,287880.125000,69602.507812|0.000000,137.411728,0.000000|1.001000,0.522818,1.001000",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Buildings/TV_Bunker/Objects/WeaponsLockers/SM_TVBase_WeaponsLocker_03_Closed_MilitaryWeapons.SM_TVBase_WeaponsLocker_03_Closed_MilitaryWeapons"
+        },
+        {
+          "AnchorMesh": "/Game/ConZ_Files/Maps/The_Island/B_4_Outpost_Armory.B_4_Outpost_Armory:PersistentLevel.BP_OutpostArmory_IndoorMeshes_2.StaticMesh150",
+          "FallbackTransform": "569462.500000,-219812.765625,277.348083|0.000000,-142.582916,0.000000|1.001000,0.522818,1.001000",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Buildings/TV_Bunker/Objects/WeaponsLockers/SM_TVBase_WeaponsLocker_03_Closed_MilitaryWeapons.SM_TVBase_WeaponsLocker_03_Closed_MilitaryWeapons"
+        },
+        {
+          "AnchorMesh": "/Game/ConZ_Files/Maps/The_Island/A_0_Outpost_Armory.A_0_Outpost_Armory:PersistentLevel.BP_OutpostArmory_IndoorMeshes_2.StaticMesh150",
+          "FallbackTransform": "-617673.625000,-548676.687500,2296.106689|0.000000,-145.899139,0.000000|1.001000,0.522818,1.001000",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Buildings/TV_Bunker/Objects/WeaponsLockers/SM_TVBase_WeaponsLocker_03_Closed_MilitaryWeapons.SM_TVBase_WeaponsLocker_03_Closed_MilitaryWeapons"
+        },
+        {
+          "AnchorMesh": "/Game/ConZ_Files/Maps/The_Island/Z_3_Outpost_Armory.Z_3_Outpost_Armory:PersistentLevel.BP_OutpostArmory_IndoorMeshes_2.StaticMesh150",
+          "FallbackTransform": "22878.162109,-679666.250000,252.522629|0.000000,106.321411,0.000000|1.001000,0.522818,1.001000",
+          "VisibleMesh": "/Game/ConZ_Files/Models/Buildings/TV_Bunker/Objects/WeaponsLockers/SM_TVBase_WeaponsLocker_03_Closed_MilitaryWeapons.SM_TVBase_WeaponsLocker_03_Closed_MilitaryWeapons"
+        }
+      ],
+      "MinNeeded": 1,
+      "MaxNeeded": 1,
+      "SpawnOnlyNeeded": false,
+      "WorldMarkerShowDistance": 100,
+      "LocationsShownOnMap": [
+        {
+          "Location": {
+            "X": -610818,
+            "Y": -556433,
+            "Z": 0
+          },
+          "SizeFactor": 3
+        },
+        {
+          "Location": {
+            "X": 570708,
+            "Y": -226174,
+            "Z": 0
+          },
+          "SizeFactor": 1.5
+        },
+        {
+          "Location": {
+            "X": -147082,
+            "Y": 278432,
+            "Z": 0
+          },
+          "SizeFactor": 3
+        },
+        {
+          "Location": {
+            "X": 12820,
+            "Y": -678344,
+            "Z": 0
+          },
+          "SizeFactor": 3
+        }
+      ]
+    }
+  ]
 }
