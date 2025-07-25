@@ -1,0 +1,28 @@
+{
+  "AssociatedNPC": "Banker",
+  "Tier": 1,
+  "Title": "[Token] x50 Super Glue -> 500 Fame Points",
+  "Description": "ด่วน! กาวตราช้าง 50 ขวดมาแลก 500 Fame Points วิธีหากาวใน Discord Server #glue-event\n\nHotDeals! Collect 50 Super Glue and exchange it for 500 Fame Points. How to find glue? Check out our Discord Server #glue-event",
+  "TimeLimitHours": 2.0,
+  "RewardPool": [
+    {
+      "Fame": 500
+    }
+  ],
+  "Conditions": [
+    {
+      "TrackingCaption": "สะสมกาวตราช้าง 50 ขวด\nCollect 50 Super Glue",
+      "SequenceIndex": 0,
+      "CanBeAutoCompleted": false,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["Super_Glue"],
+          "RequiredNum": 50
+        }
+      ]
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "AssociatedNpc": "Armorer",
   "Tier": 1,
   "Title": "[SKILL] นักรบใต้เส้นตาย Clock is ticking - 1",
-  "Description": "อยากเล่นของแรง… ก็ต้องเริ่มจากความเข้าใจ นี่ไม่ใช่เกม — เธอมีแค่โอกาสเดียว ถ้าพลาด ระเบิดมันจะไม่ให้เธอเริ่มใหม่ ไปศึกษาชิ้นส่วนเหล่านี้ แล้วกลับมาหาข้า\n\nWanna play with fire? Start with understanding. This isn’t a game — you only get one chance. Mess up, and the bomb won’t let you retry. Learn the components. Then come back to me.",
+  "Description": "อยากเล่นของแรง… ก็ต้องเริ่มจากความเข้าใจ นี่ไม่ใช่เกม — เธอมีแค่โอกาสเดียว ถ้าพลาด ระเบิดมันจะไม่ให้เธอเริ่มใหม่ ไปศึกษาอุปกรณ์เหล่านี้ แล้วกลับมาหาข้า\n\nWanna play with fire? Start with understanding. This isn’t a game — you only get one chance. Mess up, and the bomb won’t let you retry. Learn these items. Then come back to me.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {
@@ -40,7 +40,7 @@
       ]
     },
     {
-      "TrackingCaption": "สะสมแบตเตอรี่รถ\nCollect Car batteries",
+      "TrackingCaption": "สะสมคีมตัดลวด\nCollect Wire Cutters",
       "SequenceIndex": 1,
       "CanBeAutoCompleted": true,
       "Type": "Fetch",
@@ -48,36 +48,22 @@
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
-          "AcceptedItems": ["Car_Battery"],
-          "RequiredNum": 10
-        }
-      ]
-    },
-    {
-      "TrackingCaption": "สะสมสายไฟ\nCollect wires",
-      "SequenceIndex": 1,
-      "CanBeAutoCompleted": true,
-      "Type": "Fetch",
-      "DisablePurchaseOfRequiredItems": false,
-      "PlayerKeepsItems": false,
-      "RequiredItems": [
-        {
-          "AcceptedItems": ["Wire"],
-          "RequiredNum": 20
-        }
-      ]
-    },
-    {
-      "TrackingCaption": "สะสมชุดเครื่องช่างไฟ\nCollect Electrician's Tool Kits",
-      "SequenceIndex": 1,
-      "CanBeAutoCompleted": true,
-      "Type": "Fetch",
-      "DisablePurchaseOfRequiredItems": false,
-      "PlayerKeepsItems": false,
-      "RequiredItems": [
-        {
-          "AcceptedItems": ["Electrician_Tools", "Electrical_Repair_Kit"],
+          "AcceptedItems": ["Wire_Cutters_01"],
           "RequiredNum": 5
+        }
+      ]
+    },
+    {
+      "TrackingCaption": "สะสมเครื่องตรวจจับโลหะ\nCollect Metal Detector",
+      "SequenceIndex": 1,
+      "CanBeAutoCompleted": true,
+      "Type": "Fetch",
+      "DisablePurchaseOfRequiredItems": true,
+      "PlayerKeepsItems": false,
+      "RequiredItems": [
+        {
+          "AcceptedItems": ["MetalDetector"],
+          "RequiredNum": 2
         }
       ]
     }
