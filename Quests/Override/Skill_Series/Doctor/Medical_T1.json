@@ -48,7 +48,7 @@
       "PlayerKeepsItems": false,
       "RequiredItems": [
         {
-          "AcceptedItems": ["Emergency_bandage"],
+          "AcceptedItems": ["Emergency_bandage","Emergency_bandage_Deluxe"],
           "RequiredNum": 30
         },
         {
