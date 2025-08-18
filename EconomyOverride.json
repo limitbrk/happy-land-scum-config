@@ -501,7 +501,7 @@
 				},
 				{
 					"tradeable-code": "BaseExpansionKit_Lvl1",
-					"base-purchase-price": "25g",
+					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
 					"required-famepoints": "-1",
@@ -509,7 +509,7 @@
 				},
 				{
 					"tradeable-code": "BaseExpansionKit_Lvl2",
-					"base-purchase-price": "50g",
+					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
 					"required-famepoints": "-1",
@@ -1282,7 +1282,7 @@
 				},
 				{
 					"tradeable-code": "BaseExpansionKit_Lvl1",
-					"base-purchase-price": "25g",
+					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
 					"required-famepoints": "-1",
@@ -1290,7 +1290,7 @@
 				},
 				{
 					"tradeable-code": "BaseExpansionKit_Lvl2",
-					"base-purchase-price": "50g",
+					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
 					"required-famepoints": "-1",
@@ -2063,7 +2063,7 @@
 				},
 				{
 					"tradeable-code": "BaseExpansionKit_Lvl1",
-					"base-purchase-price": "25g",
+					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
 					"required-famepoints": "-1",
@@ -2071,7 +2071,7 @@
 				},
 				{
 					"tradeable-code": "BaseExpansionKit_Lvl2",
-					"base-purchase-price": "50g",
+					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
 					"required-famepoints": "-1",
@@ -2844,7 +2844,7 @@
 				},
 				{
 					"tradeable-code": "BaseExpansionKit_Lvl1",
-					"base-purchase-price": "25g",
+					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
 					"required-famepoints": "-1",
@@ -2852,7 +2852,7 @@
 				},
 				{
 					"tradeable-code": "BaseExpansionKit_Lvl2",
-					"base-purchase-price": "50g",
+					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
 					"required-famepoints": "-1",
