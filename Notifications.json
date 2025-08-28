@@ -1,0 +1,108 @@
+{
+    "Notifications": [
+        {
+            "_note": "Re-Server 01:00 (GMT+7)",
+            "time": [
+                "17:30",
+                "17:45",
+                "17:55-18:00"
+            ],
+            "duration": 5,
+            "wait": 1,
+            "color": "200-0-150",
+            "message": "It's new day ต้อนรับวันใหม่!!!\n\nServer Will Restart in #RestartIn(2:00)"
+        },
+        {
+            "_note": "Re-Server 06:00 (GMT+7)",
+            "time": [
+                "22:30",
+                "22:45",
+                "22:55-23:00"
+            ],
+            "duration": 5,
+            "wait": 1,
+            "color": "200-0-150",
+            "message": "Good Morning สวัสดีตอนเช้า!!!\n\nServer Will Restart in #RestartIn(7:00)"
+        },
+        {
+            "_note": "Re-Server 12:00 (GMT+7)",
+            "time": [
+                "4:30",
+                "4:45",
+                "4:55-5:00"
+            ],
+            "duration": 5,
+            "wait": 1,
+            "color": "200-0-150",
+            "message": "It's HIGH NOON!!!\n\nServer Will Restart in #RestartIn(5:00)"
+        },
+        {
+            "_note": "Re-Server 17:00 (GMT+7)",
+            "time": [
+                "9:30",
+                "9:45",
+                "9:55-10:00"
+            ],
+            "duration": 5,
+            "wait": 1,
+            "color": "200-0-150",
+            "message": "Good Evening สวัสดีตอนเย็น!!!\n\nServer Will Restart in #RestartIn(10:00)"
+        },
+        {
+            "_note": "Re-Server 19:00 (GMT+7)",
+            "time": [
+                "11:30",
+                "11:45",
+                "11:55-12:00"
+            ],
+            "duration": 5,
+            "wait": 1,
+            "color": "200-0-150",
+            "message": "หม่ำข้าวยังเอ่ย Have a dinner yet???\n\nServer Will Restart in #RestartIn(12:00)"
+        },
+        {
+            "_note": "Re-Server 21:00 (GMT+7)",
+            "time": [
+                "13:30",
+                "13:45",
+                "13:55-14:00"
+            ],
+            "duration": 5,
+            "wait": 1,
+            "color": "200-0-150",
+            "message": "R U Ready!?!\n\nServer Will Restart in #RestartIn(14:00)"
+        },
+        {
+            "_note": "Re-Server 23:00 (GMT+7)",
+            "time": [
+                "15:30",
+                "15:45",
+                "15:55-16:00"
+            ],
+            "duration": 5,
+            "wait": 1,
+            "color": "200-0-150",
+            "message": "Good Night ราตรีสวัสดิ์!!!\n\nServer Will Restart in #RestartIn(16:00)"
+        },
+        {
+            "_alert": "Robot Incoming",
+            "day": "Saturday",
+            "time": [
+                "17:00"
+            ],
+            "duration": 5,
+            "color": "180-30-30",
+            "message": "Mech Invasion!!!\nโปรดระวังหุ่นยนต์ที่กำลังมาถึง!!!"
+        },
+        {
+            "_alert": "Robot withdrawal",
+            "day": "Sunday",
+            "time": [
+                "17:00"
+            ],
+            "duration": 5,
+            "color": "180-30-30",
+            "message": "Mech preparing to leave!!!\nหุ่นกระป๋องจะไปแล้ว อดทนไว้!!!"
+        }
+    ]
+}
