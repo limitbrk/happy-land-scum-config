@@ -10,7 +10,7 @@
             "duration": 5,
             "wait": 1,
             "color": "200-0-150",
-            "message": "It's new day ต้อนรับวันใหม่!!!\n\nServer Will Restart in #RestartIn(2:00)"
+            "message": "It's new day ต้อนรับวันใหม่!!!\n\nServer Will Restart in #RestartIn(18:00)"
         },
         {
             "_note": "Re-Server 06:00 (GMT+7)",
@@ -22,7 +22,7 @@
             "duration": 5,
             "wait": 1,
             "color": "200-0-150",
-            "message": "Good Morning สวัสดีตอนเช้า!!!\n\nServer Will Restart in #RestartIn(7:00)"
+            "message": "Good Morning สวัสดีตอนเช้า!!!\n\nServer Will Restart in #RestartIn(23:00)"
         },
         {
             "_note": "Re-Server 12:00 (GMT+7)",
