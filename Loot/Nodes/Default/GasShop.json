@@ -345,10 +345,6 @@
 							"Rarity": "VeryRare",
 							"Children": [
 								{
-									"Name": "Belt_Pistol_Holster",
-									"Rarity": "Rare"
-								},
-								{
 									"Name": "Hiking",
 									"Rarity": "VeryRare",
 									"Children": [
@@ -968,6 +964,10 @@
 										{
 											"Name": "Baseball_Cap_01",
 											"Rarity": "Rare"
+										},
+										{
+											"Name": "Vintage_Jail_Cap_01",
+											"Rarity": "Uncommon"
 										}
 									]
 								},
@@ -1036,6 +1036,10 @@
 										{
 											"Name": "Military_Shirt_05",
 											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Vintage_Jail_Shirt_01",
+											"Rarity": "Uncommon"
 										},
 										{
 											"Name": "Woodcuters_Shirt_01",

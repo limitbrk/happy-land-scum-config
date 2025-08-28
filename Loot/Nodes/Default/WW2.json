@@ -755,6 +755,10 @@
 							"Rarity": "Rare",
 							"Children": [
 								{
+									"Name": "1H_Military_Shovel",
+									"Rarity": "VeryRare"
+								},
+								{
 									"Name": "Compass",
 									"Rarity": "Rare"
 								},

@@ -423,6 +423,10 @@
 												{
 													"Name": "Ammo_Crossbow_Bolt_Metal",
 													"Rarity": "Rare"
+												},
+												{
+													"Name": "Ammo_Crossbow_Bolt_Wooden",
+													"Rarity": "Uncommon"
 												}
 											]
 										},
@@ -1291,6 +1295,10 @@
 								{
 									"Name": "Recurve_Bow_100",
 									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Takedown_Bow",
+									"Rarity": "Uncommon"
 								}
 							]
 						},
@@ -2033,11 +2041,11 @@
 									"Rarity": "Rare",
 									"Children": [
 										{
-											"Name": "Weapon_Deagle_50",
+											"Name": "Weapon_DEagle_50",
 											"Rarity": "Rare"
 										},
 										{
-											"Name": "Weapon_Deagle_357",
+											"Name": "Weapon_DEagle_357",
 											"Rarity": "Rare"
 										},
 										{
@@ -2803,6 +2811,10 @@
 								},
 								{
 									"Name": "1H_Metal_Pipe",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "1H_Military_Shovel",
 									"Rarity": "VeryRare"
 								},
 								{

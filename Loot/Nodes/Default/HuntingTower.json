@@ -25,10 +25,6 @@
 							]
 						},
 						{
-							"Name": "Belt_Pistol_Holster",
-							"Rarity": "VeryRare"
-						},
-						{
 							"Name": "Hands",
 							"Rarity": "Uncommon",
 							"Children": [
@@ -521,6 +517,10 @@
 								{
 									"Name": "Recurve_Bow_100",
 									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Takedown_Bow",
+									"Rarity": "Uncommon"
 								}
 							]
 						},

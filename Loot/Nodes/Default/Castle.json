@@ -84,6 +84,10 @@
 										{
 											"Name": "Ammo_Crossbow_Bolt_Metal",
 											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Ammo_Crossbow_Bolt_Wooden",
+											"Rarity": "Uncommon"
 										}
 									]
 								},
@@ -101,6 +105,10 @@
 										{
 											"Name": "Ammo_Crossbow_Bolt_Metal",
 											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Ammo_Crossbow_Bolt_Wooden",
+											"Rarity": "Uncommon"
 										}
 									]
 								}
@@ -213,6 +221,10 @@
 								{
 									"Name": "Recurve_Bow_100",
 									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Takedown_Bow",
+									"Rarity": "Uncommon"
 								}
 							]
 						}

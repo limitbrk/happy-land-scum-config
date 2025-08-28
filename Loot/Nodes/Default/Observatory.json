@@ -365,6 +365,10 @@
 										{
 											"Name": "Ammo_Crossbow_Bolt_Metal",
 											"Rarity": "Rare"
+										},
+										{
+											"Name": "Ammo_Crossbow_Bolt_Wooden",
+											"Rarity": "Uncommon"
 										}
 									]
 								},
@@ -1173,6 +1177,10 @@
 											"Rarity": "VeryRare",
 											"Children": [
 												{
+													"Name": "Cowboys_Boots_01",
+													"Rarity": "Uncommon"
+												},
+												{
 													"Name": "Leather_Shoes",
 													"Rarity": "Rare"
 												},
@@ -1599,10 +1607,6 @@
 											"Rarity": "VeryRare"
 										}
 									]
-								},
-								{
-									"Name": "Belt_Pistol_Holster",
-									"Rarity": "Rare"
 								},
 								{
 									"Name": "Hiking",

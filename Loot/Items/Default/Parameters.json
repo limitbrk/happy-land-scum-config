@@ -241,6 +241,22 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
+			"Id": "1H_Improvised_Tomahawk",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
 			"Id": "1H_KitchenKnife",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
@@ -326,6 +342,22 @@
 		},
 		{
 			"Id": "1H_Metal_Sword",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "1H_Military_Shovel",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -951,7 +983,7 @@
 		},
 		{
 			"Id": "Ammo_Crossbow_Bolt_Wooden",
-			"IsDisabledForSpawning": true,
+			"IsDisabledForSpawning": false,
 			"AllowedLocations": [],
 			"CooldownPerSquadMemberMin": 0,
 			"CooldownPerSquadMemberMax": 0,
@@ -5393,6 +5425,22 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
+			"Id": "Cowboys_Boots_01",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
 			"Id": "Crab_Apple",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [],
@@ -8009,6 +8057,22 @@
 		},
 		{
 			"Id": "Improvised_Gloves",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Improvised_Motorcycle_Wheel",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -12379,6 +12443,22 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
+			"Id": "Raincoat_Improvised",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
 			"Id": "Raisins",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
@@ -14323,6 +14403,22 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
+			"Id": "Takedown_Bow",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
 			"Id": "Tang_pants_01",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
@@ -14951,6 +15047,22 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
+			"Id": "Utility_Belt_01",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
 			"Id": "VegetableOil",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
@@ -14988,6 +15100,54 @@
 		},
 		{
 			"Id": "Vinegar",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Vintage_Jail_Cap_01",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Vintage_Jail_Pants_01",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Vintage_Jail_Shirt_01",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -15414,7 +15574,7 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
-			"Id": "Weapon_Deagle_50",
+			"Id": "Weapon_DEagle_50",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -15430,7 +15590,7 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
-			"Id": "Weapon_Deagle_357",
+			"Id": "Weapon_DEagle_357",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -17194,6 +17354,18 @@
 				"Woodcuters_Shirt_02",
 				"Woodcuters_Shirt_03"
 			],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Wooden_Arrow",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
 			"RandomUsageOverrideUsage": 0

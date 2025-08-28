@@ -649,6 +649,10 @@
 										{
 											"Name": "Police_Cap_01",
 											"Rarity": "Rare"
+										},
+										{
+											"Name": "Vintage_Jail_Cap_01",
+											"Rarity": "Uncommon"
 										}
 									]
 								},
@@ -715,6 +719,10 @@
 								{
 									"Name": "Short_Trousers_01_01",
 									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Vintage_Jail_Pants_01",
+									"Rarity": "Uncommon"
 								}
 							]
 						},
@@ -741,6 +749,10 @@
 								{
 									"Name": "Raincoat_05",
 									"Rarity": "Rare"
+								},
+								{
+									"Name": "Vintage_Jail_Shirt_01",
+									"Rarity": "Uncommon"
 								}
 							]
 						}
@@ -1345,6 +1357,10 @@
 							"Rarity": "Rare",
 							"Children": [
 								{
+									"Name": "1H_Military_Shovel",
+									"Rarity": "VeryRare"
+								},
+								{
 									"Name": "1H_Police_Baton",
 									"Rarity": "VeryRare"
 								},
@@ -1477,11 +1493,11 @@
 									"Rarity": "Rare",
 									"Children": [
 										{
-											"Name": "Weapon_Deagle_50",
+											"Name": "Weapon_DEagle_50",
 											"Rarity": "Abundant"
 										},
 										{
-											"Name": "Weapon_Deagle_357",
+											"Name": "Weapon_DEagle_357",
 											"Rarity": "Abundant"
 										},
 										{

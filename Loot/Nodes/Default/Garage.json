@@ -391,6 +391,10 @@
 												{
 													"Name": "Ammo_Crossbow_Bolt_Metal",
 													"Rarity": "Rare"
+												},
+												{
+													"Name": "Ammo_Crossbow_Bolt_Wooden",
+													"Rarity": "Uncommon"
 												}
 											]
 										},
@@ -923,6 +927,10 @@
 												{
 													"Name": "Recurve_Bow_100",
 													"Rarity": "VeryRare"
+												},
+												{
+													"Name": "Takedown_Bow",
+													"Rarity": "Uncommon"
 												}
 											]
 										},
@@ -1839,6 +1847,10 @@
 										{
 											"Name": "Baseball_Cap_01",
 											"Rarity": "Rare"
+										},
+										{
+											"Name": "Vintage_Jail_Cap_01",
+											"Rarity": "Uncommon"
 										}
 									]
 								},
@@ -1939,6 +1951,10 @@
 									]
 								},
 								{
+									"Name": "Vintage_Jail_Pants_01",
+									"Rarity": "Rare"
+								},
+								{
 									"Name": "WorkPants",
 									"Rarity": "Rare",
 									"Children": [
@@ -1994,6 +2010,10 @@
 										},
 										{
 											"Name": "Sleeveless_Shirt_01",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Vintage_Jail_Shirt_01",
 											"Rarity": "Uncommon"
 										}
 									]

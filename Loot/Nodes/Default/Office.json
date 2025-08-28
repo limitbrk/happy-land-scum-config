@@ -209,6 +209,10 @@
 											"Rarity": "VeryRare",
 											"Children": [
 												{
+													"Name": "Cowboys_Boots_01",
+													"Rarity": "Uncommon"
+												},
+												{
 													"Name": "LeatherShoes",
 													"Rarity": "Uncommon",
 													"Children": [

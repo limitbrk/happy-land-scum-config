@@ -4,8 +4,7 @@
 		"Ghillie_Suit_Pants_01",
 		"Ghillie_Suit_Jacket_01",
 		"WeaponGhillie_Woodland",
-		"WeaponSuppressor_SVD",
-		"WeaponGhillie_Woodland"
+		"WeaponSuppressor_SVD"
 	],
 	"ShouldApplyLocationSpecificDamageModifier": true,
 	"InitialDamage": 0,

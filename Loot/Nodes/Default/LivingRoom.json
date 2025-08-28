@@ -516,6 +516,10 @@
 											"Rarity": "Uncommon",
 											"Children": [
 												{
+													"Name": "Cowboys_Boots_01",
+													"Rarity": "Uncommon"
+												},
+												{
 													"Name": "HikingBoots",
 													"Rarity": "VeryRare",
 													"Children": [
@@ -1323,10 +1327,6 @@
 									"Rarity": "VeryRare",
 									"Children": [
 										{
-											"Name": "Belt_Pistol_Holster",
-											"Rarity": "Rare"
-										},
-										{
 											"Name": "Knife_Sheath",
 											"Rarity": "Rare"
 										}
@@ -1371,6 +1371,10 @@
 										{
 											"Name": "Scottish_Sporran_Bag_01",
 											"Rarity": "Rare"
+										},
+										{
+											"Name": "Utility_Belt_01",
+											"Rarity": "VeryRare"
 										},
 										{
 											"Name": "Waist_Bag_Small_01",

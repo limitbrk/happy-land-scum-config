@@ -173,6 +173,10 @@
 												{
 													"Name": "Ammo_Crossbow_Bolt_Metal",
 													"Rarity": "Rare"
+												},
+												{
+													"Name": "Ammo_Crossbow_Bolt_Wooden",
+													"Rarity": "Uncommon"
 												}
 											]
 										},
@@ -385,10 +389,6 @@
 							"Rarity": "VeryRare",
 							"Children": [
 								{
-									"Name": "Belt_Pistol_Holster",
-									"Rarity": "VeryRare"
-								},
-								{
 									"Name": "Hiking",
 									"Rarity": "VeryRare",
 									"Children": [
@@ -474,6 +474,10 @@
 									"Name": "WaistBags",
 									"Rarity": "Rare",
 									"Children": [
+										{
+											"Name": "Utility_Belt_01",
+											"Rarity": "VeryRare"
+										},
 										{
 											"Name": "Waist_Bag_Small_01",
 											"Rarity": "Rare"

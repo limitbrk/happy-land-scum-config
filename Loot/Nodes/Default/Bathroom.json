@@ -19,6 +19,10 @@
 									"Rarity": "VeryRare",
 									"Children": [
 										{
+											"Name": "Cowboys_Boots_01",
+											"Rarity": "Uncommon"
+										},
+										{
 											"Name": "HighTop_Shoes",
 											"Rarity": "Uncommon"
 										},
@@ -121,6 +125,10 @@
 										{
 											"Name": "Baseball_Cap_01",
 											"Rarity": "Rare"
+										},
+										{
+											"Name": "Vintage_Jail_Cap_01",
+											"Rarity": "Uncommon"
 										}
 									]
 								},
@@ -215,6 +223,10 @@
 										{
 											"Name": "Pajama_Pants",
 											"Rarity": "Rare"
+										},
+										{
+											"Name": "Vintage_Jail_Pants_01",
+											"Rarity": "Uncommon"
 										},
 										{
 											"Name": "Working_pants_01_01",
@@ -523,6 +535,10 @@
 											"Rarity": "Rare"
 										}
 									]
+								},
+								{
+									"Name": "Vintage_Jail_Shirt_01",
+									"Rarity": "Uncommon"
 								},
 								{
 									"Name": "WorkJackets",

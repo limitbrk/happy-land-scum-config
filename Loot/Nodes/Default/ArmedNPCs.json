@@ -23,34 +23,45 @@
 											"Rarity": "Uncommon",
 											"Children": [
 												{
-													"Name": "SmallStash",
+													"Name": "Ammo_Crossbow_Bolt_Carbon",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Ammo_Crossbow_Bolt_Metal",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "BigStash",
 													"Rarity": "Uncommon",
+													"PostSpawnActions": [
+														"SetAmmoAmount_BigStash"
+													],
 													"Children": [
 														{
-															"Name": "Ammo_Crossbow_Bolt_Carbon",
-															"Rarity": "Rare"
+															"Name": "Ammo_Crossbow_Bolt_Wooden",
+															"Rarity": "Uncommon"
 														},
 														{
-															"Name": "Ammo_Crossbow_Bolt_Metal",
-															"Rarity": "Rare"
-														},
-														{
-															"Name": "Carbon_Arrow",
-															"Rarity": "Rare"
-														},
-														{
-															"Name": "Carbon_BroadHead_Arrow",
-															"Rarity": "VeryRare"
-														},
-														{
-															"Name": "Metal_Arrow",
-															"Rarity": "Rare"
-														},
-														{
-															"Name": "Metal_BroadHead_Arrow",
-															"Rarity": "VeryRare"
+															"Name": "Wooden_Arrow",
+															"Rarity": "Abundant"
 														}
 													]
+												},
+												{
+													"Name": "Carbon_Arrow",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Carbon_BroadHead_Arrow",
+													"Rarity": "VeryRare"
+												},
+												{
+													"Name": "Metal_Arrow",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Metal_BroadHead_Arrow",
+													"Rarity": "VeryRare"
 												}
 											]
 										}
