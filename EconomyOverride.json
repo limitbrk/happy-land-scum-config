@@ -135,8 +135,8 @@
 				},
 				{
 					"tradeable-code": "Keycard",
-					"base-purchase-price": "15000",
-					"base-sell-price": "0",
+					"base-purchase-price": "50000",
+					"base-sell-price": "-1",
 					"delta-price": "1",
 					"required-famepoints": "-1",
 					"can-be-purchased": "true"
@@ -318,7 +318,103 @@
 					"can-be-purchased": "false"
 				},
 				{
+					"tradeable-code": "Weapon_Serpent357",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_Viper_M357",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_PeaceKeeper38",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
 					"tradeable-code": "Weapon_AK47_Engraved",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_Hunter85_V2",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_CarbonHunter",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1887",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1887_Sawed_off",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_98k_Karabiner",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1_Garand",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_MosinNagant",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_DT11B",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_DT11B_Sawed_Off",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
@@ -916,8 +1012,8 @@
 				},
 				{
 					"tradeable-code": "Keycard",
-					"base-purchase-price": "15000",
-					"base-sell-price": "0",
+					"base-purchase-price": "50000",
+					"base-sell-price": "-1",
 					"delta-price": "1",
 					"required-famepoints": "-1",
 					"can-be-purchased": "true"
@@ -1099,7 +1195,103 @@
 					"can-be-purchased": "false"
 				},
 				{
+					"tradeable-code": "Weapon_Serpent357",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_Viper_M357",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_PeaceKeeper38",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
 					"tradeable-code": "Weapon_AK47_Engraved",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_Hunter85_V2",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_CarbonHunter",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1887",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1887_Sawed_off",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_98k_Karabiner",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1_Garand",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_MosinNagant",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_DT11B",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_DT11B_Sawed_Off",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
@@ -1697,8 +1889,8 @@
 				},
 				{
 					"tradeable-code": "Keycard",
-					"base-purchase-price": "15000",
-					"base-sell-price": "0",
+					"base-purchase-price": "50000",
+					"base-sell-price": "-1",
 					"delta-price": "1",
 					"required-famepoints": "-1",
 					"can-be-purchased": "true"
@@ -1880,7 +2072,103 @@
 					"can-be-purchased": "false"
 				},
 				{
+					"tradeable-code": "Weapon_Serpent357",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_Viper_M357",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_PeaceKeeper38",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
 					"tradeable-code": "Weapon_AK47_Engraved",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_Hunter85_V2",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_CarbonHunter",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1887",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1887_Sawed_off",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_98k_Karabiner",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1_Garand",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_MosinNagant",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_DT11B",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_DT11B_Sawed_Off",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
@@ -2478,8 +2766,8 @@
 				},
 				{
 					"tradeable-code": "Keycard",
-					"base-purchase-price": "15000",
-					"base-sell-price": "0",
+					"base-purchase-price": "50000",
+					"base-sell-price": "-1",
 					"delta-price": "1",
 					"required-famepoints": "-1",
 					"can-be-purchased": "true"
@@ -2661,7 +2949,103 @@
 					"can-be-purchased": "false"
 				},
 				{
+					"tradeable-code": "Weapon_Serpent357",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_Viper_M357",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_PeaceKeeper38",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
 					"tradeable-code": "Weapon_AK47_Engraved",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_Hunter85_V2",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_CarbonHunter",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1887",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1887_Sawed_off",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_98k_Karabiner",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_M1_Garand",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_MosinNagant",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_DT11B",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Weapon_DT11B_Sawed_Off",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
