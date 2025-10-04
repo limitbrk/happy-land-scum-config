@@ -2864,6 +2864,10 @@
 									"Rarity": "Rare",
 									"Children": [
 										{
+											"Name": "1H_Military_Tomahawk",
+											"Rarity": "VeryRare"
+										},
+										{
 											"Name": "1H_Small_Axe",
 											"Rarity": "Rare"
 										},
