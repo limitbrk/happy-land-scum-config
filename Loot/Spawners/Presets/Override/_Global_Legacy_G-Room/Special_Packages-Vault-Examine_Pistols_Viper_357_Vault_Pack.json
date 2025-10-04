@@ -1,14 +1,13 @@
 {
 	"FixedItems": [
-		"Weapon_MP5_SD",
+		"Weapon_Viper_M357",
+		"WeaponFlashlight_DesertEagle",
+		"DW715_Rail",
+		"Tactical_Handgun_Holster_01",
 		"WeaponSights_RedDot_CA401B",
-		"MP5_Rail_Short",
-		"Magazine_MP5",
-		"Magazine_MP5",
-		"Magazine_MP5",
-		"Cal_9mm_Ammobox",
-		"Cal_9mm_Ammobox",
-		"Cal_9mm_Ammobox"
+		"Cal_357_Ammobox",
+		"Cal_357_Ammobox",
+		"Cal_357_Ammobox"
 	],
 	"ShouldApplyLocationSpecificDamageModifier": true,
 	"InitialDamage": 0,
