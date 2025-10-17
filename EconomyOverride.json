@@ -443,14 +443,198 @@
 			"A_0_Mechanic": [
 				{
 					"tradeable-code": "Car_Repair_Kit",
-					"base-purchase-price": "3500",
-					"base-sell-price": "350",
+					"base-purchase-price": "4500",
+					"base-sell-price": "450",
 					"delta-price": "1",
 					"required-famepoints": "-1",
 					"can-be-purchased": "default"
 				},
 				{
 					"tradeable-code": "Tire_Repair_Kit",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Car_Battery_Cables",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Brake_Oil",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Car_Jack",
+					"base-purchase-price": "3000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Car_Radio_Item",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Motorbike_Battery",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Aeroplane_Repair_kit",
+					"base-purchase-price": "15000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Bicycle_Wheel_60_622_Item",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Bicycle_Wheel_54_622_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Gasoline_Canister_Small",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Gasoline_Canister",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Dirtbike_Headlight_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "RIS_BrakeLight_Center_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "RIS_BrakeLight_Left_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "RIS_BrakeLight_Right_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Car_Battery",
+					"base-purchase-price": "2000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Oil_Filter",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Laika_Engine_Alternator_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "WW_Engine_Alternator_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Rager_Engine_Alternator_Item",
+					"base-purchase-price": "3500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Rager_Lights_FrontLeft",
+					"base-purchase-price": "2000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Rager_Lights_FrontRight",
+					"base-purchase-price": "2000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Rager_Lights_RearLeft",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Rager_Lights_RearRight",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
@@ -780,6 +964,38 @@
 					"can-be-purchased": "false"
 				},
 				{
+					"tradeable-code": "Aloe_Vera",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "1H_Pipe_Wrench",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Batteries",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Electrician_Tools",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
 					"tradeable-code": "Cigarettes",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
@@ -879,6 +1095,86 @@
 				},
 				{
 					"tradeable-code": "Wild_Strawberry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Aloe_Vera",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Agaricus_Augustus",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Agaricus_Campestris",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Armillaria_Mellea",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Boletus_Edulis",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Cantharellus_Cibarius",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Coprinus_Comatus",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Lycoperdon_Gigantea",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Ganoderma_Lucidum",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Parsley",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
@@ -1320,14 +1616,198 @@
 			"B_4_Mechanic": [
 				{
 					"tradeable-code": "Car_Repair_Kit",
-					"base-purchase-price": "3500",
-					"base-sell-price": "350",
+					"base-purchase-price": "4500",
+					"base-sell-price": "450",
 					"delta-price": "1",
 					"required-famepoints": "-1",
 					"can-be-purchased": "default"
 				},
 				{
 					"tradeable-code": "Tire_Repair_Kit",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Car_Battery_Cables",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Brake_Oil",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Car_Jack",
+					"base-purchase-price": "3000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Car_Radio_Item",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Motorbike_Battery",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Aeroplane_Repair_kit",
+					"base-purchase-price": "15000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Bicycle_Wheel_60_622_Item",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Bicycle_Wheel_54_622_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Gasoline_Canister_Small",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Gasoline_Canister",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Dirtbike_Headlight_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "RIS_BrakeLight_Center_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "RIS_BrakeLight_Left_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "RIS_BrakeLight_Right_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Car_Battery",
+					"base-purchase-price": "2000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Oil_Filter",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Laika_Engine_Alternator_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "WW_Engine_Alternator_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Rager_Engine_Alternator_Item",
+					"base-purchase-price": "3500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Rager_Lights_FrontLeft",
+					"base-purchase-price": "2000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Rager_Lights_FrontRight",
+					"base-purchase-price": "2000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Rager_Lights_RearLeft",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Rager_Lights_RearRight",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
@@ -1657,6 +2137,38 @@
 					"can-be-purchased": "false"
 				},
 				{
+					"tradeable-code": "Aloe_Vera",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "1H_Pipe_Wrench",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Batteries",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Electrician_Tools",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
 					"tradeable-code": "Cigarettes",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
@@ -1756,6 +2268,86 @@
 				},
 				{
 					"tradeable-code": "Wild_Strawberry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Aloe_Vera",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Agaricus_Augustus",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Agaricus_Campestris",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Armillaria_Mellea",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Boletus_Edulis",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Cantharellus_Cibarius",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Coprinus_Comatus",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Lycoperdon_Gigantea",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Ganoderma_Lucidum",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Parsley",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
@@ -2197,14 +2789,198 @@
 			"C_2_Mechanic": [
 				{
 					"tradeable-code": "Car_Repair_Kit",
-					"base-purchase-price": "3500",
-					"base-sell-price": "350",
+					"base-purchase-price": "4500",
+					"base-sell-price": "450",
 					"delta-price": "1",
 					"required-famepoints": "-1",
 					"can-be-purchased": "default"
 				},
 				{
 					"tradeable-code": "Tire_Repair_Kit",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Car_Battery_Cables",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Brake_Oil",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Car_Jack",
+					"base-purchase-price": "3000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Car_Radio_Item",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Motorbike_Battery",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Aeroplane_Repair_kit",
+					"base-purchase-price": "15000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Bicycle_Wheel_60_622_Item",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Bicycle_Wheel_54_622_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Gasoline_Canister_Small",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Gasoline_Canister",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Dirtbike_Headlight_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "RIS_BrakeLight_Center_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "RIS_BrakeLight_Left_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "RIS_BrakeLight_Right_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Car_Battery",
+					"base-purchase-price": "2000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Oil_Filter",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Laika_Engine_Alternator_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "WW_Engine_Alternator_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Rager_Engine_Alternator_Item",
+					"base-purchase-price": "3500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Rager_Lights_FrontLeft",
+					"base-purchase-price": "2000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Rager_Lights_FrontRight",
+					"base-purchase-price": "2000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Rager_Lights_RearLeft",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Rager_Lights_RearRight",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
@@ -2534,6 +3310,38 @@
 					"can-be-purchased": "false"
 				},
 				{
+					"tradeable-code": "Aloe_Vera",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "1H_Pipe_Wrench",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Batteries",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Electrician_Tools",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
 					"tradeable-code": "Cigarettes",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
@@ -2633,6 +3441,86 @@
 				},
 				{
 					"tradeable-code": "Wild_Strawberry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Aloe_Vera",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Agaricus_Augustus",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Agaricus_Campestris",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Armillaria_Mellea",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Boletus_Edulis",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Cantharellus_Cibarius",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Coprinus_Comatus",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Lycoperdon_Gigantea",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Ganoderma_Lucidum",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Parsley",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
@@ -3074,14 +3962,198 @@
 			"Z_3_Mechanic": [
 				{
 					"tradeable-code": "Car_Repair_Kit",
-					"base-purchase-price": "3500",
-					"base-sell-price": "350",
+					"base-purchase-price": "4500",
+					"base-sell-price": "450",
 					"delta-price": "1",
 					"required-famepoints": "-1",
 					"can-be-purchased": "default"
 				},
 				{
 					"tradeable-code": "Tire_Repair_Kit",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Car_Battery_Cables",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Brake_Oil",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Car_Jack",
+					"base-purchase-price": "3000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Car_Radio_Item",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Motorbike_Battery",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Aeroplane_Repair_kit",
+					"base-purchase-price": "15000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Bicycle_Wheel_60_622_Item",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Bicycle_Wheel_54_622_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Gasoline_Canister_Small",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Gasoline_Canister",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Dirtbike_Headlight_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "RIS_BrakeLight_Center_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "RIS_BrakeLight_Left_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "RIS_BrakeLight_Right_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Car_Battery",
+					"base-purchase-price": "2000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Oil_Filter",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Laika_Engine_Alternator_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "WW_Engine_Alternator_Item",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Rager_Engine_Alternator_Item",
+					"base-purchase-price": "3500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Rager_Lights_FrontLeft",
+					"base-purchase-price": "2000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Rager_Lights_FrontRight",
+					"base-purchase-price": "2000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Rager_Lights_RearLeft",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Rager_Lights_RearRight",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
@@ -3411,6 +4483,38 @@
 					"can-be-purchased": "false"
 				},
 				{
+					"tradeable-code": "Aloe_Vera",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "1H_Pipe_Wrench",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Batteries",
+					"base-purchase-price": "1000",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Electrician_Tools",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
 					"tradeable-code": "Cigarettes",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
@@ -3510,6 +4614,86 @@
 				},
 				{
 					"tradeable-code": "Wild_Strawberry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Aloe_Vera",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Agaricus_Augustus",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Agaricus_Campestris",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Armillaria_Mellea",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Boletus_Edulis",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Cantharellus_Cibarius",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Coprinus_Comatus",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Lycoperdon_Gigantea",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Ganoderma_Lucidum",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "default"
+				},
+				{
+					"tradeable-code": "Parsley",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
