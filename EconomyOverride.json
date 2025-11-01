@@ -996,6 +996,14 @@
 					"can-be-purchased": "false"
 				},
 				{
+					"tradeable-code": "Candle_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
 					"tradeable-code": "Cigarettes",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
@@ -2162,6 +2170,14 @@
 				},
 				{
 					"tradeable-code": "Electrician_Tools",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Candle_01",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
@@ -3342,6 +3358,14 @@
 					"can-be-purchased": "false"
 				},
 				{
+					"tradeable-code": "Candle_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
 					"tradeable-code": "Cigarettes",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
@@ -4508,6 +4532,14 @@
 				},
 				{
 					"tradeable-code": "Electrician_Tools",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1",
+					"required-famepoints": "-1",
+					"can-be-purchased": "false"
+				},
+				{
+					"tradeable-code": "Candle_01",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1",
