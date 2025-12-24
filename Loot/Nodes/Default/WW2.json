@@ -737,6 +737,16 @@
 											"Rarity": "Rare"
 										}
 									]
+								},
+								{
+									"Name": "SMGs",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Magazine_TommyGun",
+											"Rarity": "Rare"
+										}
+									]
 								}
 							]
 						},
@@ -916,6 +926,16 @@
 								},
 								{
 									"Name": "Weapon_M1887_Sawed_off",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "SMGs",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Weapon_TommyGun",
 									"Rarity": "Rare"
 								}
 							]

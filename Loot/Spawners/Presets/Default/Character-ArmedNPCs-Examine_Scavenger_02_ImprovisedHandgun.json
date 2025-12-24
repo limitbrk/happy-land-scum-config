@@ -1,0 +1,73 @@
+{
+	"Items": [
+		{
+			"Rarity": "Uncommon",
+			"Id": "Cal_50_AE"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Cal_50_AE_TR"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Cal_38"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Cal_38_TR"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Cal_9mm"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Cal_9mm_TR"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Cal_45"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Cal_45_TR"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Cal_357_Viper"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Cal_357_Viper_TR"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Cal_44_Viper"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Cal_44_Viper_TR"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Cal_22"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Cal_22_TR"
+		}
+	],
+	"QuantityMin": 3,
+	"QuantityMax": 3,
+	"AllowDuplicates": true,
+	"ShouldFilterItemsByZone": false,
+	"ShouldApplyLocationSpecificProbabilityModifier": false,
+	"ShouldApplyLocationSpecificDamageModifier": false,
+	"InitialDamage": 60,
+	"RandomDamage": 20,
+	"InitialUsage": 0,
+	"RandomUsage": 0,
+	"PostSpawnActions": [
+		"SetAmmoAmount_SmallStash"
+	]
+}

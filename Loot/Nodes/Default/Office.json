@@ -369,6 +369,30 @@
 													"Rarity": "Rare"
 												}
 											]
+										},
+										{
+											"Name": "Skirts",
+											"Rarity": "VeryRare",
+											"Children": [
+												{
+													"Name": "Leather_MiniSkirt_01",
+													"Rarity": "Uncommon"
+												},
+												{
+													"Name": "Skirt_02_01",
+													"Rarity": "Uncommon"
+												}
+											]
+										},
+										{
+											"Name": "Underwear",
+											"Rarity": "Uncommon",
+											"Children": [
+												{
+													"Name": "Stockings_01",
+													"Rarity": "Uncommon"
+												}
+											]
 										}
 									]
 								},
@@ -396,6 +420,10 @@
 											"Children": [
 												{
 													"Name": "Jersey_01",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Keyhole_Shirt_01",
 													"Rarity": "Rare"
 												},
 												{

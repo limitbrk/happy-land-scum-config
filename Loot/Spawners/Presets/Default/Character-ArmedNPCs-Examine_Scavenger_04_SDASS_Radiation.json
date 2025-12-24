@@ -1,0 +1,29 @@
+{
+	"Items": [
+		{
+			"Rarity": "Rare",
+			"Id": "12_Gauge_Birdshot"
+		},
+		{
+			"Rarity": "Rare",
+			"Id": "12_Gauge_Buckshot"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "12_Gauge_Slug"
+		}
+	],
+	"QuantityMin": 2,
+	"QuantityMax": 2,
+	"AllowDuplicates": true,
+	"ShouldFilterItemsByZone": false,
+	"ShouldApplyLocationSpecificProbabilityModifier": false,
+	"ShouldApplyLocationSpecificDamageModifier": false,
+	"InitialDamage": 40,
+	"RandomDamage": 20,
+	"InitialUsage": 0,
+	"RandomUsage": 0,
+	"PostSpawnActions": [
+		"SetAmmoAmount_BigStash"
+	]
+}

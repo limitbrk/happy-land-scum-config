@@ -200,6 +200,10 @@
 						{
 							"Name": "2H_Metal_Baseball_Bat",
 							"Rarity": "Rare"
+						},
+						{
+							"Name": "Air_Pump",
+							"Rarity": "Uncommon"
 						}
 					]
 				}

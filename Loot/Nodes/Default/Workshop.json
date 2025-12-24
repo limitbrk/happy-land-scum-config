@@ -1661,7 +1661,7 @@
 										},
 										{
 											"Name": "Weapon_DT11B_Sawed_Off",
-											"Rarity": "Rare"
+											"Rarity": "Uncommon"
 										},
 										{
 											"Name": "Weapon_M1887",
@@ -1669,7 +1669,7 @@
 										},
 										{
 											"Name": "Weapon_M1887_Sawed_off",
-											"Rarity": "Rare"
+											"Rarity": "Uncommon"
 										}
 									]
 								},
@@ -1846,6 +1846,10 @@
 								{
 									"Name": "1H_Pipe_Wrench",
 									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Air_Pump",
+									"Rarity": "Rare"
 								},
 								{
 									"Name": "CanOpener",

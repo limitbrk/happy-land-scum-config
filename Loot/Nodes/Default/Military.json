@@ -1161,6 +1161,10 @@
 									"Rarity": "Common",
 									"Children": [
 										{
+											"Name": "Garrison_Cap_01",
+											"Rarity": "Rare"
+										},
+										{
 											"Name": "Military_Cap_01",
 											"Rarity": "Common"
 										},
@@ -2356,6 +2360,10 @@
 											"Rarity": "Uncommon"
 										},
 										{
+											"Name": "Magazine_TommyGun",
+											"Rarity": "Rare"
+										},
+										{
 											"Name": "Magazine_UMP45",
 											"Rarity": "Uncommon"
 										}
@@ -2468,6 +2476,10 @@
 										{
 											"Name": "1H_Kunai",
 											"Rarity": "Rare"
+										},
+										{
+											"Name": "1H_Military_Survival_Knife",
+											"Rarity": "Uncommon"
 										},
 										{
 											"Name": "1H_MK5000_Black",
@@ -2799,6 +2811,10 @@
 								},
 								{
 									"Name": "Weapon_MAC10",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Weapon_TommyGun",
 									"Rarity": "Rare"
 								},
 								{

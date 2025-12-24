@@ -1,0 +1,32 @@
+{
+	"Items": [
+		{
+			"Rarity": "Rare",
+			"Id": "Cal_50_AE"
+		},
+		{
+			"Rarity": "Rare",
+			"Id": "Cal_50_AE_TR"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Cal_50_AE_AP"
+		}
+	],
+	"FixedItems": [
+		"Magazine_DEagle_50"
+	],
+	"QuantityMin": 2,
+	"QuantityMax": 2,
+	"AllowDuplicates": true,
+	"ShouldFilterItemsByZone": false,
+	"ShouldApplyLocationSpecificProbabilityModifier": false,
+	"ShouldApplyLocationSpecificDamageModifier": false,
+	"InitialDamage": 50,
+	"RandomDamage": 20,
+	"InitialUsage": 0,
+	"RandomUsage": 0,
+	"PostSpawnActions": [
+		"SetAmmoAmount_SmallStash"
+	]
+}

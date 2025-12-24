@@ -1331,6 +1331,10 @@
 											"Rarity": "Uncommon"
 										},
 										{
+											"Name": "Magazine_TommyGun",
+											"Rarity": "Rare"
+										},
+										{
 											"Name": "Magazine_UMP45",
 											"Rarity": "Uncommon"
 										}
@@ -1640,6 +1644,10 @@
 								},
 								{
 									"Name": "Weapon_MAC10",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Weapon_TommyGun",
 									"Rarity": "Rare"
 								},
 								{

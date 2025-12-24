@@ -527,6 +527,10 @@
 													"Rarity": "Rare"
 												},
 												{
+													"Name": "Keyhole_Shirt_01",
+													"Rarity": "Uncommon"
+												},
+												{
 													"Name": "Shirt_01",
 													"Rarity": "Uncommon"
 												},
@@ -544,6 +548,10 @@
 							"Name": "Misc",
 							"Rarity": "Uncommon",
 							"Children": [
+								{
+									"Name": "Air_Pump",
+									"Rarity": "Uncommon"
+								},
 								{
 									"Name": "Banjo",
 									"Rarity": "ExtremelyRare"
@@ -1005,7 +1013,7 @@
 										},
 										{
 											"Name": "Weapon_DT11B_Sawed_Off",
-											"Rarity": "Uncommon"
+											"Rarity": "Common"
 										},
 										{
 											"Name": "Weapon_M1887",
@@ -1013,7 +1021,7 @@
 										},
 										{
 											"Name": "Weapon_M1887_Sawed_off",
-											"Rarity": "Uncommon"
+											"Rarity": "Common"
 										},
 										{
 											"Name": "Weapon_SDASS",

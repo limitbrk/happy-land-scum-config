@@ -1,0 +1,33 @@
+{
+	"Items": [
+		{
+			"Rarity": "Rare",
+			"Id": "Cal_9mm"
+		},
+		{
+			"Rarity": "Rare",
+			"Id": "Cal_9mm_TR"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Cal_9mm_AP"
+		}
+	],
+	"FixedItems": [
+		"Magazine_MP5",
+		"Magazine_MP5"
+	],
+	"QuantityMin": 4,
+	"QuantityMax": 4,
+	"AllowDuplicates": true,
+	"ShouldFilterItemsByZone": false,
+	"ShouldApplyLocationSpecificProbabilityModifier": false,
+	"ShouldApplyLocationSpecificDamageModifier": false,
+	"InitialDamage": 40,
+	"RandomDamage": 20,
+	"InitialUsage": 0,
+	"RandomUsage": 0,
+	"PostSpawnActions": [
+		"SetAmmoAmount_BigStash"
+	]
+}

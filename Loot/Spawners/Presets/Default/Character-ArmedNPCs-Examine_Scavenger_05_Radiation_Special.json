@@ -13,7 +13,6 @@
 			"Id": "Duct_Tape"
 		}
 	],
-	"Probability": 20,
 	"QuantityMin": 1,
 	"QuantityMax": 1,
 	"AllowDuplicates": false,

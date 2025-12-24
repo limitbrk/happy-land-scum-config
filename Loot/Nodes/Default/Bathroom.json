@@ -143,6 +143,10 @@
 										{
 											"Name": "Boonie_Hat_01",
 											"Rarity": "Rare"
+										},
+										{
+											"Name": "Fascinator_Hat_01",
+											"Rarity": "Rare"
 										}
 									]
 								},
@@ -263,7 +267,15 @@
 									"Rarity": "Rare",
 									"Children": [
 										{
+											"Name": "Leather_MiniSkirt_01",
+											"Rarity": "Rare"
+										},
+										{
 											"Name": "Skirt_01_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Skirt_02_01",
 											"Rarity": "Rare"
 										}
 									]
@@ -298,6 +310,10 @@
 										},
 										{
 											"Name": "PenisWarmer_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Stockings_01",
 											"Rarity": "Rare"
 										},
 										{
@@ -426,6 +442,10 @@
 										},
 										{
 											"Name": "Jersey_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Keyhole_Shirt_01",
 											"Rarity": "Rare"
 										},
 										{

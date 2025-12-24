@@ -1056,7 +1056,7 @@
 										},
 										{
 											"Name": "Weapon_DT11B_Sawed_Off",
-											"Rarity": "Uncommon"
+											"Rarity": "Common"
 										},
 										{
 											"Name": "Weapon_M1887",
@@ -1064,7 +1064,7 @@
 										},
 										{
 											"Name": "Weapon_M1887_Sawed_off",
-											"Rarity": "Uncommon"
+											"Rarity": "Common"
 										}
 									]
 								},
@@ -1200,6 +1200,10 @@
 								},
 								{
 									"Name": "1H_Pipe_Wrench",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Air_Pump",
 									"Rarity": "Rare"
 								},
 								{
@@ -1363,6 +1367,26 @@
 									"Rarity": "Rare"
 								},
 								{
+									"Name": "SidecarBike_Brakelight_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "SidecarBike_Headlight_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "SidecarBike_Sidecar_Brakelight_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "SidecarBike_Sidecar_Headlight_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "SidecarBike_Sidecar_WeaponStation_Item",
+									"Rarity": "Uncommon"
+								},
+								{
 									"Name": "Tractor_Body_Left_Brakelight_Item",
 									"Rarity": "Uncommon"
 								},
@@ -1494,6 +1518,18 @@
 								},
 								{
 									"Name": "RIS_Spikes_Military",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "SidecarBike_Fender_Front_Item",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "SidecarBike_Fender_Rear_Item",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "SidecarBike_Fender_Sidecar_Item",
 									"Rarity": "Rare"
 								},
 								{
@@ -1663,6 +1699,10 @@
 									"Rarity": "Rare"
 								},
 								{
+									"Name": "SidecarBike_Wheel_4x16_Item",
+									"Rarity": "Rare"
+								},
+								{
 									"Name": "Wheel_155_R65_Item",
 									"Rarity": "Rare"
 								},
@@ -1706,6 +1746,14 @@
 								},
 								{
 									"Name": "Rager_Seat_FrontRight_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "SidecarBike_Seat_Back_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "SidecarBike_Seat_Front_Item",
 									"Rarity": "Uncommon"
 								},
 								{

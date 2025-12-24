@@ -758,6 +758,10 @@
 													"Rarity": "Uncommon"
 												},
 												{
+													"Name": "Fascinator_Hat_01",
+													"Rarity": "Uncommon"
+												},
+												{
 													"Name": "RK_Beanie_01",
 													"Rarity": "ExtremelyRare"
 												}
@@ -838,7 +842,15 @@
 											"Rarity": "Rare",
 											"Children": [
 												{
+													"Name": "Leather_MiniSkirt_01",
+													"Rarity": "Rare"
+												},
+												{
 													"Name": "Skirt_01_01",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Skirt_02_01",
 													"Rarity": "Rare"
 												}
 											]
@@ -893,6 +905,10 @@
 											"Children": [
 												{
 													"Name": "Classic_Shirt_01",
+													"Rarity": "Uncommon"
+												},
+												{
+													"Name": "Keyhole_Shirt_01",
 													"Rarity": "Uncommon"
 												},
 												{
@@ -960,6 +976,10 @@
 							"Rarity": "Abundant",
 							"Children": [
 								{
+									"Name": "Air_Pump",
+									"Rarity": "Uncommon"
+								},
+								{
 									"Name": "Banjo",
 									"Rarity": "ExtremelyRare"
 								},
@@ -989,6 +1009,10 @@
 								{
 									"Name": "CD_Player",
 									"Rarity": "Rare"
+								},
+								{
+									"Name": "Christmas_Ball_01",
+									"Rarity": "Uncommon"
 								},
 								{
 									"Name": "Cigarettes",
