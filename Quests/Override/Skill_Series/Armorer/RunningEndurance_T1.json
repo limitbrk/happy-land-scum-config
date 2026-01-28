@@ -2,7 +2,7 @@
   "AssociatedNpc": "Armorer",
   "Tier": 1,
   "Title": "[SKILL] เร็วกว่าเงา Faster than Shadow - 1",
-  "Description": "โลกแบบนี้... ถ้าไม่วิ่ง ก็รอดยาก เริ่มจากง่ายๆ ก่อน วิ่งให้ครบระยะ อย่าหยุด อย่าหันกลับไปมอง ที่ไล่อยู่น่ะ...ไม่ใช่แค่เวลา แต่คือความตาย\n\nIn this world... if you don’t run, you don’t survive. Start simple. Hit the distance. Don’t stop. Don’t look back. What’s chasing you isn’t time — it’s death.",
+  "Description": "โลกแบบนี้... ถ้าไม่วิ่ง ก็รอดยาก เริ่มจากง่ายๆ ก่อน วิ่งให้ครบระยะ อย่าหยุด อย่าหันกลับไปมอง ที่ไล่อยู่น่ะ...ไม่ใช่แค่เวลา แต่คือความตาย\n\nIn this world... if you don't run, it's hard to survive. Start simple. Run the full distance. Don't stop. Don't look back. What's chasing you isn't just time — it's death.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

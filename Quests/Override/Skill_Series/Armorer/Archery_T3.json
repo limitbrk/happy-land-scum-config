@@ -2,7 +2,7 @@
   "AssociatedNPC": "Armorer",
   "Tier": 3,
   "Title": "[SKILL] โรบินฮู้ด ผู้เดียวดาย Lone Ranger - 3",
-  "Description": "หนึ่งลูกศร หนึ่งชีวิต นายไม่มีเวลายิงซ้ำ ฝึกให้ยิงแค่ครั้งเดียว แล้วจบ\n\nOne arrow. One life. You won’t get a second shot. Train to end it in one",
+  "Description": "หนึ่งลูกศร หนึ่งชีวิต นายไม่มีเวลายิงซ้ำ ฝึกให้ยิงแค่ครั้งเดียว แล้วจบ\n\nOne arrow, one life. You don't have time for a second shot. Practice to finish it in one go.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

@@ -2,7 +2,7 @@
   "AssociatedNpc": "Doctor",
   "Tier": 1,
   "Title": "[SKILL] เรียนหมอกันเถอะ Let's become a Doctor - 1",
-  "Description": "ทุกวันนี้พวกนักโทษเวลาเป็นอะไรนิดหน่อยก็วิ่งมาหาหมอ เจ็บคอนิด ปวดขาหน่อย ก็พุ่งมาทันที บางวันหมอไม่มีเวลาจะพักเลย แล้วก็ชอบบ่นว่ารอนานอีกต่างหากเราเลยอยากสอนให้พวกมันรู้ซะบ้าง ว่าการเป็นหมอไม่ใช่เรื่องง่าย — จะได้รู้จักดูแลตัวเองมากขึ้น!\n\nThese days, prisoner rush to me for every little thing — a sore throat, a stubbed toe. Some days, I barely have time to breathe. And of course, they always complain about the long wait.It’s time they learn what it really takes to be a doctor — maybe then they’ll take better care of themselves.",
+  "Description": "ทุกวันนี้พวกนักโทษเวลาเป็นอะไรนิดหน่อยก็วิ่งมาหาหมอ เจ็บคอนิด ปวดขาหน่อย ก็พุ่งมาทันที บางวันหมอไม่มีเวลาจะพักเลย แล้วก็ชอบบ่นว่ารอนานอีกต่างหากเราเลยอยากสอนให้พวกมันรู้ซะบ้าง ว่าการเป็นหมอไม่ใช่เรื่องง่าย — จะได้รู้จักดูแลตัวเองมากขึ้น!\n\nThese days, prisoners rush to me for every little thing — a sore throat, a stubbed toe. Some days, I barely have time to rest. And of course, they always complain about the long wait. I want to teach them that being a doctor isn't easy — maybe then they'll learn to take better care of themselves!",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

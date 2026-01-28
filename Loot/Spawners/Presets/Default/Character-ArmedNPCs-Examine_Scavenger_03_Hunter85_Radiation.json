@@ -10,20 +10,19 @@
 		}
 	],
 	"FixedItems": [
-		"Magazine_Hunter85_V2",
 		"Magazine_Hunter85_V2"
 	],
-	"QuantityMin": 4,
-	"QuantityMax": 4,
+	"QuantityMin": 1,
+	"QuantityMax": 2,
 	"AllowDuplicates": true,
 	"ShouldFilterItemsByZone": false,
 	"ShouldApplyLocationSpecificProbabilityModifier": false,
 	"ShouldApplyLocationSpecificDamageModifier": false,
-	"InitialDamage": 40,
+	"InitialDamage": 50,
 	"RandomDamage": 20,
 	"InitialUsage": 0,
 	"RandomUsage": 0,
 	"PostSpawnActions": [
-		"SetAmmoAmount_BigStash"
+		"SetAmmoAmount_SmallStash"
 	]
 }

@@ -2,7 +2,7 @@
   "AssociatedNpc": "Armorer",
   "Tier": 3,
   "Title": "[SKILL] นักรบใต้เส้นตาย Clock is ticking - 3",
-  "Description": "ถึงจุดนี้... เธอไม่ใช่แค่นักเรียนแล้ว เธอคือระเบิดที่ยังไม่ลั่น ภารกิจนี้ไม่มีฝึก ไม่มีคำอธิบาย ไม่มีเวลาคิด — มีแค่นาย กับเสียง ติ๊ก...ติ๊ก...ติ๊ก... เท่านั้น\n\nYou’re no longer a student. You’re a live bomb — just not triggered. This mission has no training, no instructions, no time to think. Just you… and the ticking.",
+  "Description": "ถึงจุดนี้... เธอไม่ใช่แค่นักเรียนแล้ว เธอคือระเบิดที่ยังไม่ลั่น ภารกิจนี้ไม่มีฝึก ไม่มีคำอธิบาย ไม่มีเวลาคิด — มีแค่นาย กับเสียง ติ๊ก...ติ๊ก...ติ๊ก... เท่านั้น\n\nAt this point... you're no longer just a student. You are a live bomb, not yet detonated. This mission has no training, no instructions, no time to think — just you and the sound of tick... tick... tick...",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

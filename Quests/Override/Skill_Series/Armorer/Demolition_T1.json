@@ -2,7 +2,7 @@
   "AssociatedNpc": "Armorer",
   "Tier": 1,
   "Title": "[SKILL] นักรบใต้เส้นตาย Clock is ticking - 1",
-  "Description": "อยากเล่นของแรง… ก็ต้องเริ่มจากความเข้าใจ นี่ไม่ใช่เกม — เธอมีแค่โอกาสเดียว ถ้าพลาด ระเบิดมันจะไม่ให้เธอเริ่มใหม่ ไปศึกษาอุปกรณ์เหล่านี้ แล้วกลับมาหาข้า\n\nWanna play with fire? Start with understanding. This isn’t a game — you only get one chance. Mess up, and the bomb won’t let you retry. Learn these items. Then come back to me.",
+  "Description": "อยากเล่นของแรง… ก็ต้องเริ่มจากความเข้าใจ นี่ไม่ใช่เกม — เธอมีแค่โอกาสเดียว ถ้าพลาด ระเบิดมันจะไม่ให้เธอเริ่มใหม่ ไปศึกษาอุปกรณ์เหล่านี้ แล้วกลับมาหาข้า\n\nIf you want to play with danger, you must start with understanding. This isn't a game — you only get one chance. If you make a mistake, the bomb won't let you start over. Study these items, then come back to me.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

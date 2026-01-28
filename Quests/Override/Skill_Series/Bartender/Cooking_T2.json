@@ -2,7 +2,7 @@
   "AssociatedNpc": "Bartender",
   "Tier": 2,
   "Title": "[SKILL] กินได้ก็กิน ไม่ได้ก็ทิ้งไป No matter you can eat it or not - 2",
-  "Description": "นักโทษพวกนี้นะ กินกันเหมือนไม่เคยกินข้าว! ยิ่งอยู่ไปยิ่งกินเหมือนฝูงแร้งลง แถมยังเลือกกินอีกนะ — โอ๊ย ขอโทษที ไม่ได้นับเธอนะ งั้นช่วยหาของเพิ่มอีกหน่อยเถอะ รอบนี้ฉันจะให้รางวัลดีกว่าครั้งก่อนแน่นอน.\n\nThese prisoners eat like they’ve never seen food before! The longer they stay, the more they eat, like a flock of vultures. And they’re so picky! Oh, sorry, I didn’t mean you. Could you help me gather some more food? I’ll make it worth your while this time.",
+    "Description": "นักโทษพวกนี้นะ กินกันเหมือนไม่เคยกินข้าว! ยิ่งอยู่นานยิ่งกินเก่งเหมือนฝูงแร้ง แถมยังเลือกกินอีก โอ้ย ขอโทษที ไม่ได้หมายถึงเธอ ช่วยหาของกินมาเพิ่มหน่อยสิ เดี๋ยวรอบนี้จะให้รางวัลดี ๆ\n\nThese prisoners eat like they've never had a meal before! The longer they stay, the more they eat, like a flock of vultures. And they're so picky! Oh, sorry, I didn't mean you. Could you help me find more food? I'll give you a better reward this time.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

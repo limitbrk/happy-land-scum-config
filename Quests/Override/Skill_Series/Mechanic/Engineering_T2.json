@@ -2,7 +2,7 @@
   "AssociatedNpc": "Mechanic",
   "Tier": 2,
   "Title": "[SKILL] ประดิษฐ์ประดอย Pieces Maker - 2",
-  "Description": "โอ๊ะๆ! ระวังหน่อย อย่าพึ่งถอดออกทั้งที่ยังไม่รู้จะใส่กลับยังไง... ตอนนี้ถ้ายังอยากเรียนรู้งานซ่อมของจริง ก็หาของพวกนี้มาให้ดู มันใช้แก้ปัญหาแบบที่ มีแค่แรงอย่างเดียวไม่พอ ช่างมันต้องใช้สมองด้วย จำไว้ซะ\n\nWhoa there! Don’t tear it apart if you don’t know how to put it back. If you’re serious about learning real repair work, go get me these materials. Fixing things isn’t just about brute force — you need brains too. Remember that.",
+  "Description": "โอ๊ะๆ! ระวังหน่อย อย่าพึ่งถอดออกทั้งที่ยังไม่รู้จะใส่กลับยังไง... ตอนนี้ถ้ายังอยากเรียนรู้งานซ่อมของจริง ก็หาของพวกนี้มาให้ดู มันใช้แก้ปัญหาแบบที่ มีแค่แรงอย่างเดียวไม่พอ ช่างมันต้องใช้สมองด้วย จำไว้ซะ\n\nWhoa! Be careful. Don't take it apart if you don't know how to put it back together... If you really want to learn real repair work, bring me these materials. Fixing things isn't just about strength — you need brains too. Remember that.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

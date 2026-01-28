@@ -2,7 +2,7 @@
   "AssociatedNPC": "Armorer",
   "Tier": 3,
   "Title": "[SKILL] แน่จริงก็เข้ามา Come 'n' get me - 3",
-  "Description": "ที่นี่…จะมีแค่ “คนที่อยู่รอด” ไม่มีที่ให้ “เกือบดี” หรือ “เกือบชนะ” จะรอด หรือชื่อเธอจะกลายเป็นแค่เศษฝุ่น\n\nIn here… only survivors remain. There’s no place for “almost good” or “almost made it.” Live — or vanish nameless.",
+  "Description": "ที่นี่…จะมีแค่ “คนที่อยู่รอด” ไม่มีที่ให้ “เกือบดี” หรือ “เกือบชนะ” จะรอด หรือชื่อเธอจะกลายเป็นแค่เศษฝุ่น\n\nHere... only survivors remain. There is no place for 'almost good' or 'almost made it.' Survive, or your name will become just dust.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

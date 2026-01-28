@@ -2,7 +2,7 @@
   "AssociatedNpc": "Doctor",
   "Tier": 2,
   "Title": "[SKILL] เรียนหมอกันเถอะ Let's become a Doctor - 2",
-  "Description": "อย่างน้อยก็รู้จักรักษาตัวเองบ้างแล้ว ลองช่วยหาเห็ดพวกนี้มาให้ฉันปรุงยาเพิ่มหน่อย ของหมดพอดี เธอจะได้แยกแยะได้บ้างว่าอะไรใช้ได้ไม่ได้\n\nAtleast you know how to take care of yourself now. Help me gather these mushrooms so I can make more medicine—the supplies just ran out. You'll also learn to distinguish which ones are useful and which aren't.",
+  "Description": "อย่างน้อยก็รู้จักรักษาตัวเองบ้างแล้ว ลองช่วยหาเห็ดพวกนี้มาให้ฉันปรุงยาเพิ่มหน่อย ของหมดพอดี เธอจะได้แยกแยะได้บ้างว่าอะไรใช้ได้ไม่ได้\n\nAt least you know how to take care of yourself now. Help me gather these mushrooms so I can make more medicine — the supplies just ran out. You'll also learn to tell which ones are useful and which aren't.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

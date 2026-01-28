@@ -2,7 +2,7 @@
   "AssociatedNPC": "Armorer",
   "Tier": 2,
   "Title": "[SKILL] แน่จริงก็เข้ามา Come 'n' get me - 2",
-  "Description": "ไม่มีพวก ไม่มีแบ็คอัพ แค่ตัวเธอเอง… กับศัตรูที่ไม่มีคำว่าเมตตา อยู่ให้รอด ไม่ใช่ด้วยดวง แต่ด้วยสัญชาตญาณ\n\nNo team. No backup. Just you… and an enemy who won’t hold back. You survive not by luck — but by instinct.",
+  "Description": "ไม่มีพวก ไม่มีแบ็คอัพ แค่ตัวเธอเอง… กับศัตรูที่ไม่มีคำว่าเมตตา อยู่ให้รอด ไม่ใช่ด้วยดวง แต่ด้วยสัญชาตญาณ\n\nNo team. No backup. Just you... and an enemy with no mercy. Survive not by luck, but by instinct.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

@@ -1,19 +1,19 @@
 {
 	"Items": [
 		{
-			"Rarity": "Rare",
+			"Rarity": "Uncommon",
 			"Id": "12_Gauge_Birdshot"
 		},
 		{
-			"Rarity": "Rare",
+			"Rarity": "Uncommon",
 			"Id": "12_Gauge_Buckshot"
 		},
 		{
-			"Rarity": "Uncommon",
+			"Rarity": "ExtremelyRare",
 			"Id": "12_Gauge_Slug"
 		}
 	],
-	"QuantityMin": 2,
+	"QuantityMin": 1,
 	"QuantityMax": 2,
 	"AllowDuplicates": true,
 	"ShouldFilterItemsByZone": false,
@@ -24,6 +24,6 @@
 	"InitialUsage": 0,
 	"RandomUsage": 0,
 	"PostSpawnActions": [
-		"SetAmmoAmount_BigStash"
+		"SetAmmoAmount_SmallStash"
 	]
 }

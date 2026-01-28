@@ -1,0 +1,21 @@
+{
+  "Subpresets": [
+    { "Rarity": "Uncommon", "Id": "Special_Packages-Cargo_Drops-Examine_AKM_CargoDrop" },
+    { "Rarity": "Uncommon", "Id": "Special_Packages-Cargo_Drops-Examine_CarbonHunter_CargoDrop" },
+    { "Rarity": "Uncommon", "Id": "Special_Packages-Cargo_Drops-Examine_M1891_CargoDrop" },
+    { "Rarity": "Uncommon", "Id": "Special_Packages-Cargo_Drops-Examine_MAC10_CargoDrop" },
+    { "Rarity": "Uncommon", "Id": "Special_Packages-Cargo_Drops-Examine_UMP_CargoDrop" },
+    { "Rarity": "Uncommon", "Id": "Special_Packages-Vault-Examine_AKS74U_Vault_Pack" },
+    { "Rarity": "Uncommon", "Id": "Special_Packages-Vault-Examine_ASVal_Vault_Pack" },
+    { "Rarity": "Uncommon", "Id": "Special_Packages-Vault-Examine_AWM_Vault_Pack" },
+    { "Rarity": "Uncommon", "Id": "Special_Packages-Vault-Examine_AWP_Vault_Pack" },
+    { "Rarity": "Uncommon", "Id": "Special_Packages-Vault-Examine_M16A4_Vault_Pack" },
+    { "Rarity": "Uncommon", "Id": "Special_Packages-Vault-Examine_MP5_Vault_Pack" },
+    { "Rarity": "Uncommon", "Id": "Special_Packages-Vault-Examine_MP5K_Vault_Pack" },
+    { "Rarity": "Uncommon", "Id": "Special_Packages-Vault-Examine_MP5SD_Vault_Pack" },
+    { "Rarity": "Uncommon", "Id": "Special_Packages-Vault-Examine_Scar-Dmr_Vault_Pack" },
+    { "Rarity": "Uncommon", "Id": "Special_Packages-Vault-Examine_SVD_Vault_Pack" },
+    { "Rarity": "Uncommon", "Id": "Special_Packages-Vault-Examine_VHS2_Rail_Vault_Pack" },
+    { "Rarity": "Uncommon", "Id": "Special_Packages-Vault-Examine_VHS2_Vault_Pack" }
+  ]
+}

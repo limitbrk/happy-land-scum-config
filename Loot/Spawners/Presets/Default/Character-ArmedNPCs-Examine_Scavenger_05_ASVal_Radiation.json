@@ -1,24 +1,23 @@
 {
 	"Items": [
 		{
-			"Rarity": "Rare",
+			"Rarity": "Uncommon",
 			"Id": "Cal_9x39mm"
 		},
 		{
-			"Rarity": "Rare",
+			"Rarity": "Uncommon",
 			"Id": "Cal_9x39mm_TR"
 		},
 		{
-			"Rarity": "Uncommon",
+			"Rarity": "ExtremelyRare",
 			"Id": "Cal_9x39mm_AP"
 		}
 	],
 	"FixedItems": [
-		"Magazine_AS_Val",
 		"Magazine_AS_Val"
 	],
-	"QuantityMin": 4,
-	"QuantityMax": 4,
+	"QuantityMin": 1,
+	"QuantityMax": 3,
 	"AllowDuplicates": true,
 	"ShouldFilterItemsByZone": false,
 	"ShouldApplyLocationSpecificProbabilityModifier": false,
@@ -28,6 +27,6 @@
 	"InitialUsage": 0,
 	"RandomUsage": 0,
 	"PostSpawnActions": [
-		"SetAmmoAmount_BigStash"
+		"SetAmmoAmount_SmallStash"
 	]
 }

@@ -2,7 +2,7 @@
   "AssociatedNpc": "Bartender",
   "Tier": 3,
   "Title": "[SKILL] กินได้ก็กิน ไม่ได้ก็ทิ้งไป No matter you can eat it or not - 3",
-  "Description": "ล่าสุดมีนักโทษจากไหนไม่รู้ มาขอให้ฉันทำ เค้ก ให้น่ะสิ!ถามจริง บนเกาะกันดารแบบนี้ นายคิดว่ามันจะหาของทำเค้กง่ายมั้ยล่ะ?เอาเถอะ… ถ้าเธอหามาได้ ฉันสัญญาเลยว่าจะตบรางวัลงาม ๆ.\n\nOh, and get this — some new guy just showed up and asked me to bake a cake.Seriously? On this godforsaken island? You think ingredients grow on trees? Fine, fine… If you can get me what I need, I’ll make sure you’re handsomely rewarded.",
+  "Description": "ล่าสุดมีนักโทษจากไหนไม่รู้ มาขอให้ฉันทำ เค้ก ให้น่ะสิ! ถามจริง บนเกาะกันดารแบบนี้ นายคิดว่ามันจะหาของทำเค้กง่ายมั้ยล่ะ? เอาเถอะ… ถ้าเธอหามาได้ ฉันสัญญาเลยว่าจะตบรางวัลงาม ๆ.\n\nOh, and get this — some new guy just showed up and asked me to bake a cake. Seriously? On this godforsaken island? You think ingredients grow on trees? Fine, fine... If you can get me what I need, I'll make sure you're handsomely rewarded.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

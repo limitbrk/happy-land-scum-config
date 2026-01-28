@@ -12,8 +12,8 @@
 	"FixedItems": [
 		"Magazine_Hunter85_V2"
 	],
-	"QuantityMin": 2,
-	"QuantityMax": 2,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
 	"AllowDuplicates": true,
 	"ShouldFilterItemsByZone": false,
 	"ShouldApplyLocationSpecificProbabilityModifier": false,
@@ -23,6 +23,6 @@
 	"InitialUsage": 0,
 	"RandomUsage": 0,
 	"PostSpawnActions": [
-		"SetAmmoAmount_BigStash"
+		"SetAmmoAmount_SmallStash"
 	]
 }

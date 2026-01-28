@@ -14,67 +14,11 @@
 		},
 		{
 			"Rarity": "Uncommon",
-			"Id": "Cal_30-06"
-		},
-		{
-			"Rarity": "Uncommon",
-			"Id": "Cal_30-06_TR"
-		},
-		{
-			"Rarity": "Rare",
-			"Id": "Cal_308"
-		},
-		{
-			"Rarity": "Rare",
-			"Id": "Cal_308_TR"
-		},
-		{
-			"Rarity": "Rare",
-			"Id": "Cal_338"
-		},
-		{
-			"Rarity": "Rare",
-			"Id": "Cal_338_TR"
-		},
-		{
-			"Rarity": "Uncommon",
 			"Id": "Cal_5_45x39mm"
 		},
 		{
 			"Rarity": "Uncommon",
 			"Id": "Cal_5_45x39mm_TR"
-		},
-		{
-			"Rarity": "Uncommon",
-			"Id": "Cal_5_56x45mm"
-		},
-		{
-			"Rarity": "Uncommon",
-			"Id": "Cal_5_56x45mm_TR"
-		},
-		{
-			"Rarity": "Rare",
-			"Id": "Cal_7_62x39mm"
-		},
-		{
-			"Rarity": "Rare",
-			"Id": "Cal_7_62x39mm_TR"
-		},
-		{
-			"Rarity": "Rare",
-			"Id": "Cal_7_62x54mmR"
-		},
-		{
-			"Rarity": "Rare",
-			"Id": "Cal_7_62x54mmR_TR"
-		},
-		{
-			"Rarity": "Rare",
-			"Id": "Cal_7_92x57mm"
-		},
-		{
-			"Rarity": "Rare",
-			"Id": "Cal_7_92x57mm_TR"
 		},
 		{
 			"Rarity": "Uncommon",
@@ -85,13 +29,13 @@
 			"Id": "Cal_9x39mm_TR"
 		}
 	],
-	"QuantityMin": 2,
-	"QuantityMax": 2,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
 	"AllowDuplicates": true,
 	"ShouldFilterItemsByZone": false,
 	"ShouldApplyLocationSpecificProbabilityModifier": false,
 	"ShouldApplyLocationSpecificDamageModifier": false,
-	"InitialDamage": 60,
+	"InitialDamage": 50,
 	"RandomDamage": 20,
 	"InitialUsage": 0,
 	"RandomUsage": 0,

@@ -9,15 +9,15 @@
 			"Id": "Cal_45_TR"
 		},
 		{
-			"Rarity": "Rare",
+			"Rarity": "ExtremelyRare",
 			"Id": "Cal_45_AP"
 		}
 	],
 	"FixedItems": [
 		"Magazine_M1911"
 	],
-	"QuantityMin": 2,
-	"QuantityMax": 2,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
 	"AllowDuplicates": true,
 	"ShouldFilterItemsByZone": false,
 	"ShouldApplyLocationSpecificProbabilityModifier": false,

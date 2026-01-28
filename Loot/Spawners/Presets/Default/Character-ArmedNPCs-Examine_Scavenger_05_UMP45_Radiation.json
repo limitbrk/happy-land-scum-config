@@ -1,24 +1,23 @@
 {
 	"Items": [
 		{
-			"Rarity": "Rare",
+			"Rarity": "Uncommon",
 			"Id": "Cal_45"
 		},
 		{
-			"Rarity": "Rare",
+			"Rarity": "Uncommon",
 			"Id": "Cal_45_TR"
 		},
 		{
-			"Rarity": "Uncommon",
+			"Rarity": "ExtremelyRare",
 			"Id": "Cal_45_AP"
 		}
 	],
 	"FixedItems": [
-		"Magazine_UMP45",
 		"Magazine_UMP45"
 	],
-	"QuantityMin": 4,
-	"QuantityMax": 4,
+	"QuantityMin": 1,
+	"QuantityMax": 3,
 	"AllowDuplicates": true,
 	"ShouldFilterItemsByZone": false,
 	"ShouldApplyLocationSpecificProbabilityModifier": false,
@@ -28,6 +27,6 @@
 	"InitialUsage": 0,
 	"RandomUsage": 0,
 	"PostSpawnActions": [
-		"SetAmmoAmount_BigStash"
+		"SetAmmoAmount_SmallStash"
 	]
 }

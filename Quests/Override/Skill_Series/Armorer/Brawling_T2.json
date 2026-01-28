@@ -2,7 +2,7 @@
   "AssociatedNPC": "Armorer",
   "Tier": 2,
   "Title": "[SKILL] หนทางสู่สังเวียน \"We not talk about Fight club\" - 2",
-  "Description": "คนที่โดนซัดล้มแล้วลุกได้เร็วกว่า... มักรอด เธอต้องฝึกให้ร่างกายรับเจ็บให้เป็น และไม่กลัวมัน\n\nThe one who gets up faster, lives longer. Train your body to take pain — and not fear it.",
+  "Description": "คนที่โดนซัดล้มแล้วลุกได้เร็วกว่า... มักรอด เธอต้องฝึกให้ร่างกายรับเจ็บให้เป็น และไม่กลัวมัน\n\nThose who get knocked down and get up faster... usually survive. You must train your body to endure pain and not fear it.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

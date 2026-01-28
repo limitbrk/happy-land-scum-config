@@ -1,24 +1,23 @@
 {
 	"Items": [
 		{
-			"Rarity": "Rare",
+			"Rarity": "Uncommon",
 			"Id": "Cal_30-06"
 		},
 		{
-			"Rarity": "Rare",
+			"Rarity": "Uncommon",
 			"Id": "Cal_30-06_TR"
 		},
 		{
-			"Rarity": "Uncommon",
+			"Rarity": "ExtremelyRare",
 			"Id": "Cal_30-06_AP"
 		}
 	],
 	"FixedItems": [
-		"M1_Clip",
 		"M1_Clip"
 	],
-	"QuantityMin": 4,
-	"QuantityMax": 4,
+	"QuantityMin": 1,
+	"QuantityMax": 3,
 	"AllowDuplicates": true,
 	"ShouldFilterItemsByZone": false,
 	"ShouldApplyLocationSpecificProbabilityModifier": false,
@@ -28,6 +27,6 @@
 	"InitialUsage": 0,
 	"RandomUsage": 0,
 	"PostSpawnActions": [
-		"SetAmmoAmount_BigStash"
+		"SetAmmoAmount_SmallStash"
 	]
 }

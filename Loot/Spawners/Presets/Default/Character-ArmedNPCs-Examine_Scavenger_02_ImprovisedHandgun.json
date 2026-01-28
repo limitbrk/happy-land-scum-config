@@ -2,22 +2,6 @@
 	"Items": [
 		{
 			"Rarity": "Uncommon",
-			"Id": "Cal_50_AE"
-		},
-		{
-			"Rarity": "Uncommon",
-			"Id": "Cal_50_AE_TR"
-		},
-		{
-			"Rarity": "Uncommon",
-			"Id": "Cal_38"
-		},
-		{
-			"Rarity": "Uncommon",
-			"Id": "Cal_38_TR"
-		},
-		{
-			"Rarity": "Uncommon",
 			"Id": "Cal_9mm"
 		},
 		{
@@ -34,22 +18,6 @@
 		},
 		{
 			"Rarity": "Uncommon",
-			"Id": "Cal_357_Viper"
-		},
-		{
-			"Rarity": "Uncommon",
-			"Id": "Cal_357_Viper_TR"
-		},
-		{
-			"Rarity": "Uncommon",
-			"Id": "Cal_44_Viper"
-		},
-		{
-			"Rarity": "Uncommon",
-			"Id": "Cal_44_Viper_TR"
-		},
-		{
-			"Rarity": "Uncommon",
 			"Id": "Cal_22"
 		},
 		{
@@ -57,13 +25,13 @@
 			"Id": "Cal_22_TR"
 		}
 	],
-	"QuantityMin": 3,
-	"QuantityMax": 3,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
 	"AllowDuplicates": true,
 	"ShouldFilterItemsByZone": false,
 	"ShouldApplyLocationSpecificProbabilityModifier": false,
 	"ShouldApplyLocationSpecificDamageModifier": false,
-	"InitialDamage": 60,
+	"InitialDamage": 50,
 	"RandomDamage": 20,
 	"InitialUsage": 0,
 	"RandomUsage": 0,

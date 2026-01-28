@@ -2,7 +2,7 @@
   "AssociatedNpc": "Armorer",
   "Tier": 3,
   "Title": "[SKILL] เร็วกว่าเงา Faster than Shadow - 3",
-  "Description": "รอดมาได้ถึงขั้นนี้ แปลว่าไม่ใช่แค่คนวิ่งเร็วธรรมดา แต่ “รู้ว่าเมื่อไหร่ควรวิ่ง” ระยะสุดท้ายนี้...ไม่มีใครช่วยนายได้นอกจากขาตัวเอง ถ้าไปถึงเส้นชัยได้ ฉันจะยอมรับว่าเธอคือ “เงาที่ไม่มีใครล่าได้ทัน”\n\nYou’ve made it this far — that means you’re not just fast. You know when to run. This final stretch? No one’s gonna save you but your own legs. Make it to the end, and I’ll admit… you’re the shadow no one can catch.",
+  "Description": "รอดมาได้ถึงขั้นนี้ แปลว่าไม่ใช่แค่คนวิ่งเร็วธรรมดา แต่ “รู้ว่าเมื่อไหร่ควรวิ่ง” ระยะสุดท้ายนี้...ไม่มีใครช่วยนายได้นอกจากขาตัวเอง ถ้าไปถึงเส้นชัยได้ ฉันจะยอมรับว่าเธอคือ “เงาที่ไม่มีใครล่าได้ทัน”\n\nIf you've made it this far, it means you're not just fast — you know when to run. In this final stretch, no one can help you but your own legs. If you reach the finish line, I'll admit you are the shadow no one can catch.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

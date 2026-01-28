@@ -1,19 +1,19 @@
 {
 	"Items": [
 		{
-			"Rarity": "Rare",
+			"Rarity": "Uncommon",
 			"Id": "Cal_7_92x57mm"
 		},
 		{
-			"Rarity": "Rare",
+			"Rarity": "Uncommon",
 			"Id": "Cal_7_92x57mm_TR"
 		},
 		{
-			"Rarity": "Uncommon",
+			"Rarity": "ExtremelyRare",
 			"Id": "Cal_7_92x57mm_AP"
 		}
 	],
-	"QuantityMin": 2,
+	"QuantityMin": 1,
 	"QuantityMax": 2,
 	"AllowDuplicates": true,
 	"ShouldFilterItemsByZone": false,
@@ -24,6 +24,6 @@
 	"InitialUsage": 0,
 	"RandomUsage": 0,
 	"PostSpawnActions": [
-		"SetCashAmount_BigStash"
+		"SetAmmoAmount_SmallStash"
 	]
 }

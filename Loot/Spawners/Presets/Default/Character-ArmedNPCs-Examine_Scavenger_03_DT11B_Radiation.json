@@ -1,7 +1,7 @@
 {
 	"Items": [
 		{
-			"Rarity": "Rare",
+			"Rarity": "ExtremelyRare",
 			"Id": "12_Gauge_Slug"
 		},
 		{
@@ -13,17 +13,17 @@
 			"Id": "12_Gauge_Buckshot"
 		}
 	],
-	"QuantityMin": 2,
+	"QuantityMin": 1,
 	"QuantityMax": 2,
 	"AllowDuplicates": true,
 	"ShouldFilterItemsByZone": false,
 	"ShouldApplyLocationSpecificProbabilityModifier": false,
 	"ShouldApplyLocationSpecificDamageModifier": false,
-	"InitialDamage": 40,
+	"InitialDamage": 50,
 	"RandomDamage": 20,
 	"InitialUsage": 0,
 	"RandomUsage": 0,
 	"PostSpawnActions": [
-		"SetAmmoAmount_BigStash"
+		"SetAmmoAmount_SmallStash"
 	]
 }

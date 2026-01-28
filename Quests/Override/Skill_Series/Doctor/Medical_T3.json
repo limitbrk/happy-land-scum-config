@@ -2,7 +2,7 @@
   "AssociatedNpc": "Doctor",
   "Tier": 3,
   "Title": "[SKILL] เรียนหมอกันเถอะ Let's become a Doctor - 3",
-  "Description": "มาถึงขั้นสุดท้ายแล้ว ตอนนี้คุณจะต้องเป็นหมอมืออาชีพจริงๆ ยาพวกนี้คือสุดยอดที่นักโทษแบบคุณต้องมีไว้ เพื่อความแข็งแกร่ง\n\nYou’re now at the final stage. To become a true professional doctor, these are the ultimate medicines that prisoner like you must have to stay strong.",
+  "Description": "มาถึงขั้นสุดท้ายแล้ว ตอนนี้คุณจะต้องเป็นหมอมืออาชีพจริงๆ ยาพวกนี้คือสุดยอดที่นักโทษแบบคุณต้องมีไว้ เพื่อความแข็งแกร่ง\n\nYou've reached the final stage. Now you must become a true professional doctor. These are the ultimate medicines that a prisoner like you must have to stay strong.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

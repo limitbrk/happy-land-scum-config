@@ -2,7 +2,7 @@
   "AssociatedNpc": "Armorer",
   "Tier": 2,
   "Title": "[SKILL] นักรบใต้เส้นตาย Clock is ticking - 2",
-  "Description": "เธอต้องเร็ว แต่ต้องนิ่ง ปลดชนวนผิด คือลาก่อน เวลาจะไม่หยุดให้นายคิด... ฝึกให้ร่างกายเร็วกว่าสมอง แล้วทุกวินาทีจะกลายเป็นของเธอ\n\nYou have to be fast. But steady. One wrong wire — you're gone. Time won’t wait for your thoughts. Train your body to move faster than your mind. Own the seconds.",
+  "Description": "เธอต้องเร็ว แต่ต้องนิ่ง ปลดชนวนผิด คือลาก่อน เวลาจะไม่หยุดให้นายคิด... ฝึกให้ร่างกายเร็วกว่าสมอง แล้วทุกวินาทีจะกลายเป็นของเธอ\n\nYou have to be fast, but steady. Cut the wrong wire and it's over. Time won't stop for you to think... Train your body to move faster than your mind, and every second will be yours.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

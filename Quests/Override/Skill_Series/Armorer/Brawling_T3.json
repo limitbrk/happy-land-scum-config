@@ -2,7 +2,7 @@
   "AssociatedNPC": "Armorer",
   "Tier": 3,
   "Title": "[SKILL] หนทางสู่สังเวียน \"We not talk about Fight club\" - 3",
-  "Description": "ในสังเวียนชีวิตจริง ไม่มีกรรมการ ไม่มีเสียงนับสิบ มีแค่เธอ...กับคนที่อยากให้ล้มนาย ถ้ายังยืนอยู่ได้ตอนจบ – นั่นแหละคือ \"ชนะ\"\n\nIn a real fight, there’s no ref, no count to ten. Just you… and someone trying to put you down. If you’re still standing at the end — you’ve won.",
+  "Description": "ในสังเวียนชีวิตจริง ไม่มีกรรมการ ไม่มีเสียงนับสิบ มีแค่เธอ...กับคนที่อยากให้ล้มเธอ ถ้ายังยืนอยู่ได้ตอนจบ – นั่นแหละคือ \"ชนะ\"\n\nIn the real ring of life, there is no referee, no count to ten. There is only you... and the one who wants to see you fall. If you are still standing at the end — that is victory.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

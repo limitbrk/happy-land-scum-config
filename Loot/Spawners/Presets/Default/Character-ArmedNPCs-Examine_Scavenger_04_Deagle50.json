@@ -1,28 +1,28 @@
 {
 	"Items": [
 		{
-			"Rarity": "Rare",
+			"Rarity": "Uncommon",
 			"Id": "Cal_50_AE"
 		},
 		{
-			"Rarity": "Rare",
+			"Rarity": "Uncommon",
 			"Id": "Cal_50_AE_TR"
 		},
 		{
-			"Rarity": "Uncommon",
+			"Rarity": "ExtremelyRare",
 			"Id": "Cal_50_AE_AP"
 		}
 	],
 	"FixedItems": [
 		"Magazine_DEagle_50"
 	],
-	"QuantityMin": 2,
-	"QuantityMax": 2,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
 	"AllowDuplicates": true,
 	"ShouldFilterItemsByZone": false,
 	"ShouldApplyLocationSpecificProbabilityModifier": false,
 	"ShouldApplyLocationSpecificDamageModifier": false,
-	"InitialDamage": 50,
+	"InitialDamage": 40,
 	"RandomDamage": 20,
 	"InitialUsage": 0,
 	"RandomUsage": 0,

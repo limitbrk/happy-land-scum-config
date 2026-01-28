@@ -2,7 +2,7 @@
   "AssociatedNPC": "Armorer",
   "Tier": 1,
   "Title": "[SKILL] โรบินฮู้ด ผู้เดียวดาย Lone Ranger - 1",
-  "Description": "ธนูไม่ช่วยอะไร ถ้ามือไม่นิ่ง ใจไม่นิ่ง ฝึกให้เงียบก่อนยิง ฝึกให้แม่นก่อนกลัว\n\nA bow’s useless if your hands shake — or your mind does. Learn to be still before you shoot. Be sharp before you fear.",
+  "Description": "ธนูไม่ช่วยอะไร ถ้ามือไม่นิ่ง ใจไม่นิ่ง ฝึกให้เงียบก่อนยิง ฝึกให้แม่นก่อนกลัว\n\nA bow is useless if your hands or your mind are not steady. Practice being calm before you shoot. Practice being accurate before you fear.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

@@ -2,7 +2,7 @@
   "AssociatedNpc": "Bartender",
   "Tier": 1,
   "Title": "[SKILL] กินได้ก็กิน ไม่ได้ก็ทิ้งไป No matter you can eat it or not - 1",
-  "Description": "ชั้นล่ะเบื่อจริง ๆ พวกนักโทษพวกนี้มันเป็นอะไรนักหนา กินไปได้แป๊บเดียวก็หิวอีกแล้ว! ยังไม่ทันได้ทำอะไรเลย ท้องก็ร้องซะแล้ว — นายน่ะ พอจะช่วยฉันตุนเสบียงไว้หน่อยได้ไหม?ว่างเมื่อไหร่ เดี๋ยวฉันจะสอนเคล็ดลับทำอาหารให้เธอเอง\n\nUgh, I’m so fed up! What’s wrong with these prisoners? Eat one thing and hungry again in five minutes! Hey, could you stock up some food for me? When I’ve got time, I’ll teach you some cooking tricks in return.",
+  "Description": "ชั้นล่ะเบื่อจริง ๆ พวกนักโทษพวกนี้มันเป็นอะไรนักหนา กินไปได้แป๊บเดียวก็หิวอีกแล้ว! ยังไม่ทันได้ทำอะไรเลย ท้องก็ร้องซะแล้ว — นายน่ะ พอจะช่วยฉันตุนเสบียงไว้หน่อยได้ไหม?ว่างเมื่อไหร่ เดี๋ยวฉันจะสอนเคล็ดลับทำอาหารให้เธอเอง\n\nI'm so fed up! What's wrong with these prisoners? They eat and are hungry again in five minutes! I can't even do anything before they're hungry again. Hey, could you help me stock up on food? When I have time, I'll teach you some cooking tips.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

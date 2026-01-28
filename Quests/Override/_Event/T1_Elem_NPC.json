@@ -2,16 +2,16 @@
   "AssociatedNPC": "Banker",
   "Tier": 1,
   "Title": "[Event] ปัญหาของเงิน! Money Problems!",
-  "Description": "ทุกวันนี้จะไปขนเงินทางไหนก็โดนดักปล้นหมดเลย เพราะพวกเจ้าถิ่นสุดแสบ เล่นตั้งเวรปล้นรถขนเงินไม่หยุดหย่อน ถ้าหาทางช่วยได้เรามาแบ่ง % กันเงียบๆนะ\n\nNowadays, every time We try to transport money, We get robbed by those local thugs who set up ambushes. If you can help me out, we can split the profits quietly.",
+  "Description": "ทุกวันนี้จะไปขนเงินทางไหนก็โดนดักปล้นหมดเลย เพราะพวกเจ้าถิ่นสุดแสบ เล่นตั้งเวรปล้นรถขนเงินไม่หยุดหย่อน ถ้าหาทางช่วยได้เรามาแบ่ง % กันเงียบๆนะ\n\nThese days, no matter which way I try to move money, I get ambushed by those pesky local thugs. They never stop robbing the cash trucks! If you can help, we’ll split the profits quietly.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {
-      "CurrencyNormal": 10000
+      "CurrencyNormal": 50000
     }
   ],
   "Conditions": [
     {
-      "TrackingCaption": "ฆ่า NPC โจรตามพื้นที่ต่างๆ Kill NPC Thugs in various areas",
+      "TrackingCaption": "ฆ่า NPC โจรตามพื้นที่ต่างๆ\nKill NPC thugs in various areas",
       "SequenceIndex": 0,
       "CanBeAutoCompleted": false,
       "Type": "Elimination",

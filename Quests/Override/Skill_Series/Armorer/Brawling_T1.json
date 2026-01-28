@@ -2,7 +2,7 @@
   "AssociatedNPC": "Armorer",
   "Tier": 1,
   "Title": "[SKILL] หนทางสู่สังเวียน \"We not talk about Fight club\" - 1",
-  "Description": "หมัดไม่ใช่อาวุธ แต่มันคือสัญญาณว่า \"เธอยังไม่ยอมแพ้\" ไปฝึกมาก่อน ไม่ต้องชนะ... แค่ “ยืนให้ได้” ก็พอ\n\nYour fists aren’t weapons. They’re proof you haven’t given up. Go train. Winning’s not the point. Standing is.",
+  "Description": "หมัดไม่ใช่อาวุธ แต่มันคือสัญญาณว่า \"เธอยังไม่ยอมแพ้\" ไปฝึกมาก่อน ไม่ต้องชนะ... แค่ “ยืนให้ได้” ก็พอ\n\nFists are not weapons, but they are proof that you haven't given up. Go train first. You don't have to win... just being able to stand is enough.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

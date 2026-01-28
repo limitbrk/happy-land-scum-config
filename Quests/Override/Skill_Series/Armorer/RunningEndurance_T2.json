@@ -2,7 +2,7 @@
   "AssociatedNpc": "Armorer",
   "Tier": 2,
   "Title": "[SKILL] เร็วกว่าเงา Faster than Shadow - 2",
-  "Description": "เงาเริ่มไล่ทันแล้ว ระยะมันยาวขึ้น แรงมันจะหมดไวขึ้น แต่เธอต้อง “เร็วขึ้น” และ “นิ่งขึ้น” จังหวะหายใจ...สำคัญพอๆ กับจังหวะก้าวเท้า\n\nThe path is longer. Your stamina won’t last. But you must be faster — and calmer. Every breath matters just as much as every step.",
+  "Description": "เงาเริ่มไล่ทันแล้ว ระยะมันยาวขึ้น แรงมันจะหมดไวขึ้น แต่เธอต้อง “เร็วขึ้น” และ “นิ่งขึ้น” จังหวะหายใจ...สำคัญพอๆ กับจังหวะก้าวเท้า\n\nThe shadow is catching up. The distance is longer, your energy will run out faster, but you must be faster and calmer. Every breath is as important as every step.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

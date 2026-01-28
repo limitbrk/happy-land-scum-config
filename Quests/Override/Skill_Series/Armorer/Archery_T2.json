@@ -2,7 +2,7 @@
   "AssociatedNPC": "Armorer",
   "Tier": 2,
   "Title": "[SKILL] โรบินฮู้ด ผู้เดียวดาย Lone Ranger - 2",
-  "Description": "อยู่คนเดียว...ไม่มีใครช่วยเล็งให้ ยิงพลาด ก็พลาดเลย ฝึกยิงให้ได้ แม้เสียงหัวใจยังดังเกินไป\n\nAlone… no one’s lining up your shot. You miss, you miss for real. Train to hit — even when your heartbeat’s too loud.",
+  "Description": "อยู่คนเดียว...ไม่มีใครช่วยเล็งให้ ยิงพลาด ก็พลาดเลย ฝึกยิงให้ได้ แม้เสียงหัวใจยังดังเกินไป\n\nAlone... no one will aim for you. If you miss, you really miss. Practice hitting the target, even when your heartbeat is too loud.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

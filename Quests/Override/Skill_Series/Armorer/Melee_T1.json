@@ -2,7 +2,7 @@
   "AssociatedNPC": "Armorer",
   "Tier": 1,
   "Title": "[SKILL] แน่จริงก็เข้ามา Come 'n' get me - 1",
-  "Description": "พูดให้น้อยเข้าไว้ ถ้ายังไม่กล้าแม้แต่ก้าวเท้า จะไม่มีวันรู้เลยว่าแน่แค่ไหน… จงพิสูจน์ให้ดู\n\nTalk less — if your feet are still stuck You will never know how you tough. Prove it!",
+  "Description": "พูดให้น้อยเข้าไว้ ถ้ายังไม่กล้าแม้แต่ก้าวเท้า จะไม่มีวันรู้เลยว่าแน่แค่ไหน… จงพิสูจน์ให้ดู\n\nTalk less. If you don't even dare to take a step, you'll never know how tough you really are... Prove it.",
   "TimeLimitHours": 48.0,
   "RewardPool": [
     {

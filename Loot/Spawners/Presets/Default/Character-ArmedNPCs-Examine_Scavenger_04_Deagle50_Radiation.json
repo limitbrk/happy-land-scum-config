@@ -9,15 +9,15 @@
 			"Id": "Cal_50_AE_TR"
 		},
 		{
-			"Rarity": "Rare",
+			"Rarity": "ExtremelyRare",
 			"Id": "Cal_50_AE_AP"
 		}
 	],
 	"FixedItems": [
 		"Magazine_DEagle_50"
 	],
-	"QuantityMin": 3,
-	"QuantityMax": 3,
+	"QuantityMin": 1,
+	"QuantityMax": 2,
 	"AllowDuplicates": true,
 	"ShouldFilterItemsByZone": false,
 	"ShouldApplyLocationSpecificProbabilityModifier": false,
@@ -27,6 +27,6 @@
 	"InitialUsage": 0,
 	"RandomUsage": 0,
 	"PostSpawnActions": [
-		"SetAmmoAmount_BigStash"
+		"SetAmmoAmount_SmallStash"
 	]
 }

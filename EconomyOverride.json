@@ -473,6 +473,267 @@
 					"can-be-purchased": "false",
 					"required-famepoints": "-1",
 					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_SVD",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_SCAR_DMR",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AWP",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AWM",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AK15",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AK47",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AKM",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AS_Val",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_M16A4",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_MK18",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_SCAR_L",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_VHS",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_VSS_VZ",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_M249",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_RPK-74",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "2H_Tang_Dao_Black_Dragon",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "2H_Tang_Dao_Damascus",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Jacket_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Pants_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Jacket_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Pants_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Jacket_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Pants_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWM_Green",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWM_Desert",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWM_Snake",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWP_Green",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWP_Desert",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWP_Snake",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
 				}
 			],
 			"A_0_BoatShop": [
@@ -760,15 +1021,6 @@
 					"available-after-sale-only": "default"
 				},
 				{
-					"tradeable-code": "BPC_RIS",
-					"base-purchase-price": "40000",
-					"base-sell-price": "0",
-					"delta-price": "1.0",
-					"can-be-purchased": "true",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
 					"tradeable-code": "BPC_Dirtbike",
 					"base-purchase-price": "25000",
 					"base-sell-price": "-1",
@@ -783,6 +1035,15 @@
 					"base-sell-price": "-1",
 					"delta-price": "1.0",
 					"can-be-purchased": "true",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "BPC_RIS",
+					"base-purchase-price": "40000",
+					"base-sell-price": "1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
 					"required-famepoints": "-1",
 					"available-after-sale-only": "default"
 				}
@@ -952,6 +1213,96 @@
 				},
 				{
 					"tradeable-code": "Parsley",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Onion",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lemon",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Spinach",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lettuce",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Zucchini",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Cucumber",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Potato",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wild_Cherry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Pear",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Corn",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1.0",
@@ -1305,6 +1656,33 @@
 				},
 				{
 					"tradeable-code": "Candle_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lemon",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wild_Cherry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Pear",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1.0",
@@ -1799,6 +2177,267 @@
 					"can-be-purchased": "false",
 					"required-famepoints": "-1",
 					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_SVD",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_SCAR_DMR",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AWP",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AWM",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AK15",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AK47",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AKM",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AS_Val",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_M16A4",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_MK18",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_SCAR_L",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_VHS",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_VSS_VZ",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_M249",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_RPK-74",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "2H_Tang_Dao_Black_Dragon",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "2H_Tang_Dao_Damascus",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Jacket_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Pants_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Jacket_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Pants_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Jacket_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Pants_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWM_Green",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWM_Desert",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWM_Snake",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWP_Green",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWP_Desert",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWP_Snake",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
 				}
 			],
 			"B_4_BoatShop": [
@@ -2086,15 +2725,6 @@
 					"available-after-sale-only": "default"
 				},
 				{
-					"tradeable-code": "BPC_RIS",
-					"base-purchase-price": "40000",
-					"base-sell-price": "0",
-					"delta-price": "1.0",
-					"can-be-purchased": "true",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
 					"tradeable-code": "BPC_Dirtbike",
 					"base-purchase-price": "25000",
 					"base-sell-price": "-1",
@@ -2109,6 +2739,15 @@
 					"base-sell-price": "-1",
 					"delta-price": "1.0",
 					"can-be-purchased": "true",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "BPC_RIS",
+					"base-purchase-price": "40000",
+					"base-sell-price": "1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
 					"required-famepoints": "-1",
 					"available-after-sale-only": "default"
 				}
@@ -2278,6 +2917,96 @@
 				},
 				{
 					"tradeable-code": "Parsley",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Onion",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lemon",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Spinach",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lettuce",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Zucchini",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Cucumber",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Potato",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wild_Cherry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Pear",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Corn",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1.0",
@@ -2631,6 +3360,33 @@
 				},
 				{
 					"tradeable-code": "Candle_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lemon",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wild_Cherry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Pear",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1.0",
@@ -3125,6 +3881,267 @@
 					"can-be-purchased": "false",
 					"required-famepoints": "-1",
 					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_SVD",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_SCAR_DMR",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AWP",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AWM",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AK15",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AK47",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AKM",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AS_Val",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_M16A4",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_MK18",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_SCAR_L",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_VHS",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_VSS_VZ",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_M249",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_RPK-74",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "2H_Tang_Dao_Black_Dragon",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "2H_Tang_Dao_Damascus",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Jacket_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Pants_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Jacket_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Pants_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Jacket_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Pants_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWM_Green",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWM_Desert",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWM_Snake",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWP_Green",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWP_Desert",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWP_Snake",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
 				}
 			],
 			"C_2_BoatShop": [
@@ -3412,15 +4429,6 @@
 					"available-after-sale-only": "default"
 				},
 				{
-					"tradeable-code": "BPC_RIS",
-					"base-purchase-price": "40000",
-					"base-sell-price": "0",
-					"delta-price": "1.0",
-					"can-be-purchased": "true",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
 					"tradeable-code": "BPC_Dirtbike",
 					"base-purchase-price": "25000",
 					"base-sell-price": "-1",
@@ -3435,6 +4443,15 @@
 					"base-sell-price": "-1",
 					"delta-price": "1.0",
 					"can-be-purchased": "true",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "BPC_RIS",
+					"base-purchase-price": "40000",
+					"base-sell-price": "1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
 					"required-famepoints": "-1",
 					"available-after-sale-only": "default"
 				}
@@ -3604,6 +4621,96 @@
 				},
 				{
 					"tradeable-code": "Parsley",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Onion",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lemon",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Spinach",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lettuce",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Zucchini",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Cucumber",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Potato",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wild_Cherry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Pear",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Corn",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1.0",
@@ -3957,6 +5064,33 @@
 				},
 				{
 					"tradeable-code": "Candle_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lemon",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wild_Cherry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Pear",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1.0",
@@ -4451,6 +5585,267 @@
 					"can-be-purchased": "false",
 					"required-famepoints": "-1",
 					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_SVD",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_SCAR_DMR",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AWP",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AWM",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AK15",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AK47",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AKM",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_AS_Val",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_M16A4",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_MK18",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_SCAR_L",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_VHS",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_VSS_VZ",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_M249",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_Parts_RPK-74",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "2H_Tang_Dao_Black_Dragon",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "2H_Tang_Dao_Damascus",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Jacket_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Pants_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Jacket_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Pants_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Jacket_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ghillie_Suit_Pants_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWM_Green",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWM_Desert",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWM_Snake",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWP_Green",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWP_Desert",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_AWP_Snake",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
 				}
 			],
 			"Z_3_BoatShop": [
@@ -4738,15 +6133,6 @@
 					"available-after-sale-only": "default"
 				},
 				{
-					"tradeable-code": "BPC_RIS",
-					"base-purchase-price": "40000",
-					"base-sell-price": "0",
-					"delta-price": "1.0",
-					"can-be-purchased": "true",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
 					"tradeable-code": "BPC_Dirtbike",
 					"base-purchase-price": "25000",
 					"base-sell-price": "-1",
@@ -4761,6 +6147,15 @@
 					"base-sell-price": "-1",
 					"delta-price": "1.0",
 					"can-be-purchased": "true",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "BPC_RIS",
+					"base-purchase-price": "40000",
+					"base-sell-price": "1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
 					"required-famepoints": "-1",
 					"available-after-sale-only": "default"
 				}
@@ -4930,6 +6325,96 @@
 				},
 				{
 					"tradeable-code": "Parsley",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Onion",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lemon",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Spinach",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lettuce",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Zucchini",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Cucumber",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Potato",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wild_Cherry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Pear",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Corn",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1.0",
@@ -5283,6 +6768,33 @@
 				},
 				{
 					"tradeable-code": "Candle_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lemon",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wild_Cherry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Pear",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1.0",
