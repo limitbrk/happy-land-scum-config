@@ -86,9 +86,9 @@
         },
         {
             "_alert": "Robot Incoming",
-            "day": "Saturday",
+            "day": "Sunday",
             "time": [
-                "0:00"
+                "0:10"
             ],
             "duration": 5,
             "color": "180-30-30",
@@ -96,9 +96,9 @@
         },
         {
             "_alert": "Robot withdrawal",
-            "day": "Sunday",
+            "day": "Monday",
             "time": [
-                "0:00"
+                "0:10"
             ],
             "duration": 5,
             "color": "180-30-30",
