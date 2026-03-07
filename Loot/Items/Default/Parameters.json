@@ -798,6 +798,22 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
+			"Id": "2H_ZhanMaDao_Sword",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
 			"Id": "Absinthe",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
@@ -1187,7 +1203,12 @@
 				"Watermelon_Seed_Bag",
 				"Zucchini_Seed_Bag",
 				"Cannabis_Seed_Bag",
-				"Tobacco_Seed_Bag"
+				"Tobacco_Seed_Bag",
+				"Apricot_Seed_Bag",
+				"Orange_Seed_Bag",
+				"Peach_Seed_Bag",
+				"Plum_Seed_Bag",
+				"Tangerine_Seed_Bag"
 			],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
@@ -2102,7 +2123,8 @@
 				"Boonie_Hat_03",
 				"Boonie_Hat_04",
 				"Boonie_Hat_05",
-				"Boonie_Hat_06"
+				"Boonie_Hat_06",
+				"Redneck_Hat_07"
 			],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
@@ -6544,7 +6566,10 @@
 			"CooldownPerSquadMemberMin": 0,
 			"CooldownPerSquadMemberMax": 0,
 			"CooldownGroup": "",
-			"Variations": [],
+			"Variations": [
+				"Fireman_Helmet_02",
+				"Fireman_Helmet_03"
+			],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
 			"RandomUsageOverrideUsage": 0
@@ -7872,6 +7897,28 @@
 				"HH_Shoes_04_04",
 				"HH_Shoes_05_02",
 				"HH_Shoes_05_03"
+			],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "HH_Wedge_Heels_01_01",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [
+				"HH_Wedge_Heels_01_02",
+				"HH_Wedge_Heels_01_03",
+				"HH_Wedge_Heels_01_04",
+				"HH_Wedge_Heels_01_05",
+				"HH_Wedge_Heels_01_06"
 			],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
@@ -12221,6 +12268,28 @@
 			"CooldownPerSquadMemberMax": 0,
 			"CooldownGroup": "",
 			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Qipao_Dress_01",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [
+				"Qipao_Dress_02",
+				"Qipao_Dress_03",
+				"Qipao_Dress_04",
+				"Qipao_Dress_05",
+				"Qipao_Dress_06"
+			],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,
 			"RandomUsageOverrideUsage": 0

@@ -1,15 +1,21 @@
 {
-	"FixedItems": [
-		"Banana",
-		"Super_Glue"
-	],
 	"Items": [
 		{
-			"Rarity": "Uncommon",
-			"Id": "Earthworm"
+			"Rarity": "Abundant",
+			"Id": "Stone_Small"
+		},
+		{
+			"Rarity": "Common",
+			"Id": "Stone"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Super_Glue"
 		}
 	],
-	"Probability": 15,
+	"FixedItems": [
+		"Stone_Small"
+	],
 	"QuantityMin": 1,
 	"QuantityMax": 2,
 	"AllowDuplicates": true,

@@ -1684,6 +1684,10 @@
 										{
 											"Name": "2H_Katana",
 											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "2H_ZhanMaDao_Sword",
+											"Rarity": "Rare"
 										}
 									]
 								}
@@ -1849,7 +1853,7 @@
 								},
 								{
 									"Name": "Air_Pump",
-									"Rarity": "Rare"
+									"Rarity": "VeryRare"
 								},
 								{
 									"Name": "CanOpener",
@@ -2192,6 +2196,10 @@
 									"Name": "Helmets",
 									"Rarity": "ExtremelyRare",
 									"Children": [
+										{
+											"Name": "Extreme_Helmet_01",
+											"Rarity": "Uncommon"
+										},
 										{
 											"Name": "Fireman_Helmet_01",
 											"Rarity": "Uncommon"

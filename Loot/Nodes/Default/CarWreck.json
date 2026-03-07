@@ -215,12 +215,20 @@
 									"Rarity": "Rare",
 									"Children": [
 										{
+											"Name": "Christmas_Vest_01",
+											"Rarity": "Rare"
+										},
+										{
 											"Name": "Jersey_01",
 											"Rarity": "Rare"
 										},
 										{
 											"Name": "Shirt_01",
 											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Vest_01",
+											"Rarity": "Rare"
 										},
 										{
 											"Name": "Vintage_Jail_Shirt_01",

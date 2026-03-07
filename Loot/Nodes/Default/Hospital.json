@@ -33,6 +33,10 @@
 											"Rarity": "Rare"
 										},
 										{
+											"Name": "HH_Wedge_Heels_01_01",
+											"Rarity": "Rare"
+										},
+										{
 											"Name": "Slippers_01",
 											"Rarity": "Rare"
 										},
@@ -425,6 +429,10 @@
 									"Rarity": "VeryRare"
 								}
 							]
+						},
+						{
+							"Name": "Strait_Jacket",
+							"Rarity": "VeryRare"
 						},
 						{
 							"Name": "Syringe",

@@ -19,6 +19,10 @@
 									"Rarity": "Rare"
 								},
 								{
+									"Name": "HH_Wedge_Heels_01_01",
+									"Rarity": "VeryRare"
+								},
+								{
 									"Name": "MilitaryBoots_JNA",
 									"Rarity": "VeryRare"
 								},
@@ -35,6 +39,10 @@
 								{
 									"Name": "BP_HeadLamp",
 									"Rarity": "Rare"
+								},
+								{
+									"Name": "Extreme_Helmet_01",
+									"Rarity": "Uncommon"
 								},
 								{
 									"Name": "Pilot_Glasses",

@@ -898,6 +898,10 @@
 									]
 								},
 								{
+									"Name": "Extreme_Helmet_01",
+									"Rarity": "VeryRare"
+								},
+								{
 									"Name": "Goggles",
 									"Rarity": "Uncommon",
 									"Children": [

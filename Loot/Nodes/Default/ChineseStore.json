@@ -17,6 +17,10 @@
 								{
 									"Name": "Bamboo_Hat_01",
 									"Rarity": "Rare"
+								},
+								{
+									"Name": "Extreme_Helmet_01",
+									"Rarity": "Uncommon"
 								}
 							]
 						},
@@ -39,6 +43,14 @@
 							"Rarity": "Uncommon",
 							"Children": [
 								{
+									"Name": "Christmas_Vest_01",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Qipao_Dress_01",
+									"Rarity": "Common"
+								},
+								{
 									"Name": "Shimoro_Vest",
 									"Rarity": "VeryRare"
 								},
@@ -54,6 +66,10 @@
 							"Children": [
 								{
 									"Name": "Beijing_Shoes_01",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "HH_Wedge_Heels_01_01",
 									"Rarity": "Rare"
 								}
 							]
@@ -110,6 +126,10 @@
 								},
 								{
 									"Name": "2H_Tang_Dao_Damascus",
+									"Rarity": "Common"
+								},
+								{
+									"Name": "2H_ZhanMaDao_Sword",
 									"Rarity": "Common"
 								}
 							]

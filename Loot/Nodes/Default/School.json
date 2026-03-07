@@ -453,6 +453,10 @@
 											]
 										},
 										{
+											"Name": "Extreme_Helmet_01",
+											"Rarity": "Rare"
+										},
+										{
 											"Name": "Hats",
 											"Rarity": "Uncommon",
 											"Children": [
@@ -479,6 +483,10 @@
 											]
 										}
 									]
+								},
+								{
+									"Name": "HH_Wedge_Heels_01_01",
+									"Rarity": "Rare"
 								},
 								{
 									"Name": "Legs",
@@ -519,6 +527,10 @@
 											"Rarity": "Rare",
 											"Children": [
 												{
+													"Name": "Christmas_Vest_01",
+													"Rarity": "Rare"
+												},
+												{
 													"Name": "Classic_Shirt_01",
 													"Rarity": "Uncommon"
 												},
@@ -528,6 +540,10 @@
 												},
 												{
 													"Name": "Keyhole_Shirt_01",
+													"Rarity": "Uncommon"
+												},
+												{
+													"Name": "Qipao_Dress_01",
 													"Rarity": "Uncommon"
 												},
 												{
@@ -550,7 +566,7 @@
 							"Children": [
 								{
 									"Name": "Air_Pump",
-									"Rarity": "Uncommon"
+									"Rarity": "Rare"
 								},
 								{
 									"Name": "Banjo",

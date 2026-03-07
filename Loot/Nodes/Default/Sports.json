@@ -82,6 +82,22 @@
 							]
 						},
 						{
+							"Name": "Torso",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Shirts",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Vest_01",
+											"Rarity": "Uncommon"
+										}
+									]
+								}
+							]
+						},
+						{
 							"Name": "Underwear",
 							"Rarity": "Uncommon",
 							"Children": [
@@ -203,7 +219,7 @@
 						},
 						{
 							"Name": "Air_Pump",
-							"Rarity": "Uncommon"
+							"Rarity": "Rare"
 						}
 					]
 				}

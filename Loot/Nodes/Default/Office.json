@@ -401,6 +401,10 @@
 									"Rarity": "Rare",
 									"Children": [
 										{
+											"Name": "Christmas_Vest_01",
+											"Rarity": "Rare"
+										},
+										{
 											"Name": "Hoodies",
 											"Rarity": "VeryRare",
 											"Children": [
@@ -427,8 +431,16 @@
 													"Rarity": "Rare"
 												},
 												{
+													"Name": "Qipao_Dress_01",
+													"Rarity": "Uncommon"
+												},
+												{
 													"Name": "Shirt_01",
 													"Rarity": "Uncommon"
+												},
+												{
+													"Name": "Vest_01",
+													"Rarity": "Rare"
 												}
 											]
 										}

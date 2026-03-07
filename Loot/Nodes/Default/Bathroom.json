@@ -23,6 +23,10 @@
 											"Rarity": "Uncommon"
 										},
 										{
+											"Name": "HH_Wedge_Heels_01_01",
+											"Rarity": "Rare"
+										},
+										{
 											"Name": "HighTop_Shoes",
 											"Rarity": "Uncommon"
 										},
@@ -465,6 +469,10 @@
 											"Rarity": "Rare"
 										},
 										{
+											"Name": "Qipao_Dress_01",
+											"Rarity": "Rare"
+										},
+										{
 											"Name": "Shirt_01",
 											"Rarity": "Uncommon"
 										},
@@ -475,6 +483,10 @@
 										{
 											"Name": "Undershirt_01",
 											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Vest_01",
+											"Rarity": "VeryRare"
 										},
 										{
 											"Name": "Woodcuters_Shirt_01",
