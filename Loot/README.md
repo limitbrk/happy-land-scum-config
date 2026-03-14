@@ -16,7 +16,7 @@ Loot/
 │       └── Override/
 │           ├── CustomZone/
 │           │   ├── ชื่อไฟล์ที่มีในPreset.json
-│           │   └── Zone.json
+│           │   └── Zones.json
 │           └── ชื่อไฟล์ที่มีในPreset.json
 └── GeneralZoneModifiers.json
 ```
@@ -165,7 +165,7 @@ Object ไหนเวลาค้นหาใช้ [Spawner Preset](#spawners)
 	"PostSpawnActions": []  		// ตั้งค่าสภาพดรอป
 }
 ```
-ในไฟล์ `Zone.json` จะกำหนดพื้นที่ของ [Spawner Preset](#spawners) (เฉพาะแบบกำหนด Zone)
+ในไฟล์ `Zones.json` จะกำหนดพื้นที่ของ [Spawner Preset](#spawners) (เฉพาะแบบกำหนด Zone)
 ```json
 {
 	"Zones": [
