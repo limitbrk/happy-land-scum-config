@@ -1,27 +1,31 @@
 {
-	"FixedItems": [
-		"C4_CircuitBoard",
-		"BCULock_Item",
-		"Cal_50BMG",
-		"Cal_50BMG",
-		"Cal_50BMG",
-		"Cal_50BMG",
-		"Cal_50BMG",
-		"Cal_50BMG",
-		"KeyCard",
-		"Gear"
-	],
 	"Items": [
 		{
 			"Rarity": "Uncommon",
+			"Id": "Cal_50BMG"
+		},
+		{
+			"Rarity": "ExtremelyRare",
 			"Id": "MemoryModule_Level1"
 		}
 	],
-	"Probability": 5,
-	"QuantityMin": 1,
-	"QuantityMax": 1,
-	"AllowDuplicates": false,
+	"FixedItems": [
+		"C4_CircuitBoard",
+		"BCULock_Item",
+		"PortableWorkLight",
+		"PortableWorkLight",
+		"Laser_Detonator",
+		"Sentry_Aiming_Kit",
+		"Sentry_50cal_Rifle",
+		"KeyCard",
+		"Gear"
+	],
+	"QuantityMin": 5,
+	"QuantityMax": 15,
+	"AllowDuplicates": true,
 	"ShouldFilterItemsByZone": true,
+	"ShouldApplyLocationSpecificProbabilityModifier": true,
+	"ShouldApplyLocationSpecificDamageModifier": true,
 	"InitialDamage": 20,
 	"RandomDamage": 10,
 	"InitialUsage": 0,
