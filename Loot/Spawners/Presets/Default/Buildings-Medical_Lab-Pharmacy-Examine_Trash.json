@@ -7,9 +7,7 @@
 				"ItemLootTreeNodes.Pharmacy.Items.Scissors",
 				"ItemLootTreeNodes.Pharmacy.Items.Fabric",
 				"ItemLootTreeNodes.Pharmacy.Other.Backpacks",
-				"ItemLootTreeNodes.Pharmacy.Other.Drink",
-				"ItemLootTreeNodes.Pharmacy.Other.Tools",
-				"ItemLootTreeNodes.Pharmacy.Other.Food.Snacks"
+				"ItemLootTreeNodes.Pharmacy.Other.Tools"
 			]
 		}
 	],

@@ -2209,6 +2209,10 @@
 											"Rarity": "Rare"
 										},
 										{
+											"Name": "Magazine_Clip_SKS",
+											"Rarity": "VeryRare"
+										},
+										{
 											"Name": "Magazine_DEagle_50",
 											"Rarity": "Uncommon"
 										},
@@ -2636,6 +2640,10 @@
 												},
 												{
 													"Name": "ScopeRail_AK47",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "SKS_Bayonet",
 													"Rarity": "Rare"
 												},
 												{

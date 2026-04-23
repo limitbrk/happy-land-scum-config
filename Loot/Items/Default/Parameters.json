@@ -1204,7 +1204,6 @@
 				"Zucchini_Seed_Bag",
 				"Cannabis_Seed_Bag",
 				"Tobacco_Seed_Bag",
-				"Apricot_Seed_Bag",
 				"Orange_Seed_Bag",
 				"Peach_Seed_Bag",
 				"Plum_Seed_Bag",
@@ -9652,6 +9651,22 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
+			"Id": "Magazine_Clip_SKS",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
 			"Id": "Magazine_DEagle_50",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
@@ -11311,6 +11326,22 @@
 		},
 		{
 			"Id": "Organic_Fertilizer",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "P17_Bayonet",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -14106,6 +14137,22 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
+			"Id": "SKS_Bayonet",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
 			"Id": "Sledgehammer",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
@@ -16659,6 +16706,22 @@
 			"RandomUsageOverrideUsage": 0
 		},
 		{
+			"Id": "Weapon_SKS",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "Weapons.DMRSnipers.Tier.Low",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
 			"Id": "Weapon_SVD_Dragunov",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
@@ -16685,6 +16748,22 @@
 			"CooldownPerSquadMemberMin": 0,
 			"CooldownPerSquadMemberMax": 0,
 			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverrideUsage": 0
+		},
+		{
+			"Id": "Weapon_Trench_Gun",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "Weapons.Shotguns.Tier.High",
 			"Variations": [],
 			"ShouldOverrideInitialAndRandomUsage": false,
 			"InitialUsageOverride": 0,

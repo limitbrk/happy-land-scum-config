@@ -4,12 +4,8 @@
 			"Rarity": "Uncommon",
 			"Ids": [
 				"ItemLootTreeNodes.Pharmacy.Other.Money",
-				"ItemLootTreeNodes.Pharmacy.Other.Drink",
 				"ItemLootTreeNodes.Pharmacy.Other.Backpacks",
-				"ItemLootTreeNodes.Pharmacy.Items",
-				"ItemLootTreeNodes.Pharmacy.Other.Food.Cans",
-				"ItemLootTreeNodes.Pharmacy.Other.Food.Dairy",
-				"ItemLootTreeNodes.Pharmacy.Other.Food.Snacks"
+				"ItemLootTreeNodes.Pharmacy.Items"
 			]
 		}
 	],

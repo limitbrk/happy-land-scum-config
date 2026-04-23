@@ -3,22 +3,25 @@
 		{
 			"Rarity": "Uncommon",
 			"Ids": [
-				"ItemLootTreeNodes.Military.Gear"
+				"ItemLootTreeNodes.Workshop"
 			]
 		}
 	],
-	"Probability": 30,
+	"Items": [
+		{
+			"Rarity": "VeryRare",
+			"Id": "Super_Glue"
+		}
+	],
+	"Probability": 12,
 	"QuantityMin": 1,
-	"QuantityMax": 1,
+	"QuantityMax": 2,
 	"AllowDuplicates": false,
 	"ShouldFilterItemsByZone": true,
 	"ShouldApplyLocationSpecificProbabilityModifier": true,
 	"ShouldApplyLocationSpecificDamageModifier": true,
-	"InitialDamage": 0,
-	"RandomDamage": 15,
-	"InitialUsage": 0,
-	"RandomUsage": 15,
-	"PostSpawnActions": [
-		"SetClothesDirtiness_ResidentialClothes"
-	]
+	"InitialDamage": 30,
+	"RandomDamage": 30,
+	"InitialUsage": 10,
+	"RandomUsage": 30
 }

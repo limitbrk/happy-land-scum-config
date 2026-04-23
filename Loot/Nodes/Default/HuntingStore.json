@@ -2137,6 +2137,10 @@
 										{
 											"Name": "Weapon_MosinNagant",
 											"Rarity": "Rare"
+										},
+										{
+											"Name": "Weapon_SKS",
+											"Rarity": "Rare"
 										}
 									]
 								}
@@ -2241,6 +2245,10 @@
 											"Rarity": "ExtremelyRare"
 										}
 									]
+								},
+								{
+									"Name": "Weapon_SKS",
+									"Rarity": "Rare"
 								},
 								{
 									"Name": "Weapon_SVD_Dragunov",
@@ -3018,6 +3026,10 @@
 													"Rarity": "Rare"
 												}
 											]
+										},
+										{
+											"Name": "SKS_Bayonet",
+											"Rarity": "VeryRare"
 										}
 									]
 								},
@@ -3435,6 +3447,10 @@
 									"Name": "Snipers",
 									"Rarity": "ExtremelyRare",
 									"Children": [
+										{
+											"Name": "Magazine_Clip_SKS",
+											"Rarity": "Rare"
+										},
 										{
 											"Name": "Magazine_M82A1",
 											"Rarity": "VeryRare"

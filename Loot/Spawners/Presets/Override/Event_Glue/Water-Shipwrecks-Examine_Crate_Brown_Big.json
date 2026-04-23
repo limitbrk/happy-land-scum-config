@@ -1,0 +1,30 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Workshop.Crafting",
+				"ItemLootTreeNodes.Workshop.LightsFire",
+				"ItemLootTreeNodes.Workshop.Tools.Heavy",
+				"ItemLootTreeNodes.Workshop.WorkClothes"
+			]
+		}
+	],
+	"Items": [
+		{
+			"Rarity": "VeryRare",
+			"Id": "Super_Glue"
+		}
+	],
+	"Probability": 12,
+	"QuantityMin": 1,
+	"QuantityMax": 2,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"ShouldApplyLocationSpecificProbabilityModifier": true,
+	"ShouldApplyLocationSpecificDamageModifier": true,
+	"InitialDamage": 30,
+	"RandomDamage": 30,
+	"InitialUsage": 10,
+	"RandomUsage": 30
+}

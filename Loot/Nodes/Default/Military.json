@@ -1743,6 +1743,14 @@
 													"Rarity": "Rare"
 												}
 											]
+										},
+										{
+											"Name": "P17_Bayonet",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "SKS_Bayonet",
+											"Rarity": "VeryRare"
 										}
 									]
 								},
@@ -2382,6 +2390,10 @@
 											"Rarity": "VeryRare"
 										},
 										{
+											"Name": "Magazine_Clip_SKS",
+											"Rarity": "Rare"
+										},
+										{
 											"Name": "Magazine_M82A1",
 											"Rarity": "VeryRare"
 										},
@@ -2780,6 +2792,10 @@
 								{
 									"Name": "Weapon_SDASS",
 									"Rarity": "Rare"
+								},
+								{
+									"Name": "Weapon_Trench_Gun",
+									"Rarity": "VeryRare"
 								}
 							]
 						},
@@ -2864,6 +2880,10 @@
 								{
 									"Name": "Weapon_AWP",
 									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Weapon_SKS",
+									"Rarity": "Rare"
 								},
 								{
 									"Name": "Weapon_SVD_Dragunov",

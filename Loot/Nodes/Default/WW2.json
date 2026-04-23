@@ -629,6 +629,14 @@
 										{
 											"Name": "Mosin_Bayonet",
 											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "P17_Bayonet",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "SKS_Bayonet",
+											"Rarity": "VeryRare"
 										}
 									]
 								},
@@ -734,6 +742,10 @@
 									"Children": [
 										{
 											"Name": "M1_Clip",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Magazine_Clip_SKS",
 											"Rarity": "Rare"
 										}
 									]
@@ -913,6 +925,10 @@
 								{
 									"Name": "Weapon_MosinNagant",
 									"Rarity": "Rare"
+								},
+								{
+									"Name": "Weapon_SKS",
+									"Rarity": "Rare"
 								}
 							]
 						},
@@ -926,6 +942,10 @@
 								},
 								{
 									"Name": "Weapon_M1887_Sawed_off",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Weapon_Trench_Gun",
 									"Rarity": "Rare"
 								}
 							]
