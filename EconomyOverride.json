@@ -734,6 +734,7 @@
 					"available-after-sale-only": "default"
 				}
 			],
+			"A_0_Barber": [],
 			"A_0_BoatShop": [
 				{
 					"tradeable-code": "Fish_Catfish",
@@ -750,6 +751,172 @@
 					"base-sell-price": "200",
 					"delta-price": "1.0",
 					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				}
+			],
+			"A_0_Hospital": [
+				{
+					"tradeable-code": "BP_BCUUpgradeService",
+					"base-purchase-price": "50000",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "true",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				}
+			],
+			"A_0_Hunter": [
+				{
+					"tradeable-code": "Recurve_Bow_100",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_90",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_50",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Improvised_Bow_25",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Improvised_Bow_30",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Improvised_Bow_35",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_60",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_80",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_70",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_Snow",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_Desert",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_Digital",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_US_Scorpion",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_Woodland",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_BlackHawk_Crossbow",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_DT11B_Sawed_Off",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
 					"required-famepoints": "-1",
 					"available-after-sale-only": "default"
 				}
@@ -1027,6 +1194,269 @@
 					"delta-price": "1.0",
 					"can-be-purchased": "false",
 					"required-famepoints": "-1"
+				}
+			],
+			"A_0_Saloon": [
+				{
+					"tradeable-code": "Fish_Catfish",
+					"base-purchase-price": "1500",
+					"base-sell-price": "1000",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Fish_Tuna",
+					"base-purchase-price": "300",
+					"base-sell-price": "200",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Fig",
+					"base-purchase-price": "2000",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Opuntia_Fig",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Grapes_Raw",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Date",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Olives",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Peach",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wild_Strawberry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Aloe_Vera",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Agaricus_Augustus",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Agaricus_Campestris",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Armillaria_Mellea",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Boletus_Edulis",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Cantharellus_Cibarius",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Coprinus_Comatus",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lycoperdon_Gigantea",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ganoderma_Lucidum",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Parsley",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Onion",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lemon",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Spinach",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lettuce",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Zucchini",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Cucumber",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Potato",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wild_Cherry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Pear",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Corn",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
 				}
 			],
 			"A_0_Trader": [
@@ -1439,436 +1869,6 @@
 					"delta-price": "1.0",
 					"can-be-purchased": "true",
 					"required-famepoints": "-1"
-				}
-			],
-			"A_0_Saloon": [
-				{
-					"tradeable-code": "Fish_Catfish",
-					"base-purchase-price": "1500",
-					"base-sell-price": "1000",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Fish_Tuna",
-					"base-purchase-price": "300",
-					"base-sell-price": "200",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Fig",
-					"base-purchase-price": "2000",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Opuntia_Fig",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Grapes_Raw",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Date",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Olives",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Peach",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Wild_Strawberry",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Aloe_Vera",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Agaricus_Augustus",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Agaricus_Campestris",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Armillaria_Mellea",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Boletus_Edulis",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Cantharellus_Cibarius",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Coprinus_Comatus",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Lycoperdon_Gigantea",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Ganoderma_Lucidum",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Parsley",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Onion",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Lemon",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Spinach",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Lettuce",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Zucchini",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Cucumber",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Potato",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Wild_Cherry",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Pear",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Corn",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				}
-			],
-			"A_0_Hospital": [
-				{
-					"tradeable-code": "BP_BCUUpgradeService",
-					"base-purchase-price": "50000",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "true",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				}
-			],
-			"A_0_Barber": [],
-			"A_0_Hunter": [
-				{
-					"tradeable-code": "Recurve_Bow_100",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_90",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_50",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Improvised_Bow_25",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Improvised_Bow_30",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Improvised_Bow_35",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_60",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_80",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_70",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_Snow",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_Desert",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_Digital",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_US_Scorpion",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_Woodland",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Weapon_BlackHawk_Crossbow",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Weapon_DT11B_Sawed_Off",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
 				}
 			],
 			"B_4_Armory": [
@@ -2584,6 +2584,7 @@
 					"available-after-sale-only": "default"
 				}
 			],
+			"B_4_Barber": [],
 			"B_4_BoatShop": [
 				{
 					"tradeable-code": "Fish_Catfish",
@@ -2600,6 +2601,172 @@
 					"base-sell-price": "200",
 					"delta-price": "1.0",
 					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				}
+			],
+			"B_4_Hospital": [
+				{
+					"tradeable-code": "BP_BCUUpgradeService",
+					"base-purchase-price": "50000",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "true",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				}
+			],
+			"B_4_Hunter": [
+				{
+					"tradeable-code": "Recurve_Bow_100",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_90",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_50",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Improvised_Bow_25",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Improvised_Bow_30",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Improvised_Bow_35",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_60",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_80",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_70",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_Snow",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_Desert",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_Digital",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_US_Scorpion",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_Woodland",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_BlackHawk_Crossbow",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_DT11B_Sawed_Off",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
 					"required-famepoints": "-1",
 					"available-after-sale-only": "default"
 				}
@@ -2877,6 +3044,269 @@
 					"delta-price": "1.0",
 					"can-be-purchased": "false",
 					"required-famepoints": "-1"
+				}
+			],
+			"B_4_Saloon": [
+				{
+					"tradeable-code": "Fish_Catfish",
+					"base-purchase-price": "1500",
+					"base-sell-price": "1000",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Fish_Tuna",
+					"base-purchase-price": "300",
+					"base-sell-price": "200",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Fig",
+					"base-purchase-price": "2000",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Opuntia_Fig",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Grapes_Raw",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Date",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Olives",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Peach",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wild_Strawberry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Aloe_Vera",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Agaricus_Augustus",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Agaricus_Campestris",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Armillaria_Mellea",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Boletus_Edulis",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Cantharellus_Cibarius",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Coprinus_Comatus",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lycoperdon_Gigantea",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ganoderma_Lucidum",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Parsley",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Onion",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lemon",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Spinach",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lettuce",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Zucchini",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Cucumber",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Potato",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wild_Cherry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Pear",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Corn",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
 				}
 			],
 			"B_4_Trader": [
@@ -3289,436 +3719,6 @@
 					"delta-price": "1.0",
 					"can-be-purchased": "true",
 					"required-famepoints": "-1"
-				}
-			],
-			"B_4_Saloon": [
-				{
-					"tradeable-code": "Fish_Catfish",
-					"base-purchase-price": "1500",
-					"base-sell-price": "1000",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Fish_Tuna",
-					"base-purchase-price": "300",
-					"base-sell-price": "200",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Fig",
-					"base-purchase-price": "2000",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Opuntia_Fig",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Grapes_Raw",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Date",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Olives",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Peach",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Wild_Strawberry",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Aloe_Vera",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Agaricus_Augustus",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Agaricus_Campestris",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Armillaria_Mellea",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Boletus_Edulis",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Cantharellus_Cibarius",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Coprinus_Comatus",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Lycoperdon_Gigantea",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Ganoderma_Lucidum",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Parsley",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Onion",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Lemon",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Spinach",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Lettuce",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Zucchini",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Cucumber",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Potato",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Wild_Cherry",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Pear",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Corn",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				}
-			],
-			"B_4_Hospital": [
-				{
-					"tradeable-code": "BP_BCUUpgradeService",
-					"base-purchase-price": "50000",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "true",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				}
-			],
-			"B_4_Barber": [],
-			"B_4_Hunter": [
-				{
-					"tradeable-code": "Recurve_Bow_100",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_90",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_50",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Improvised_Bow_25",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Improvised_Bow_30",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Improvised_Bow_35",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_60",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_80",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_70",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_Snow",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_Desert",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_Digital",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_US_Scorpion",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_Woodland",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Weapon_BlackHawk_Crossbow",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Weapon_DT11B_Sawed_Off",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
 				}
 			],
 			"C_2_Armory": [
@@ -4434,6 +4434,7 @@
 					"available-after-sale-only": "default"
 				}
 			],
+			"C_2_Barber": [],
 			"C_2_BoatShop": [
 				{
 					"tradeable-code": "Fish_Catfish",
@@ -4450,6 +4451,172 @@
 					"base-sell-price": "200",
 					"delta-price": "1.0",
 					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				}
+			],
+			"C_2_Hospital": [
+				{
+					"tradeable-code": "BP_BCUUpgradeService",
+					"base-purchase-price": "50000",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "true",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				}
+			],
+			"C_2_Hunter": [
+				{
+					"tradeable-code": "Recurve_Bow_100",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_90",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_50",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Improvised_Bow_25",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Improvised_Bow_30",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Improvised_Bow_35",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_60",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_80",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_70",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_Snow",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_Desert",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_Digital",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_US_Scorpion",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_Woodland",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_BlackHawk_Crossbow",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_DT11B_Sawed_Off",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
 					"required-famepoints": "-1",
 					"available-after-sale-only": "default"
 				}
@@ -4727,6 +4894,269 @@
 					"delta-price": "1.0",
 					"can-be-purchased": "false",
 					"required-famepoints": "-1"
+				}
+			],
+			"C_2_Saloon": [
+				{
+					"tradeable-code": "Fish_Catfish",
+					"base-purchase-price": "1500",
+					"base-sell-price": "1000",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Fish_Tuna",
+					"base-purchase-price": "300",
+					"base-sell-price": "200",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Fig",
+					"base-purchase-price": "2000",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Opuntia_Fig",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Grapes_Raw",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Date",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Olives",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Peach",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wild_Strawberry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Aloe_Vera",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Agaricus_Augustus",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Agaricus_Campestris",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Armillaria_Mellea",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Boletus_Edulis",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Cantharellus_Cibarius",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Coprinus_Comatus",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lycoperdon_Gigantea",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ganoderma_Lucidum",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Parsley",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Onion",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lemon",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Spinach",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lettuce",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Zucchini",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Cucumber",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Potato",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wild_Cherry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Pear",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Corn",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
 				}
 			],
 			"C_2_Trader": [
@@ -5139,436 +5569,6 @@
 					"delta-price": "1.0",
 					"can-be-purchased": "true",
 					"required-famepoints": "-1"
-				}
-			],
-			"C_2_Saloon": [
-				{
-					"tradeable-code": "Fish_Catfish",
-					"base-purchase-price": "1500",
-					"base-sell-price": "1000",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Fish_Tuna",
-					"base-purchase-price": "300",
-					"base-sell-price": "200",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Fig",
-					"base-purchase-price": "2000",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Opuntia_Fig",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Grapes_Raw",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Date",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Olives",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Peach",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Wild_Strawberry",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Aloe_Vera",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Agaricus_Augustus",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Agaricus_Campestris",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Armillaria_Mellea",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Boletus_Edulis",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Cantharellus_Cibarius",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Coprinus_Comatus",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Lycoperdon_Gigantea",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Ganoderma_Lucidum",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Parsley",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Onion",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Lemon",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Spinach",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Lettuce",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Zucchini",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Cucumber",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Potato",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Wild_Cherry",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Pear",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Corn",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				}
-			],
-			"C_2_Hospital": [
-				{
-					"tradeable-code": "BP_BCUUpgradeService",
-					"base-purchase-price": "50000",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "true",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				}
-			],
-			"C_2_Barber": [],
-			"C_2_Hunter": [
-				{
-					"tradeable-code": "Recurve_Bow_100",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_90",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_50",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Improvised_Bow_25",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Improvised_Bow_30",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Improvised_Bow_35",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_60",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_80",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_70",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_Snow",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_Desert",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_Digital",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_US_Scorpion",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_Woodland",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Weapon_BlackHawk_Crossbow",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Weapon_DT11B_Sawed_Off",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
 				}
 			],
 			"Z_3_Armory": [
@@ -6284,6 +6284,7 @@
 					"available-after-sale-only": "default"
 				}
 			],
+			"Z_3_Barber": [],
 			"Z_3_BoatShop": [
 				{
 					"tradeable-code": "Fish_Catfish",
@@ -6300,6 +6301,172 @@
 					"base-sell-price": "200",
 					"delta-price": "1.0",
 					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				}
+			],
+			"Z_3_Hospital": [
+				{
+					"tradeable-code": "BP_BCUUpgradeService",
+					"base-purchase-price": "50000",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "true",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				}
+			],
+			"Z_3_Hunter": [
+				{
+					"tradeable-code": "Recurve_Bow_100",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_90",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_50",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Improvised_Bow_25",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Improvised_Bow_30",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Improvised_Bow_35",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_60",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_80",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Recurve_Bow_70",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_Snow",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_Desert",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_Digital",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_US_Scorpion",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Compound_Bow_Woodland",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_BlackHawk_Crossbow",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Weapon_DT11B_Sawed_Off",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
 					"required-famepoints": "-1",
 					"available-after-sale-only": "default"
 				}
@@ -6577,6 +6744,269 @@
 					"delta-price": "1.0",
 					"can-be-purchased": "false",
 					"required-famepoints": "-1"
+				}
+			],
+			"Z_3_Saloon": [
+				{
+					"tradeable-code": "Fish_Catfish",
+					"base-purchase-price": "1500",
+					"base-sell-price": "1000",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Fish_Tuna",
+					"base-purchase-price": "300",
+					"base-sell-price": "200",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Fig",
+					"base-purchase-price": "2000",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Opuntia_Fig",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Grapes_Raw",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Date",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Olives",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Peach",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wild_Strawberry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Aloe_Vera",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Agaricus_Augustus",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Agaricus_Campestris",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Armillaria_Mellea",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Boletus_Edulis",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Cantharellus_Cibarius",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Coprinus_Comatus",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lycoperdon_Gigantea",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Ganoderma_Lucidum",
+					"base-purchase-price": "1500",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "default",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Parsley",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Onion",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lemon",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Spinach",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Lettuce",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Zucchini",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Cucumber",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Potato",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wild_Cherry",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Pear",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Corn",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
 				}
 			],
 			"Z_3_Trader": [
@@ -6989,436 +7419,6 @@
 					"delta-price": "1.0",
 					"can-be-purchased": "true",
 					"required-famepoints": "-1"
-				}
-			],
-			"Z_3_Saloon": [
-				{
-					"tradeable-code": "Fish_Catfish",
-					"base-purchase-price": "1500",
-					"base-sell-price": "1000",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Fish_Tuna",
-					"base-purchase-price": "300",
-					"base-sell-price": "200",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Fig",
-					"base-purchase-price": "2000",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Opuntia_Fig",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Grapes_Raw",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Date",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Olives",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Peach",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Wild_Strawberry",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Aloe_Vera",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Agaricus_Augustus",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Agaricus_Campestris",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Armillaria_Mellea",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Boletus_Edulis",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Cantharellus_Cibarius",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Coprinus_Comatus",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Lycoperdon_Gigantea",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Ganoderma_Lucidum",
-					"base-purchase-price": "1500",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "default",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Parsley",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Onion",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Lemon",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Spinach",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Lettuce",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Zucchini",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Cucumber",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Potato",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Wild_Cherry",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Pear",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Corn",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				}
-			],
-			"Z_3_Hospital": [
-				{
-					"tradeable-code": "BP_BCUUpgradeService",
-					"base-purchase-price": "50000",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "true",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				}
-			],
-			"Z_3_Barber": [],
-			"Z_3_Hunter": [
-				{
-					"tradeable-code": "Recurve_Bow_100",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_90",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_50",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Improvised_Bow_25",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Improvised_Bow_30",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Improvised_Bow_35",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_60",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_80",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Recurve_Bow_70",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_Snow",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_Desert",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_Digital",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_US_Scorpion",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Compound_Bow_Woodland",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Weapon_BlackHawk_Crossbow",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
-				},
-				{
-					"tradeable-code": "Weapon_DT11B_Sawed_Off",
-					"base-purchase-price": "-1",
-					"base-sell-price": "-1",
-					"delta-price": "1.0",
-					"can-be-purchased": "false",
-					"required-famepoints": "-1",
-					"available-after-sale-only": "default"
 				}
 			]
 		}
