@@ -921,6 +921,161 @@
           "available-after-sale-only": "default"
         }
       ],
+      "A_0_Master_Hunter": [
+        {
+          "tradeable-code": "Recurve_Bow_100",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_90",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_50",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_25",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_30",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_35",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_60",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_80",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_70",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Snow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Desert",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Digital",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_US_Scorpion",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Woodland",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Weapon_BlackHawk_Crossbow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Weapon_DT11B_Sawed_Off",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        }
+      ],
       "A_0_Mechanic": [
         {
           "tradeable-code": "Car_Repair_Kit",
@@ -1463,6 +1618,213 @@
           "can-be-purchased": "false",
           "required-famepoints": "-1",
           "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Beer",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Vodka",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Tequila",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Kicmovaca",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Scum_Sunrise",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "SCUMkin_Spice_Latte",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Slavic_Gent",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "The_Island_Special",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "GlassBottle01",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "GlassBottle02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "GlassBottle03",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "GlassBottle04",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Wine",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Whiskey",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Can01",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Can02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Can03",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Can04",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "PETBottle01",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "PETBottle02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "PETBottle03",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "PETBottle04",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Slav_Reviver",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
         }
       ],
       "A_0_Trader": [
@@ -1837,6 +2199,87 @@
         },
         {
           "tradeable-code": "Pear",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Onion",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Spinach",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Lettuce",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Zucchini",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Cucumber",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Potato",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Wild_Cherry",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Pear",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Corn",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1.0",
@@ -2781,6 +3224,161 @@
           "available-after-sale-only": "default"
         }
       ],
+      "B_4_Master_Hunter": [
+        {
+          "tradeable-code": "Recurve_Bow_100",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_90",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_50",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_25",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_30",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_35",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_60",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_80",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_70",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Snow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Desert",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Digital",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_US_Scorpion",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Woodland",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Weapon_BlackHawk_Crossbow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Weapon_DT11B_Sawed_Off",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        }
+      ],
       "B_4_Mechanic": [
         {
           "tradeable-code": "Car_Repair_Kit",
@@ -3323,6 +3921,213 @@
           "can-be-purchased": "false",
           "required-famepoints": "-1",
           "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Beer",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Vodka",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Tequila",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Kicmovaca",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Scum_Sunrise",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "SCUMkin_Spice_Latte",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Slavic_Gent",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "The_Island_Special",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "GlassBottle01",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "GlassBottle02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "GlassBottle03",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "GlassBottle04",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Wine",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Whiskey",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Can01",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Can02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Can03",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Can04",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "PETBottle01",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "PETBottle02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "PETBottle03",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "PETBottle04",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Slav_Reviver",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
         }
       ],
       "B_4_Trader": [
@@ -3697,6 +4502,87 @@
         },
         {
           "tradeable-code": "Pear",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Onion",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Spinach",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Lettuce",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Zucchini",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Cucumber",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Potato",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Wild_Cherry",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Pear",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Corn",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1.0",
@@ -4641,6 +5527,161 @@
           "available-after-sale-only": "default"
         }
       ],
+      "C_2_Master_Hunter": [
+        {
+          "tradeable-code": "Recurve_Bow_100",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_90",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_50",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_25",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_30",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_35",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_60",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_80",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_70",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Snow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Desert",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Digital",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_US_Scorpion",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Woodland",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Weapon_BlackHawk_Crossbow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Weapon_DT11B_Sawed_Off",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        }
+      ],
       "C_2_Mechanic": [
         {
           "tradeable-code": "Car_Repair_Kit",
@@ -5183,6 +6224,213 @@
           "can-be-purchased": "false",
           "required-famepoints": "-1",
           "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Beer",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Vodka",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Tequila",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Kicmovaca",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Scum_Sunrise",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "SCUMkin_Spice_Latte",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Slavic_Gent",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "The_Island_Special",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "GlassBottle01",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "GlassBottle02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "GlassBottle03",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "GlassBottle04",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Wine",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Whiskey",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Can01",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Can02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Can03",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Can04",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "PETBottle01",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "PETBottle02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "PETBottle03",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "PETBottle04",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Slav_Reviver",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
         }
       ],
       "C_2_Trader": [
@@ -5557,6 +6805,87 @@
         },
         {
           "tradeable-code": "Pear",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Onion",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Spinach",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Lettuce",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Zucchini",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Cucumber",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Potato",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Wild_Cherry",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Pear",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Corn",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1.0",
@@ -6501,6 +7830,161 @@
           "available-after-sale-only": "default"
         }
       ],
+      "Z_3_Master_Hunter": [
+        {
+          "tradeable-code": "Recurve_Bow_100",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_90",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_50",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_25",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_30",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Improvised_Bow_35",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_60",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_80",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Recurve_Bow_70",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Snow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Desert",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Digital",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_US_Scorpion",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Compound_Bow_Woodland",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Weapon_BlackHawk_Crossbow",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Weapon_DT11B_Sawed_Off",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        }
+      ],
       "Z_3_Mechanic": [
         {
           "tradeable-code": "Car_Repair_Kit",
@@ -7043,6 +8527,213 @@
           "can-be-purchased": "false",
           "required-famepoints": "-1",
           "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Beer",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Vodka",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Tequila",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Kicmovaca",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Scum_Sunrise",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "SCUMkin_Spice_Latte",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Slavic_Gent",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "The_Island_Special",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "GlassBottle01",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "GlassBottle02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "GlassBottle03",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "GlassBottle04",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Wine",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Whiskey",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Can01",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Can02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Can03",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Can04",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "PETBottle01",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "PETBottle02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "PETBottle03",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "PETBottle04",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Slav_Reviver",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
         }
       ],
       "Z_3_Trader": [
@@ -7417,6 +9108,87 @@
         },
         {
           "tradeable-code": "Pear",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Onion",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Spinach",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Lettuce",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Zucchini",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Cucumber",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Potato",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Wild_Cherry",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Pear",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1",
+          "available-after-sale-only": "default"
+        },
+        {
+          "tradeable-code": "Corn",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "1.0",
