@@ -18,6 +18,7 @@
 		"Sentry_Aiming_Kit",
 		"Sentry_50cal_Rifle",
 		"KeyCard",
+		"KeyCardApex",
 		"Gear"
 	],
 	"QuantityMin": 5,
@@ -30,6 +31,8 @@
 	"RandomDamage": 10,
 	"InitialUsage": 0,
 	"RandomUsage": 0,
+	"InitialStack": 0,
+	"RandomStack": 0,
 	"PostSpawnActions": [
 		"KillboxKeycard_Sentry"
 	]

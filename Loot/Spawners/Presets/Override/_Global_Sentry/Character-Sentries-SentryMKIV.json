@@ -21,6 +21,7 @@
 		"TearGasGrenade",
 		"TearGasGrenade",
 		"KeyCard",
+		"KeyCardApex",
 		"Sentry_Aiming_Kit",
 		"Flashbang",
 		"Flashbang",
@@ -36,6 +37,8 @@
 	"RandomDamage": 10,
 	"InitialUsage": 0,
 	"RandomUsage": 0,
+	"InitialStack": 0,
+	"RandomStack": 0,
 	"PostSpawnActions": [
 		"KillboxKeycard_Sentry"
 	]

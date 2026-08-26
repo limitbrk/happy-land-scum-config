@@ -1,0 +1,108 @@
+{
+	"Items": [
+		{
+			"Rarity": "ExtremelyRare",
+			"Id": "Weapon_AT4_HEAT"
+		},
+		{
+			"Rarity": "ExtremelyRare",
+			"Id": "Weapon_RPG7"
+		},
+		{
+			"Rarity": "ExtremelyRare",
+			"Id": "Cal_40_OG-7V"
+		},
+		{
+			"Rarity": "ExtremelyRare",
+			"Id": "Cal_40_PG-7M"
+		},
+		{
+			"Rarity": "ExtremelyRare",
+			"Id": "Weapon_M82A1"
+		},
+		{
+			"Rarity": "ExtremelyRare",
+			"Id": "Weapon_M82A1_Black"
+		},
+		{
+			"Rarity": "VeryRare",
+			"Id": "Weapon_M82A1_Desert"
+		},
+		{
+			"Rarity": "VeryRare",
+			"Id": "Weapon_M82A1_Snow"
+		},
+		{
+			"Rarity": "VeryRare",
+			"Id": "Weapon_AWM"
+		},
+		{
+			"Rarity": "VeryRare",
+			"Id": "Weapon_AWM_Green"
+		},
+		{
+			"Rarity": "VeryRare",
+			"Id": "Weapon_AWM_Snake"
+		},
+		{
+			"Rarity": "VeryRare",
+			"Id": "Weapon_AWM_Desert"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Weapon_AWP"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Weapon_AWP_Green"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Weapon_AWP_Snake"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Weapon_AWP_Desert"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "2H_Katana1"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Compound_Bow_Snow"
+		},
+		{
+			"Rarity": "Common",
+			"Id": "Compound_Bow_Desert"
+		},
+		{
+			"Rarity": "Common",
+			"Id": "Compound_Bow_Digital"
+		},
+		{
+			"Rarity": "Common",
+			"Id": "Compound_Bow_Woodland"
+		},
+		{
+			"Rarity": "Common",
+			"Id": "Compound_Bow_US_Scorpion"
+		},
+		{
+			"Rarity": "Common",
+			"Id": "Weapon_BlackHawk_Crossbow"
+		}
+	],
+	"QuantityMin": 1,
+	"QuantityMax": 1,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"ShouldApplyLocationSpecificProbabilityModifier": true,
+	"ShouldApplyLocationSpecificDamageModifier": true,
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0,
+	"InitialStack": 0,
+	"RandomStack": 0
+}
