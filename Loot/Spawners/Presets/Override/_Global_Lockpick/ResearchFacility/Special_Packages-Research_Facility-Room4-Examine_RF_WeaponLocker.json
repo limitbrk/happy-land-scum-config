@@ -93,8 +93,8 @@
 			"Id": "Weapon_BlackHawk_Crossbow"
 		}
 	],
-	"QuantityMin": 1,
-	"QuantityMax": 1,
+	"QuantityMin": 2,
+	"QuantityMax": 4,
 	"AllowDuplicates": false,
 	"ShouldFilterItemsByZone": true,
 	"ShouldApplyLocationSpecificProbabilityModifier": true,
