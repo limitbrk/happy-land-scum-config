@@ -17,7 +17,7 @@
 			"Id": "Cal_40_PG-7M"
 		},
 		{
-			"Rarity": "ExtremelyRare",
+			"Rarity": "VeryRare",
 			"Id": "Weapon_M82A1"
 		},
 		{
@@ -25,23 +25,20 @@
 			"Id": "Weapon_M82A1_Black"
 		},
 		{
-			"Rarity": "VeryRare",
+			"Rarity": "ExtremelyRare",
 			"Id": "Weapon_M82A1_Desert"
 		},
 		{
-			"Rarity": "VeryRare",
-			"Id": "Weapon_M82A1_Snow"
-		},
-		{
+
 			"Rarity": "VeryRare",
 			"Id": "Weapon_AWM"
 		},
 		{
-			"Rarity": "VeryRare",
+			"Rarity": "Uncommon",
 			"Id": "Weapon_AWM_Green"
 		},
 		{
-			"Rarity": "VeryRare",
+			"Rarity": "ExtremelyRare",
 			"Id": "Weapon_AWM_Snake"
 		},
 		{
@@ -57,39 +54,59 @@
 			"Id": "Weapon_AWP_Green"
 		},
 		{
-			"Rarity": "Uncommon",
+			"Rarity": "ExtremelyRare",
 			"Id": "Weapon_AWP_Snake"
 		},
 		{
-			"Rarity": "Uncommon",
+			"Rarity": "VeryRare",
 			"Id": "Weapon_AWP_Desert"
 		},
 		{
-			"Rarity": "Uncommon",
+			"Rarity": "VeryRare",
 			"Id": "2H_Katana1"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "2H_Katana"
 		},
 		{
 			"Rarity": "Uncommon",
 			"Id": "Compound_Bow_Snow"
 		},
 		{
-			"Rarity": "Common",
+			"Rarity": "Uncommon",
 			"Id": "Compound_Bow_Desert"
 		},
 		{
-			"Rarity": "Common",
+			"Rarity": "Uncommon",
 			"Id": "Compound_Bow_Digital"
 		},
 		{
-			"Rarity": "Common",
+			"Rarity": "Uncommon",
 			"Id": "Compound_Bow_Woodland"
 		},
 		{
-			"Rarity": "Common",
+			"Rarity": "Uncommon",
 			"Id": "Compound_Bow_US_Scorpion"
 		},
 		{
 			"Rarity": "Common",
+			"Id": "Compound_Bow"
+		},
+		{
+			"Rarity": "VeryRare",
+			"Id": "Recurve_Bow_100"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Recurve_Bow_90"
+		},
+		{
+			"Rarity": "Common",
+			"Id": "Recurve_Bow_80"
+		},
+		{
+			"Rarity": "Uncommon",
 			"Id": "Weapon_BlackHawk_Crossbow"
 		}
 	],

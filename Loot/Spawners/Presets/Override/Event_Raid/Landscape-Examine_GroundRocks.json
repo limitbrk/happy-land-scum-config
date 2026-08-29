@@ -1,0 +1,76 @@
+{
+	"FixedItems": [
+		"Stone_Small",
+		"Stone"
+	],
+	"Items": [
+		{
+			"Rarity": "Abundant",
+			"Id": "1H_Medieval_Sword"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "2H_Metal_Baseball_Bat"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "2H_Axe"	
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "1H_Brass_Knuckles"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Chainsaw"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "1H_Crowbar"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Dildo_Spear"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "1H_Kunai"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "1H_Metal_Pipe"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "2H_Pickaxe"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "2H_Pitchfork"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "1H_Police_Baton"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "1H_Shuriken"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Sledgehammer"
+		}
+	],
+	"QuantityMin": 1,
+	"QuantityMax": 3,
+	"AllowDuplicates": true,
+	"ShouldFilterItemsByZone": false,
+	"ShouldApplyLocationSpecificProbabilityModifier": false,
+	"ShouldApplyLocationSpecificDamageModifier": false,
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0,
+	"InitialStack": 0,
+	"RandomStack": 0
+}
