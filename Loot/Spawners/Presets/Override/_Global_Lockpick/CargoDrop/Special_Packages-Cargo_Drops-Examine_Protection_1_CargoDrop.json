@@ -1,11 +1,15 @@
 {
+	"Remark": "Replace Drop with VHS",
 	"FixedItems": [
-		"Respirator_01",
-		"Medical_Glove_01",
-		"Medical_Glove_01",
-		"Medical_Glove_01",
-		"Medical_Glove_01",
-		"Medical_Glove_01"
+		"Weapon_VHS2",
+        "Cal_5_56x45mm_Ammobox",
+        "Cal_5_56x45mm_Ammobox",
+        "Cal_5_56x45mm_Ammobox",
+        "Cal_5_56x45mm_Ammobox",
+        "Cal_5_56x45mm_Ammobox",
+        "Cal_5_56x45mm_Ammobox",
+        "Magazine_VHS2",
+        "Magazine_VHS2"
 	],
 	"InitialDamage": 0,
 	"RandomDamage": 0,

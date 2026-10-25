@@ -1,6 +1,10 @@
 {
+	"Remark": "Replace Drop With Red Spear Qipao",
 	"FixedItems": [
-		"C4_Keypad"
+		"Qipao_Dress_02",
+		"HH_Wedge_Heels_01_02",
+		"Bamboo_Hat_01",
+		"Wushu_Spear_Wooden"
 	],
 	"InitialDamage": 0,
 	"RandomDamage": 0,

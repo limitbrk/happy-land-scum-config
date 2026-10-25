@@ -1,15 +1,13 @@
 {
-    "Remark": "Replace Drop With VHS2",
+    "Remark": "Replace Drop With Red Chinese Swordman",
 	"FixedItems": [
-		"Weapon_VHS2_Rail",
-        "Cal_5_56x45mm_Ammobox",
-        "Cal_5_56x45mm_Ammobox",
-        "Cal_5_56x45mm_Ammobox",
-        "Cal_5_56x45mm_Ammobox",
-        "Cal_5_56x45mm_Ammobox",
-        "Magazine_VHS2",
-        "Magazine_VHS2",
-        "WeaponSights_RedDot_CA401B"
+		"Bamboo_Hat_01",
+		"Tang_shirt_03",
+		"Tang_pants_03",
+		"Beijing_Shoes_03",
+		"Hand_Fan_01",
+		"2H_Tang_Dao_Damascus",
+		"Grinding_Stone_02"
 	],
 	"InitialDamage": 0,
 	"RandomDamage": 0,

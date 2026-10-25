@@ -1,15 +1,13 @@
 {
-    "Remark": "Replace Drop With VHS2",
+    "Remark": "Replace Drop With Yellow Chinese Dual-Spearman",
 	"FixedItems": [
-		"Weapon_VHS2",
-        "Cal_5_56x45mm_Ammobox",
-        "Cal_5_56x45mm_Ammobox",
-        "Cal_5_56x45mm_Ammobox",
-        "Cal_5_56x45mm_Ammobox",
-        "Cal_5_56x45mm_Ammobox",
-        "Cal_5_56x45mm_Ammobox",
-        "Magazine_VHS2",
-        "Magazine_VHS2"
+		"Bamboo_Hat_02",
+		"Tang_shirt_04",
+		"Tang_pants_04",
+		"Beijing_Shoes_04",
+		"Hand_Fan_01",
+		"Wushu_Spear_Metal",
+		"Grinding_Stone_02"
 	],
 	"InitialDamage": 0,
 	"RandomDamage": 0,

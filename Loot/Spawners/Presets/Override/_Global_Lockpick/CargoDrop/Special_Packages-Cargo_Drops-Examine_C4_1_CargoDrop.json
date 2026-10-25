@@ -1,6 +1,9 @@
 {
 	"FixedItems": [
-		"C4_CircuitBoard"
+		"C4_CircuitBoard",
+		"C4_Detonator",
+		"C4_Keypad",
+		"C4_Pack"
 	],
 	"InitialDamage": 0,
 	"RandomDamage": 0,

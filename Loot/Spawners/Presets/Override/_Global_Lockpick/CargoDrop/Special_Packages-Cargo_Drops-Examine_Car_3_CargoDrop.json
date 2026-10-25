@@ -1,13 +1,10 @@
 {
-    "Remark": "Replace Drop With Red Chinese Swordman",
+    "Remark": "Replace Drop With Blue Tang Dao Qipao",
 	"FixedItems": [
-		"Bamboo_Hat_01",
-		"Tang_shirt_03",
-		"Tang_pants_03",
-		"Beijing_Shoes_03",
-		"Hand_Fan_01",
-		"2H_Tang_Dao_Damascus",
-		"Grinding_Stone_02"
+		"Qipao_Dress_05",
+		"HH_Wedge_Heels_01_05",
+		"Bamboo_Hat_02",
+		"2H_Tang_Dao_Black_Dragon"
 	],
 	"InitialDamage": 0,
 	"RandomDamage": 0,

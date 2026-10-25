@@ -1,11 +1,10 @@
 {
-    "Remark": "Replace Drop With RPG",
+    "Remark": "Replace Drop With Black ZhanMaDao Qipao",
 	"FixedItems": [
-		"Weapon_RPG7",
-        "Cal_40_PG-7M",
-        "Cal_40_PG-7M",
-        "Cal_40_PG-7M",
-        "Cal_40_PG-7M"
+		"Qipao_Dress_04",
+		"HH_Wedge_Heels_01_04",
+		"Bamboo_Hat_02",
+		"2H_ZhanMaDao_Sword"
 	],
 	"InitialDamage": 0,
 	"RandomDamage": 0,

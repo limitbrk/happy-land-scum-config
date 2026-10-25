@@ -1,6 +1,10 @@
 {
+	"Remark": "Replace Drop With Green Bow Qipao",
 	"FixedItems": [
-		"C4_Pack"
+		"Qipao_Dress_03",
+		"HH_Wedge_Heels_01_03",
+		"Bamboo_Hat_01",
+		"Manchu_Bow_50"
 	],
 	"InitialDamage": 0,
 	"RandomDamage": 0,

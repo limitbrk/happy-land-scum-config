@@ -1,6 +1,10 @@
 {
+	"Remark": "Replace Drop With Red Kunai Qipao",
 	"FixedItems": [
-		"C4_Detonator"
+		"Qipao_Dress_01",
+		"HH_Wedge_Heels_01_01",
+		"Bamboo_Hat_01",
+		"1H_Kunai"
 	],
 	"InitialDamage": 0,
 	"RandomDamage": 0,
