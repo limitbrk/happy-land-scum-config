@@ -41,6 +41,7 @@
 	"RandomStack": 0,
 	"PostSpawnActions": [
 		"KillboxKeycard_Sentry",
-		"SetAmmoAmount_BigStash"
+		"SetAmmoAmount_BigStash",
+		"ApexKeycard_Sentry"
 	]
 }

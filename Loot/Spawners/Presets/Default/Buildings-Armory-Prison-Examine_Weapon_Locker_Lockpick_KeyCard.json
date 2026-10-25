@@ -23,6 +23,7 @@
 	"InitialStack": 0,
 	"RandomStack": 0,
 	"PostSpawnActions": [
-		"KillboxKeycard_Police"
+		"KillboxKeycard_Police",
+		"ApexKeycard_Police"
 	]
 }

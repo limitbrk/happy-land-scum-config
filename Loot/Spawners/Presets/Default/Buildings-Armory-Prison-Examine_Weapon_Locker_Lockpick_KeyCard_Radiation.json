@@ -23,6 +23,7 @@
 	"InitialStack": 0,
 	"RandomStack": 0,
 	"PostSpawnActions": [
-		"KillboxKeycard_Radiation"
+		"KillboxKeycard_Radiation",
+		"ApexKeycard_Radiation"
 	]
 }

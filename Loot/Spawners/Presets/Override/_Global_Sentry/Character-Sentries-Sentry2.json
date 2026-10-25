@@ -34,6 +34,7 @@
 	"InitialStack": 0,
 	"RandomStack": 0,
 	"PostSpawnActions": [
-		"KillboxKeycard_Sentry"
+		"KillboxKeycard_Sentry",
+		"ApexKeycard_Sentry"
 	]
 }

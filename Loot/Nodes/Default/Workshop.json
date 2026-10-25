@@ -173,6 +173,10 @@
 					"Rarity": "VeryRare",
 					"Children": [
 						{
+							"Name": "Angler_Waders_02",
+							"Rarity": "Uncommon"
+						},
+						{
 							"Name": "Baits",
 							"Rarity": "Rare",
 							"Children": [

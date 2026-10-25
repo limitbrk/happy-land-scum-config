@@ -1157,7 +1157,7 @@
 					]
 				},
 				{
-					"Name": "Items",
+					"Name": "items",
 					"Rarity": "Uncommon",
 					"Children": [
 						{

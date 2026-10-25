@@ -12,10 +12,10 @@
 		"prices-subject-to-delta": "1",
 		"prices-subject-to-player-count": "0",
 		"gold-price-subject-to-global-multiplier": "1",
-		"gold-base-price": "10000",
+		"gold-base-price": "100000",
 		"gold-sale-price-modifier": "0.5",
 		"gold-price-change-percentage-step": "20.0",
-		"gold-price-change-per-step": "1000.0",
+		"gold-price-change-per-step": "10000.0",
 		"economy-logging": "1",
 		"traders-unlimited-funds": "0",
 		"traders-unlimited-stock": "1",
@@ -729,6 +729,42 @@
 				},
 				{
 					"tradeable-code": "Weapon_AWP_Snake",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wushu_Spear_Metal",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wushu_Spear_Wooden",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "2H_ZhanMaDao_Sword",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "1H_Kunai",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1.0",
@@ -1981,6 +2017,267 @@
 					"available-after-sale-only": "default"
 				},
 				{
+					"tradeable-code": "Tang_shirt_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_shirt_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_shirt_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_shirt_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_shirt_05",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_05",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Bamboo_Hat_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Bamboo_Hat_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Double_Bang_Firecracker",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Beijing_Shoes_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Beijing_Shoes_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Beijing_Shoes_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Beijing_Shoes_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_05",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_06",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_05",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_06",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
 					"tradeable-code": "Cigarettes",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
@@ -2722,6 +3019,42 @@
 				},
 				{
 					"tradeable-code": "Weapon_AWP_Snake",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wushu_Spear_Metal",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wushu_Spear_Wooden",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "2H_ZhanMaDao_Sword",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "1H_Kunai",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1.0",
@@ -3974,6 +4307,267 @@
 					"available-after-sale-only": "default"
 				},
 				{
+					"tradeable-code": "Tang_shirt_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_shirt_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_shirt_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_shirt_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_shirt_05",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_05",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Bamboo_Hat_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Bamboo_Hat_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Double_Bang_Firecracker",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Beijing_Shoes_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Beijing_Shoes_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Beijing_Shoes_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Beijing_Shoes_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_05",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_06",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_05",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_06",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
 					"tradeable-code": "Cigarettes",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
@@ -4715,6 +5309,42 @@
 				},
 				{
 					"tradeable-code": "Weapon_AWP_Snake",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wushu_Spear_Metal",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wushu_Spear_Wooden",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "2H_ZhanMaDao_Sword",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "1H_Kunai",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1.0",
@@ -5967,6 +6597,267 @@
 					"available-after-sale-only": "default"
 				},
 				{
+					"tradeable-code": "Tang_shirt_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_shirt_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_shirt_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_shirt_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_shirt_05",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_05",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Bamboo_Hat_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Bamboo_Hat_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Double_Bang_Firecracker",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Beijing_Shoes_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Beijing_Shoes_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Beijing_Shoes_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Beijing_Shoes_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_05",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_06",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_05",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_06",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
 					"tradeable-code": "Cigarettes",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
@@ -6708,6 +7599,42 @@
 				},
 				{
 					"tradeable-code": "Weapon_AWP_Snake",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wushu_Spear_Metal",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Wushu_Spear_Wooden",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "2H_ZhanMaDao_Sword",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "1H_Kunai",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1.0",
@@ -7960,6 +8887,267 @@
 					"available-after-sale-only": "default"
 				},
 				{
+					"tradeable-code": "Tang_shirt_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_shirt_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_shirt_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_shirt_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_shirt_05",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Tang_pants_05",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Bamboo_Hat_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Bamboo_Hat_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Double_Bang_Firecracker",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Beijing_Shoes_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Beijing_Shoes_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Beijing_Shoes_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Beijing_Shoes_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_05",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Qipao_Dress_06",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_01",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_02",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_03",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_04",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_05",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "HH_Wedge_Heels_01_06",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
 					"tradeable-code": "Cigarettes",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
@@ -8149,6 +9337,15 @@
 					"can-be-purchased": "false",
 					"required-famepoints": "-1",
 					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Manchu_Bow_50",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
 				}
 			],
 			"A_0_Master_Hunter": [
@@ -8298,6 +9495,15 @@
 				},
 				{
 					"tradeable-code": "Weapon_DT11B_Sawed_Off",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Manchu_Bow_50",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1.0",
@@ -8459,6 +9665,15 @@
 					"can-be-purchased": "false",
 					"required-famepoints": "-1",
 					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Manchu_Bow_50",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
 				}
 			],
 			"B_4_Master_Hunter": [
@@ -8608,6 +9823,15 @@
 				},
 				{
 					"tradeable-code": "Weapon_DT11B_Sawed_Off",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Manchu_Bow_50",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1.0",
@@ -8769,6 +9993,15 @@
 					"can-be-purchased": "false",
 					"required-famepoints": "-1",
 					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Manchu_Bow_50",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
 				}
 			],
 			"C_2_Master_Hunter": [
@@ -8918,6 +10151,15 @@
 				},
 				{
 					"tradeable-code": "Weapon_DT11B_Sawed_Off",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Manchu_Bow_50",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1.0",
@@ -9079,6 +10321,15 @@
 					"can-be-purchased": "false",
 					"required-famepoints": "-1",
 					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Manchu_Bow_50",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
 				}
 			],
 			"Z_3_Master_Hunter": [
@@ -9228,6 +10479,15 @@
 				},
 				{
 					"tradeable-code": "Weapon_DT11B_Sawed_Off",
+					"base-purchase-price": "-1",
+					"base-sell-price": "-1",
+					"delta-price": "1.0",
+					"can-be-purchased": "false",
+					"required-famepoints": "-1",
+					"available-after-sale-only": "default"
+				},
+				{
+					"tradeable-code": "Manchu_Bow_50",
 					"base-purchase-price": "-1",
 					"base-sell-price": "-1",
 					"delta-price": "1.0",

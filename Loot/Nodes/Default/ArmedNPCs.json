@@ -68,7 +68,7 @@
 									]
 								},
 								{
-									"Name": "Items",
+									"Name": "items",
 									"Rarity": "Common",
 									"Children": [
 										{
@@ -466,7 +466,7 @@
 									]
 								},
 								{
-									"Name": "Items",
+									"Name": "items",
 									"Rarity": "Common",
 									"Children": [
 										{
@@ -1070,7 +1070,7 @@
 									]
 								},
 								{
-									"Name": "Items",
+									"Name": "items",
 									"Rarity": "Common",
 									"Children": [
 										{
@@ -1833,7 +1833,7 @@
 									]
 								},
 								{
-									"Name": "Items",
+									"Name": "items",
 									"Rarity": "Common",
 									"Children": [
 										{
@@ -2615,7 +2615,7 @@
 									]
 								},
 								{
-									"Name": "Items",
+									"Name": "items",
 									"Rarity": "Common",
 									"Children": [
 										{

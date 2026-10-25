@@ -22,6 +22,7 @@
 	"InitialStack": 0,
 	"RandomStack": 0,
 	"PostSpawnActions": [
-		"KillboxKeycard_Cargo"
+		"KillboxKeycard_Cargo",
+		"ApexKeycard_Cargo"
 	]
 }

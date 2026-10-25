@@ -479,7 +479,7 @@
 					]
 				},
 				{
-					"Name": "Items",
+					"Name": "items",
 					"Rarity": "Abundant",
 					"Children": [
 						{

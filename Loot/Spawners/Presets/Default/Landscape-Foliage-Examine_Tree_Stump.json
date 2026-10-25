@@ -7,6 +7,10 @@
 		{
 			"Rarity": "Uncommon",
 			"Id": "Grasshopper"
+		},
+		{
+			"Rarity": "Rare",
+			"Id": "Cricket"
 		}
 	],
 	"Probability": 25,

@@ -225,7 +225,7 @@
 					]
 				},
 				{
-					"Name": "Items",
+					"Name": "items",
 					"Rarity": "Common",
 					"Children": [
 						{

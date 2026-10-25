@@ -14,7 +14,7 @@
 					"Rarity": "Uncommon",
 					"Children": [
 						{
-							"Name": "Items",
+							"Name": "items",
 							"Rarity": "Uncommon",
 							"Children": [
 								{
@@ -134,7 +134,7 @@
 					"Rarity": "Common",
 					"Children": [
 						{
-							"Name": "Items",
+							"Name": "items",
 							"Rarity": "Rare",
 							"Children": [
 								{
@@ -586,7 +586,7 @@
 							]
 						},
 						{
-							"Name": "Items",
+							"Name": "items",
 							"Rarity": "Uncommon",
 							"Children": [
 								{
@@ -898,7 +898,7 @@
 							]
 						},
 						{
-							"Name": "Items",
+							"Name": "items",
 							"Rarity": "Uncommon",
 							"Children": [
 								{
