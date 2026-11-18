@@ -1,6 +1,44 @@
 {
 	"Parameters": [
 		{
+			"Id": "05_Teeth_Necklace",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverride": 0,
+			"ShouldOverrideInitialAndRandomStack": false,
+			"InitialStackOverride": 0,
+			"RandomStackOverride": 0
+		},
+		{
+			"Id": "10_Teeth_Necklace",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverride": 0,
+			"ShouldOverrideInitialAndRandomStack": false,
+			"InitialStackOverride": 0,
+			"RandomStackOverride": 0
+		},
+		{
 			"Id": "12_Gauge_Birdshot",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
@@ -97,6 +135,25 @@
 		},
 		{
 			"Id": "12_Gauge_Slug_Ammobox",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverride": 0,
+			"ShouldOverrideInitialAndRandomStack": false,
+			"InitialStackOverride": 0,
+			"RandomStackOverride": 0
+		},
+		{
+			"Id": "15_Teeth_Necklace",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -674,6 +731,25 @@
 			"RandomStackOverride": 0
 		},
 		{
+			"Id": "2_pieces_Ear_Necklace",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverride": 0,
+			"ShouldOverrideInitialAndRandomStack": false,
+			"InitialStackOverride": 0,
+			"RandomStackOverride": 0
+		},
+		{
 			"Id": "2H_Axe",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
@@ -946,6 +1022,44 @@
 		},
 		{
 			"Id": "2H_ZhanMaDao_Sword",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverride": 0,
+			"ShouldOverrideInitialAndRandomStack": false,
+			"InitialStackOverride": 0,
+			"RandomStackOverride": 0
+		},
+		{
+			"Id": "4_pieces_Ear_Necklace",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverride": 0,
+			"ShouldOverrideInitialAndRandomStack": false,
+			"InitialStackOverride": 0,
+			"RandomStackOverride": 0
+		},
+		{
+			"Id": "6_pieces_Ear_Necklace",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -9607,6 +9721,25 @@
 			"RandomStackOverride": 0
 		},
 		{
+			"Id": "Horse_Head",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverride": 0,
+			"ShouldOverrideInitialAndRandomStack": false,
+			"InitialStackOverride": 0,
+			"RandomStackOverride": 0
+		},
+		{
 			"Id": "Hose",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
@@ -9646,6 +9779,44 @@
 		},
 		{
 			"Id": "Hospital_Shirt_01",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverride": 0,
+			"ShouldOverrideInitialAndRandomStack": false,
+			"InitialStackOverride": 0,
+			"RandomStackOverride": 0
+		},
+		{
+			"Id": "Human_guts",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverride": 0,
+			"ShouldOverrideInitialAndRandomStack": false,
+			"InitialStackOverride": 0,
+			"RandomStackOverride": 0
+		},
+		{
+			"Id": "Human_Skin",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -14542,6 +14713,44 @@
 			"RandomStackOverride": 0
 		},
 		{
+			"Id": "Prisoner_Left_Foot",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverride": 0,
+			"ShouldOverrideInitialAndRandomStack": false,
+			"InitialStackOverride": 0,
+			"RandomStackOverride": 0
+		},
+		{
+			"Id": "Prisoner_Right_Foot",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverride": 0,
+			"ShouldOverrideInitialAndRandomStack": false,
+			"InitialStackOverride": 0,
+			"RandomStackOverride": 0
+		},
+		{
 			"Id": "PromTrap",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
@@ -16043,6 +16252,25 @@
 		},
 		{
 			"Id": "Saw",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverride": 0,
+			"ShouldOverrideInitialAndRandomStack": false,
+			"InitialStackOverride": 0,
+			"RandomStackOverride": 0
+		},
+		{
+			"Id": "Scary_Mask_01",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",
@@ -21949,6 +22177,25 @@
 		},
 		{
 			"Id": "Yeast",
+			"IsDisabledForSpawning": false,
+			"AllowedLocations": [
+				"Coastal",
+				"Continental",
+				"Mountain"
+			],
+			"CooldownPerSquadMemberMin": 0,
+			"CooldownPerSquadMemberMax": 0,
+			"CooldownGroup": "",
+			"Variations": [],
+			"ShouldOverrideInitialAndRandomUsage": false,
+			"InitialUsageOverride": 0,
+			"RandomUsageOverride": 0,
+			"ShouldOverrideInitialAndRandomStack": false,
+			"InitialStackOverride": 0,
+			"RandomStackOverride": 0
+		},
+		{
+			"Id": "Zombie_guts",
 			"IsDisabledForSpawning": false,
 			"AllowedLocations": [
 				"Coastal",

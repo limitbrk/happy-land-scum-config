@@ -1,0 +1,292 @@
+{
+	"Name": "ItemLootTreeNodes",
+	"Rarity": "Uncommon",
+	"Children": [
+		{
+			"Name": "HalloweenGraveyard",
+			"Rarity": "Uncommon",
+			"Children": [
+				{
+					"Name": "BodyCover",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "05_Teeth_Necklace",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "10_Teeth_Necklace",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "15_Teeth_Necklace",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "1H_Beam_Dildo",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "1H_Dildo",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "2_pieces_Ear_Necklace",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "4_pieces_Ear_Necklace",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "6_pieces_Ear_Necklace",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Banjo",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Bone",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Chainsaw",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Cigarettes",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Cigarettes1",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Double_Bang_Firecracker",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Earthworm",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Harmonica",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Horse_Head",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Human_guts",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Human_Skin",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Larve",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Prisoner_Left_Foot",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Prisoner_Right_Foot",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Psilocybe_Cyanescens",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Strait_Jacket",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Tequila",
+							"Rarity": "Uncommon"
+						}
+					]
+				},
+				{
+					"Name": "Crypt",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "World",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "1H_Cleaver",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Energy_Drink_Red_Ghoul",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Halloween_Anonymous_Mask_01",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Halloween_Mask_BabyDoll_02",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Halloween_Mask_Clown_03",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Halloween_Mask_Greek",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Halloween_Mask_Hockey_04",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Halloween_Mask_JohnDoe_05",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Halloween_Mask_Knife",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Halloween_Mask_Lecter_06",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Halloween_Mask_Plague_07",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Halloween_Mask_Scream",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Halloween_Mask_Smiley_08",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Halloween_Mask_Wooden_09",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Pirate_EyePatch",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Pirate_Hat_01",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Pirate_Hat_Sparrow_02",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Rabbit_Mask_01",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Scary_Mask_01",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Scum_Sunrise",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "SCUMkin_Spice_Latte",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Slav_Reviver",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Slavic_Gent",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "The_Island_Special",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Tyrone_Shoelacez_Mask",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Zombie_guts",
+									"Rarity": "Uncommon"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "Pumpkins",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Absinthe",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Candy_Bob",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "ChocolateCandy_10",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "ChocolateCandy_11",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "ChocolateCandy_01",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "ChocolateCandy_03",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "ChocolateCandy_04",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "ChocolateCandy_05",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "ChocolateCandy_06",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "ChocolateCandy_07",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "ChocolateCandy_08",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "ChocolateCandy_09",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Pumpkin_Seeds",
+							"Rarity": "Uncommon"
+						}
+					]
+				}
+			]
+		}
+	]
+}

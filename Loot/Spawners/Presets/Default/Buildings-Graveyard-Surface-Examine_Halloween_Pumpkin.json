@@ -1,0 +1,29 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.HalloweenGraveyard.Pumpkins"
+			]
+		}
+	],
+	"Items": [
+		{
+			"Rarity": "Uncommon",
+			"Id": "Pumpkin_Seeds"
+		}
+	],
+	"Probability": 10,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"ShouldApplyLocationSpecificProbabilityModifier": false,
+	"ShouldApplyLocationSpecificDamageModifier": false,
+	"InitialDamage": 10,
+	"RandomDamage": 40,
+	"InitialUsage": 0,
+	"RandomUsage": 20,
+	"InitialStack": 0,
+	"RandomStack": 0
+}
